@@ -20,7 +20,7 @@ from pathlib import Path
 IMG = ('.jpg', '.jpeg', '.png', '.webp')
 VID = ('.mp4', '.mov', '.webm', '.mkv', '.m4v')
 W, H, FPS = 1920, 1080, 30
-GRADO = "eq=contrast=1.08:saturation=1.12,colorbalance=rs=0.06:gs=0.02:bs=-0.07:rm=0.04:bm=-0.04,vignette=PI/5"
+GRADO = "eq=contrast=1.08:saturation=1.12:gamma_r=1.05:gamma_b=0.9,vignette=PI/5"
 
 
 def ffmpeg_bin():
