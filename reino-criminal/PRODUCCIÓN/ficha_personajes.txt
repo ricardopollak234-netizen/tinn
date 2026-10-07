@@ -1,0 +1,34 @@
+FICHA DE PERSONAJES — descripción fija usada en todos los prompts (no usar nombres reales en G-Labs)
+
+El Mayo (2024-2026):
+  a heavyset Mexican man in his late seventies with thinning white hair, a thick gray mustache, a deeply lined tanned face and tired dark eyes
+
+El Mayo (hacia 2010):
+  a stocky Mexican man in his sixties with graying hair, a gray mustache, a cowboy hat and a plain checked western shirt
+
+El Mayo (años 70-80):
+  a stocky young Mexican man in his late twenties with thick black hair, a black mustache, a straw cowboy hat and a 1970s western shirt
+
+Mayito Flaco:
+  a tall slim Mexican man in his early forties with short chestnut-brown hair, a trimmed dark beard and brown eyes, wearing a dark cap and plain dark clothes
+
+Joaquín Guzmán López:
+  a stocky Mexican man in his late thirties with short dark hair and a short dark beard
+
+Ovidio Guzmán López:
+  a Mexican man in his early thirties with short black hair and a full black beard
+
+Iván Archivaldo Guzmán:
+  a Mexican man in his early forties with short black hair, a dark beard and dark sunglasses
+
+Vicentillo:
+  a Mexican man in his thirties with short black hair and a neat goatee
+
+Héctor Melesio Cuén:
+  a gray-haired Mexican politician in his sixties wearing a dark suit
+
+Rubén Rocha Moya:
+  an elderly Mexican governor with white hair and glasses, wearing a dark suit
+
+Juez Brian Cogan:
+  a white-haired American federal judge in a black robe
