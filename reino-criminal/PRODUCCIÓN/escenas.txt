@@ -1,13 +1,13 @@
 001 | ~3 s | NARRACIÓN: El 25 de julio de 2024, por la tarde,
-FUENTE [STK + CLIP]: buscar: "small plane landing desert runway" → pexels.com/videos / pixabay.com/videos
+FUENTE [GOB + CLIP]: CLIP: King Air de CBP en vuelo (mismo modelo de avión) — toma en vuelo → https://www.dvidshub.net/video/1010409/amo-takes-flight-conduct-long-range-maritime-surveillance-mea-aircraft
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of a small 1970s twin-engine turboprop plane descending over the Chihuahuan desert toward a lonely airstrip near the New Mexico border, dry mountains in the distance, July 2024, harsh late-afternoon desert sunlight, heat haze, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 002 | ~5 s | NARRACIÓN: un avión bimotor de hélices aterrizó en un pequeño aeropuerto del desierto de Nuevo México,
-FUENTE [COM]: Beechcraft King Air (el mismo modelo de avión) — Beechcraft King Air landing → commons.wikimedia.org → Category:Beechcraft King Air
+FUENTE [STK + CLIP]: CLIP: avión de hélice aterrizando → https://www.pexels.com/video/propeller-plane-landing-10406882/  |  https://www.pexels.com/video/plane-landing-on-runway-10453307/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of a white 1976 Beechcraft King Air turboprop touching down on a sunbaked runway at a small New Mexico desert airport, propellers spinning, dust and heat haze, harsh late-afternoon desert sunlight, heat haze, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 003 | ~7 s | NARRACIÓN: a pocos kilómetros de la frontera con Ciudad Juárez y El Paso. Era un Beechcraft King Air fabricado en 1976.
-FUENTE [GOB + CLIP]: Frontera y garitas (Santa Teresa, El Paso, San Ysidro, Nogales, Calexico) — border fence Santa Teresa / El Paso → flickr.com/photos/cbpphotos (fotos de CBP) / cbp.gov / dvidshub.net
+FUENTE [GOB + CLIP]: CLIP: muro fronterizo de Santa Teresa, Nuevo México → https://www.dvidshub.net/video/593975/b-roll-santa-teresa-border-wall-replacement-project-first-panels  (fotos: https://www.dvidshub.net/feature/cbpsantateresa)
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of the US-Mexico border near Santa Teresa New Mexico, a tall steel border fence cutting through the desert, the city of Ciudad Juárez sprawling on the Mexican side, harsh late-afternoon desert sunlight, heat haze, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 004 | ~7 s | NARRACIÓN: Nada en él llamaba la atención. Pero dentro viajaban dos hombres que el gobierno de Estados Unidos llevaba décadas buscando.
@@ -23,7 +23,7 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Cinematic medium shot of a heavyset Mexican man in his late seventies with thinning white hair, a thick gray mustache, a deeply lined tanned face and tired dark eyes, slumped and exhausted in a worn leather plane seat, wrists bound with plastic zip ties, harsh late-afternoon desert sunlight, heat haze, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 007 | ~6 s | NARRACIÓN: al que muchos consideraban el narcotraficante más escurridizo de la historia de México: Ismael Zambada García, el Mayo.
-FUENTE [COM + CLIP]: Sierra Madre Occidental / sierra de Sinaloa — Sierra Madre Occidental Sinaloa → commons.wikimedia.org → 'Sierra Madre Occidental', 'Sinaloa' / Pexels (clip de dron)
+FUENTE [STK + CLIP]: CLIP: montañas con niebla al amanecer → https://www.pexels.com/video/dramatic-foggy-mountain-landscape-at-dawn-35574242/  |  https://www.pexels.com/video/foggy-mountain-854292/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Moody silhouette shot of a heavyset elderly man in a cowboy hat standing alone on a ridge of the Sinaloa Sierra Madre, misty mountains below, a legend never caught, harsh late-afternoon desert sunlight, heat haze, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 008 | ~5 s | NARRACIÓN: Un hombre que en más de cincuenta años en el negocio nunca había pisado una cárcel.
@@ -59,7 +59,7 @@ FUENTE [GOB]: Foto de Joaquín Guzmán López — otro encuadre → https://www.
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of a stocky Mexican man in his late thirties with short dark hair and a short dark beard standing in the doorway of a ranch house, looking back over his shoulder with a cold expression, harsh late-afternoon desert sunlight, heat haze, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 016 | ~6 s | NARRACIÓN: Pero esa traición no terminó en aquella pista de aterrizaje. Seis semanas después, Culiacán amaneció en guerra.
-FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — panorámica de la ciudad → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
+FUENTE [STK + CLIP]: buscar: "panorámica" → https://www.pexels.com/es-es/buscar/videos/culiacan/  |  fotos libres: https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of the skyline of Culiacán, Sinaloa at dawn with columns of black smoke rising from several neighborhoods, empty avenues, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 017 | ~7 s | NARRACIÓN: Y en medio del humo apareció un nombre que hasta entonces casi nadie pronunciaba en voz alta: Ismael Zambada Sicairos.
@@ -79,7 +79,7 @@ FUENTE [COM]: Fotos de archivo del México rural (años 40-50) — Mexican rural
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of a faded 1950s family photograph of a humble Sinaloa ranch family posing in front of an adobe house, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 021 | ~4 s | NARRACIÓN: Y para entender a su padre hay que subir a la sierra.
-FUENTE [STK + CLIP]: buscar: "drone mountains Mexico Sierra Madre" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: CLIP: dron sobre montañas boscosas → https://www.pexels.com/video/drone-flying-over-the-mountain-peak-4763824/  |  https://www.pexels.com/video/drone-footage-of-forested-mountain-landscape-37568663/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of the vast green Sierra Madre Occidental mountains of Sinaloa, a winding dirt road disappearing into the peaks, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 022 | ~7 s | NARRACIÓN: Ismael Mario Zambada García nació el 1 de enero de 1948 en El Álamo, una pequeña localidad del municipio de Culiacán,
@@ -95,11 +95,11 @@ FUENTE [STK]: buscar: "hands corn cobs" → pexels.com / pixabay.com / unsplash.
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of weathered peasant hands holding dry corn cobs and beans over a woven basket, 1950s, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 025 | ~5 s | NARRACIÓN: En esas mismas montañas, desde hacía décadas, se cultivaban también la amapola y la marihuana.
-FUENTE [COM]: Campos de amapola y erradicación (ilustrativo) → commons.wikimedia.org → 'Opium poppy field' (muchas de dominio público de fuerzas de EE. UU.)
+FUENTE [GOB]: Foto: campo de amapola (ilustrativo) → https://www.dvidshub.net/image/567445/opium-poppy-plants-afghanistan
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a hidden field of red poppy flowers on a steep mountainside of the Sierra Madre, 1960s, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 026 | ~6 s | NARRACIÓN: Para muchos jóvenes de la región, ese otro cultivo no era un secreto. Era parte del paisaje.
-FUENTE [COM]: Campos de amapola y erradicación (ilustrativo) — campesinos en campo de amapola → commons.wikimedia.org → 'Opium poppy field' (muchas de dominio público de fuerzas de EE. UU.)
+FUENTE [STK + CLIP]: CLIP: campo de amapolas → https://pixabay.com/videos/flowers-poppies-poppy-field-field-216406/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of young campesinos in straw hats working among poppy and marijuana plants on a terraced mountain slope, 1960s, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 027 | ~5 s | NARRACIÓN: Según los perfiles publicados por la prensa mexicana y por organizaciones que estudian el crimen organizado,
@@ -111,7 +111,7 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Dramatic close-up portrait of a stocky young Mexican man in his late twenties with thick black hair, a black mustache, a straw cowboy hat and a 1970s western shirt, serious watchful gaze, 1970s, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 029 | ~5 s | NARRACIÓN: En esos años, el negocio en el Pacífico mexicano giraba en torno a una figura:
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — rutas del Pacífico años 70 → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — rutas del Pacífico años 70 → LISTO: medios/029.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of Mexico's Pacific coast in the 1970s with glowing amber routes running from the Sinaloa mountains north to the US border, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 030 | ~6 s | NARRACIÓN: Miguel Ángel Félix Gallardo, conocido como el Padrino, el hombre que organizó a los traficantes sinaloenses en una red
@@ -143,7 +143,7 @@ FUENTE [STK]: buscar: "old documents birth certificate" → pexels.com / pixabay
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of an old birth certificate and a faded photo of a young Mexican woman from the early 1980s lying on a dark desk, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 037 | ~6 s | NARRACIÓN: Durante años se dio por hecho que aquel niño había nacido en Sinaloa, como el resto de la familia.
-FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — fotos históricas si las hay → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
+FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — fotos históricas si las hay → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales | fotos libres: https://commons.wikimedia.org/wiki/File:Puente,_Centro_Culiacan,_Sinaloa_(16639742056).jpg , https://commons.wikimedia.org/wiki/File:Culiacan_bridge2019.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a 1980s Culiacán street with old American cars, colonial-style buildings and palm trees, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 038 | ~6 s | NARRACIÓN: Pero en septiembre de 2026, al actualizar su expediente, el gobierno de Estados Unidos reveló un dato sorprendente:
@@ -179,11 +179,11 @@ FUENTE [GOB]: Ficha de búsqueda y foto del Mayito Flaco — en pantalla dividid
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Dramatic close-up portrait of split portrait: on the left a heavyset young Mexican man, on the right a tall slim young Mexican man with a trimmed beard, both serious, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 046 | ~5 s | NARRACIÓN: Mientras el niño crecía, su padre construía uno de los imperios criminales más duraderos del continente.
-FUENTE [STK + CLIP]: buscar: "drone ranch mountains" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: buscar: "segundo clip" → https://www.pexels.com/video/drone-flying-over-the-mountain-peak-4763824/  |  https://www.pexels.com/video/drone-footage-of-forested-mountain-landscape-37568663/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of a sprawling hidden ranch compound in the Sinaloa mountains with pickup trucks, stables and a dirt airstrip, 1990s, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 047 | ~7 s | NARRACIÓN: Para entender por qué la entrega del Mayo desató una guerra, primero hay que entender qué era el Cártel de Sinaloa.
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Sinaloa y Culiacán → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Sinaloa y Culiacán → LISTO: medios/047.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of Sinaloa state with Culiacán and the mountain regions glowing in amber, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 048 | ~6 s | NARRACIÓN: Y sobre todo, qué no era. En abril de 1989, Miguel Ángel Félix Gallardo fue detenido en Guadalajara.
@@ -199,7 +199,7 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Cinematic medium shot of several groups of men in 1990s cowboy hats and leather jackets standing apart in a dark warehouse, distrustful, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 051 | ~5 s | NARRACIÓN: los Arellano Félix en Tijuana, los Carrillo Fuentes en Ciudad Juárez y, en Sinaloa,
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Tijuana, Ciudad Juárez, Sinaloa → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Tijuana, Ciudad Juárez, Sinaloa → LISTO: medios/051.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of northern Mexico with three glowing territories marked at Tijuana, Ciudad Juárez and Sinaloa, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 052 | ~6 s | NARRACIÓN: una alianza que con el tiempo sería la más poderosa de todas. Al frente de ella aparecían varios nombres.
@@ -215,7 +215,7 @@ FUENTE [STK]: buscar: "branding irons" → pexels.com / pixabay.com / unsplash.c
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of several different ranch branding irons laid out on a weathered wooden table, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 055 | ~6 s | NARRACIÓN: un conjunto de grupos familiares y regionales, con sus propios jefes, sus propias rutas y sus propios ejércitos,
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — red de grupos en Sinaloa → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — red de grupos en Sinaloa → LISTO: medios/055.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of Sinaloa divided into many small glowing amber zones connected by thin lines like a network, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 056 | ~2 s | NARRACIÓN: que colaboraban entre sí porque les convenía.
@@ -239,7 +239,7 @@ FUENTE [COM]: Penal de Puente Grande / Altiplano (exterior) — Puente Grande �
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a maximum-security prison in Jalisco at night, searchlights sweeping over the walls, 2001, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 061 | ~8 s | NARRACIÓN: se volvió a fugar en 2015 por un túnel de más de un kilómetro y fue capturado de nuevo en enero de 2016.
-FUENTE [GOB]: Túnel de narcotráfico con rieles (ilustrativo, no es el túnel del Chapo) → cbp.gov / ice.gov comunicados de túneles en San Diego / Nogales
+FUENTE [GOB + CLIP]: CLIP: túnel de narcotráfico con rieles (ilustrativo) → https://www.dvidshub.net/video/736339/baja-metro-tunnel-longest-drug-tunnel-ever-discovered  |  https://www.dvidshub.net/video/843465/otay-mesa-drug-tunnel
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a narrow underground tunnel with rails and a modified motorcycle on tracks, dim bulbs stretching into the distance, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 062 | ~6 s | NARRACIÓN: En 2017 fue extraditado a Estados Unidos, y en 2019 un jurado de Nueva York lo declaró culpable.
@@ -251,11 +251,11 @@ FUENTE [GOB]: Prisión ADX Florence, Colorado → bop.gov → Locations → ADX 
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of a supermax prison in the Colorado high desert surrounded by fences, snow-capped mountains behind, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 064 | ~2 s | NARRACIÓN: Ni una sola vez en cinco décadas.
-FUENTE [STK + CLIP]: buscar: "man walking pine forest" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: CLIP: silueta de un hombre alejándose → https://www.pexels.com/video/silhouette-footage-of-a-person-walking-away-3052477/  |  https://www.pexels.com/video/silhouette-of-man-walking-4512205/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Moody silhouette shot of a heavyset man in a cowboy hat walking alone into a dense pine forest in the Sinaloa sierra, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 065 | ~7 s | NARRACIÓN: En 2010, el periodista Julio Scherer García, fundador de la revista Proceso, lo entrevistó en algún lugar de la sierra.
-FUENTE [STK + CLIP]: buscar: "pickup truck mountain dirt road" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: CLIP: camioneta por camino de tierra → https://www.pexels.com/video/truck-driving-on-dirt-road-4474926/  |  https://www.pexels.com/video/a-pickup-truck-is-travelling-on-a-desert-road-at-daytime-3573961/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic documentary recreation of an elderly white-haired Mexican journalist being driven in a pickup truck along a remote mountain road in Sinaloa, 2010, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 066 | ~6 s | NARRACIÓN: Fue un hecho histórico. En esa conversación, el Mayo describió la montaña como su casa, su familia, su protección.
@@ -291,7 +291,7 @@ FUENTE [STK]: buscar: "cracked old photograph" → pexels.com / pixabay.com / un
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a cracked old photograph of several men in cowboy hats, the crack splitting the group in two, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 074 | ~7 s | NARRACIÓN: En enero de 2008 fue detenido Alfredo Beltrán Leyva, uno de los hermanos que durante años habían sido aliados del Chapo.
-FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — operativo nocturno → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY)
+FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — operativo nocturno → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY) | DVIDS (dominio público): Ejército mexicano en entrenamiento https://www.dvidshub.net/video/839841/cbirf-marines-and-sedena-mexican-army-train-together , https://www.dvidshub.net/image/6410844/us-army-north-sedena-begin-exercise-fuerzas-amigas
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic documentary recreation of Mexican soldiers detaining a man at night on a Culiacán street, military trucks and flashlights, 2008, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 075 | ~6 s | NARRACIÓN: Sus hermanos culparon a Guzmán de haberlo entregado. Pocos meses después, en mayo de ese año, Édgar Guzmán López,
@@ -299,19 +299,19 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Cinematic medium shot of two angry Mexican men in their forties arguing in a dark room lit by a single hanging bulb, 2008, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 076 | ~4 s | NARRACIÓN: uno de los hijos del Chapo y hermano de Ovidio y Joaquín,
-FUENTE [STK]: buscar: "memorial candles" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: CLIP: velas encendidas en la oscuridad → https://www.pexels.com/video/video-of-a-burning-candles-6227239/  |  https://www.pexels.com/video/serene-candle-flame-flickering-in-darkness-29555838/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of a faded photograph of a young Mexican man in his early twenties, 2008, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 077 | ~4 s | NARRACIÓN: fue asesinado en el estacionamiento de un centro comercial de Culiacán.
-FUENTE [STK]: buscar: "police tape night parking lot" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: CLIP: cinta policial de noche → https://www.pexels.com/video/police-tape-at-crime-scene-10466486/  |  https://www.pexels.com/video/barricade-tape-at-crime-scene-10466489/  |  https://www.pexels.com/video/two-police-officers-looking-at-a-crime-scene-at-night-10480746/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a shopping mall parking lot in Culiacán at night with yellow police tape, flashing patrol lights and bullet casings on the asphalt, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 078 | ~6 s | NARRACIÓN: Aquella ruptura desató una guerra que dejó miles de muertos en Sinaloa y en buena parte del país.
-FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — convoy militar → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY)
+FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — convoy militar → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY) | DVIDS (dominio público): Ejército mexicano en entrenamiento https://www.dvidshub.net/video/839841/cbirf-marines-and-sedena-mexican-army-train-together , https://www.dvidshub.net/image/6410844/us-army-north-sedena-begin-exercise-fuerzas-amigas
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of a Mexican army convoy of armored trucks patrolling a Culiacán avenue, 2008, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 079 | ~3 s | NARRACIÓN: La lección quedó grabada en la memoria de todos:
-FUENTE [STK]: buscar: "woman lighting candles" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: buscar: "segundo clip" → https://www.pexels.com/video/video-of-a-burning-candles-6227239/  |  https://www.pexels.com/video/serene-candle-flame-flickering-in-darkness-29555838/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Dramatic close-up portrait of an elderly Sinaloa woman lighting candles at a roadside memorial cross, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 080 | ~5 s | NARRACIÓN: cuando dentro del cártel alguien entrega a alguien, la respuesta llega en forma de guerra.
@@ -323,11 +323,11 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Cinematic medium shot of young men in designer clothes inside a modern Culiacán mansion, faces in shadow, 2015, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 082 | ~6 s | NARRACIÓN: en los años siguientes su facción se convirtió en uno de los principales productores y traficantes de fentanilo,
-FUENTE [GOB]: Laboratorio clandestino desmantelado → dea.gov (comunicados con fotos) / dvidshub.net
+FUENTE [GOB + CLIP]: CLIP: matrices de prensas de pastillas decomisadas → https://www.dvidshub.net/video/900941/cbp-officers-jfk-seize-pill-press-die-sets-china
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic documentary recreation of a clandestine lab in a rural shed: men in gas masks and protective suits, plastic barrels and a pill press machine, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 083 | ~6 s | NARRACIÓN: el opioide sintético que ha causado decenas de miles de muertes por sobredosis cada año en Estados Unidos.
-FUENTE [GOB + CLIP]: Pastillas de fentanilo, prensas de pastillas, decomisos → dea.gov (campaña 'One Pill Can Kill' y comunicados) / dvidshub.net
+FUENTE [GOB + CLIP]: CLIP: decomiso de pastillas de fentanilo → https://www.dvidshub.net/video/917814/b-roll-fentanyl-seizure  |  https://www.dvidshub.net/video/893911/b-roll-fentanyl-seizures-san-ysidro-port-entry
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of blue counterfeit pills scattered on a stainless steel table next to a pill press, dusty golden-hour sunlight, nostalgic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 084 | ~3 s | NARRACIÓN: Eso los convirtió en el objetivo número uno de Washington.
@@ -359,7 +359,7 @@ FUENTE [STK]: buscar: "courtroom microphone" → pexels.com / pixabay.com / unsp
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Dramatic close-up portrait of a witness in profile speaking into a microphone in court, serious expression, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 091 | ~6 s | NARRACIÓN: Después vino Serafín Zambada Ortiz, detenido en noviembre de 2013 al cruzar la frontera en Nogales, Arizona.
-FUENTE [GOB + CLIP]: Frontera y garitas (Santa Teresa, El Paso, San Ysidro, Nogales, Calexico) — garita de Nogales → flickr.com/photos/cbpphotos (fotos de CBP) / cbp.gov / dvidshub.net
+FUENTE [GOB + CLIP]: CLIP: garita de Nogales → https://www.dvidshub.net/video/745667/b-roll-port-nogales-deconcini-crossing-operations-following-implemention-title-42-usc-265
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of the Nogales Arizona border crossing with cars waiting in line, 2013, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 092 | ~5 s | NARRACIÓN: Fue condenado a cinco años y medio de prisión y quedó en libertad en 2018.
@@ -367,7 +367,7 @@ FUENTE [STK]: buscar: "prison gate" → pexels.com / pixabay.com / unsplash.com
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a heavy prison gate opening onto a bright empty parking lot, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 093 | ~6 s | NARRACIÓN: Y en noviembre de 2014, el Ejército mexicano detuvo en Sinaloa a Ismael Zambada Imperial, el Mayito Gordo.
-FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — detención → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY)
+FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — detención → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY) | DVIDS (dominio público): Ejército mexicano en entrenamiento https://www.dvidshub.net/video/839841/cbirf-marines-and-sedena-mexican-army-train-together , https://www.dvidshub.net/image/6410844/us-army-north-sedena-begin-exercise-fuerzas-amigas
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic documentary recreation of Mexican army soldiers arresting a heavyset young man on a street in Culiacán, 2014, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 094 | ~7 s | NARRACIÓN: Fue extraditado a Estados Unidos en 2019, se declaró culpable de narcotráfico en 2021 y fue sentenciado a nueve años,
@@ -395,7 +395,7 @@ FUENTE [GOB]: Páginas reales de documentos judiciales (acusaciones, acuerdos de
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of a thick federal indictment binder with dozens of colored tabs on a prosecutor's desk, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 100 | ~4 s | NARRACIÓN: Los cargos: conspiración para importar y distribuir cocaína, metanfetamina y marihuana.
-FUENTE [GOB + CLIP]: Decomisos de cocaína y droga, descargas de la Guardia Costera → dvidshub.net → 'Coast Guard cocaine offload' / cbp.gov newsroom
+FUENTE [GOB + CLIP]: CLIP: la Guardia Costera descarga fardos de cocaína → https://www.dvidshub.net/video/990368/us-coast-guard-active-crew-offloads-203m-cocaine-san-diego  |  https://www.dvidshub.net/video/952446/coast-guard-offloads-more-than-275-million-worth-illegal-cocaine-san-diego
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of wrapped bricks of cocaine, bags of crystal methamphetamine and pressed marijuana bundles laid out on a seizure table, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 101 | ~3 s | NARRACIÓN: Y sin embargo, durante años, su perfil público fue mínimo.
@@ -431,7 +431,7 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Cinematic medium shot of a tall slim Mexican man in his early forties with short chestnut-brown hair, a trimmed dark beard and brown eyes, wearing a dark cap and plain dark clothes sitting at the end of a table in a ranch house, older men in cowboy hats listening to him, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 109 | ~5 s | NARRACIÓN: especialmente en la seguridad y en la operación de las células armadas leales a los Zambada.
-FUENTE [STK + CLIP]: buscar: "pickup trucks convoy dirt road" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: buscar: "segundo clip" → https://www.pexels.com/video/truck-driving-on-dirt-road-4474926/  |  https://www.pexels.com/video/a-pickup-truck-is-travelling-on-a-desert-road-at-daytime-3573961/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic documentary recreation of a convoy of black armored pickup trucks driving on a dusty road through the Sinaloa countryside at dusk, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 110 | ~5 s | NARRACIÓN: Hasta qué punto mandaba antes de 2024, y con qué autonomía, sigue siendo materia de debate.
@@ -463,7 +463,7 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Aerial drone view of Culiacán in October 2019 with several fires burning across the city and smoke drifting over the river, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 117 | ~6 s | NARRACIÓN: el Ejército volvió a detener a Ovidio en la comunidad de Jesús María. Esta vez no lo soltaron.
-FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — helicóptero militar → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY)
+FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — helicóptero militar → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY) | DVIDS (dominio público): Ejército mexicano en entrenamiento https://www.dvidshub.net/video/839841/cbirf-marines-and-sedena-mexican-army-train-together , https://www.dvidshub.net/image/6410844/us-army-north-sedena-begin-exercise-fuerzas-amigas
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic documentary recreation of Mexican army soldiers and a military helicopter in the small village of Jesús María, Sinaloa at dawn, January 2023, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 118 | ~4 s | NARRACIÓN: Los enfrentamientos de ese día dejaron veintinueve muertos, entre ellos diez militares.
@@ -495,15 +495,15 @@ FUENTE [COM]: Sala de una corte federal de EE. UU. (vacía) — estrado de testi
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of an empty witness stand in a wood-paneled US federal courtroom, a microphone and a glass of water, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 125 | ~7 s | NARRACIÓN: El modelo del Mayo se basaba en tres pilares, según han descrito fiscales, testigos y especialistas. El primero era el territorio.
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — los tres pilares → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — los tres pilares → LISTO: medios/125.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of Sinaloa with three glowing symbols: a mountain, a truck route and a handshake, connected by amber lines, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 126 | ~6 s | NARRACIÓN: Durante décadas, los Zambada controlaron zonas clave de Sinaloa, especialmente el centro y el sur de Culiacán,
-FUENTE [STK + CLIP]: buscar: "drone Culiacán farmland" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: buscar: "campos alrededor de la ciudad" → https://www.pexels.com/es-es/buscar/videos/culiacan/  |  fotos libres: https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of southern Culiacán neighborhoods and surrounding farmland at sunset, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 127 | ~5 s | NARRACIÓN: y la región serrana conocida como el Triángulo Dorado, donde se juntan Sinaloa, Durango y Chihuahua.
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Triángulo Dorado → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Triángulo Dorado → LISTO: medios/127.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of the Golden Triangle where Sinaloa, Durango and Chihuahua meet, rugged mountains glowing amber, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 128 | ~7 s | NARRACIÓN: Ahí se cultivaban la amapola y la marihuana. Ahí estaban las pistas clandestinas. Y ahí el Mayo construyó su refugio.
@@ -523,15 +523,15 @@ FUENTE [STK]: buscar: "truck logbook dashboard" → pexels.com / pixabay.com / u
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a weathered trucker's logbook and keys on the dashboard of a long-haul truck, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 132 | ~7 s | NARRACIÓN: Según la acusación federal en su contra, la organización movió durante décadas toneladas de cocaína desde Sudamérica, además de heroína, metanfetamina,
-FUENTE [GOB + CLIP]: Decomisos de cocaína y droga, descargas de la Guardia Costera — abordaje de la Guardia Costera → dvidshub.net → 'Coast Guard cocaine offload' / cbp.gov newsroom
+FUENTE [GOB + CLIP]: CLIP: persecución de una lancha rápida con droga en el Pacífico → https://www.dvidshub.net/video/989076/pursuit-suspected-go-fast-drug-vessel-eastern-pacific
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic documentary recreation of a fishing boat at night off the Pacific coast being loaded with wrapped packages from a speedboat, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 133 | ~6 s | NARRACIÓN: marihuana y, en los últimos años, fentanilo, hacia Estados Unidos. Por tierra, por mar y por aire.
-FUENTE [STK + CLIP]: buscar: "semi truck desert highway" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: CLIP: tráiler en carretera → https://www.pexels.com/video/a-semi-truck-is-driving-down-the-road-17899033/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a long-haul tractor trailer crossing a desert highway toward the US border at dusk, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 134 | ~4 s | NARRACIÓN: Cuando se declaró culpable, el Mayo aceptó entregar quince mil millones de dólares,
-FUENTE [GOB]: Dinero en efectivo decomisado → dea.gov / cbp.gov newsroom / dvidshub.net → 'currency seizure'
+FUENTE [GOB + CLIP]: CLIP y fotos: efectivo de contrabando decomisado → https://www.dvidshub.net/video/132658/national-bulk-cash-smuggling-center  |  fotos: https://www.dvidshub.net/image/497668/bulk-cash-smuggling , https://www.dvidshub.net/image/497669/ice-agent-with-smuggled-cash
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of huge stacks of US dollar bills wrapped in plastic piled to the ceiling of a dark storage room, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 135 | ~4 s | NARRACIÓN: la cifra que la fiscalía atribuye a las ganancias de su organización.
@@ -547,7 +547,7 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Dramatic close-up portrait of a heavyset Mexican man in his sixties with gray hair in a prison uniform, testifying in court, 2018, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 138 | ~4 s | NARRACIÓN: declaró que había entregado millones de dólares en sobornos a funcionarios mexicanos.
-FUENTE [STK]: buscar: "briefcase cash" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: CLIP: fajos de dólares sobre una mesa → https://www.pexels.com/video/a-lot-of-money-on-the-table-6266434/  |  https://www.pexels.com/video/a-person-counting-dollar-bills-6266251/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of briefcases full of cash on the back seat of a dark sedan, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 139 | ~5 s | NARRACIÓN: Y en agosto de 2025, el propio Mayo lo reconoció ante un juez en Nueva York.
@@ -571,7 +571,7 @@ FUENTE [GOB]: Edificios oficiales: Departamento de Justicia, FBI, Tesoro, DEA, D
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of the US Treasury Department building in Washington at dusk, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 144 | ~5 s | NARRACIÓN: la facción de los Mayos funciona como un conjunto de subgrupos con jefes regionales.
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Sinaloa, Sonora, Baja California → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Sinaloa, Sonora, Baja California → LISTO: medios/144.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of northwest Mexico with separate glowing cells in Sinaloa, Sonora and Baja California connected by thin lines, glowing amber interior light, opulent but ominous, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 145 | ~6 s | NARRACIÓN: Uno de ellos es el de los Rusos, encabezado según Washington por Juan José Ponce Félix, el Ruso,
@@ -631,7 +631,7 @@ FUENTE [STK]: buscar: "calendar circled date" → pexels.com / pixabay.com / uns
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a calendar page for July 2024 pinned to a wall, the 25th circled in red, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 159 | ~4 s | NARRACIÓN: En los meses previos a la caída del Mayo, los Chapitos estaban acorralados.
-FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — retén → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY)
+FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — retén → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY) | DVIDS (dominio público): Ejército mexicano en entrenamiento https://www.dvidshub.net/video/839841/cbirf-marines-and-sedena-mexican-army-train-together , https://www.dvidshub.net/image/6410844/us-army-north-sedena-begin-exercise-fuerzas-amigas
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a luxury Culiacán house surrounded by military checkpoints, 2024, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 160 | ~3 s | NARRACIÓN: Ovidio llevaba casi un año en una cárcel estadounidense.
@@ -639,7 +639,7 @@ FUENTE [GOB]: Foto de Ovidio Guzmán López — otro encuadre → Cartel de reco
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of a Mexican man in his early thirties with short black hair and a full black beard sitting alone in a US prison cell, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 161 | ~5 s | NARRACIÓN: La fiscalía de Estados Unidos los señalaba como los principales responsables de la crisis del fentanilo.
-FUENTE [GOB + CLIP]: Pastillas de fentanilo, prensas de pastillas, decomisos — bolsas de evidencia → dea.gov (campaña 'One Pill Can Kill' y comunicados) / dvidshub.net
+FUENTE [GOB + CLIP]: CLIP: decomiso de pastillas de fentanilo — otra toma → https://www.dvidshub.net/video/917814/b-roll-fentanyl-seizure  |  https://www.dvidshub.net/video/893911/b-roll-fentanyl-seizures-san-ysidro-port-entry
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a stack of fentanyl overdose reports and evidence bags on a US prosecutor's desk, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 162 | ~6 s | NARRACIÓN: El Departamento de Estado ofrecía millones de dólares de recompensa por cada uno de los hermanos que seguían libres.
@@ -647,7 +647,7 @@ FUENTE [GOB]: Cartel de recompensa 2023 con los cuatro Chapitos — cartel real 
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of US State Department reward posters with dark silhouettes of four men, faces blurred, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 163 | ~3 s | NARRACIÓN: Y en México, la presión militar tampoco cedía.
-FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — Marina con helicóptero → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY)
+FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — Marina con helicóptero → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY) | DVIDS (dominio público): Ejército mexicano en entrenamiento https://www.dvidshub.net/video/839841/cbirf-marines-and-sedena-mexican-army-train-together , https://www.dvidshub.net/image/6410844/us-army-north-sedena-begin-exercise-fuerzas-amigas
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic documentary recreation of Mexican marines raiding a ranch in Sinaloa at dawn, helicopter overhead, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 164 | ~5 s | NARRACIÓN: Según el acuerdo de culpabilidad que Joaquín Guzmán López firmaría en diciembre de 2025,
@@ -671,7 +671,7 @@ FUENTE [GOB]: Páginas reales de documentos judiciales (acusaciones, acuerdos de
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of the page of a legal document with several lines blacked out by a marker, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 169 | ~6 s | NARRACIÓN: Pero el contacto existió. Y lo que vino después cambiaría para siempre el mapa del narcotráfico en México.
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Sinaloa quebrándose → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Sinaloa quebrándose → LISTO: medios/169.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of Mexico with the Sinaloa region cracking apart like broken glass, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 170 | ~6 s | NARRACIÓN: El 25 de julio de 2024, el Mayo fue convocado a una reunión en las afueras de Culiacán.
@@ -711,11 +711,11 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Cinematic documentary recreation of armed men in dark clothes tackling a heavyset elderly man to the ground in a dim room, a black hood in one man's hands, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 179 | ~4 s | NARRACIÓN: lo esposaron y lo subieron a la caja de una camioneta.
-FUENTE [STK + CLIP]: buscar: "pickup truck dirt road orchard" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: CLIP: camioneta por camino de tierra → https://www.pexels.com/video/truck-driving-on-dirt-road-4474926/  |  https://www.pexels.com/video/a-pickup-truck-is-travelling-on-a-desert-road-at-daytime-3573961/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a pickup truck speeding down a dirt road through Sinaloa orchards, a hooded man lying in the truck bed, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 180 | ~5 s | NARRACIÓN: Lo llevaron a una pista de aterrizaje cercana y lo obligaron a subir a un avión.
-FUENTE [STK + CLIP]: buscar: "small plane dirt airstrip propeller" → pexels.com/videos / pixabay.com/videos
+FUENTE [GOB + CLIP]: CLIP: avión King Air de CBP rodando en pista, hélices en marcha → https://www.dvidshub.net/video/632109/air-and-marine-operations-san-diego-air-and-marine-branch-multi-role-enforcement-aircraft
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of a twin-engine turboprop waiting with propellers spinning on a dirt airstrip, men pushing a hooded figure toward the steps, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 181 | ~6 s | NARRACIÓN: El Mayo escribió que no se entregó y que no fue al lugar por voluntad propia para rendirse.
@@ -727,7 +727,7 @@ FUENTE [COM]: Retratos de políticos: Rocha Moya, Cuén, García Harfuch, López
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of an elderly Mexican governor with white hair and glasses, wearing a dark suit at a press conference podium, raising a hand in denial, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 183 | ~7 s | NARRACIÓN: sino en Los Ángeles, California. La otra versión llegó más de un año después, de boca del propio Joaquín Guzmán López.
-FUENTE [COM + CLIP]: Los Ángeles al atardecer → Pexels/Pixabay → 'Los Angeles skyline dusk' / Commons
+FUENTE [STK + CLIP]: CLIP: Los Ángeles al atardecer → https://www.pexels.com/video/aerial-footage-of-city-skyline-of-los-angeles-in-dusk-and-dawn-7005445/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of downtown Los Angeles skyline at dusk, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 184 | ~4 s | NARRACIÓN: El 1 de diciembre de 2025, en una corte federal de Chicago,
@@ -779,7 +779,7 @@ FUENTE [STK]: buscar: "glass pill bottle" → pexels.com / pixabay.com / unsplas
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a glass with a cloudy drink and a small amber pill bottle on a fold-out plane table, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 196 | ~3 s | NARRACIÓN: El avión despegó desde Sinaloa y voló hacia el norte.
-FUENTE [STK + CLIP]: buscar: "small plane flying over mountains" → pexels.com/videos / pixabay.com/videos
+FUENTE [GOB + CLIP]: CLIP: King Air de CBP en vuelo (mismo modelo de avión) — otra toma en vuelo → https://www.dvidshub.net/video/1010409/amo-takes-flight-conduct-long-range-maritime-surveillance-mea-aircraft
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of a small turboprop plane flying north over the Sierra Madre mountains, long shadow on the peaks, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 197 | ~6 s | NARRACIÓN: Aterrizó esa misma tarde en el Aeropuerto Internacional del Condado de Doña Ana, en Santa Teresa, Nuevo México.
@@ -795,7 +795,7 @@ FUENTE [COM]: War Eagles Air Museum en Santa Teresa → commons.wikimedia.org �
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of a white vintage Beechcraft King Air displayed inside an aviation museum hangar, quiet and empty, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 200 | ~4 s | NARRACIÓN: Y mientras el avión volaba hacia el norte, en Culiacán ocurría algo más.
-FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — de noche → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
+FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — de noche → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales | fotos libres: https://commons.wikimedia.org/wiki/File:Puente,_Centro_Culiacan,_Sinaloa_(16639742056).jpg , https://commons.wikimedia.org/wiki/File:Culiacan_bridge2019.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of Culiacán at night from a distance, city lights and a single column of smoke rising, July 2024, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 201 | ~3 s | NARRACIÓN: Ese mismo 25 de julio, Héctor Melesio Cuén fue asesinado.
@@ -803,7 +803,7 @@ FUENTE [COM]: Retratos de políticos: Rocha Moya, Cuén, García Harfuch, López
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Dramatic close-up portrait of a gray-haired Mexican politician in his sixties wearing a dark suit, in a faded framed photograph on a memorial table with candles and white flowers, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 202 | ~6 s | NARRACIÓN: La fiscalía de Sinaloa informó al principio que había muerto en un intento de robo en una gasolinera.
-FUENTE [STK]: buscar: "gas station night police tape" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: CLIP: cinta policial de noche → https://www.pexels.com/video/police-tape-at-crime-scene-10466486/  |  https://www.pexels.com/video/barricade-tape-at-crime-scene-10466489/  |  https://www.pexels.com/video/two-police-officers-looking-at-a-crime-scene-at-night-10480746/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a Culiacán gas station at night lit by fluorescent light, a dark pickup truck with shattered windows surrounded by police tape, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 203 | ~4 s | NARRACIÓN: Semanas después, la Fiscalía General de la República contradijo esa versión:
@@ -823,7 +823,7 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Cinematic medium shot of a heavyset Mexican man in his late seventies with thinning white hair, a thick gray mustache, a deeply lined tanned face and tired dark eyes sitting on a metal bunk in a bare Texas jail cell, staring at the wall, tense low amber light, long hard shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 207 | ~6 s | NARRACIÓN: Durante seis semanas, Culiacán vivió en una calma tensa. Todo el mundo sabía lo que había pasado.
-FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — calle al atardecer → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
+FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — calle al atardecer → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales | fotos libres: https://commons.wikimedia.org/wiki/File:Puente,_Centro_Culiacan,_Sinaloa_(16639742056).jpg , https://commons.wikimedia.org/wiki/File:Culiacan_bridge2019.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a quiet Culiacán street at dusk with closed shops and a few people walking fast, tense calm, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 208 | ~3 s | NARRACIÓN: Todo el mundo sabía quién había entregado a quién.
@@ -839,11 +839,11 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Wide establishing shot of Culiacán before dawn on 9 September 2024, muzzle flashes and smoke between buildings in the distance, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 211 | ~3 s | NARRACIÓN: Aparecieron cuerpos en calles y caminos. Hubo ataques contra militares.
-FUENTE [STK]: buscar: "crime scene tape road night" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: buscar: "otra toma" → https://www.pexels.com/video/police-tape-at-crime-scene-10466486/  |  https://www.pexels.com/video/barricade-tape-at-crime-scene-10466489/  |  https://www.pexels.com/video/two-police-officers-looking-at-a-crime-scene-at-night-10480746/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of a covered shape under a white sheet far away on a rural road, police tape and flashing lights, no visible body, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 212 | ~6 s | NARRACIÓN: En los primeros días, las autoridades federales reportaron decenas de enfrentamientos, al menos dos soldados muertos y varios heridos.
-FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — soldados tras vehículo → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY)
+FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — soldados tras vehículo → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY) | DVIDS (dominio público): Ejército mexicano en entrenamiento https://www.dvidshub.net/video/839841/cbirf-marines-and-sedena-mexican-army-train-together , https://www.dvidshub.net/image/6410844/us-army-north-sedena-begin-exercise-fuerzas-amigas
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic documentary recreation of Mexican soldiers taking cover behind a military armored vehicle during a firefight on a Culiacán avenue, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 213 | ~4 s | NARRACIÓN: Los municipios de Culiacán, Cosalá, Elota y San Ignacio suspendieron las clases.
@@ -851,7 +851,7 @@ FUENTE [STK]: buscar: "empty classroom" → pexels.com / pixabay.com / unsplash.
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of an empty classroom in Culiacán with small chairs on the desks and a closed door, backpacks left behind, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 214 | ~6 s | NARRACIÓN: Y el 15 de septiembre, por primera vez en mucho tiempo, Culiacán canceló la ceremonia del Grito de Independencia.
-FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — plaza y catedral → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
+FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — plaza y catedral → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales | fotos libres: https://commons.wikimedia.org/wiki/File:Puente,_Centro_Culiacan,_Sinaloa_(16639742056).jpg , https://commons.wikimedia.org/wiki/File:Culiacan_bridge2019.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of Culiacán's main plaza at night on 15 September, empty, Mexican flag decorations hanging over deserted streets, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 215 | ~2 s | NARRACIÓN: De un lado estaban los Chapitos.
@@ -871,7 +871,7 @@ FUENTE [STK]: buscar: "bullet casing asphalt" → pexels.com / pixabay.com / uns
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a single spent bullet casing standing upright on wet asphalt, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 219 | ~6 s | NARRACIÓN: Distintos reportes atribuyen a los Mayos la iniciativa de la ofensiva, como respuesta a la entrega de su jefe.
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Culiacán en dos zonas → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Culiacán en dos zonas → LISTO: medios/219.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of Culiacán with two opposing glowing zones in red and amber pressing against each other, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 220 | ~6 s | NARRACIÓN: Otros señalan provocaciones previas de ambos lados. No existe una versión oficial que lo establezca con certeza.
@@ -883,7 +883,7 @@ FUENTE [STK]: buscar: "plate breaking" → pexels.com / pixabay.com / unsplash.c
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a ceramic plate painted with the map of Sinaloa breaking in two on a stone floor, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 222 | ~3 s | NARRACIÓN: Y esa guerra no se pareció a ninguna anterior.
-FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — de noche → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
+FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — de noche → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales | fotos libres: https://commons.wikimedia.org/wiki/File:Puente,_Centro_Culiacan,_Sinaloa_(16639742056).jpg , https://commons.wikimedia.org/wiki/File:Culiacan_bridge2019.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of drone view of Culiacán at night with several fires and police lights scattered across the city, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 223 | ~7 s | NARRACIÓN: En los meses siguientes, Culiacán se volvió una ciudad con toque de queda informal. Comercios cerrados antes del anochecer. Restaurantes vacíos.
@@ -903,11 +903,11 @@ FUENTE [GOB]: Edificios oficiales: Departamento de Justicia, FBI, Tesoro, DEA, D
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of the exterior of the DEA headquarters building in Arlington Virginia at dusk, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 227 | ~7 s | NARRACIÓN: confirmó en su evaluación nacional de amenazas de 2025 una alianza entre los Chapitos y el Cártel Jalisco Nueva Generación,
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Jalisco y Sinaloa → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Jalisco y Sinaloa → LISTO: medios/227.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of western Mexico with two territories in Jalisco and Sinaloa linked by a glowing red line, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 228 | ~6 s | NARRACIÓN: hasta entonces su gran enemigo. Por su parte, distintos periodistas reportaron que la Mayiza buscó apoyo en otros grupos,
-FUENTE [GOB]: Armas y cajas de armamento decomisadas → cbp.gov newsroom / atf.gov / dvidshub.net
+FUENTE [GOB]: Fotos: armas y municiones decomisadas rumbo a México → https://www.dvidshub.net/feature/cbpweaponseizures
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of armed men in tactical gear unloading weapons crates from a truck at a remote camp, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 229 | ~7 s | NARRACIÓN: entre ellos la organización de Fausto Isidro Meza Flores, conocido como el Chapo Isidro, aunque esa relación, según esos mismos reportes,
@@ -915,7 +915,7 @@ FUENTE [GOB]: Cartel de búsqueda de Fausto Isidro Meza Flores, el Chapo Isidro 
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Dramatic close-up portrait of a Mexican man in his fifties with a thick mustache and a cowboy hat, distrustful eyes, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 230 | ~5 s | NARRACIÓN: fue tensa y frágil. Y apareció una tecnología nueva en la guerra del narco: los drones.
-FUENTE [STK]: buscar: "drone on truck" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: CLIP: dron volando de noche → https://www.pexels.com/video/drone-dron-drone-flying-4078248/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a commercial quadcopter drone with a small improvised device strapped under it, resting on a truck hood, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 231 | ~4 s | NARRACIÓN: Según un informe del International Crisis Group publicado en julio de 2026,
@@ -931,7 +931,7 @@ FUENTE [GOB + CLIP]: Material militar de EE. UU.: aviones de vigilancia, artefac
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of rows of seized improvised explosive devices laid out on a military table with evidence tags, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 234 | ~5 s | NARRACIÓN: Los drones se usaban para vigilar convoyes, localizar campamentos y lanzar cargas explosivas sobre posiciones enemigas.
-FUENTE [STK + CLIP]: buscar: "drone flying dusk" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: buscar: "otra toma" → https://www.pexels.com/video/drone-dron-drone-flying-4078248/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic documentary recreation of a drone hovering over a mountain camp at dusk while men below run for cover, smoke rising, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 235 | ~6 s | NARRACIÓN: En las escuelas de algunas comunidades, según han documentado reporteros, hubo niños que empezaron a dibujar drones con bombas.
@@ -975,7 +975,7 @@ FUENTE [STK]: buscar: "book desk glasses" → pexels.com / pixabay.com / unsplas
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a hardcover book on a desk next to reading glasses, a Mexican flag in the background, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 245 | ~5 s | NARRACIÓN: antes de la captura del Mayo, Sinaloa promediaba un poco más de un homicidio diario.
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — gráfico 1,3 a 4,3 homicidios diarios → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — gráfico 1,3 a 4,3 homicidios diarios → LISTO: medios/245.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of a simple homicide chart over a dark map of Sinaloa, the line jumping sharply upward, harsh sodium streetlights, night, smoke, red and blue police lights bleeding into orange, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 246 | ~8 s | NARRACIÓN: Después, el promedio subió a más de cuatro. En esa guerra, el Mayito Flaco dejó de ser una sombra. Se convirtió en un objetivo.
@@ -983,7 +983,7 @@ FUENTE [GOB]: Ficha de búsqueda y foto del Mayito Flaco — oscurecido → http
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Dramatic close-up portrait of a tall slim Mexican man in his early forties with short chestnut-brown hair, a trimmed dark beard and brown eyes, wearing a dark cap and plain dark clothes in a dark room, a single light from above, looking up as if aware he is being watched, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 247 | ~5 s | NARRACIÓN: Mientras Sinaloa ardía, Estados Unidos endureció su ofensiva contra todo el Cártel de Sinaloa.
-FUENTE [GOB + CLIP]: Material militar de EE. UU.: aviones de vigilancia, artefactos explosivos, desactivación — avión de vigilancia → dvidshub.net (buscar el tema)
+FUENTE [GOB + CLIP]: CLIP: patrullaje aéreo de vigilancia de CBP → https://www.dvidshub.net/video/989473/b-roll-cbp-air-and-marine-operations-amo-patrols-land-and-sea-illegal-entries
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a US military surveillance aircraft flying over the Mexican Pacific coast, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 248 | ~5 s | NARRACIÓN: En febrero de 2025, el gobierno estadounidense designó al Cártel de Sinaloa como organización terrorista extranjera,
@@ -991,11 +991,11 @@ FUENTE [GOB]: Páginas reales de documentos judiciales (acusaciones, acuerdos de
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of an official US government designation document with a large seal, partially redacted, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 249 | ~4 s | NARRACIÓN: junto con otros grupos criminales mexicanos. No era solo un cambio de etiqueta.
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — México con territorios en rojo → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — México con territorios en rojo → LISTO: medios/249.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of Mexico with several cartel territories glowing red like warning lights, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 250 | ~7 s | NARRACIÓN: Esa designación abría la puerta a nuevos cargos, nuevas sanciones y nuevas herramientas legales. México también respondió a la presión.
-FUENTE [STK]: buscar: "gavel documents" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: CLIP: mazo de juez → https://www.pexels.com/video/judge-using-a-gavel-6699964/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a judge's gavel resting on a stack of new indictments, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 251 | ~6 s | NARRACIÓN: A finales de febrero de 2025, el gobierno mexicano envió a Estados Unidos a veintinueve presos ligados al narcotráfico,
@@ -1011,7 +1011,7 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Wide establishing shot of another line of handcuffed prisoners walking toward a plane on a military airstrip at dawn, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 254 | ~3 s | NARRACIÓN: las cárceles mexicanas ya no eran un refugio seguro.
-FUENTE [STK]: buscar: "empty prison cell open door" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: CLIP: pasillo de celdas → https://www.pexels.com/video/row-of-prison-cells-5211491/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of an empty Mexican prison cell with the door wide open, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 255 | ~5 s | NARRACIÓN: En mayo de 2025, una acusación revelada en San Diego convirtió a Ismael Zambada Sicairos
@@ -1023,7 +1023,7 @@ FUENTE [GOB]: Páginas reales de documentos judiciales (acusaciones, acuerdos de
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of a sealed indictment folder being opened, an embossed court seal on the cover, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 257 | ~5 s | NARRACIÓN: y de apoyo material al terrorismo, además de tráfico de fentanilo, cocaína, metanfetamina y heroína.
-FUENTE [GOB + CLIP]: Decomisos de cocaína y droga, descargas de la Guardia Costera — bolsas de evidencia → dvidshub.net → 'Coast Guard cocaine offload' / cbp.gov newsroom
+FUENTE [GOB + CLIP]: CLIP: la Guardia Costera descarga fardos de cocaína — fardos → https://www.dvidshub.net/video/990368/us-coast-guard-active-crew-offloads-203m-cocaine-san-diego  |  https://www.dvidshub.net/video/952446/coast-guard-offloads-more-than-275-million-worth-illegal-cocaine-san-diego
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of evidence bags with fentanyl pills, cocaine bricks and heroin on a steel table, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 258 | ~6 s | NARRACIÓN: El Departamento de Estado ofrece hasta quince millones de dólares por información que lleve a su captura.
@@ -1035,11 +1035,11 @@ FUENTE [GOB]: Foto de Iván Archivaldo Guzmán → https://www.ice.gov/most-want
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of a Mexican man in his early forties with short black hair, a dark beard and dark sunglasses looking at a wall of surveillance screens in a hideout, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 260 | ~6 s | NARRACIÓN: El 9 de mayo de 2025, diecisiete familiares de Ovidio Guzmán López, entre ellos su madre, Griselda López Pérez,
-FUENTE [GOB + CLIP]: Frontera y garitas (Santa Teresa, El Paso, San Ysidro, Nogales, Calexico) — garita peatonal de San Ysidro → flickr.com/photos/cbpphotos (fotos de CBP) / cbp.gov / dvidshub.net
+FUENTE [GOB + CLIP]: CLIP: garita de San Ysidro — peatones → https://www.dvidshub.net/video/970320/b-roll-san-ysidro-port-entry-busiest-port-world  |  https://www.dvidshub.net/video/989487/b-roll-roving-patrols-san-ysidro-port-entry
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a group of family members with suitcases walking toward the San Ysidro border crossing at dawn, faces turned away, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 261 | ~7 s | NARRACIÓN: cruzaron la frontera por la garita de San Ysidro, en Tijuana, y se presentaron ante las autoridades de Estados Unidos.
-FUENTE [GOB + CLIP]: Frontera y garitas (Santa Teresa, El Paso, San Ysidro, Nogales, Calexico) — pasillo de garita → flickr.com/photos/cbpphotos (fotos de CBP) / cbp.gov / dvidshub.net
+FUENTE [GOB + CLIP]: CLIP: garita de San Ysidro — patrullas → https://www.dvidshub.net/video/970320/b-roll-san-ysidro-port-entry-busiest-port-world  |  https://www.dvidshub.net/video/989487/b-roll-roving-patrols-san-ysidro-port-entry
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of US border officers escorting a family with suitcases through a border port of entry corridor, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 262 | ~3 s | NARRACIÓN: El secretario de Seguridad de México, Omar García Harfuch,
@@ -1067,7 +1067,7 @@ FUENTE [GOB]: Foto de Joaquín Guzmán López → https://www.ice.gov/most-wante
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Dramatic close-up portrait of a stocky Mexican man in his late thirties with short dark hair and a short dark beard at the defendant table in a Chicago courtroom, head bowed, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 268 | ~4 s | NARRACIÓN: Los dos hijos del Chapo que estaban bajo custodia terminaron cooperando
-FUENTE [STK]: buscar: "prison cells" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: buscar: "otra toma" → https://www.pexels.com/video/row-of-prison-cells-5211491/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Moody silhouette shot of two brothers' silhouettes in separate prison cells, divided by a concrete wall, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 269 | ~7 s | NARRACIÓN: con el mismo gobierno que había encarcelado de por vida a su padre. Afuera quedaban Iván Archivaldo y Jesús Alfredo.
@@ -1075,7 +1075,7 @@ FUENTE [GOB]: Cartel de recompensa 2023 con los cuatro Chapitos — carteles de 
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of two US reward posters pinned to a wall with silhouettes of two bearded men, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 270 | ~5 s | NARRACIÓN: Por cada uno, Washington ofrece hasta diez millones de dólares. Según reportes de prensa de 2026,
-FUENTE [GOB]: Dinero en efectivo decomisado → dea.gov / cbp.gov newsroom / dvidshub.net → 'currency seizure'
+FUENTE [GOB + CLIP]: CLIP y fotos: efectivo de contrabando decomisado — fotos → https://www.dvidshub.net/video/132658/national-bulk-cash-smuggling-center  |  fotos: https://www.dvidshub.net/image/497668/bulk-cash-smuggling , https://www.dvidshub.net/image/497669/ice-agent-with-smuggled-cash
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of stacks of dollar bills next to a reward poster on a desk, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 271 | ~5 s | NARRACIÓN: de los treinta y ocho acusados en el expediente contra los Chapitos desde abril de 2023,
@@ -1087,15 +1087,15 @@ FUENTE [STK]: buscar: "corkboard crossed photos" → pexels.com / pixabay.com / 
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a corkboard where several photos are crossed in black and others stamped in custody, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 273 | ~5 s | NARRACIÓN: Casi una decena de sus principales operadores han caído en menos de dos años.
-FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — Marina en operativo → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY)
+FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — Marina en operativo → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY) | DVIDS (dominio público): Ejército mexicano en entrenamiento https://www.dvidshub.net/video/839841/cbirf-marines-and-sedena-mexican-army-train-together , https://www.dvidshub.net/image/6410844/us-army-north-sedena-begin-exercise-fuerzas-amigas
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic documentary recreation of Mexican marines arresting a man in a dark polo shirt outside a Sinaloa house, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 274 | ~5 s | NARRACIÓN: En junio de 2026 fue detenido otro de sus jefes regionales en el sur de Sinaloa.
-FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — retén en carretera → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY)
+FUENTE [COM]: Ejército, Marina y Guardia Nacional de México: convoyes, retenes, helicópteros, operativos — retén en carretera → commons.wikimedia.org → 'Mexican Army', 'Mexican Navy', 'Guardia Nacional (México)' (muchas de Presidencia con CC BY) | DVIDS (dominio público): Ejército mexicano en entrenamiento https://www.dvidshub.net/video/839841/cbirf-marines-and-sedena-mexican-army-train-together , https://www.dvidshub.net/image/6410844/us-army-north-sedena-begin-exercise-fuerzas-amigas
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of a military checkpoint on a highway in southern Sinaloa near Mazatlán, June 2026, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 275 | ~3 s | NARRACIÓN: Y la persecución también alcanzó a la política.
-FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — Palacio de Gobierno → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
+FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — Palacio de Gobierno → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales | fotos libres: https://commons.wikimedia.org/wiki/File:Puente,_Centro_Culiacan,_Sinaloa_(16639742056).jpg , https://commons.wikimedia.org/wiki/File:Culiacan_bridge2019.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of the Sinaloa state government palace in Culiacán at dusk, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 276 | ~6 s | NARRACIÓN: El 29 de abril de 2026, la fiscalía del Distrito Sur de Nueva York presentó una acusación sin precedentes:
@@ -1127,7 +1127,7 @@ FUENTE [COM]: Sede de la Fiscalía General de la República → commons.wikimedi
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of the Mexican Attorney General's Office building in Mexico City, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 283 | ~5 s | NARRACIÓN: regresó a su puesto asegurando que la fiscalía mexicana no había encontrado elementos en su contra.
-FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — Palacio de Gobierno → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
+FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — Palacio de Gobierno → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales | fotos libres: https://commons.wikimedia.org/wiki/File:Puente,_Centro_Culiacan,_Sinaloa_(16639742056).jpg , https://commons.wikimedia.org/wiki/File:Culiacan_bridge2019.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of an elderly Mexican governor with white hair and glasses, wearing a dark suit walking back into the government palace through a crowd of reporters, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 284 | ~7 s | NARRACIÓN: En Estados Unidos, la acusación sigue vigente. Ninguno de los señalados ha sido juzgado por esos hechos. Ese era el panorama:
@@ -1139,7 +1139,7 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Cinematic medium shot of a man in a cap watching a television in a dark room, the TV showing a wanted poster, harsh sodium and fluorescent light, tense investigative atmosphere, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 286 | ~6 s | NARRACIÓN: Mientras tanto, en Nueva York, el hombre que había iniciado todo sin quererlo se preparaba para su último acto.
-FUENTE [COM + CLIP]: Manhattan / Brooklyn Bridge / cortes del Distrito Sur de Nueva York — Brooklyn Bridge al amanecer → commons.wikimedia.org → 'Daniel Patrick Moynihan United States Courthouse' / Pexels (clip)
+FUENTE [STK + CLIP]: CLIP: puente de Brooklyn → https://www.pexels.com/video/the-brooklyn-bridge-in-new-york-5656146/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of the Brooklyn Bridge and the federal courthouse district of New York at dawn, cold mist over the East River, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 287 | ~5 s | NARRACIÓN: El 25 de agosto de 2025, Ismael Zambada García, de setenta y siete años,
@@ -1171,7 +1171,7 @@ FUENTE [GOB]: Foto del Mayo del cartel de recompensa (Departamento de Estado / D
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Dramatic close-up portrait of a heavyset Mexican man in his late seventies with thinning white hair, a thick gray mustache, a deeply lined tanned face and tired dark eyes speaking quietly into a courtroom microphone, eyes lowered, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 294 | ~5 s | NARRACIÓN: en México y en otros lugares. Asumió la responsabilidad y pidió perdón a los afectados.
-FUENTE [STK]: buscar: "candlelight vigil" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: CLIP: velas encendidas en la oscuridad → https://www.pexels.com/video/video-of-a-burning-candles-6227239/  |  https://www.pexels.com/video/serene-candle-flame-flickering-in-darkness-29555838/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of grieving families holding photos of loved ones at a vigil outside a courthouse, photos blurred, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 295 | ~6 s | NARRACIÓN: Y admitió, como ya se dijo, haber pagado sobornos a políticos, policías y militares durante toda su carrera.
@@ -1215,7 +1215,7 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Dramatic close-up portrait of a heavyset Mexican man in his late seventies with thinning white hair, a thick gray mustache, a deeply lined tanned face and tired dark eyes lifting his eyes toward the judge, a tear on his cheek, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 305 | ~3 s | NARRACIÓN: Es difícil no leer esas palabras pensando en Culiacán.
-FUENTE [STK + CLIP]: buscar: "drone city dusk haze" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: CLIP: dron sobre una ciudad al anochecer → https://www.pexels.com/video/drone-footage-of-a-city-at-dusk-3263404/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of Culiacán from above at dusk, a city under a heavy amber haze, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 306 | ~6 s | NARRACIÓN: Porque la guerra que estaba en curso mientras él hablaba era, precisamente, la guerra desatada por su caída.
@@ -1227,7 +1227,7 @@ FUENTE [COM]: Juez Brian Cogan → commons.wikimedia.org → 'Brian Cogan' (si n
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of a white-haired American federal judge in a black robe delivering a sentence from the bench, the courtroom silent, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 308 | ~5 s | NARRACIÓN: Al explicar su decisión, dijo que la cantidad casi inimaginable de droga atribuida al Mayo
-FUENTE [GOB + CLIP]: Decomisos de cocaína y droga, descargas de la Guardia Costera — almacén de cocaína → dvidshub.net → 'Coast Guard cocaine offload' / cbp.gov newsroom
+FUENTE [GOB + CLIP]: CLIP: la Guardia Costera descarga fardos de cocaína — almacén / fardos → https://www.dvidshub.net/video/990368/us-coast-guard-active-crew-offloads-203m-cocaine-san-diego  |  https://www.dvidshub.net/video/952446/coast-guard-offloads-more-than-275-million-worth-illegal-cocaine-san-diego
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of tons of seized cocaine bricks stacked in a military warehouse, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 309 | ~5 s | NARRACIÓN: y el número de asesinatos que podían documentarse eran suficientes para justificar la pena.
@@ -1235,7 +1235,7 @@ FUENTE [STK]: buscar: "wall of photos blurred" → pexels.com / pixabay.com / un
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of a wall of hundreds of small evidence photos of crime scenes, all blurred and out of focus, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 310 | ~3 s | NARRACIÓN: También ordenó el decomiso de quince mil millones de dólares.
-FUENTE [GOB]: Dinero en efectivo decomisado → dea.gov / cbp.gov newsroom / dvidshub.net → 'currency seizure'
+FUENTE [GOB + CLIP]: CLIP y fotos: efectivo de contrabando decomisado → https://www.dvidshub.net/video/132658/national-bulk-cash-smuggling-center  |  fotos: https://www.dvidshub.net/image/497668/bulk-cash-smuggling , https://www.dvidshub.net/image/497669/ice-agent-with-smuggled-cash
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a forfeiture order document on top of huge stacks of US dollars, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 311 | ~5 s | NARRACIÓN: Recomendó que fuera enviado a un centro penitenciario donde pudiera recibir atención médica adecuada.
@@ -1247,7 +1247,7 @@ FUENTE [GOB]: Prisiones federales y centros médicos penitenciarios de EE. UU. �
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of a heavyset Mexican man in his late seventies with thinning white hair, a thick gray mustache, a deeply lined tanned face and tired dark eyes walking slowly down a prison corridor between two guards, seen from behind, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 313 | ~4 s | NARRACIÓN: No lo encontraron en la sierra. Lo entregó el hijo de su socio.
-FUENTE [STK + CLIP]: buscar: "misty mountains dawn" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: buscar: "otra toma" → https://www.pexels.com/video/dramatic-foggy-mountain-landscape-at-dawn-35574242/  |  https://www.pexels.com/video/foggy-mountain-854292/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of the empty Sinaloa sierra at dawn, mist in the valleys, no one in sight, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 314 | ~6 s | NARRACIÓN: Pero la caída del padre no cerró la historia. Al contrario: dejó abiertas preguntas que siguen sin respuesta.
@@ -1307,7 +1307,7 @@ FUENTE [STK]: buscar: "dusty case folder archive" → pexels.com / pixabay.com /
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of a closed murder case folder with dust on it in a prosecutor's archive, dim smoky amber light, deep mysterious shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 328 | ~2 s | NARRACIÓN: La tercera pregunta es el dinero.
-FUENTE [STK]: buscar: "key on dollar bills" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: buscar: "otra toma" → https://www.pexels.com/video/a-lot-of-money-on-the-table-6266434/  |  https://www.pexels.com/video/a-person-counting-dollar-bills-6266251/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a single heavy key resting on a pile of US dollar bundles, dim smoky amber light, deep mysterious shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 329 | ~5 s | NARRACIÓN: El juez ordenó el decomiso de quince mil millones de dólares, pero según la prensa estadounidense,
@@ -1339,7 +1339,7 @@ FUENTE [STK]: buscar: "reporter notebook recorder" → pexels.com / pixabay.com 
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a reporter's notebook and an audio recorder on a café table, a coffee cup beside them, dim smoky amber light, deep mysterious shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 336 | ~5 s | NARRACIÓN: que se habría reunido con políticos en hoteles de lujo de la Ciudad de México.
-FUENTE [COM + CLIP]: Ciudad de México, Paseo de la Reforma de noche → Pexels/Pixabay → 'Mexico City Reforma night' / Commons
+FUENTE [STK + CLIP]: buscar: "Ángel de la Independencia" → https://www.pexels.com/video/nighttime-timelapse-of-mexico-city-skyline-30652863/  |  https://www.pexels.com/video/aerial-video-of-the-angel-of-independence-monument-in-mexico-city-15809151/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of luxury hotel towers on Paseo de la Reforma in Mexico City at night, one floor fully lit, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 337 | ~6 s | NARRACIÓN: Tampoco hay confirmación independiente de esos encuentros. Lo único verificable es lo que dicen los documentos oficiales:
@@ -1351,7 +1351,7 @@ FUENTE [GOB]: Ficha de búsqueda y foto del Mayito Flaco — acercamiento → ht
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Dramatic close-up portrait of a tall slim Mexican man in his early forties with short chestnut-brown hair, a trimmed dark beard and brown eyes, wearing a dark cap and plain dark clothes, close portrait, cold stare, dim smoky amber light, deep mysterious shadows, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 339 | ~6 s | NARRACIÓN: A inicios de octubre de 2026, la guerra en Sinaloa sigue abierta. Según el informe del International Crisis Group,
-FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — panorámica → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
+FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — panorámica → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales | fotos libres: https://commons.wikimedia.org/wiki/File:Puente,_Centro_Culiacan,_Sinaloa_(16639742056).jpg , https://commons.wikimedia.org/wiki/File:Culiacan_bridge2019.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of Culiacán in October 2026 from above, a military helicopter crossing the sky, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 340 | ~4 s | NARRACIÓN: el antiguo Cártel de Sinaloa dejó de funcionar como una sola organización
@@ -1359,15 +1359,15 @@ FUENTE [STK]: buscar: "map with pins" → pexels.com / pixabay.com / unsplash.co
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a large map of Sinaloa covered with colored pins and string, pieces of the map torn away, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 341 | ~5 s | NARRACIÓN: y hoy está dividido en cuatro grandes facciones y más de veinte células criminales.
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — cuatro facciones → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — cuatro facciones → LISTO: medios/341.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of Sinaloa divided into four large glowing factions and many small scattered dots, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 342 | ~5 s | NARRACIÓN: El mismo informe señala a los Mayos como la facción que más territorio ha ganado:
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — sur y oriente de Culiacán → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — sur y oriente de Culiacán → LISTO: medios/342.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aged archival-style documentary photo of a printed city map of Culiacán on a desk with the southern and eastern districts shaded with amber marker, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 343 | ~4 s | NARRACIÓN: según ese análisis, dominan buena parte del sur y el oriente de Culiacán.
-FUENTE [STK + CLIP]: buscar: "drone city neighborhoods dusk" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: buscar: "toma aérea" → https://www.pexels.com/es-es/buscar/videos/culiacan/  |  fotos libres: https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of southern and eastern neighborhoods of Culiacán at dusk with pickup trucks patrolling, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 344 | ~5 s | NARRACIÓN: Los Chapitos, en cambio, han perdido terreno en la capital y sus alrededores, aunque siguen activos.
@@ -1383,11 +1383,11 @@ FUENTE [STK]: buscar: "miner helmet boots" → pexels.com / pixabay.com / unspla
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a miner's helmet and boots left on a dirt road, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 347 | ~7 s | NARRACIÓN: Según funcionarios federales citados por InSight Crime, la principal sospecha apunta a células ligadas a los Chapitos. La investigación sigue abierta.
-FUENTE [STK]: buscar: "police tape mountain road" → pexels.com / pixabay.com / unsplash.com
+FUENTE [STK + CLIP]: CLIP: cinta policial de noche → https://www.pexels.com/video/police-tape-at-crime-scene-10466486/  |  https://www.pexels.com/video/barricade-tape-at-crime-scene-10466489/  |  https://www.pexels.com/video/two-police-officers-looking-at-a-crime-scene-at-night-10480746/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Cinematic medium shot of Mexican federal investigators examining a mountain road near a mine, police tape, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 348 | ~2 s | NARRACIÓN: El tablero nacional también cambió.
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Jalisco se apaga → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — Jalisco se apaga → LISTO: medios/348.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Stylized dark cartographic illustration map of Mexico with two large cartel territories, one in Jalisco suddenly going dark, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 349 | ~7 s | NARRACIÓN: El 22 de febrero de 2026, fuerzas especiales del Ejército mexicano abatieron en Tapalpa, Jalisco, a Nemesio Oseguera Cervantes, el Mencho,
@@ -1435,15 +1435,15 @@ FUENTE [GOB]: Ficha de búsqueda y foto del Mayito Flaco — datos de la ficha �
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Dramatic close-up portrait of a tall slim Mexican man in his early forties with short chestnut-brown hair, a trimmed dark beard and brown eyes, wearing a dark cap and plain dark clothes, police-style frontal identification portrait against a plain height chart wall, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 360 | ~2 s | NARRACIÓN: Y un dato que llamó la atención:
-FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — alfiler de Sinaloa a Ciudad de México → Hacerlo en Canva/PowerPoint/QGIS con base de Natural Earth u OpenStreetMap, estilo oscuro y ámbar
+FUENTE [MAPA]: Mapa o gráfico propio (rutas, territorios, cifras) — alfiler de Sinaloa a Ciudad de México → LISTO: medios/360.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a red pushpin being moved on a map from the Sinaloa mountains to Mexico City, cold dawn light fighting the amber, sense of ending, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 361 | ~5 s | NARRACIÓN: su última ubicación conocida ya no era la sierra de Sinaloa, sino la Ciudad de México.
-FUENTE [COM + CLIP]: Ciudad de México, Paseo de la Reforma de noche → Pexels/Pixabay → 'Mexico City Reforma night' / Commons
+FUENTE [STK + CLIP]: buscar: "timelapse nocturno" → https://www.pexels.com/video/nighttime-timelapse-of-mexico-city-skyline-30652863/  |  https://www.pexels.com/video/aerial-video-of-the-angel-of-independence-monument-in-mexico-city-15809151/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of Mexico City skyline at night from Paseo de la Reforma, skyscrapers and traffic lights, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 362 | ~4 s | NARRACIÓN: Mientras tanto, en Culiacán, la vida sigue entre balaceras, búsquedas y silencios.
-FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — barrio al atardecer → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales
+FUENTE [COM]: Culiacán: vistas, calles, catedral, malecón, Palacio de Gobierno, noche — barrio al atardecer → https://commons.wikimedia.org/wiki/Category:Culiac%C3%A1n_Rosales | fotos libres: https://commons.wikimedia.org/wiki/File:Puente,_Centro_Culiacan,_Sinaloa_(16639742056).jpg , https://commons.wikimedia.org/wiki/File:Culiacan_bridge2019.jpg
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Wide establishing shot of a Culiacán neighborhood at dusk, a mother walking her child home quickly past closed shops, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 363 | ~5 s | NARRACIÓN: Y las madres buscadoras siguen saliendo cada semana a los campos con sus palas.
@@ -1451,7 +1451,7 @@ FUENTE [G-LABS]: Recreación: no existe material libre de este momento → G-Lab
 IMAGEN G-LABS: Cinematic documentary recreation of mothers with shovels and steel rods walking into a dry field at sunrise, their shadows long, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 364 | ~7 s | NARRACIÓN: Hay una imagen que resume esta historia. Un avión pequeño, de hace cincuenta años, aterrizando en una pista del desierto.
-FUENTE [STK + CLIP]: buscar: "small plane landing sunset" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: buscar: "otro clip" → https://www.pexels.com/video/propeller-plane-landing-10406882/  |  https://www.pexels.com/video/plane-landing-on-runway-10453307/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Aerial drone view of a small turboprop plane landing on a desert runway at sunset, long shadows on the sand, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 365 | ~4 s | NARRACIÓN: Dentro, un hijo que entrega a un padre que no es el suyo,
@@ -1499,5 +1499,5 @@ FUENTE [STK]: buscar: "bullet casing flower" → pexels.com / pixabay.com / unsp
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Extreme close-up detail shot of a spent bullet casing next to a wilting flower on a Culiacán sidewalk, fading amber dusk light, melancholic, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark
 
 376 | ~6 s | NARRACIÓN: No es si habrá un heredero. Es cuánto costará su herencia. Y quién la va a pagar.
-FUENTE [STK + CLIP]: buscar: "man walking toward mountains silhouette" → pexels.com/videos / pixabay.com/videos
+FUENTE [STK + CLIP]: CLIP: silueta de un hombre frente a la montaña al atardecer → https://www.pexels.com/video/a-silhouette-of-a-man-near-the-mountain-during-sunset-15249220/
 RESPALDO G-LABS (solo si no se consigue la fuente libre): Moody silhouette shot of a young man's silhouette walking toward the misty Sierra Madre at dawn, the cycle beginning again, cinematic Mexican neo-noir, warm saturated lighting in yellow, orange and amber tones, deep shadows, high contrast, gritty photojournalistic police-documentary look, subtle film grain, shallow depth of field, 16:9, no text, no watermark

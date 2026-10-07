@@ -1,0 +1,45 @@
+CÓMO ARMAR EL VIDEO — "El hijo del Chapo entregó al Mayo… y despertó a su heredero"
+==================================================================================
+
+Todo se hace desde la carpeta PRODUCCIÓN. Los medios de cada escena van en la carpeta
+`medios\` con el número de la escena: 001.mp4, 002.jpg, 003.mp4, …
+
+1. NARRACIÓN (paso 2)
+   python "..\..\COMUNES\generar_voz_voizum.py" guion.txt --voice-id 349a5b6d-59ee-49f6-b440-378954929ade --salida "narracion\narracion.mp3" --confirmar
+
+2. MEDIOS — en este orden de prioridad (ver `escenas.txt` y `fuentes_visuales.csv`)
+   a) MAPAS Y GRÁFICOS: ya están hechos en `medios\` (16 archivos). No hay que hacer nada.
+   b) CLIPS Y FOTOS DE DOMINIO PÚBLICO (DVIDS, DEA, ICE, FBI, Departamento de Estado,
+      Tesoro): abrir el enlace de la escena, descargar y guardar como NNN.mp4 o NNN.jpg.
+      En DVIDS el botón de descarga está debajo del video.
+   c) WIKIMEDIA COMMONS: descargar la foto y ANOTAR autor y licencia en la planilla.
+   d) PEXELS / PIXABAY: descargar el clip o la foto del enlace (o buscar el término
+      sugerido). En Pexels, elegir calidad HD 1920x1080.
+   e) G-LABS (último recurso): `prompts_glabs.txt` trae las 73 escenas sin material libre,
+      con su número. Si una fuente libre no aparece, usar su prompt de
+      `prompts_glabs_respaldo.txt`.
+   Ir anotando en `fuentes_visuales.csv` la URL usada y el crédito.
+
+3. MONTAJE (paso 6) — script nuevo que acepta fotos Y clips
+   Prueba corta primero (las primeras 30 escenas):
+       python montar_video.py --audio "narracion\narracion.mp3" --desde 1 --hasta 30 --salida prueba.mp4
+   Video completo:
+       python montar_video.py --audio "narracion\narracion.mp3"
+   - Fotos y mapas: zoom lento alternando acercar y alejar.
+   - Clips: se recortan a la duración de la escena y se les quita el audio.
+   - Corrección de color neo-noir (ámbar, contraste y viñeta) para unificar el material
+     de distintas fuentes. Para desactivarla: --sin-grado
+   - Si falta algún medio, el video se arma igual con una tarjeta "FALTA EL MEDIO" y se
+     crea `faltan_medios.txt` con la lista.
+   - La duración de cada escena se reparte según sus palabras sobre la duración real
+     de la narración.
+
+4. CRÉDITOS (descripción del video de YouTube)
+   - Dominio público de EE. UU.: "Imágenes: DVIDS / CBP / DEA / Guardia Costera de EE. UU.
+     (dominio público)".
+   - Wikimedia Commons CC BY / CC BY-SA: autor + licencia de cada archivo (obligatorio).
+   - Mapas: "Mapas base: Natural Earth (dominio público)".
+   - Pexels / Pixabay: no exigen crédito, pero se puede poner "Clips: Pexels, Pixabay".
+
+NO USAR: fotos de agencias (AP, Reuters, Getty, AFP, EFE, Cuartoscuro), fotos de
+periódicos, capturas de noticieros, ilustraciones de juicio ni clips de YouTube de medios.
