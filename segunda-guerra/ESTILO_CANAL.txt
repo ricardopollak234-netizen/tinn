@@ -75,3 +75,5 @@ REGLAS PROPIAS (además del estilo)
 - No glorificar a los criminales ni regodearse con las víctimas.
 - Entregar siempre: guion.txt (solo texto narrable), fuentes.txt (conteo, esquema,
   fuentes y puntos dudosos) y youtube.txt (título, descripción, etiquetas y miniatura).
+- Imágenes: seguir PROMPT_EDICION.txt (material público y libre primero; G-Labs solo
+  como último recurso).

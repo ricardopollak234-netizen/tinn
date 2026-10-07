@@ -1,0 +1,85 @@
+PROMPT DE EDICIÓN (IMÁGENES + MONTAJE) — CANAL DE LA SEGUNDA GUERRA MUNDIAL
+==========================================================================
+
+Uso: aplicar sobre el guion.txt ya aprobado. Convierte la narración en una lista de
+escenas, cada una con su foto, clip o imagen.
+
+REGLA DE ORO: usar TODO el material público y libre que exista (fotos y clips de
+archivo) y dejar G-Labs SOLO como último recurso, para lo que no tenga material libre.
+
+--------------------------------------------------------------------------------
+PASO 1 — DIVIDIR EN ESCENAS
+--------------------------------------------------------------------------------
+- Una imagen cada ~5–7 s. La voz lee a ~172 palabras/min (≈ 2,9 palabras por segundo),
+  así que cada escena tiene entre 12 y 21 palabras.
+- Cortar siempre en una pausa natural, nunca a mitad de un nombre o una cifra.
+- La narración de todas las escenas, unida, debe ser idéntica a guion.txt.
+
+--------------------------------------------------------------------------------
+PASO 2 — ELEGIR LA FUENTE (en este orden)
+--------------------------------------------------------------------------------
+1. NARA — Gobierno de EE. UU., dominio público (lo más valioso: es real y libre).
+   Archivos Nacionales (catalog.archives.gov): fotos y películas del Signal Corps, de
+   la Fuerza Aérea y de la Marina, documentales oficiales ("Tunisian Victory", "Why We
+   Fight"), Universal Newsreel. Fotos del ejército de EE. UU. de Núremberg. Clips en
+   archive.org SOLO si vienen de esas colecciones oficiales.
+   NO usar si dice "courtesy of" o cita a un tercero.
+2. BA — Bundesarchiv (archivo federal alemán) en Wikimedia Commons: miles de fotos de
+   1918–1990 con licencia CC BY-SA 3.0 DE. Crédito obligatorio:
+   "Bundesarchiv, Bild [número] / [autor] / CC-BY-SA 3.0".
+3. COM — Wikimedia Commons: lugares actuales (memoriales, castillos, ciudades), retratos
+   de dominio público, postales antiguas, obras oficiales (sellos alemanes, fotos de la
+   Oficina de Prensa del Gobierno de Israel). Leer la licencia de cada archivo.
+4. STK — Pexels / Pixabay / Unsplash: clips y fotos genéricos (bosques, lluvia, relojes,
+   cartas, máquinas de escribir, paisajes actuales). Personas solo de espaldas, en
+   silueta o no identificables.
+5. MAPA / GRAF — mapas propios (Natural Earth u OpenStreetMap) y gráficos o textos hechos
+   en el editor. No usar IA para mapas ni textos.
+6. G-LABS — ÚLTIMO RECURSO: momentos privados sin fotos libres (escenas familiares,
+   interrogatorios, recreaciones) y personas sin retrato libre. Aun así, escribir un
+   prompt de respaldo para cada escena de archivo, por si no se encuentra.
+
+Para reducir G-Labs:
+- Reutilizar la misma foto real en escenas no seguidas, con otro zoom o encuadre.
+- Reutilizar una imagen de G-Labs ya generada en lugar de generar otra parecida.
+- Si existe una foto de archivo de la época que muestra algo equivalente (un hogar
+  infantil de los años 40, un tribunal de los 50), preferirla a una recreación.
+
+PROHIBIDO aunque "esté en todos lados": la Deutsche Wochenschau y otros noticieros
+alemanes, el cine de propaganda (Riefenstahl), British Pathé, Getty, AP, Reuters, AFP,
+fotos del Imperial War Museum con licencia no comercial, películas y series (por
+ejemplo "Valkyrie"), clips coloreados de YouTube y capturas de documentales ajenos.
+
+Respeto a las víctimas: nada de cuerpos ni de fotos explícitas de los campos. Mostrar
+puertas, barracones, memoriales y vistas generales.
+
+--------------------------------------------------------------------------------
+PASO 3 — PROMPT DE G-LABS
+--------------------------------------------------------------------------------
+- En inglés: [plano] + [sujeto específico] + [acción] + [lugar y época] + [luz] + [estilo].
+- Personajes: usar SIEMPRE la descripción de ficha_personajes.txt, sin nombres reales.
+- Luz según el bloque:
+    antes de la guerra / familia ... soft warm window light, nostalgic
+    noche del atentado ............. night, harsh vehicle headlights and long shadows
+    prisión / Gestapo .............. cold harsh overhead light, claustrophobic
+    final de la guerra ............. gray spring light, smoke and dust of a collapsing country
+    posguerra / hoy ................ pale clean daylight, quiet and reflective
+- Estilo fijo (copiar tal cual al final de cada prompt):
+  1940s World War II historical documentary look, muted desaturated colors with cold
+  blue-gray and faded sepia tones, deep shadows, high contrast, archival film grain,
+  subtle vignette, shallow depth of field, 16:9, no text, no watermark, no swastikas or
+  Nazi insignia
+- Sin gore, sin violencia explícita (las ejecuciones se sugieren con siluetas y luz), sin
+  texto en la imagen y sin símbolos nazis (los generadores los rechazan).
+
+--------------------------------------------------------------------------------
+ENTREGA (por video)
+--------------------------------------------------------------------------------
+- escenas.txt ............... escena | segundos | narración / fuente / prompt
+- fuentes_visuales.csv ...... planilla (se abre en Excel) con fuente, licencia y dos
+                              columnas vacías para la URL usada y el crédito
+- prompts_glabs.txt ......... solo las escenas que van con G-Labs
+- prompts_glabs_respaldo.txt  el resto, por si falla la fuente libre
+- ficha_personajes.txt ...... descripciones fijas de los personajes
+Guardar cada archivo como 001.jpg / 001.mp4 / 001.png… para que coincida con la escena.
+Los créditos CC BY / CC BY-SA (Bundesarchiv y Commons) van en la descripción del video.
