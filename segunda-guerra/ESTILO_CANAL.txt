@@ -1,0 +1,77 @@
+GUÍA DE ESTILO — CANAL DE HISTORIAS DE LA SEGUNDA GUERRA MUNDIAL
+=================================================================
+
+Sacada de 4 videos de referencia (todos de "Historias Perdidas", unos 32 min cada uno):
+- Familia de Adolf Eichmann ... https://youtu.be/NwP7JIwtKgs
+- Familia de Josef Mengele .... https://youtu.be/RABzOOr62sE
+- Familia de Eva Braun ........ https://youtu.be/Nypqd9MnQZU
+- Familia de Ilse Koch ........ https://youtu.be/tpGUruB3rcg
+
+Uso: cuando el usuario pase un video para adaptar, escribir un guion NUEVO (no traducir ni
+copiar frases) con esta estructura y este tono, investigando los datos por separado.
+
+--------------------------------------------------------------------------------
+FORMATO
+--------------------------------------------------------------------------------
+- Título fijo: "¿Qué Pasó Con La Familia De [PERSONA] Después De La Segunda Guerra
+  Mundial?" (mayúscula en cada palabra).
+- Duración: 31–33 min → 5.300–5.600 palabras (la voz lee a ~172 palabras/min).
+- Texto corrido para voz en off: sin títulos de capítulo, sin acotaciones, sin
+  corchetes ni símbolos. Párrafos cortos separados por una línea en blanco.
+- Español neutro, tratando al espectador de "tú" ("Imagina la escena", "Fíjate en
+  ese detalle", "suscríbete").
+
+--------------------------------------------------------------------------------
+ESTRUCTURA
+--------------------------------------------------------------------------------
+1. COLD OPEN (60–90 s)
+   - Arranca con fecha y lugar en frase corta: "Septiembre de 1967." / "Mayo de 1962." /
+     "A las 15:30 horas del 30 de abril de 1945…".
+   - Una escena concreta, en presente o pasado inmediato, con un detalle sensorial
+     (el olor a almendras amargas, un chocolate caliente en los Alpes, una sábana atada
+     a una tubería).
+   - Giro: "La historia dice… pero la historia miente." / "Nos vendieron que… Es mentira."
+   - Promesa: "Hoy verás…" + lista rápida de lo que se va a contar.
+   - Fórmula de destinos: "Tres hermanos, tres destinos: traición, muerte y negación."
+   - CTA temprano con frase temática: "Si te atreves a mirar donde otros apartan la
+     vista, suscríbete ahora mismo y activa la campana." + "Empezamos." / "Empecemos."
+
+2. CAPÍTULOS (6–8 bloques de 3–5 min)
+   - Cada bloque abre con un ancla ("Munich, octubre de 1929.") o con un puente
+     explicativo ("Para comprender la magnitud de…, primero debemos…").
+   - Cada bloque cierra con un gancho hacia el siguiente: "No sabían que el precio… se
+     cobraría con intereses." / "Pero nadie imaginaba que…".
+   - Orden típico: origen de la familia → vida cotidiana junto al poder o el horror →
+     el momento de quiebre → la caída (arresto, muerte, juicio) → qué hizo cada hijo
+     → epílogo y presente.
+
+3. CIERRE
+   - Repaso en paralelo del destino de cada hijo: "Gisela eligió… Artwin eligió…
+     Uwe eligió…".
+   - Reflexión moral que conecte con la pregunta del inicio, y una última frase corta
+     que se recuerde ("El odio no muere en la horca. Se transmite en la mesa de la cena.").
+   - Opcional: pregunta para los comentarios + pedir like y suscripción.
+
+--------------------------------------------------------------------------------
+RECURSOS QUE SE REPITEN
+--------------------------------------------------------------------------------
+- "Imagina la escena." antes de una reconstrucción.
+- Ironías señaladas en voz alta: "La ironía era brutal.", "En una ironía suprema…".
+- Contraste entre lo doméstico y el horror (el zoológico junto al campo, el pastel de
+  manzana servido por Hitler, el ramo de flores de Eichmann).
+- Metáforas que funcionan como nombre de capítulo: "jaula de oro", "la boda roja",
+  "burbuja de impunidad", "pacto fáustico".
+- Preguntas retóricas para abrir dudas: "¿Cómo fue esto posible durante 10 años?".
+- Datos concretos (fechas, cifras, nombres) para dar peso.
+- Frases cortas y contundentes después de frases largas.
+
+--------------------------------------------------------------------------------
+REGLAS PROPIAS (además del estilo)
+--------------------------------------------------------------------------------
+- Investigar cada dato por separado. Los videos de origen a veces se equivocan: no
+  copiar sus datos sin comprobarlos.
+- Atribuir lo dudoso ("según los testigos…", "las fuentes no coinciden…").
+- No inventar diálogos: solo citas reales, atribuidas.
+- No glorificar a los criminales ni regodearse con las víctimas.
+- Entregar siempre: guion.txt (solo texto narrable), fuentes.txt (conteo, esquema,
+  fuentes y puntos dudosos) y youtube.txt (título, descripción, etiquetas y miniatura).
