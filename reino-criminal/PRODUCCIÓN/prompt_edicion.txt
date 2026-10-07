@@ -2,8 +2,11 @@ PROMPT DE EDICIÓN (IMÁGENES + MONTAJE) — REINO CRIMINAL
 =======================================================
 
 Uso: aplicar este prompt sobre el `guion.txt` YA APROBADO. Convierte la narración en una
-lista de escenas, cada una con su imagen fija generada con G-Labs, lista para el
-montaje con COMUNES/generar_video.py (paso 6, imágenes fijas).
+lista de escenas, cada una con su imagen (o clip), lista para el montaje con
+COMUNES/generar_video.py (paso 6).
+
+REGLA DE ORO DE LAS FUENTES: usar todo el material público y libre que exista (fotos y
+clips) y dejar G-Labs SOLO como último recurso, para lo que no se pueda conseguir libre.
 
 --------------------------------------------------------------------------------
 ROL
@@ -78,6 +81,39 @@ Límites (también para que G-Labs no rechace los prompts):
     escriben mal el texto).
 
 --------------------------------------------------------------------------------
+PASO 2B — ELEGIR LA FUENTE (en este orden de prioridad)
+--------------------------------------------------------------------------------
+1. GOB — Dominio público del gobierno federal de EE. UU. (lo más valioso: es real).
+   DEA (fichas de fugitivos, fotos de decomisos y laboratorios), Departamento de Justicia
+   y documentos judiciales (acusaciones, acuerdos de culpabilidad en courtlistener.com),
+   FBI (carteles de búsqueda), Departamento de Estado (carteles de recompensa), ICE,
+   Tesoro (comunicados y gráficos de sanciones), CBP (frontera, garitas, túneles; fotos y
+   clips), DVIDS (material militar y de la Guardia Costera; fotos y clips), Bureau of
+   Prisons. OJO: si la página dice "courtesy of" o cita a un tercero, NO es de dominio
+   público.
+2. COM — Wikimedia Commons y archivos con licencia libre (CC0, CC BY, CC BY-SA) o "no
+   known restrictions" de la Biblioteca del Congreso. Ciudades, edificios, cortes,
+   paisajes, políticos. Leer la licencia de cada archivo y anotar el crédito.
+3. STK — Bancos gratuitos (Pexels, Pixabay, Unsplash), fotos y CLIPS de video para lo
+   genérico: dinero, documentos, cinta policial, velas, paisajes, avionetas, drones.
+   Personas solo de espaldas, en silueta o no identificables: nunca usar a una persona
+   reconocible de stock para representar a un criminal.
+4. MAPA — Mapas y gráficos propios con base de Natural Earth (dominio público) u
+   OpenStreetMap (con crédito). No usar IA para mapas: suelen salir con errores.
+5. G-LABS — ÚLTIMO RECURSO. Solo para momentos que no tienen material libre: escenas
+   privadas o recreaciones (el secuestro, reuniones secretas), personajes sin foto libre
+   y momentos simbólicos. Aun así, escribir un prompt de respaldo para TODAS las
+   escenas, por si no se encuentra la fuente libre.
+
+PROHIBIDO aunque "esté en todos lados": fotos de agencias (AP, Reuters, Getty, AFP,
+EFE, Cuartoscuro), fotos de periódicos, capturas de noticieros, ilustraciones de juicio
+(courtroom sketches) y clips de YouTube de medios.
+
+Para reducir G-Labs, se puede REUTILIZAR una misma foto real (por ejemplo, la ficha de la
+DEA de un personaje) en varias escenas no consecutivas, con distinto encuadre o zoom.
+Si una escena usa un CLIP, verificar que el script de montaje acepte video.
+
+--------------------------------------------------------------------------------
 PASO 3 — ESCRIBIR EL PROMPT DE IMAGEN (G-LABS)
 --------------------------------------------------------------------------------
 - Los prompts van en INGLÉS (los generadores responden mejor), con esta estructura:
@@ -102,16 +138,22 @@ PASO 4 — ENTREGA
 1. `escenas.txt` — una entrada por escena, numeradas con tres cifras, en este formato:
 
    001 | ~6 s | NARRACIÓN: (fragmento exacto de guion.txt)
-   IMAGEN: (prompt en inglés para G-Labs)
+   FUENTE [GOB/COM/STK/MAPA/G-LABS (+ CLIP)]: qué buscar → dónde
+   IMAGEN G-LABS: (prompt)   o bien   RESPALDO G-LABS: (prompt)
 
    (línea en blanco entre escenas)
 
-2. `prompts_glabs.txt` — SOLO los prompts, uno por línea, en el mismo orden, para
-   pegarlos en G-Labs por tandas. Las imágenes generadas se guardan como 001.png,
-   002.png… para que coincidan con la numeración de las escenas.
+2. `fuentes_visuales.csv` — planilla (se abre en Excel) con una fila por escena: tipo de
+   fuente, qué buscar, dónde, licencia, y dos columnas vacías para anotar la URL del
+   archivo usado y el crédito. De ahí salen los créditos de la descripción del video.
 
-3. En el chat: número total de escenas, duración media por escena y la ficha de
-   personajes usada.
+3. `prompts_glabs.txt` — SOLO las escenas cuya fuente es G-Labs, con su número
+   ("001 | prompt"). `prompts_glabs_respaldo.txt` — el resto, por si falla la fuente libre.
+   Todos los archivos (fotos, clips y G-Labs) se guardan como 001.jpg/.png/.mp4, 002…
+   para que coincidan con la numeración de las escenas.
+
+4. En el chat: número total de escenas, duración media, cuántas escenas van con cada
+   tipo de fuente y la ficha de personajes usada.
 
 Si COMUNES/generar_video.py espera otro formato o nombre de archivos, adapta la entrega
 a lo que pida ese script y avisa del cambio.
@@ -125,3 +167,6 @@ REVISIÓN ANTES DE ENTREGAR
 [ ] No hay dos escenas seguidas con el mismo tipo de plano.
 [ ] Los personajes recurrentes usan siempre la misma descripción física.
 [ ] Todos los prompts terminan con el estilo fijo y respetan los límites.
+[ ] Cada escena tiene fuente asignada; G-Labs solo donde no hay material libre.
+[ ] Ningún material de agencias, periódicos, noticieros ni ilustraciones de juicio.
+[ ] Los créditos de las licencias CC BY / CC BY-SA quedaron anotados.
