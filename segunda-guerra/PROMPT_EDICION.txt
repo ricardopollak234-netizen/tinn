@@ -75,11 +75,13 @@ PASO 3 — PROMPT DE G-LABS
 --------------------------------------------------------------------------------
 ENTREGA (por video)
 --------------------------------------------------------------------------------
-- escenas.txt ............... escena | segundos | narración / fuente / prompt
-- fuentes_visuales.csv ...... planilla (se abre en Excel) con fuente, licencia y dos
-                              columnas vacías para la URL usada y el crédito
-- prompts_glabs.txt ......... solo las escenas que van con G-Labs
-- prompts_glabs_respaldo.txt  el resto, por si falla la fuente libre
+- escenas.txt ............... escena | tiempo | narración y la foto/clip/gráfico exacto usado
+- fuentes_visuales.csv ...... planilla (se abre en Excel) con archivo, enlace, licencia y autor
+- prompts_glabs.txt ......... solo las escenas sin material libre (todas distintas)
 - ficha_personajes.txt ...... descripciones fijas de los personajes
-Guardar cada archivo como 001.jpg / 001.mp4 / 001.png… para que coincida con la escena.
+- creditos_descripcion.txt .. créditos cortos para la descripción de YouTube
+- creditos_completos.txt .... autor y licencia de cada imagen (enlazar desde la descripción)
+- medios/ ................... 001.jpg / 001.mp4 / 001.png… uno por escena, ninguno repetido
+                              (se baja con seleccion/assemble_media.py; no va a git)
+Video: python3 herramientas/generar_video.py CARPETA_VIDEO  (--borrador para revisar rápido)
 Los créditos CC BY / CC BY-SA (Bundesarchiv y Commons) van en la descripción del video.

@@ -87,6 +87,7 @@ for n, (kind, val) in plan.items():
     f, start, crop, _ = val
     out = os.path.join(MED, f'{n}.mp4')
     if os.path.exists(out) and n != '053': continue
+    if os.path.exists(out) and n != '053': continue
     vf = 'crop=ih*4/3:ih,' if crop == 'pillar' else ''
     vf += 'scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,fps=30'
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', str(start), '-i', os.path.join(CL, f), '-t', f'{dur[n] + 0.6:.2f}',

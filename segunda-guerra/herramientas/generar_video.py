@@ -10,7 +10,9 @@ Entradas (todas dentro de la carpeta del video, p. ej. familia-stauffenberg/):
   musica.csv            inicio_s;archivo;  (pistas de fondo por bloque, en orden)
 
 Uso:
-  python3 generar_video.py CARPETA_VIDEO [--borrador] [--desde N --hasta M]
+  python3 generar_video.py CARPETA_VIDEO [--borrador] [--desde N --hasta M] [--hilos 4]
+
+Si se corta, al volver a correrlo reutiliza las escenas ya renderizadas.
 
 --borrador renderiza a 960x540 y más rápido, para revisar el montaje.
 Requiere ffmpeg y Pillow.
@@ -55,17 +57,20 @@ def canvas_16x9(src, W, H, out):
     bg.save(out, quality=92)
 
 def placeholder(n, texto, W, H, out):
-    im = Image.new('RGB', (W * 2, H * 2), (18, 16, 14))
+    cw, ch = W * 2, H * 2
+    im = Image.new('RGB', (cw, ch), (18, 16, 14))
     d = ImageDraw.Draw(im)
     try:
-        f1 = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', W // 18)
-        f2 = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', W // 40)
+        f1 = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', cw // 22)
+        f2 = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', cw // 48)
     except OSError:
         f1 = f2 = ImageFont.load_default()
-    d.text((W // 6, H // 2), f'ESCENA {n} — FALTA IMAGEN', fill=(200, 60, 50), font=f1)
-    y = H // 2 + W // 12
-    for line in textwrap.wrap(texto, 70)[:6]:
-        d.text((W // 6, y), line, fill=(190, 180, 160), font=f2); y += W // 30
+    t = f'ESCENA {n} — FALTA IMAGEN'
+    y = ch * 0.34
+    d.text(((cw - d.textlength(t, font=f1)) / 2, y), t, fill=(200, 60, 50), font=f1)
+    y += cw // 14
+    for line in textwrap.wrap(texto, 60)[:6]:
+        d.text(((cw - d.textlength(line, font=f2)) / 2, y), line, fill=(190, 180, 160), font=f2); y += cw // 34
     im.save(out, quality=90)
 
 MOVES = ['in', 'out', 'right', 'left', 'in_top', 'out']
@@ -125,6 +130,7 @@ def main():
     ap.add_argument('carpeta'); ap.add_argument('--borrador', action='store_true')
     ap.add_argument('--desde', type=int, default=1); ap.add_argument('--hasta', type=int, default=10**6)
     ap.add_argument('--salida')
+    ap.add_argument('--hilos', type=int, default=os.cpu_count() or 2, help='escenas que se renderizan a la vez')
     a = ap.parse_args()
     base = os.path.abspath(a.carpeta)
     W, H = (960, 540) if a.borrador else (1920, 1080)
@@ -136,23 +142,37 @@ def main():
         for r in csv.reader(open(rp, encoding='utf-8-sig'), delimiter=';'):
             if r and r[0].isdigit(): reuse[r[0].zfill(3)] = r[1].zfill(3)
     medios = os.path.join(base, 'medios')
-    tmp = os.path.join(base, '_tmp_segmentos'); os.makedirs(tmp, exist_ok=True)
-    lista = []; faltan = []
-    random.seed(7)
+    tmp = os.path.join(base, f'_tmp_segmentos_{W}'); os.makedirs(tmp, exist_ok=True)
+    lista = []; faltan = []; trabajos = []
     for i, r in enumerate(rows):
         n, t0, t1 = r[0], float(r[1]), float(r[2])
-        dur = t1 - t0
         src = find_media(medios, n) or (find_media(medios, reuse[n]) if n in reuse else None)
+        if not src: faltan.append(n)
         seg = os.path.join(tmp, f'{n}.mp4')
+        lista.append(seg); trabajos.append((i, r, src, seg, t1 - t0))
+
+    def hacer(t):
+        i, r, src, seg, dur = t
+        n = r[0]
+        # se reutiliza el segmento ya hecho si su origen no cambió
+        firma = f'{src}|{os.path.getmtime(src) if src else 0}|{dur:.3f}'
+        if os.path.exists(seg) and os.path.exists(seg + '.ok') and open(seg + '.ok').read() == firma:
+            return f'{n} (ya estaba)'
+        part = seg[:-4] + '.part.mp4'
         if src and src.lower().endswith(VID_EXT):
-            seg_video(src, dur, W, H, seg)
+            seg_video(src, dur, W, H, part)
         else:
             img = os.path.join(tmp, f'{n}_canvas.jpg')
             if src: canvas_16x9(src, W, H, img)
-            else: placeholder(n, r[4], W, H, img); faltan.append(n)
-            seg_image(img, dur, W, H, MOVES[i % len(MOVES)] if src else 'in', seg)
-        lista.append(seg)
-        print(f'{n} ({dur:.1f} s) {"FALTA" if not src else os.path.basename(src)}', flush=True)
+            else: placeholder(n, r[4], W, H, img)
+            seg_image(img, dur, W, H, MOVES[i % len(MOVES)] if src else 'in', part)
+        os.replace(part, seg); open(seg + '.ok', 'w').write(firma)
+        return f'{n} ({dur:.1f} s) {"FALTA" if not src else os.path.basename(src)}'
+
+    from concurrent.futures import ThreadPoolExecutor
+    with ThreadPoolExecutor(a.hilos) as ex:
+        for msg in ex.map(hacer, trabajos):
+            print(msg, flush=True)
     with open(os.path.join(tmp, 'lista.txt'), 'w') as f:
         for s in lista: f.write(f"file '{s}'\n")
     video = os.path.join(tmp, 'video_mudo.mp4')
@@ -171,9 +191,9 @@ def main():
     build_music(base, plan, total, musica)
     salida = a.salida or os.path.join(base, 'video_borrador.mp4' if a.borrador else 'video_final.mp4')
     # Voz al frente; música 18 dB por debajo y que además baja cuando habla el narrador.
-    fc = (f"[1:a]atrim={t_ini:.2f}:{t_ini + total:.2f},asetpts=PTS-STARTPTS,loudnorm=I=-16:TP=-1.5,asplit=2[v][vsc];"
-          f"[2:a]volume=-18dB[mus];[mus][vsc]sidechaincompress=threshold=0.03:ratio=4:attack=30:release=600[md];"
-          f"[v][md]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[a]")
+    fc = (f"[1:a]atrim={t_ini:.2f}:{t_ini + total:.2f},asetpts=PTS-STARTPTS,loudnorm=I=-16:TP=-1.5,aresample=44100,asplit=2[v][vsc];"
+          f"[2:a]aresample=44100,volume=-18dB[mus];[mus][vsc]sidechaincompress=threshold=0.03:ratio=4:attack=30:release=600[md];"
+          f"[v][md]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[a]")
     run(['ffmpeg', '-v', 'error', '-y', '-i', video, '-i', voz, '-i', musica, '-filter_complex', fc,
          '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-shortest', salida])
     print(f'\nLISTO: {salida}')
