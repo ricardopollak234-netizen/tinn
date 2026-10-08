@@ -11,6 +11,7 @@ de la narración, así que el corte cae aproximadamente donde cambia la frase.
 Uso (desde la carpeta PRODUCCIÓN):
     python montar_video.py --audio "narracion\\narracion.mp3"
     python montar_video.py --audio "narracion\\narracion.mp3" --desde 1 --hasta 30   (prueba corta)
+    python montar_video.py --audio "narracion\\narracion.mp3" --hilos 4   (renderiza 4 escenas a la vez)
 
 Necesita ffmpeg: usa el del sistema o, si no está, el que trae moviepy (imageio-ffmpeg).
 """
@@ -123,6 +124,7 @@ def main():
     ap.add_argument('--desde', type=int, default=1)
     ap.add_argument('--hasta', type=int, default=9999)
     ap.add_argument('--sin-grado', action='store_true', help='no aplicar la corrección de color neo-noir')
+    ap.add_argument('--hilos', type=int, default=1, help='escenas que se renderizan a la vez (más rápido en PCs con varios núcleos)')
     a = ap.parse_args()
 
     ff = ffmpeg_bin()
@@ -143,7 +145,7 @@ def main():
     faltan = []
     with tempfile.TemporaryDirectory() as tmp:
         tmp = Path(tmp)
-        lista = []
+        lista, trabajos = [], []
         for i, e in enumerate(sel):
             medio = buscar_medio(carpeta, e['n'])
             if medio is None:
@@ -152,9 +154,15 @@ def main():
                 if medio is None:
                     sys.exit('Falta Pillow para crear las tarjetas provisionales (pip install pillow).')
             seg = tmp / f"seg_{e['n']:03d}.mp4"
-            print(f"[{i + 1}/{len(sel)}] escena {e['n']:03d}  {e['seg']:.2f} s  ← {Path(medio).name}", flush=True)
-            render_escena(ff, Path(medio), e['seg'], seg, e['n'], not a.sin_grado)
+            trabajos.append((i, e, Path(medio), seg))
             lista.append(seg)
+        def hacer(t):
+            i, e, medio, seg = t
+            render_escena(ff, medio, e['seg'], seg, e['n'], not a.sin_grado)
+            print(f"[{i + 1}/{len(sel)}] escena {e['n']:03d}  {e['seg']:.2f} s  ← {medio.name}", flush=True)
+        from concurrent.futures import ThreadPoolExecutor
+        with ThreadPoolExecutor(max(1, a.hilos)) as ex:
+            list(ex.map(hacer, trabajos))
         (tmp / 'lista.txt').write_text(''.join(f"file '{p.as_posix()}'\n" for p in lista), encoding='utf-8')
         video = tmp / 'video.mp4'
         subprocess.run([ff, '-y', '-v', 'error', '-f', 'concat', '-safe', '0', '-i', str(tmp / 'lista.txt'), '-c', 'copy', str(video)], check=True)
