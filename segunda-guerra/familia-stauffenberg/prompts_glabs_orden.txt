@@ -1,0 +1,59 @@
+ORDEN DE LAS 54 IMÁGENES G-LABS
+prompts_glabs_lote.txt tiene un prompt por línea, en este mismo orden.
+Pegalo entero en GLabs Automator (ImageFX o Whisk, formato 16:9) y generá 1 imagen por prompt.
+Descargá las imágenes sin cambiar el orden, o renombralas con el número de escena de abajo.
+
+línea  1 → escena 002 → medios/002.png
+línea  2 → escena 009 → medios/009.png
+línea  3 → escena 019 → medios/019.png
+línea  4 → escena 020 → medios/020.png
+línea  5 → escena 028 → medios/028.png
+línea  6 → escena 031 → medios/031.png
+línea  7 → escena 033 → medios/033.png
+línea  8 → escena 045 → medios/045.png
+línea  9 → escena 073 → medios/073.png
+línea 10 → escena 075 → medios/075.png
+línea 11 → escena 081 → medios/081.png
+línea 12 → escena 082 → medios/082.png
+línea 13 → escena 085 → medios/085.png
+línea 14 → escena 088 → medios/088.png
+línea 15 → escena 093 → medios/093.png
+línea 16 → escena 101 → medios/101.png
+línea 17 → escena 114 → medios/114.png
+línea 18 → escena 115 → medios/115.png
+línea 19 → escena 116 → medios/116.png
+línea 20 → escena 117 → medios/117.png
+línea 21 → escena 118 → medios/118.png
+línea 22 → escena 119 → medios/119.png
+línea 23 → escena 120 → medios/120.png
+línea 24 → escena 136 → medios/136.png
+línea 25 → escena 143 → medios/143.png
+línea 26 → escena 147 → medios/147.png
+línea 27 → escena 150 → medios/150.png
+línea 28 → escena 154 → medios/154.png
+línea 29 → escena 155 → medios/155.png
+línea 30 → escena 163 → medios/163.png
+línea 31 → escena 170 → medios/170.png
+línea 32 → escena 180 → medios/180.png
+línea 33 → escena 182 → medios/182.png
+línea 34 → escena 184 → medios/184.png
+línea 35 → escena 188 → medios/188.png
+línea 36 → escena 193 → medios/193.png
+línea 37 → escena 196 → medios/196.png
+línea 38 → escena 200 → medios/200.png
+línea 39 → escena 204 → medios/204.png
+línea 40 → escena 208 → medios/208.png
+línea 41 → escena 213 → medios/213.png
+línea 42 → escena 217 → medios/217.png
+línea 43 → escena 219 → medios/219.png
+línea 44 → escena 225 → medios/225.png
+línea 45 → escena 231 → medios/231.png
+línea 46 → escena 237 → medios/237.png
+línea 47 → escena 245 → medios/245.png
+línea 48 → escena 250 → medios/250.png
+línea 49 → escena 268 → medios/268.png
+línea 50 → escena 272 → medios/272.png
+línea 51 → escena 273 → medios/273.png
+línea 52 → escena 302 → medios/302.png
+línea 53 → escena 310 → medios/310.png
+línea 54 → escena 331 → medios/331.png
