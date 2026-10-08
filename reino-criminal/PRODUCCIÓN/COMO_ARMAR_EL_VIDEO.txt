@@ -43,3 +43,15 @@ Todo se hace desde la carpeta PRODUCCIÓN. Los medios de cada escena van en la c
 
 NO USAR: fotos de agencias (AP, Reuters, Getty, AFP, EFE, Cuartoscuro), fotos de
 periódicos, capturas de noticieros, ilustraciones de juicio ni clips de YouTube de medios.
+
+---------------------------------------------------------------------------------
+ESTADO (8 de octubre de 2026)
+---------------------------------------------------------------------------------
+- Narración generada con Voizum: narracion/narracion.mp3 (36,8 min).
+- 376 medios descargados en medios/ (fotos y clips libres, ninguno repetido) + 16 mapas.
+- Créditos para la descripción de YouTube: CREDITOS.txt
+- VIDEO TERMINADO: carpeta video/ (5 partes de menos de 100 MB por el límite de GitHub).
+  Para obtener un solo archivo: entrar a la carpeta video y ejecutar  python unir_video.py
+  → crea reino_criminal_mayito_flaco.mp4 (1080p, 36,8 min, listo para YouTube).
+- Para volver a montarlo después de cambiar algún medio:
+      python montar_video.py --audio "narracion\narracion.mp3"
