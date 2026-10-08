@@ -1,0 +1,8 @@
+contexto 275.1
+metodo 718.8
+tension 922.9
+guerras 1205.2
+persecucion 1453.9
+caida 1686.3
+actualidad 1989.0
+275.1 718.8 922.9 1205.2 1453.9 1686.3 1989.0

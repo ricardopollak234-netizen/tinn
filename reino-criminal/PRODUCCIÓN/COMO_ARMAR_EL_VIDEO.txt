@@ -55,3 +55,7 @@ ESTADO (8 de octubre de 2026)
   → crea reino_criminal_mayito_flaco.mp4 (1080p, 36,8 min, listo para YouTube).
 - Para volver a montarlo después de cambiar algún medio:
       python montar_video.py --audio "narracion\narracion.mp3"
+- MÚSICA DE FONDO: el video de la carpeta video/ ya la tiene (8 temas de suspenso de Kevin MacLeod,
+  uno por tramo de la historia, la música baja sola cuando habla la voz). Para remezclar:
+      python musica_fondo.py --video VIDEO_SIN_MUSICA.mp4 --narracion narracion\narracion.mp3 --musica (temas de musica\) --cortes (ver musica\cortes_mayito_flaco.txt)
+  Opción --nivel: -23 por defecto; -20 = música más alta, -26 = más baja.

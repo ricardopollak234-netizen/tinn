@@ -33,7 +33,7 @@ def main():
     ap.add_argument('--narracion', required=True)
     ap.add_argument('--musica', nargs='+', required=True, help='temas en orden')
     ap.add_argument('--cortes', nargs='*', type=float, default=None, help='segundos donde cambia de tema')
-    ap.add_argument('--nivel', type=float, default=-27.0, help='volumen de la música en LUFS (más negativo = más bajo)')
+    ap.add_argument('--nivel', type=float, default=-23.0, help='volumen de la música en LUFS (más negativo = más bajo)')
     ap.add_argument('--salida', default='video_con_musica.mp4')
     a = ap.parse_args()
 
@@ -58,11 +58,12 @@ def main():
     for i in range(1, n):
         f.append(f"[{prev}][m{i}]acrossfade=d={XF}:c1=tri:c2=tri[x{i}]"); prev = f'x{i}'
     f.append(f"[{prev}]afade=t=in:d=3,afade=t=out:st={total - 6:.3f}:d=6[cama]")
-    f.append("[1:a]aformat=sample_rates=48000:channel_layouts=stereo,loudnorm=I=-16:TP=-2:LRA=11,asplit=2[voz][voz_sc]")
-    f.append("[cama][voz_sc]sidechaincompress=threshold=0.03:ratio=4:attack=80:release=900:makeup=1[cama_d]")
-    f.append("[voz][cama_d]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[aud]")
+    # apad: el filtro loudnorm se come los últimos ~3 s; con relleno de silencio no se pierde la última frase
+    f.append("[1:a]aformat=sample_rates=48000:channel_layouts=stereo,apad=pad_dur=8,loudnorm=I=-16:TP=-2:LRA=11,asplit=2[voz][voz_sc]")
+    f.append("[cama][voz_sc]sidechaincompress=threshold=0.03:ratio=3:attack=80:release=900:makeup=1[cama_d]")
+    f.append(f"[voz][cama_d]amix=inputs=2:duration=longest:normalize=0,apad=pad_dur=8,loudnorm=I=-14:TP=-1.5:LRA=11,atrim=0:{total + 1:.3f}[aud]")
     cmd += ['-filter_complex', ';'.join(f), '-map', '0:v', '-map', '[aud]', '-c:v', 'copy',
-            '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', '-shortest', a.salida]
+            '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', '-t', f'{duracion(ff, a.video):.3f}', a.salida]
     subprocess.run(cmd, check=True)
     print(f'Listo: {a.salida}')
 
