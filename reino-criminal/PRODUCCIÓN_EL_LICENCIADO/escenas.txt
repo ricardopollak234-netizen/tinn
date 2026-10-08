@@ -1,0 +1,756 @@
+001 | ~6 s | NARRACIÓN: El 22 de enero de 2019, en una sala del tribunal federal de Brooklyn, en Nueva York,
+
+002 | ~5 s | NARRACIÓN: un hombre de cincuenta y dos años fue llamado al estrado de los testigos.
+
+003 | ~8 s | NARRACIÓN: A pocos metros, en la mesa de la defensa, estaba el acusado más famoso del mundo: Joaquín Guzmán Loera, el Chapo.
+
+004 | ~4 s | NARRACIÓN: Según los periodistas que cubrían el juicio, antes de empezar a declarar,
+
+005 | ~7 s | NARRACIÓN: el testigo miró al acusado y se llevó el puño derecho al corazón. Un saludo de respeto. Casi de cariño.
+
+006 | ~8 s | NARRACIÓN: Después juró decir la verdad. Y durante tres días contó al jurado todo lo que sabía del hombre al que acababa de saludar.
+
+007 | ~4 s | NARRACIÓN: Su nombre era Dámaso López Núñez. En Sinaloa lo llamaban el Licenciado.
+
+008 | ~7 s | NARRACIÓN: Había sido policía, funcionario de prisiones, compadre del Chapo, padrino de una de sus hijas y, durante un tiempo,
+
+009 | ~4 s | NARRACIÓN: uno de los hombres más poderosos del Cártel de Sinaloa.
+
+010 | ~5 s | NARRACIÓN: Pero lo más inquietante de su historia no era lo que dijo aquel día.
+
+011 | ~3 s | NARRACIÓN: Era el lugar donde los dos se habían conocido.
+
+012 | ~8 s | NARRACIÓN: Veinte años antes, Dámaso López era el subdirector de seguridad de la cárcel de máxima seguridad donde el Chapo estaba preso.
+
+013 | ~6 s | NARRACIÓN: Su trabajo consistía en vigilarlo. Y en enero de 2001, el Chapo se escapó de esa cárcel.
+
+014 | ~7 s | NARRACIÓN: El gobierno de Estados Unidos sostiene que el Licenciado lo ayudó a fugarse. Él siempre lo ha negado.
+
+015 | ~7 s | NARRACIÓN: ¿Cómo un hombre que había jurado custodiar una prisión terminó al frente de una parte del imperio que debía combatir?
+
+016 | ~4 s | NARRACIÓN: ¿Por qué los hijos de su compadre lo acusaron de querer matarlos?
+
+017 | ~5 s | NARRACIÓN: ¿Y qué lo llevó, al final, a sentarse frente al Chapo para hundirlo?
+
+018 | ~8 s | NARRACIÓN: Esta es la historia del hombre al que acusan de haber sacado al Chapo de prisión… y que después lo traicionó.
+
+019 | ~7 s | NARRACIÓN: Para entender al Licenciado hay que viajar al sur de Culiacán, a una tierra plana de canales de riego,
+
+020 | ~7 s | NARRACIÓN: cañaverales y campos de cultivo: la sindicatura de Eldorado, un pueblo agrícola que creció alrededor de un ingenio azucarero.
+
+021 | ~4 s | NARRACIÓN: Ahí, en un ejido llamado Portaceli, nació Dámaso López Núñez.
+
+022 | ~7 s | NARRACIÓN: La ficha del Departamento del Tesoro de Estados Unidos fija su fecha de nacimiento el 22 de febrero de 1966.
+
+023 | ~7 s | NARRACIÓN: Su padre, Dámaso López García, era un hombre conocido en la región y tenía vínculos con el Partido Revolucionario Institucional,
+
+024 | ~3 s | NARRACIÓN: el PRI, que entonces gobernaba México sin rival.
+
+025 | ~7 s | NARRACIÓN: La periodista Anabel Hernández, en su libro Los señores del narco, lo describe como un rico terrateniente de Culiacán,
+
+026 | ~4 s | NARRACIÓN: dueño de un rancho con lago, palapas, capillas y canchas deportivas.
+
+027 | ~6 s | NARRACIÓN: El hijo eligió un camino que, en apariencia, lo alejaba de cualquier sospecha: estudió Derecho.
+
+028 | ~7 s | NARRACIÓN: De ahí nació el apodo con el que se haría famoso. Aunque, según la prensa mexicana, nunca llegó a titularse.
+
+029 | ~8 s | NARRACIÓN: Las fuentes ni siquiera coinciden en la universidad: unas mencionan la Universidad Autónoma de Sinaloa y otras, la Universidad de Occidente.
+
+030 | ~7 s | NARRACIÓN: En 1991, con veinticinco años, entró a trabajar en la Procuraduría General de Justicia del Estado de Sinaloa.
+
+031 | ~6 s | NARRACIÓN: El gobernador era entonces Francisco Labastida Ochoa. El semanario Zeta, de Tijuana, reconstruyó su carrera.
+
+032 | ~8 s | NARRACIÓN: Su primer puesto fue al frente de la Agencia Número Uno del Ministerio Público, encargada de operativos conjuntos con otras corporaciones.
+
+033 | ~3 s | NARRACIÓN: Después pasó a la Policía Judicial del Estado:
+
+034 | ~7 s | NARRACIÓN: supervisor en Villa Juárez, subjefe del departamento de actas, jefe del departamento de vehículos de la zona centro y, finalmente,
+
+035 | ~7 s | NARRACIÓN: comandante en las zonas norte y sur del estado. Era una carrera rápida. Un abogado joven, de familia influyente,
+
+036 | ~6 s | NARRACIÓN: subiendo escalones dentro de la policía de uno de los estados más golpeados por el narcotráfico.
+
+037 | ~3 s | NARRACIÓN: Pero hay otra versión de esos años.
+
+038 | ~8 s | NARRACIÓN: Anabel Hernández sostiene que, mientras dirigía investigaciones sobre robo de autos, el futuro Licenciado ya trabajaba en secreto para el narcotráfico,
+
+039 | ~7 s | NARRACIÓN: bajo las órdenes de Ismael Zambada García, el Mayo. Es una acusación periodística que nunca fue probada ante un juez.
+
+040 | ~6 s | NARRACIÓN: En esos años también formó su familia. En 1987 nació en Culiacán su hijo, Dámaso López Serrano.
+
+041 | ~6 s | NARRACIÓN: Llevaría el nombre del padre y del abuelo. Y con el tiempo heredaría algo más: el apodo.
+
+042 | ~3 s | NARRACIÓN: En Sinaloa lo conocerían como el Mini Lic.
+
+043 | ~7 s | NARRACIÓN: Mientras el padre ascendía en la policía sinaloense, a cientos de kilómetros de ahí, dentro de una prisión,
+
+044 | ~3 s | NARRACIÓN: se estaba preparando el escenario que cambiaría su vida.
+
+045 | ~4 s | NARRACIÓN: A principios de los años noventa, el narcotráfico mexicano vivía una transformación.
+
+046 | ~7 s | NARRACIÓN: La vieja organización de Guadalajara se había fragmentado tras la captura de Miguel Ángel Félix Gallardo en 1989,
+
+047 | ~4 s | NARRACIÓN: y sus herederos se repartían el país en territorios: Tijuana, Juárez, Sinaloa.
+
+048 | ~6 s | NARRACIÓN: En el Pacífico crecía un hombre de Badiraguato, de baja estatura y ambición enorme: Joaquín Guzmán Loera.
+
+049 | ~6 s | NARRACIÓN: El 9 de junio de 1993, el Chapo fue capturado en Guatemala y entregado a México.
+
+050 | ~6 s | NARRACIÓN: Lo encerraron primero en el penal de máxima seguridad de Almoloya, en el Estado de México.
+
+051 | ~4 s | NARRACIÓN: En 1995 lo trasladaron a otra prisión federal recién construida en Jalisco:
+
+052 | ~7 s | NARRACIÓN: el Centro Federal de Readaptación Social número dos, conocido como Puente Grande. Puente Grande era parte de un proyecto ambicioso.
+
+053 | ~6 s | NARRACIÓN: El gobierno mexicano había adoptado un modelo de cárceles de máxima seguridad, inspirado, según el semanario Zeta,
+
+054 | ~8 s | NARRACIÓN: en el sistema penitenciario francés: controles electrónicos, vigilancia permanente y reglas estrictas para encerrar a los criminales más peligrosos del país.
+
+055 | ~3 s | NARRACIÓN: En teoría, de ahí nadie podía escapar.
+
+056 | ~7 s | NARRACIÓN: Uno de los hombres que sostenían ese orden era el comandante Juan Castillo Alonso, responsable de la seguridad del penal.
+
+057 | ~3 s | NARRACIÓN: Los internos lo detestaban por su disciplina extrema.
+
+058 | ~5 s | NARRACIÓN: Mientras él estuvo a cargo, Puente Grande funcionó como se suponía que debía funcionar.
+
+059 | ~6 s | NARRACIÓN: En 1998, Francisco Labastida Ochoa, ya como exgobernador de Sinaloa, fue nombrado secretario de Gobernación,
+
+060 | ~8 s | NARRACIÓN: la dependencia que entonces administraba las prisiones federales. Según Zeta, con él llegó a la secretaría un grupo de exfuncionarios sinaloenses,
+
+061 | ~6 s | NARRACIÓN: y varios excomandantes de la policía del estado fueron enviados a los penales de máxima seguridad.
+
+062 | ~7 s | NARRACIÓN: Labastida nunca fue acusado de nada relacionado con lo que ocurrió después. Entre esos excomandantes estaba Dámaso López Núñez.
+
+063 | ~7 s | NARRACIÓN: Primero pasó por el Centro Federal de Rehabilitación Psicosocial de Ayala, en Morelos, como subdirector de seguridad interna.
+
+064 | ~7 s | NARRACIÓN: Y el 1 de marzo de 1999, con treinta y tres años, llegó a Puente Grande con un nombramiento clave:
+
+065 | ~7 s | NARRACIÓN: subdirector de seguridad y custodia. Sustituía precisamente a Juan Castillo Alonso. Según Zeta y según Anabel Hernández, no llegó solo.
+
+066 | ~6 s | NARRACIÓN: Con él entraron a los puestos de mando otros comandantes y custodios de origen sinaloense.
+
+067 | ~5 s | NARRACIÓN: Dentro del penal, a ese grupo lo llamaron los Sinaloas. También, la Hermandad.
+
+068 | ~7 s | NARRACIÓN: Y ahí, entre pasillos de concreto y puertas electrónicas, el nuevo subdirector conoció al preso más famoso de la cárcel.
+
+069 | ~6 s | NARRACIÓN: Lo que pasó en Puente Grande entre 1999 y 2000 se conoce por dos caminos:
+
+070 | ~8 s | NARRACIÓN: las investigaciones del gobierno mexicano que recogió la prensa, y lo que el propio Dámaso López contó, años después, bajo juramento.
+
+071 | ~4 s | NARRACIÓN: Según la prensa, la llegada del nuevo equipo terminó con la disciplina.
+
+072 | ~7 s | NARRACIÓN: Los capos encarcelados, entre ellos el Chapo, Héctor Luis Palma, conocido como el Güero, y Arturo Martínez Herrera, el Texas,
+
+073 | ~6 s | NARRACIÓN: empezaron a pagar una nómina clandestina a trabajadores del penal. Entraron alcohol, drogas y teléfonos.
+
+074 | ~6 s | NARRACIÓN: Hubo fiestas y visitas fuera de toda regla. El Licenciado contó su parte de otra manera.
+
+075 | ~2 s | NARRACIÓN: Dijo que todo empezó con papeles.
+
+076 | ~6 s | NARRACIÓN: El Chapo le envió cinco o seis peticiones escritas a mano, firmadas como exigía el reglamento,
+
+077 | ~4 s | NARRACIÓN: para pedirle zapatos y cambios de ropa. Después vinieron las reuniones.
+
+078 | ~6 s | NARRACIÓN: El Chapo le pidió que dejara entrar a visitarlo a Griselda López Pérez, una de sus parejas,
+
+079 | ~4 s | NARRACIÓN: aunque el penal solo tenía registrada como esposa a Alejandrina Salazar.
+
+080 | ~7 s | NARRACIÓN: Le pidió que permitiera las visitas de su hermano Arturo y de un excuñado. Y le pidió un teléfono celular.
+
+081 | ~3 s | NARRACIÓN: El subdirector de seguridad dijo que sí.
+
+082 | ~6 s | NARRACIÓN: A cambio, según su propio testimonio, el Chapo le pagó al menos diez mil dólares,
+
+083 | ~6 s | NARRACIÓN: lo ayudó a cubrir los gastos médicos de uno de sus hijos, que había sufrido un accidente,
+
+084 | ~5 s | NARRACIÓN: y le regaló una casa valuada en un millón y medio de pesos.
+
+085 | ~6 s | NARRACIÓN: Ante el jurado admitió que él no era el único funcionario del penal que recibía sobornos.
+
+086 | ~4 s | NARRACIÓN: El 16 de septiembre de 2000, algo se salió del guion.
+
+087 | ~8 s | NARRACIÓN: En el estacionamiento del penal fueron asegurados quince mil dólares en efectivo, drogas y bebidas alcohólicas en manos de otro comandante.
+
+088 | ~7 s | NARRACIÓN: El gobierno federal abrió una investigación por corrupción. Dos semanas después, el 30 de septiembre, Dámaso López presentó su renuncia.
+
+089 | ~6 s | NARRACIÓN: Antes de que se fuera, según su relato, el Chapo le pidió un último favor:
+
+090 | ~5 s | NARRACIÓN: que hablara con el nuevo jefe de seguridad para que sus privilegios continuaran.
+
+091 | ~7 s | NARRACIÓN: La noche del domingo 3 de diciembre de 2000, Juan Castillo Alonso, el comandante al que el Licenciado había sustituido,
+
+092 | ~5 s | NARRACIÓN: abrió la puerta de su casa en Zapopan y fue asesinado a tiros.
+
+093 | ~6 s | NARRACIÓN: Según Anabel Hernández, Castillo había denunciado la corrupción que se vivía dentro de Puente Grande.
+
+094 | ~6 s | NARRACIÓN: Cuarenta y siete días después, el 19 de enero de 2001, el Chapo desapareció de su celda.
+
+095 | ~6 s | NARRACIÓN: La versión oficial dice que salió escondido en un carrito de lavandería, entre ropa sucia,
+
+096 | ~4 s | NARRACIÓN: empujado por un empleado llamado Francisco Javier Camberos, conocido como el Chito,
+
+097 | ~6 s | NARRACIÓN: que lo llevó hasta el estacionamiento y lo sacó del penal en la cajuela de un automóvil.
+
+098 | ~7 s | NARRACIÓN: Decenas de custodios y funcionarios fueron detenidos. Y contra Dámaso López, que ya no trabajaba en la prisión,
+
+099 | ~6 s | NARRACIÓN: un juez federal dictó una orden de aprehensión por delincuencia organizada, cohecho y evasión de presos.
+
+100 | ~7 s | NARRACIÓN: El Licenciado desapareció de la vida pública. Según su testimonio, se quedó sin trabajo hasta que, ese mismo año,
+
+101 | ~4 s | NARRACIÓN: se reunió con el Chapo en la sierra de Nayarit.
+
+102 | ~4 s | NARRACIÓN: El fugitivo le explicó que la fuga había sido algo casi espontáneo:
+
+103 | ~7 s | NARRACIÓN: se había enterado, por una fuente dentro del gobierno, de que existía una orden para extraditarlo a Estados Unidos.
+
+104 | ~6 s | NARRACIÓN: Y entonces le ofreció trabajo. Al principio, contó López, fue una especie de agente inmobiliario:
+
+105 | ~8 s | NARRACIÓN: conseguía ranchos y casas que la organización rentaba por dos o tres años para esconder al capo y a su gente.
+
+106 | ~7 s | NARRACIÓN: Después pasó a algo mucho más delicado. En sus propias palabras, se encargaba de las relaciones con el gobierno.
+
+107 | ~5 s | NARRACIÓN: El antiguo comandante de policía se había convertido en el hombre que compraba policías.
+
+108 | ~6 s | NARRACIÓN: En la organización del Chapo, la información valía tanto como la cocaína. Saber cuándo venía un operativo,
+
+109 | ~4 s | NARRACIÓN: quién preguntaba por quién o qué mando militar acababa de llegar
+
+110 | ~7 s | NARRACIÓN: a una región podía ser la diferencia entre seguir libre o caer. Ese fue el terreno del Licenciado.
+
+111 | ~5 s | NARRACIÓN: En el juicio de Nueva York explicó que tenía dos contactos dentro del gobierno,
+
+112 | ~3 s | NARRACIÓN: a los que identificó solo como Javi y Roberto.
+
+113 | ~7 s | NARRACIÓN: Con el dinero del Chapo, esos contactos pagaban sobornos en la Procuraduría General de la República, en el Ejército,
+
+114 | ~7 s | NARRACIÓN: en la Policía Federal y en la policía de caminos, a cambio de avisos sobre operaciones en curso.
+
+115 | ~5 s | NARRACIÓN: Según su testimonio, el primero pagaba más de cien mil dólares al mes.
+
+116 | ~6 s | NARRACIÓN: El segundo le aseguró que pagaba más de un millón y medio de dólares mensuales.
+
+117 | ~7 s | NARRACIÓN: Ninguna de esas cifras ha sido verificada de forma independiente. Pero dan una idea de la escala del negocio.
+
+118 | ~7 s | NARRACIÓN: Con los años, el Licenciado subió de nivel. Según la agencia de noticias AFP, que cubrió su declaración,
+
+119 | ~5 s | NARRACIÓN: llegó a representar al Chapo frente a proveedores colombianos y a coordinar envíos
+
+120 | ~4 s | NARRACIÓN: de cocaína y heroína con destino a Nueva York y a Canadá.
+
+121 | ~4 s | NARRACIÓN: Las autoridades estadounidenses le atribuyen, además, contactos en Perú y en Panamá.
+
+122 | ~7 s | NARRACIÓN: Para entender cómo funcionaba esa maquinaria, hay que imaginar una cadena muy larga. La cocaína se producía en Sudamérica.
+
+123 | ~6 s | NARRACIÓN: Viajaba hacia el norte en barcos, en semisumergibles, en avionetas o en camiones que cruzaban Centroamérica.
+
+124 | ~3 s | NARRACIÓN: Entraba a México, se almacenaba y se escondía.
+
+125 | ~6 s | NARRACIÓN: Después cruzaba la frontera, oculta en vehículos y mercancías, hasta llegar a las ciudades de Estados Unidos.
+
+126 | ~7 s | NARRACIÓN: Y el camino de regreso lo hacían los dólares, en efectivo, para convertirse en ranchos, casas, empresas y sobornos.
+
+127 | ~4 s | NARRACIÓN: Cada eslabón de esa cadena necesitaba protección. Y la protección se compraba.
+
+128 | ~4 s | NARRACIÓN: Pero el Licenciado no se conformó con servir al Chapo.
+
+129 | ~5 s | NARRACIÓN: Con la bendición de su jefe, levantó su propia estructura en su tierra natal.
+
+130 | ~8 s | NARRACIÓN: La prensa y las autoridades empezaron a hablar de los Dámaso, una célula del Cártel de Sinaloa con base en Eldorado.
+
+131 | ~4 s | NARRACIÓN: Fuentes militares citadas por la prensa describían esa sindicatura como su fortaleza.
+
+132 | ~7 s | NARRACIÓN: Desde ahí, según la Procuraduría General de la República, el grupo extendió sus operaciones hasta Baja California Sur.
+
+133 | ~7 s | NARRACIÓN: También tenía un brazo armado. Se le conocía como los Ántrax. Las fuentes no coinciden sobre quién lo fundó:
+
+134 | ~5 s | NARRACIÓN: unas lo atribuyen al Licenciado y otras a su hijo, el Mini Lic.
+
+135 | ~7 s | NARRACIÓN: El 5 de junio de 2008, el Ejército mexicano cateó varios inmuebles en el territorio de los Dámaso.
+
+136 | ~5 s | NARRACIÓN: En una finca, los soldados encontraron más de cinco millones de dólares en efectivo.
+
+137 | ~6 s | NARRACIÓN: También hallaron una pistola calibre treinta y ocho súper, chapada en oro, decorada con piedras incrustadas,
+
+138 | ~4 s | NARRACIÓN: la figura de un búho y una placa con tres letras: LIC.
+
+139 | ~8 s | NARRACIÓN: Además, había una libreta con nombres, apodos y plazas de venta de droga, equipo para intervenir teléfonos y una camioneta blindada.
+
+140 | ~6 s | NARRACIÓN: El dueño de todo eso no estaba ahí. Los investigadores siguieron el rastro del dinero.
+
+141 | ~5 s | NARRACIÓN: Encontraron propiedades a su nombre y depósitos en cuentas bancarias durante varios años.
+
+142 | ~7 s | NARRACIÓN: En febrero de 2011, un juez federal del Estado de México dictó una nueva orden de aprehensión contra él,
+
+143 | ~4 s | NARRACIÓN: esta vez por lavado de dinero. Pero el Licenciado seguía sin aparecer.
+
+144 | ~6 s | NARRACIÓN: En Estados Unidos, mientras tanto, se armaba un expediente en silencio. El 23 de noviembre de 2011,
+
+145 | ~6 s | NARRACIÓN: un gran jurado del Distrito Este de Virginia acusó en secreto a Dámaso López Núñez
+
+146 | ~5 s | NARRACIÓN: de conspirar para distribuir cocaína destinada a Estados Unidos y de lavar dinero.
+
+147 | ~7 s | NARRACIÓN: Cuando la acusación se hizo pública, en marzo de 2013, la fiscalía pedía el decomiso de 280 millones de dólares.
+
+148 | ~3 s | NARRACIÓN: Dos meses antes, el 9 de enero de 2013,
+
+149 | ~5 s | NARRACIÓN: el Departamento del Tesoro lo había incluido en su lista de capos del narcotráfico.
+
+150 | ~4 s | NARRACIÓN: El comunicado afirmaba que el Licenciado había ayudado al Chapo a escapar
+
+151 | ~6 s | NARRACIÓN: en 2001 y que desde entonces se había convertido en uno de sus principales lugartenientes.
+
+152 | ~6 s | NARRACIÓN: El director de la Oficina de Control de Activos Extranjeros, Adam Szubin, lo resumió en una frase:
+
+153 | ~4 s | NARRACIÓN: ese día habían sancionado a la mano derecha del Chapo Guzmán.
+
+154 | ~4 s | NARRACIÓN: Para entonces, el Licenciado ya no era un simple empleado. Era familia.
+
+155 | ~7 s | NARRACIÓN: En el mundo del narcotráfico sinaloense, el compadrazgo es casi un pacto sagrado. Y Dámaso López era compadre del Chapo:
+
+156 | ~8 s | NARRACIÓN: según la agencia AFP, era el padrino de una de las gemelas que el capo tuvo con su esposa, Emma Coronel.
+
+157 | ~6 s | NARRACIÓN: El dinero se notaba. En el ejido Portaceli, la familia López tenía una capilla privada,
+
+158 | ~4 s | NARRACIÓN: donde serían sepultados el padre del Licenciado y uno de sus hermanos.
+
+159 | ~6 s | NARRACIÓN: Y el apellido se volvió conocido mucho más allá de Eldorado. Sobre todo por el hijo.
+
+160 | ~7 s | NARRACIÓN: A principios de la década de 2010, un narcocorrido puso en boca de todos el nombre del Mini Lic.
+
+161 | ~4 s | NARRACIÓN: Según una acusación presentada años más tarde en San Diego,
+
+162 | ~8 s | NARRACIÓN: la red de la que formaba parte enviaba cocaína y metanfetamina al sur de California al menos desde mayo de 2005,
+
+163 | ~6 s | NARRACIÓN: cuando él tenía apenas dieciocho años. En esa misma acusación aparecía su tío, Álvaro López Núñez.
+
+164 | ~7 s | NARRACIÓN: El negocio del Licenciado se había convertido en un negocio de familia. Pero detrás del lujo había sangre.
+
+165 | ~4 s | NARRACIÓN: En 2008, la Organización de Sinaloa se partió en dos.
+
+166 | ~7 s | NARRACIÓN: Los hermanos Beltrán Leyva, antiguos aliados del Chapo, lo acusaron de haber entregado a uno de ellos, Alfredo,
+
+167 | ~8 s | NARRACIÓN: conocido como el Mochomo, y le declararon la guerra. Culiacán se convirtió en uno de los lugares más violentos de México.
+
+168 | ~8 s | NARRACIÓN: Años después, en el juicio de Nueva York, la fiscalía mostró un video grabado ese año en un rancho del Licenciado,
+
+169 | ~4 s | NARRACIÓN: cerca de Culiacán. En él aparece un hombre esposado mientras es interrogado.
+
+170 | ~6 s | NARRACIÓN: Según el testimonio de López, se trataba de Israel Rincón Martínez, conocido como el Guacho,
+
+171 | ~3 s | NARRACIÓN: acusado de reclutar pistoleros para los Beltrán Leyva.
+
+172 | ~5 s | NARRACIÓN: El Licenciado declaró que el Chapo estaba presente, junto con dos de sus hijos.
+
+173 | ~7 s | NARRACIÓN: Y que esa misma tarde, el Guacho fue asesinado. Cuando el fiscal le preguntó quién se lo había dicho, respondió:
+
+174 | ~4 s | NARRACIÓN: mi compadre. Ante el jurado, López también atribuyó al Chapo otras muertes:
+
+175 | ~7 s | NARRACIÓN: la de Rodolfo Carrillo Fuentes, hermano del llamado Señor de los Cielos, en 2004; la de su propio primo,
+
+176 | ~7 s | NARRACIÓN: Juan Guzmán Rocha, en 2011; y la de Leopoldo Ochoa, un traficante cercano al Mayo que, según el testigo,
+
+177 | ~8 s | NARRACIÓN: había aceptado dar información sobre el Chapo al gobierno. Durante años, esa violencia tuvo un límite claro: nadie tocaba al jefe.
+
+178 | ~8 s | NARRACIÓN: Hasta que el jefe cayó. El 22 de febrero de 2014, infantes de marina capturaron al Chapo en un departamento de Mazatlán,
+
+179 | ~8 s | NARRACIÓN: después de trece años prófugo. Según reportes de prensa de la época, tras su captura, el capo señaló al Licenciado como su sucesor.
+
+180 | ~6 s | NARRACIÓN: El propio López contó en el juicio que, tras la captura, él y los hijos del Chapo,
+
+181 | ~6 s | NARRACIÓN: a quienes en Sinaloa llaman los Chapitos, quedaron al frente de los negocios de su compadre.
+
+182 | ~4 s | NARRACIÓN: Pero el Chapo no tenía ninguna intención de quedarse en la cárcel.
+
+183 | ~6 s | NARRACIÓN: Desde el penal del Altiplano, en el Estado de México, empezó a escribirle cartas a su compadre.
+
+184 | ~3 s | NARRACIÓN: La fiscalía las mostró en el juicio.
+
+185 | ~6 s | NARRACIÓN: En una de ellas, el Chapo le contaba que, aunque nada era fácil, había tenido suerte,
+
+186 | ~6 s | NARRACIÓN: porque el director del penal lo trataba bien y lo ayudaba cuando le pedía algo.
+
+187 | ~4 s | NARRACIÓN: Y le anunciaba que su esposa lo buscaría con un mensaje importante.
+
+188 | ~7 s | NARRACIÓN: Según el testimonio de López, Emma Coronel le pidió que enviara a alguien a Toluca para ayudar con unos encargos.
+
+189 | ~7 s | NARRACIÓN: El Licenciado mandó a su cuñado, que, según dijo, ya se reunía con algunos custodios y les pagaba.
+
+190 | ~5 s | NARRACIÓN: Después vino el mensaje: el Chapo estaba pensando en arriesgarse otra vez para escapar.
+
+191 | ~4 s | NARRACIÓN: En mayo o junio de 2014, siempre según el testigo,
+
+192 | ~4 s | NARRACIÓN: hubo una reunión con Emma Coronel y con los hijos del Chapo.
+
+193 | ~4 s | NARRACIÓN: Ahí se habló de comprar un terreno cerca de la prisión.
+
+194 | ~5 s | NARRACIÓN: El Chapo pedía armas y una camioneta blindada para el día de la fuga.
+
+195 | ~7 s | NARRACIÓN: Y se planeó meter al penal un reloj con localizador satelital, para obtener las coordenadas exactas de su celda.
+
+196 | ~5 s | NARRACIÓN: El Licenciado aseguró que él solo ayudó con la planeación y la logística.
+
+197 | ~6 s | NARRACIÓN: Dijo que nunca supo de una sola palada de tierra que se sacara de ese túnel,
+
+198 | ~7 s | NARRACIÓN: porque eso lo hacían los hijos de su compadre. La noche del sábado 11 de julio de 2015,
+
+199 | ~8 s | NARRACIÓN: las cámaras de la celda del Chapo lo muestran caminando hacia la regadera, detrás de un pequeño muro. Y después, nada.
+
+200 | ~3 s | NARRACIÓN: Debajo de la regadera había un agujero.
+
+201 | ~6 s | NARRACIÓN: Y debajo del agujero, un túnel de cerca de un kilómetro y medio, con luz,
+
+202 | ~7 s | NARRACIÓN: ventilación y una motocicleta montada sobre rieles. Según López, la motocicleta la conducía uno de los hermanos de Emma Coronel.
+
+203 | ~4 s | NARRACIÓN: Al salir del túnel, el Chapo subió a un vehículo todoterreno,
+
+204 | ~4 s | NARRACIÓN: después a una avioneta manejada por su piloto de mayor confianza,
+
+205 | ~7 s | NARRACIÓN: y desde Querétaro voló de regreso a la sierra de Sinaloa. Una semana después, el Licenciado subió a visitarlo.
+
+206 | ~7 s | NARRACIÓN: Lo encontró en una casa en lo alto de un cerro, frente a La Tuna, el pueblo natal del Chapo.
+
+207 | ~7 s | NARRACIÓN: La llamaban El Cielo. Ahí estaban el Mayo Zambada, los hijos del Chapo y otros jefes de la organización.
+
+208 | ~6 s | NARRACIÓN: Según el testigo, todos estaban contentos por la fuga de su compadre. La fiesta duró poco.
+
+209 | ~8 s | NARRACIÓN: El 8 de enero de 2016, después de un enfrentamiento con la Marina en Los Mochis, el Chapo volvió a caer.
+
+210 | ~3 s | NARRACIÓN: Y volvió al Altiplano. Una vez más, según López,
+
+211 | ~7 s | NARRACIÓN: el capo mandó decir a través de su esposa que haría un gran esfuerzo por escapar de nuevo.
+
+212 | ~8 s | NARRACIÓN: El Licenciado declaró que la organización entregó un soborno de dos millones de dólares a un alto funcionario del sistema penitenciario.
+
+213 | ~6 s | NARRACIÓN: Nunca dijo su nombre. Y la acusación nunca ha sido probada. Si el plan existió, fracasó.
+
+214 | ~7 s | NARRACIÓN: En mayo de 2016, el Chapo fue trasladado al penal federal de Ciudad Juárez, en la frontera con Texas.
+
+215 | ~3 s | NARRACIÓN: Mientras tanto, en Sinaloa, el vacío empezaba a notarse.
+
+216 | ~8 s | NARRACIÓN: En agosto de 2016, un comando armado se llevó por la fuerza a varios hombres de un restaurante en Puerto Vallarta.
+
+217 | ~6 s | NARRACIÓN: Entre ellos, según la fiscalía de Jalisco, estaba Jesús Alfredo Guzmán, uno de los hijos del Chapo.
+
+218 | ~7 s | NARRACIÓN: Las autoridades atribuyeron el secuestro al Cártel Jalisco Nueva Generación, y según la prensa, fue liberado días después.
+
+219 | ~4 s | NARRACIÓN: En los rumores de Culiacán apareció el nombre del Licenciado.
+
+220 | ~4 s | NARRACIÓN: Él, ya detenido, lo negó en una entrevista con el diario Milenio:
+
+221 | ~4 s | NARRACIÓN: aseguró que ni él ni su organización tuvieron nada que ver.
+
+222 | ~6 s | NARRACIÓN: Y la noche del 19 de enero de 2017, el Chapo fue extraditado a Estados Unidos.
+
+223 | ~4 s | NARRACIÓN: Exactamente dieciséis años después de su fuga de Puente Grande.
+
+224 | ~6 s | NARRACIÓN: Con el Chapo fuera del país, el delicado equilibrio que él mantenía en Sinaloa se rompió.
+
+225 | ~7 s | NARRACIÓN: Existe una carta, atribuida al Chapo y difundida por el Grupo Imagen, cuya autenticidad no ha sido confirmada.
+
+226 | ~6 s | NARRACIÓN: En ella, el capo le encargaba al Licenciado que caminara muy de acuerdo con sus cuatro hijos,
+
+227 | ~4 s | NARRACIÓN: que pagara a los muchachos y a las viudas de la organización
+
+228 | ~4 s | NARRACIÓN: y que lo que quedara cada mes se repartiera en partes iguales:
+
+229 | ~7 s | NARRACIÓN: la mitad para él y la mitad para los cuatro hermanos. Si esa carta es real, el reparto nunca funcionó.
+
+230 | ~6 s | NARRACIÓN: El 8 de febrero de 2017, el periodista Ciro Gómez Leyva dio a conocer otra carta,
+
+231 | ~3 s | NARRACIÓN: esta vez atribuida a los hijos del Chapo.
+
+232 | ~7 s | NARRACIÓN: En ella acusaban al Licenciado y a su hijo de haberlos citado a una reunión el sábado 4 de febrero,
+
+233 | ~3 s | NARRACIÓN: en un punto de Sinaloa que no se precisaba.
+
+234 | ~7 s | NARRACIÓN: A la cita, decía la carta, también había llegado Ismael Zambada, el Mayo. Según ese relato, Dámaso López nunca apareció.
+
+235 | ~2 s | NARRACIÓN: En su lugar llegaron los disparos.
+
+236 | ~7 s | NARRACIÓN: Los escoltas de los Chapitos murieron en el lugar, y en el camino de huida los esperaban más hombres armados.
+
+237 | ~4 s | NARRACIÓN: Los hijos del Chapo escribieron que lograron escapar, heridos, hacia el monte.
+
+238 | ~4 s | NARRACIÓN: El Licenciado respondió a través del semanario Ríodoce, de Culiacán.
+
+239 | ~8 s | NARRACIÓN: En un texto firmado por el periodista Javier Valdez, uno de sus colaboradores aseguró que López nunca había convocado esa reunión.
+
+240 | ~6 s | NARRACIÓN: Más tarde, ya detenido, el propio Licenciado diría a las autoridades que aquella emboscada era un invento.
+
+241 | ~3 s | NARRACIÓN: Pero en Sinaloa, la guerra ya había empezado.
+
+242 | ~7 s | NARRACIÓN: Esos días, Culiacán era la sede de la Serie del Caribe de béisbol, con visitantes de cuatro países.
+
+243 | ~3 s | NARRACIÓN: Y mientras en el estadio se celebraban los partidos,
+
+244 | ~6 s | NARRACIÓN: en las carreteras del centro del estado se escuchaban ráfagas de fusiles de alto calibre.
+
+245 | ~6 s | NARRACIÓN: Según el recuento del semanario Zeta, en apenas setenta y dos horas hubo al menos veintitrés asesinatos.
+
+246 | ~7 s | NARRACIÓN: El 7 de febrero, según fuentes policiales, un convoy de pistoleros ligado a los Chapitos irrumpió en Villa Juárez,
+
+247 | ~5 s | NARRACIÓN: en el municipio de Navolato, para atacar a una célula aliada del Licenciado.
+
+248 | ~5 s | NARRACIÓN: Las balas alcanzaron a personas que no tenían nada que ver con la guerra.
+
+249 | ~6 s | NARRACIÓN: Una mujer murió afuera de un negocio de refacciones. Dos hombres más murieron en el fuego cruzado.
+
+250 | ~4 s | NARRACIÓN: El procurador de Sinaloa, Marco Antonio Higuera Gómez, lo admitió en público:
+
+251 | ~8 s | NARRACIÓN: sabemos perfectamente que hay dos grupos delincuenciales con intereses antagónicos. El miedo se extendió más rápido que las balas. En un solo día,
+
+252 | ~7 s | NARRACIÓN: el número de emergencias recibió siete mil setecientas treinta y cinco llamadas; la mayoría eran falsas alarmas de balaceras.
+
+253 | ~4 s | NARRACIÓN: Se suspendieron las clases en ciento cuarenta y ocho escuelas.
+
+254 | ~7 s | NARRACIÓN: Dos semanas después, el 21 de febrero, un comando de unas treinta camionetas volvió a entrar a Villa Juárez.
+
+255 | ~4 s | NARRACIÓN: Los pistoleros obligaron a bajar a un grupo de jornaleros
+
+256 | ~7 s | NARRACIÓN: de su autobús y le prendieron fuego en medio de la carretera. La guerra también se libraba con papel.
+
+257 | ~3 s | NARRACIÓN: Entre el 19 y el 21 de febrero,
+
+258 | ~6 s | NARRACIÓN: jóvenes que se identificaban como gente de los hijos del Chapo compraron casi toda la edición
+
+259 | ~6 s | NARRACIÓN: de Ríodoce y de otro periódico local para que la respuesta del Licenciado no circulara.
+
+260 | ~7 s | NARRACIÓN: Según el director de Ríodoce, Ismael Bojórquez, antes habían presionado a Javier Valdez para que no la publicara.
+
+261 | ~6 s | NARRACIÓN: La revista se negó. Uno de esos jóvenes lo explicó sin rodeos a la prensa:
+
+262 | ~5 s | NARRACIÓN: los jefes no querían que circulara nada de lo que andaba diciendo el Licenciado.
+
+263 | ~4 s | NARRACIÓN: Las autoridades atribuían al grupo de Dámaso alianzas con otras organizaciones.
+
+264 | ~7 s | NARRACIÓN: Según la prensa sinaloense, una de sus células operaba junto a César Carrillo Leyva, hijo de Amado Carrillo Fuentes,
+
+265 | ~5 s | NARRACIÓN: el Señor de los Cielos. Y según la Procuraduría General de la República,
+
+266 | ~7 s | NARRACIÓN: el Licenciado buscaba un acuerdo con el Cártel Jalisco Nueva Generación para disputar el control del Cártel de Sinaloa.
+
+267 | ~5 s | NARRACIÓN: El antiguo carcelero del Chapo se había convertido en el enemigo de sus hijos.
+
+268 | ~6 s | NARRACIÓN: Y ahora tenía a dos cacerías detrás de él: la de los Chapitos y la del Estado.
+
+269 | ~4 s | NARRACIÓN: La segunda fue más rápida. El martes 2 de mayo de 2017,
+
+270 | ~8 s | NARRACIÓN: agentes de la Agencia de Investigación Criminal y soldados del Ejército rodearon un edificio de departamentos en la avenida Ejército Nacional,
+
+271 | ~4 s | NARRACIÓN: en la colonia Nueva Anzures de la Ciudad de México.
+
+272 | ~7 s | NARRACIÓN: Ahí vivía, con su pareja, el hombre que pretendía heredar el Cártel de Sinaloa. No hubo un solo disparo.
+
+273 | ~4 s | NARRACIÓN: El director de la Agencia de Investigación Criminal, Omar García Harfuch,
+
+274 | ~6 s | NARRACIÓN: explicó que la detención era resultado de trabajos de inteligencia y que disminuía la posibilidad
+
+275 | ~8 s | NARRACIÓN: de una alianza que el detenido buscaba con otros grupos del crimen organizado. En los mismos días cayó su operador financiero.
+
+276 | ~7 s | NARRACIÓN: Y un sobrino suyo, detenido por la Marina en Eldorado, murió mientras era trasladado ante el Ministerio Público.
+
+277 | ~3 s | NARRACIÓN: Se informó que, presuntamente, había sufrido un infarto.
+
+278 | ~6 s | NARRACIÓN: La noche del 3 de mayo, el Licenciado ingresó al penal federal de Ciudad Juárez.
+
+279 | ~8 s | NARRACIÓN: Era la misma prisión de la que, apenas tres meses y medio antes, había salido el Chapo rumbo a Estados Unidos.
+
+280 | ~4 s | NARRACIÓN: Trece días después de su captura, el 15 de mayo de 2017,
+
+281 | ~6 s | NARRACIÓN: Javier Valdez Cárdenas salió de una reunión en las oficinas de Ríodoce, en el centro de Culiacán.
+
+282 | ~7 s | NARRACIÓN: A unas cuadras, unos hombres le cerraron el paso a su automóvil y lo asesinaron a balazos. Tenía cincuenta años.
+
+283 | ~4 s | NARRACIÓN: Javier Valdez era cofundador del semanario y corresponsal del diario La Jornada.
+
+284 | ~7 s | NARRACIÓN: En 2011 había recibido el Premio Internacional a la Libertad de Prensa del Comité para la Protección de los Periodistas.
+
+285 | ~7 s | NARRACIÓN: Había escrito libros como Malayerba, Miss Narco y Huérfanos del narco, dedicados no a los capos, sino a sus víctimas:
+
+286 | ~4 s | NARRACIÓN: las madres, los hijos y los pueblos que el narcotráfico dejaba atrás.
+
+287 | ~7 s | NARRACIÓN: Su muerte provocó marchas de periodistas en todo el país. El cerco sobre la familia López se estrechó.
+
+288 | ~7 s | NARRACIÓN: En junio, Luis Fernando Gaxiola, cuñado del Licenciado y exsíndico de Eldorado, fue secuestrado y hallado sin vida.
+
+289 | ~8 s | NARRACIÓN: A finales de julio, el Mini Lic cruzó la garita de Calexico, en California, y se entregó a las autoridades estadounidenses.
+
+290 | ~5 s | NARRACIÓN: En agosto, otro hermano del Licenciado, Álvaro, fue arrestado en la frontera de Nogales.
+
+291 | ~7 s | NARRACIÓN: Su defensor pidió asilo con un argumento que lo resumía todo: su familia estaba siendo cazada y asesinada.
+
+292 | ~4 s | NARRACIÓN: Desde la cárcel de Ciudad Juárez, según el diario Milenio,
+
+293 | ~7 s | NARRACIÓN: el Licenciado temía ser asesinado en una prisión mexicana y quería ser extraditado lo antes posible. Lo consiguió.
+
+294 | ~5 s | NARRACIÓN: En la madrugada del 6 de julio de 2018 fue entregado a Estados Unidos.
+
+295 | ~5 s | NARRACIÓN: El 28 de septiembre se declaró culpable ante un tribunal de Alexandria, en Virginia.
+
+296 | ~5 s | NARRACIÓN: Reconoció haber traficado más de cinco kilos de cocaína entre 2003 y 2016,
+
+297 | ~7 s | NARRACIÓN: y haber sido miembro del Cártel de Sinaloa durante más de quince años, como uno de sus líderes.
+
+298 | ~6 s | NARRACIÓN: El 30 de noviembre de 2018, el juez Thomas Selby Ellis lo condenó a cadena perpetua,
+
+299 | ~3 s | NARRACIÓN: además de la pérdida de veinticinco millones de dólares.
+
+300 | ~7 s | NARRACIÓN: Según la agencia EFE, el Licenciado entró a la sala saludando y lanzando besos a una docena de familiares.
+
+301 | ~4 s | NARRACIÓN: Pidió una disculpa a todo el pueblo de Estados Unidos.
+
+302 | ~4 s | NARRACIÓN: El juez le recordó que se trataba de una ofensa muy seria
+
+303 | ~4 s | NARRACIÓN: y que la sentencia debía servir para disuadir a otros.
+
+304 | ~7 s | NARRACIÓN: Antes de salir, el condenado se despidió de los suyos señalándose el corazón. Pero aún le quedaba algo que ofrecer:
+
+305 | ~5 s | NARRACIÓN: su memoria. Así llegamos a la escena del principio. En enero de 2019,
+
+306 | ~7 s | NARRACIÓN: el hombre condenado a pasar el resto de su vida en prisión se sentó frente a su compadre.
+
+307 | ~6 s | NARRACIÓN: Contó lo de Puente Grande, los sobornos, el túnel, El Cielo y el video del Guacho.
+
+308 | ~6 s | NARRACIÓN: Negó haber ayudado al Chapo a escapar en 2001. Y lanzó una acusación que estremeció a México:
+
+309 | ~5 s | NARRACIÓN: dijo que Javier Valdez fue asesinado por órdenes de los hijos del Chapo,
+
+310 | ~4 s | NARRACIÓN: porque el periodista había desobedecido sus amenazas y publicó la entrevista.
+
+311 | ~7 s | NARRACIÓN: Bajo el interrogatorio de la defensa, negó que él o su hijo tuvieran algo que ver con ese crimen.
+
+312 | ~2 s | NARRACIÓN: Entre el público estaba Emma Coronel.
+
+313 | ~6 s | NARRACIÓN: Escuchó en silencio cómo el testigo la señalaba como la mensajera de la fuga de 2015.
+
+314 | ~3 s | NARRACIÓN: A través de su abogado, declinó hacer comentarios.
+
+315 | ~6 s | NARRACIÓN: La defensa del Chapo sostuvo durante todo el juicio que testigos como el Licenciado decían lo
+
+316 | ~4 s | NARRACIÓN: que la fiscalía quería oír a cambio de reducir sus propias condenas.
+
+317 | ~7 s | NARRACIÓN: El 12 de febrero de 2019, el jurado declaró al Chapo culpable de los diez cargos en su contra.
+
+318 | ~4 s | NARRACIÓN: Cinco meses después, fue condenado a cadena perpetua más treinta años.
+
+319 | ~7 s | NARRACIÓN: La traición estaba consumada. Pero la historia del Licenciado dejó más preguntas que respuestas. La primera es la más antigua.
+
+320 | ~3 s | NARRACIÓN: ¿Ayudó Dámaso López a fugarse al Chapo en 2001?
+
+321 | ~5 s | NARRACIÓN: El Departamento del Tesoro de Estados Unidos lo afirma en un comunicado oficial.
+
+322 | ~3 s | NARRACIÓN: Un juez mexicano lo procesó por evasión de presos.
+
+323 | ~5 s | NARRACIÓN: Él lo niega bajo juramento y sostiene que el único cómplice fue el Chito.
+
+324 | ~5 s | NARRACIÓN: Y ni siquiera la versión del carrito de lavandería es aceptada por todos:
+
+325 | ~6 s | NARRACIÓN: Anabel Hernández asegura, a partir de documentos oficiales, que el Chapo salió vestido de policía,
+
+326 | ~6 s | NARRACIÓN: con ayuda de funcionarios de alto nivel. Esa versión tampoco ha sido probada en un tribunal.
+
+327 | ~7 s | NARRACIÓN: Y en 2018, un amparo ordenó reponer el proceso contra el Chito. La segunda pregunta es la más dolorosa.
+
+328 | ~7 s | NARRACIÓN: ¿Quién ordenó matar a Javier Valdez? El Licenciado culpó a los Chapitos ante un jurado de Nueva York.
+
+329 | ~8 s | NARRACIÓN: Pero la fiscalía mexicana sostiene otra cosa. Uno de los detenidos por el crimen, según un testigo citado por los fiscales,
+
+330 | ~6 s | NARRACIÓN: comentó que lo habían matado porque a la gente de Eldorado no le había gustado una publicación.
+
+331 | ~7 s | NARRACIÓN: La fiscalía afirmó que, como pago, los asesinos recibieron una pistola plateada con la imagen del Mini Lic.
+
+332 | ~6 s | NARRACIÓN: Desde 2020, México tiene una orden de aprehensión contra el hijo del Licenciado como presunto autor intelectual.
+
+333 | ~7 s | NARRACIÓN: Él nunca ha sido juzgado por ese crimen. La tercera pregunta es la más extraña. ¿Dónde está hoy el Licenciado?
+
+334 | ~7 s | NARRACIÓN: En febrero de 2020, las fiscalías estadounidenses pidieron en una audiencia a puerta cerrada que se reconsiderara su condena.
+
+335 | ~7 s | NARRACIÓN: Ese mismo mes se informó que el gobierno de Estados Unidos quería su testimonio contra Genaro García Luna,
+
+336 | ~6 s | NARRACIÓN: el exsecretario de Seguridad Pública de México. No hay confirmación pública de que finalmente declarara.
+
+337 | ~3 s | NARRACIÓN: Los documentos de su cooperación fueron sellados.
+
+338 | ~7 s | NARRACIÓN: En febrero de 2021, el buscador de reos del Buró Federal de Prisiones mostraba una fecha de salida:
+
+339 | ~8 s | NARRACIÓN: el 8 de noviembre de 2032. Ya no era cadena perpetua. Y en octubre de 2021, su nombre desapareció del sistema.
+
+340 | ~6 s | NARRACIÓN: Un vocero del Buró dijo a Univisión que no podía encontrar información sobre esa persona.
+
+341 | ~5 s | NARRACIÓN: Nadie ha explicado públicamente si fue liberado, trasladado o protegido con una nueva identidad.
+
+342 | ~4 s | NARRACIÓN: Lo que sí se sabe es lo que pasó con su familia.
+
+343 | ~7 s | NARRACIÓN: En septiembre de 2022, un juez de San Diego condenó al Mini Lic a seis años de prisión.
+
+344 | ~7 s | NARRACIÓN: Con el tiempo que ya llevaba detenido y su cooperación, salió libre ese mismo día y, según la prensa,
+
+345 | ~5 s | NARRACIÓN: fue incorporado al programa de testigos protegidos, con una nueva identidad. No le duró.
+
+346 | ~7 s | NARRACIÓN: En diciembre de 2024, agentes del FBI, la Oficina Federal de Investigación, lo detuvieron en Virginia en una operación encubierta:
+
+347 | ~4 s | NARRACIÓN: según los documentos del caso, intentaba vender drogas mezcladas con fentanilo.
+
+348 | ~5 s | NARRACIÓN: En mayo de 2025 se declaró culpable y, el 4 de febrero de 2026,
+
+349 | ~4 s | NARRACIÓN: un juez de Alexandria lo condenó a cinco años de prisión.
+
+350 | ~4 s | NARRACIÓN: Según la prensa mexicana, perdió los beneficios que tenía como testigo colaborador.
+
+351 | ~4 s | NARRACIÓN: México sigue pidiendo su extradición por el asesinato de Javier Valdez.
+
+352 | ~7 s | NARRACIÓN: El fiscal general Alejandro Gertz Manero lo dijo en diciembre de 2024: es el autor intelectual de ese asesinato.
+
+353 | ~6 s | NARRACIÓN: Por el crimen, dos hombres ya fueron condenados en México, uno a catorce años y ocho meses,
+
+354 | ~6 s | NARRACIÓN: y otro a treinta y dos años. Un tercero fue asesinado en Sonora meses después del ataque.
+
+355 | ~7 s | NARRACIÓN: Álvaro López Núñez, el hermano del Licenciado, recibió en 2022 una condena de sesenta y tres meses en San Diego.
+
+356 | ~5 s | NARRACIÓN: Y en julio de 2024, la capilla de la familia en Portaceli fue destrozada.
+
+357 | ~4 s | NARRACIÓN: En redes sociales circularon imágenes de puertas y ventanas rotas.
+
+358 | ~7 s | NARRACIÓN: Se reportó, sin confirmación oficial, que se habían llevado los restos del padre y del hermano del Licenciado.
+
+359 | ~5 s | NARRACIÓN: Ese mismo mes, en Sinaloa, ocurrió algo que siete años antes habría parecido impensable.
+
+360 | ~3 s | NARRACIÓN: Uno de los hijos del Chapo, Joaquín Guzmán López,
+
+361 | ~5 s | NARRACIÓN: viajó a Estados Unidos con el Mayo Zambada y lo entregó a las autoridades.
+
+362 | ~8 s | NARRACIÓN: Siete años después de acusar al Licenciado de tenderle una trampa al Mayo, uno de los hijos del Chapo terminó entregándolo.
+
+363 | ~6 s | NARRACIÓN: Desde septiembre de 2024, Sinaloa vive una nueva guerra entre los Chapitos y la gente del Mayo.
+
+364 | ~5 s | NARRACIÓN: Hasta octubre de 2026, no se ha informado públicamente dónde está Dámaso López Núñez.
+
+365 | ~3 s | NARRACIÓN: Hay una imagen que resume esta historia.
+
+366 | ~7 s | NARRACIÓN: Un hombre que entra a una sala de tribunal, mira a su compadre y se lleva el puño al corazón.
+
+367 | ~2 s | NARRACIÓN: Después, se sienta y lo entrega.
+
+368 | ~7 s | NARRACIÓN: Dámaso López Núñez llegó a Puente Grande con un nombramiento para custodiar a los presos más peligrosos de México.
+
+369 | ~6 s | NARRACIÓN: Terminó sirviendo a uno de ellos, enfrentado a sus hijos y declarando contra él para salvarse.
+
+370 | ~7 s | NARRACIÓN: En 2020, desde una cárcel de Estados Unidos, respondió por escrito a las preguntas del diario Milenio. Dijo:
+
+371 | ~6 s | NARRACIÓN: al pueblo de México le pido una disculpa por el daño que pude haberles causado.
+
+372 | ~6 s | NARRACIÓN: Aseguró que el narcotráfico no era para él. Pero en Sinaloa, las disculpas valen poco.
+
+373 | ~8 s | NARRACIÓN: La familia de Javier Valdez sigue esperando justicia. Las víctimas de Villa Juárez nunca eligieron estar en medio de esa guerra.
+
+374 | ~4 s | NARRACIÓN: Y la organización que el Licenciado ayudó a construir sigue matando,
+
+375 | ~5 s | NARRACIÓN: ahora en manos de los mismos herederos que un día lo acusaron de traición.
+
+376 | ~7 s | NARRACIÓN: Esa es la lección que deja su historia. En el mundo del Licenciado, la lealtad nunca fue un valor.
+
+377 | ~7 s | NARRACIÓN: Fue una moneda. Se compraba en una cárcel, se juraba en un bautizo y se vendía en un tribunal.
+
+378 | ~6 s | NARRACIÓN: La pregunta no es quién traicionó primero. Es si en ese mundo alguien fue leal alguna vez.
+
