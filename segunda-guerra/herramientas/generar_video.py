@@ -21,6 +21,7 @@ import argparse, csv, os, subprocess, sys, math, random, shutil, textwrap
 from PIL import Image, ImageFilter, ImageDraw, ImageFont, ImageEnhance
 
 FPS = 30
+CRF = '23'  # con grano animado, CRF más bajo dispara el tamaño (CRF 20 + grano 9 ≈ 50 Mbps)
 IMG_EXT = ('.jpg', '.jpeg', '.png', '.webp', '.tif', '.tiff')
 VID_EXT = ('.mp4', '.mov', '.webm', '.mkv', '.m4v')
 
@@ -28,7 +29,7 @@ VID_EXT = ('.mp4', '.mov', '.webm', '.mkv', '.m4v')
 def grade(w):
     return (f"eq=saturation=0.30:contrast=1.10:brightness=-0.02,"
             f"colorchannelmixer=rr=1.05:gg=0.98:bb=0.86,"
-            f"vignette=PI/4.5,noise=alls={6 if w < 1900 else 9}:allf=t,format=yuv420p")
+            f"vignette=PI/4.5,noise=alls={4 if w < 1900 else 5}:allf=t,format=yuv420p")
 
 def run(cmd):
     r = subprocess.run(cmd, capture_output=True, text=True)
@@ -91,13 +92,13 @@ def seg_image(img, dur, W, H, move, out):
     vf = (f"zoompan=z='{zexpr}':x='{x}':y='{y}':d={frames}:s={W}x{H}:fps={FPS},"
           f"{grade(W)}")
     run(['ffmpeg', '-v', 'error', '-y', '-loop', '1', '-i', img, '-vf', vf, '-frames:v', str(frames),
-         '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '20', '-r', str(FPS), '-an', out])
+         '-c:v', 'libx264', '-preset', 'veryfast', '-crf', CRF, '-r', str(FPS), '-an', out])
 
 def seg_video(src, dur, W, H, out):
     frames = max(2, round(dur * FPS))
     vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},{grade(W)}")
     run(['ffmpeg', '-v', 'error', '-y', '-stream_loop', '-1', '-i', src, '-vf', vf,
-         '-frames:v', str(frames), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '20', '-an', out])
+         '-frames:v', str(frames), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', CRF, '-an', out])
 
 def find_media(d, n):
     for e in IMG_EXT + VID_EXT:
@@ -155,7 +156,7 @@ def main():
         i, r, src, seg, dur = t
         n = r[0]
         # se reutiliza el segmento ya hecho si su origen no cambió
-        firma = f'{src}|{os.path.getmtime(src) if src else 0}|{dur:.3f}'
+        firma = f'{src}|{os.path.getmtime(src) if src else 0}|{dur:.3f}|{grade(W)}|{CRF}'
         if os.path.exists(seg) and os.path.exists(seg + '.ok') and open(seg + '.ok').read() == firma:
             return f'{n} (ya estaba)'
         part = seg[:-4] + '.part.mp4'
