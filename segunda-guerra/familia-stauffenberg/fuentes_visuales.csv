@@ -1,13 +1,13 @@
 ﻿escena;inicio_s;fin_s;tipo;archivo en medios/;fuente;enlace;licencia;autor / atribución
 001;0.00;8.00;COM;001.jpg;Die Rammelburg im Wippertal.jpg;https://commons.wikimedia.org/wiki/File%3ADie_Rammelburg_im_Wippertal.jpg;CC BY-SA 4.0;Zwergenmöbel
-002;8.00;15.00;GLABS;002.png;recreación: cuatro niños llegan al hogar del Borntal;;Generada con G-Labs;
+002;8.00;15.00;GLABS;002.png;recreación: cuatro niños llegan al hogar del Borntal;;Generada con IA (SD-Turbo, Stability AI Community License);
 003;15.00;21.14;COM;003.jpg;Kinderheim Borntal Bad Sachsa-5562.jpg;https://commons.wikimedia.org/wiki/File%3AKinderheim_Borntal_Bad_Sachsa-5562.jpg;CC BY-SA 3.0;Erik Eisfeld
 004;21.14;26.48;COM;004.jpg;Robert Burns's handwriting aged 13. William Burnes Jotting-book.jpg;https://commons.wikimedia.org/wiki/File%3ARobert_Burns%27s_handwriting_aged_13._William_Burnes_Jotting-book.jpg;PDM, Public domain;Robert Burns 1772
 005;26.48;28.78;COM;005.jpg;Suitcase Decay (16186065183).jpg;https://commons.wikimedia.org/wiki/File%3ASuitcase_Decay_%2816186065183%29.jpg;CC BY 2.0;darkday from Brisbane, Australia
 006;28.78;34.92;COM;006.jpg;Claus Schenk Graf von Stauffenberg (1907–1944).png;https://commons.wikimedia.org/wiki/File%3AClaus_Schenk_Graf_von_Stauffenberg_%281907%E2%80%931944%29.png;CC0;Unknown author
 007;34.92;39.98;BA;007.jpg;Bundesarchiv Bild 146-1972-025-10, Hitler-Attentat, 20. Juli 1944.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1972-025-10%2C_Hitler-Attentat%2C_20._Juli_1944.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 146-1972-025-10 / CC-BY-SA 3.0
 008;39.98;43.42;BA;008.jpg;Bundesarchiv Bild 146-1969-071A-03, Hitler-Attentat vom 20. Juli 1944.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1969-071A-03%2C_Hitler-Attentat_vom_20._Juli_1944.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 146-1969-071A-03 / CC-BY-SA 3.0
-009;43.42;49.78;GLABS;009.png;recreación: el patio del Bendlerblock de noche (sin violencia explícita);;Generada con G-Labs;
+009;43.42;49.78;GLABS;009.png;recreación: el patio del Bendlerblock de noche (sin violencia explícita);;Generada con IA (SD-Turbo, Stability AI Community License);
 010;49.78;56.38;COM;010.jpg;Dublin Old Library Trinity College 05.jpg;https://commons.wikimedia.org/wiki/File%3ADublin_Old_Library_Trinity_College_05.jpg;FAL;antomoro
 011;56.38;61.84;COM;011.jpg;0 0007 Bendlerblock P1190243.jpg;https://commons.wikimedia.org/wiki/File%3A0_0007_Bendlerblock_P1190243.jpg;CC BY-SA 4.0;Robert Hösle
 012;61.84;65.90;COM;012.jpg;Heinrich Himmler Portrait (3x4 cropped).jpg;https://commons.wikimedia.org/wiki/File%3AHeinrich_Himmler_Portrait_%283x4_cropped%29.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-R99621 / CC-BY-SA 3.0
@@ -17,8 +17,8 @@
 016;85.30;90.66;COM;016.jpg;Claus Schenk Graf v. Stauffenberg Büste Bamberg 1.jpg;https://commons.wikimedia.org/wiki/File%3AClaus_Schenk_Graf_v._Stauffenberg_B%C3%BCste_Bamberg_1.jpg;CC BY 4.0;Gerd Fahrenhorst
 017;90.66;95.86;COM;017.jpg;Ravensbrück Tragende.jpg;https://commons.wikimedia.org/wiki/File%3ARavensbr%C3%BCck_Tragende.jpg;CC BY-SA 3.0, GFDL;Norbert Radtke
 018;95.86;99.28;COM;018.jpg;Newborn feet nestled gently in a parent's hand highlighting the bond of love and care at home.jpg;https://commons.wikimedia.org/wiki/File%3ANewborn_feet_nestled_gently_in_a_parent%27s_hand_highlighting_the_bond_of_love_and_care_at_home.jpg;CC BY 2.0;Shixart1985
-019;99.28;104.04;GLABS;019.png;siluetas de los cuatro niños;;Generada con G-Labs;
-020;104.04;108.40;GLABS;020.png;convoy de rehenes por los Alpes;;Generada con G-Labs;
+019;99.28;104.04;GLABS;019.png;siluetas de los cuatro niños;;Generada con IA (SD-Turbo, Stability AI Community License);
+020;104.04;108.40;GLABS;020.png;convoy de rehenes por los Alpes;;Generada con IA (SD-Turbo, Stability AI Community License);
 021;108.40;112.60;CLIP;021.mp4;Universal Newsreel: 1945-05-08 Germany Gives Up (desde 68 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
 022;112.60;117.18;COM;022.jpg;Pile of newspapers (26864183398).jpg;https://commons.wikimedia.org/wiki/File%3APile_of_newspapers_%2826864183398%29.jpg;CC BY-SA 2.0;Howard Lake from Colchester, UK
 023;117.18;123.82;GRAF;023.png;gráfico propio;;propio;
@@ -26,12 +26,12 @@
 025;131.44;136.02;COM;025.jpg;Vintage Railway Album- cover (4728948782).jpg;https://commons.wikimedia.org/wiki/File%3AVintage_Railway_Album-_cover_%284728948782%29.jpg;CC BY 2.0;whatsthatpicture from Hanwell, London, UK
 026;136.02;141.06;COM;026.jpg;Bamberg aus der Flugzeugperspektive .jpg;https://commons.wikimedia.org/wiki/File%3ABamberg_aus_der_Flugzeugperspektive_.jpg;CC BY-SA 4.0;Geschichtsfanatiker
 027;141.06;144.02;COM;027.jpg;Bamberg Postkarte 001.jpg;https://commons.wikimedia.org/wiki/File%3ABamberg_Postkarte_001.jpg;PDM, Public domain;Kaufhaus Schriefer, Inh. Oskar Marx, Bamberg
-028;144.02;148.14;GLABS;028.png;Nina joven (no hay foto libre);;Generada con G-Labs;
+028;144.02;148.14;GLABS;028.png;Nina joven (no hay foto libre);;Generada con IA (SD-Turbo, Stability AI Community License);
 029;148.14;155.20;COM;029.jpg;Kowno gesprengte 1915.jpg;https://commons.wikimedia.org/wiki/File%3AKowno_gesprengte_1915.jpg;PDM, Public domain;Kahan & Co GmbH, Berlin
 030;155.20;162.06;COM;030.jpg;G. W. Harris family portrait 1910 (3191751568).jpg;https://commons.wikimedia.org/wiki/File%3AG._W._Harris_family_portrait_1910_%283191751568%29.jpg;No restrictions, PD-1923, Public domain;Snyder, Frank R. Flickr: Miami U. Libraries - Digital Collections
-031;162.06;168.48;GLABS;031.png;Nina entre libros y música;;Generada con G-Labs;
+031;162.06;168.48;GLABS;031.png;Nina entre libros y música;;Generada con IA (SD-Turbo, Stability AI Community License);
 032;168.48;176.74;BA;032.jpg;Bundesarchiv Bild 183-2005-0813-528, Mutter mit Kindern beim Mittagessen.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-2005-0813-528%2C_Mutter_mit_Kindern_beim_Mittagessen.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-2005-0813-528 / Blunck / CC-BY-SA 3.0
-033;176.74;178.60;GLABS;033.png;Nina frente a un espejo;;Generada con G-Labs;
+033;176.74;178.60;GLABS;033.png;Nina frente a un espejo;;Generada con IA (SD-Turbo, Stability AI Community License);
 034;178.60;184.12;COM;034.jpg;Clothes Line-1025976, Dingle Peninsula, Co. Kerry, Ireland.jpg;https://commons.wikimedia.org/wiki/File%3AClothes_Line-1025976%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg;CC BY-SA 4.0;Maoileann
 035;184.12;189.90;CLIP;035.mp4;Universal Newsreel: 1939-09-04 Special Release Europe At War (desde 93 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
 036;189.90;197.16;COM;036.jpg;Eberstall Schloss 86.JPG;https://commons.wikimedia.org/wiki/File%3AEberstall_Schloss_86.JPG;CC BY-SA 3.0;GFreihalter
@@ -43,7 +43,7 @@
 042;228.20;231.44;CLIP;042.mp4;Universal Newsreel: 1945-05-08 Germany Gives Up (desde 152 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
 043;231.44;241.24;COM;043.jpg;Kinderwagen, historisch.jpg;https://commons.wikimedia.org/wiki/File%3AKinderwagen%2C_historisch.jpg;CC BY-SA 2.5, CC BY-SA 3.0, GFDL;I, Claus Ableiter
 044;241.24;245.60;COM;044.jpg;Fotothek df roe-neg 0006709 008 Kleinkinder und eine Erzieherin spielen an einem Tisch mit Holzspielzeug, ein Ki.jpg;https://commons.wikimedia.org/wiki/File%3AFotothek_df_roe-neg_0006709_008_Kleinkinder_und_eine_Erzieherin_spielen_an_einem_Tisch_mit_Holzspielzeug%2C_ein_Ki.jpg;CC BY-SA 3.0 de;Deutsche Fotothek‎
-045;245.60;252.34;GLABS;045.png;Claus con su hija recién nacida;;Generada con G-Labs;
+045;245.60;252.34;GLABS;045.png;Claus con su hija recién nacida;;Generada con IA (SD-Turbo, Stability AI Community License);
 046;252.34;254.33;COM;046.jpg;DSC 7598 An empty chair faces a wide open window overlooking green trees and a clear sky - a quiet spot for reflection.jpg;https://commons.wikimedia.org/wiki/File%3ADSC_7598_An_empty_chair_faces_a_wide_open_window_overlooking_green_trees_and_a_clear_sky_-_a_quiet_spot_for_reflection.jpg;CC BY-SA 4.0;PattayaPatrol
 047;254.33;259.60;COM;047.jpg;Claus von Stauffenberg 1944 (3x4 cropped).jpg;https://commons.wikimedia.org/wiki/File%3AClaus_von_Stauffenberg_1944_%283x4_cropped%29.jpg;Public domain;selbst
 048;259.60;266.72;CLIP;048.mp4;Universal Newsreel: 1939-09-04 Special Release Europe At War (desde 77 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
@@ -71,27 +71,27 @@
 070;394.88;401.32;BA;070.jpg;Bundesarchiv Bild 101I-787-0510-35, Nordafrika, Lazarett, Krankenschwestern.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_101I-787-0510-35%2C_Nordafrika%2C_Lazarett%2C_Krankenschwestern.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 101I-787-0510-35 / Troschke / CC-BY-SA 3.0
 071;401.32;403.48;BA;071.jpg;Bundesarchiv Bild 146-1984-079-02, Führerhauptquartier, Stauffenberg, Hitler, Keitel---Stauffenberg.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1984-079-02%2C_F%C3%BChrerhauptquartier%2C_Stauffenberg%2C_Hitler%2C_Keitel---Stauffenberg.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 146-1984-079-02 / CC-BY-SA 3.0
 072;403.48;410.22;COM;072.jpg;Galilee trip. Safad. A ward in the hospital LOC matpc.20794.jpg;https://commons.wikimedia.org/wiki/File%3AGalilee_trip._Safad._A_ward_in_the_hospital_LOC_matpc.20794.jpg;Public domain;Matson Collection
-073;410.22;415.64;GLABS;073.png;detalle: un hombre con una sola mano intentando abrocharse;;Generada con G-Labs;
+073;410.22;415.64;GLABS;073.png;detalle: un hombre con una sola mano intentando abrocharse;;Generada con IA (SD-Turbo, Stability AI Community License);
 074;415.64;423.14;COM;074.jpg;Wasserschloss-Villa-Concordia-P3100010.jpg;https://commons.wikimedia.org/wiki/File%3AWasserschloss-Villa-Concordia-P3100010.jpg;CC BY-SA 4.0;Ermell
-075;423.14;431.22;GLABS;075.png;Claus en el hospital y Nina a su lado;;Generada con G-Labs;
+075;423.14;431.22;GLABS;075.png;Claus en el hospital y Nina a su lado;;Generada con IA (SD-Turbo, Stability AI Community License);
 076;431.22;435.42;COM;076.jpg;Stauffenberg F1 (2).jpg;https://commons.wikimedia.org/wiki/File%3AStauffenberg_F1_%282%29.jpg;PDM, Public domain;Claus Schenk Graf von Stauffenberg
 077;435.42;444.14;BA;077.jpg;Bundesarchiv Bild 146-1981-072-61, Friedrich Olbricht.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1981-072-61%2C_Friedrich_Olbricht.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 146-1981-072-61 / CC-BY-SA 3.0
 078;444.14;449.92;COM;078.jpg;Berlin, Tiergarten, Reichpietschufer, Bendler-Block 02.jpg;https://commons.wikimedia.org/wiki/File%3ABerlin%2C_Tiergarten%2C_Reichpietschufer%2C_Bendler-Block_02.jpg;CC BY-SA 3.0, GFDL;Jörg Zägel
 079;449.92;458.88;BA;079.jpg;Bundesarchiv Bild 146-2004-0041, Friedrich Fromm.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-2004-0041%2C_Friedrich_Fromm.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 146-2004-0041 / CC-BY-SA 3.0
 080;458.88;465.28;BA;080.jpg;Bundesarchiv Bild 146-1984-079-02, Führerhauptquartier, Stauffenberg, Hitler, Keitel crop.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1984-079-02%2C_F%C3%BChrerhauptquartier%2C_Stauffenberg%2C_Hitler%2C_Keitel_crop.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 146-1984-079-02 / CC-BY-SA 3.0
-081;465.28;467.36;GLABS;081.png;Nina de perfil, en sombra;;Generada con G-Labs;
-082;467.36;471.32;GLABS;082.png;Nina en la posguerra hablando con su hijo;;Generada con G-Labs;
+081;465.28;467.36;GLABS;081.png;Nina de perfil, en sombra;;Generada con IA (SD-Turbo, Stability AI Community License);
+082;467.36;471.32;GLABS;082.png;Nina en la posguerra hablando con su hijo;;Generada con IA (SD-Turbo, Stability AI Community License);
 083;471.32;475.78;COM;083.jpg;Münster, Prinzipalmarkt, Ratskeller -- 2024 -- 6749.jpg;https://commons.wikimedia.org/wiki/File%3AM%C3%BCnster%2C_Prinzipalmarkt%2C_Ratskeller_--_2024_--_6749.jpg;CC BY-SA 4.0;Dietmar Rabich
 084;475.78;480.56;COM;084.jpg;Briefcase made of crocodile leather - Italy around 1990 - with certificate of the species protection authority.jpg;https://commons.wikimedia.org/wiki/File%3ABriefcase_made_of_crocodile_leather_-_Italy_around_1990_-_with_certificate_of_the_species_protection_authority.jpg;CC BY-SA 4.0;Lupus in Saxonia
-085;480.56;485.58;GLABS;085.png;Claus y Nina hablando en voz baja;;Generada con G-Labs;
+085;480.56;485.58;GLABS;085.png;Claus y Nina hablando en voz baja;;Generada con IA (SD-Turbo, Stability AI Community License);
 086;485.58;495.66;COM;086.jpg;Drying laundry, Umag, Istria, Croatia.jpg;https://commons.wikimedia.org/wiki/File%3ADrying_laundry%2C_Umag%2C_Istria%2C_Croatia.jpg;CC BY-SA 4.0;Michal Klajban
 087;495.66;503.00;COM;087.jpg;Lautlingen Schloss 1.jpg;https://commons.wikimedia.org/wiki/File%3ALautlingen_Schloss_1.jpg;Public domain;Photo: Andreas Praefcke
-088;503.00;507.12;GLABS;088.png;Nina con los cuatro niños en Lautlingen, verano 1944;;Generada con G-Labs;
+088;503.00;507.12;GLABS;088.png;Nina con los cuatro niños en Lautlingen, verano 1944;;Generada con IA (SD-Turbo, Stability AI Community License);
 089;507.12;511.54;COM;089.jpg;Briefcase of a bank director of Midland Bank Ltd. made of black cowhide leather around 1925 - Font in gold letter embossing - Picture 001.jpg;https://commons.wikimedia.org/wiki/File%3ABriefcase_of_a_bank_director_of_Midland_Bank_Ltd._made_of_black_cowhide_leather_around_1925_-_Font_in_gold_letter_embossing_-_Picture_001.jpg;CC BY-SA 4.0;Lupus in Saxonia
 090;511.54;517.10;COM;090.jpg;07 Driving in fog - car in low visibility dangerous weather conditions.jpg;https://commons.wikimedia.org/wiki/File%3A07_Driving_in_fog_-_car_in_low_visibility_dangerous_weather_conditions.jpg;CC BY 3.0;Marek Slusarczyk
 091;517.10;524.43;COM;091.jpg;Hitlerbunker wolfsschanze.jpg;https://commons.wikimedia.org/wiki/File%3AHitlerbunker_wolfsschanze.jpg;CC BY-SA 2.0;The original uploader was Buschaot at German Wikipedia
 092;524.43;530.04;BA;092.jpg;Bundesarchiv Bild 146-1984-079-02, Führerhauptquartier, Stauffenberg, Hitler, Keitel.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1984-079-02%2C_F%C3%BChrerhauptquartier%2C_Stauffenberg%2C_Hitler%2C_Keitel.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 146-1984-079-02 / CC-BY-SA 3.0
-093;530.04;535.82;GLABS;093.png;recreación: el maletín bajo la mesa de roble;;Generada con G-Labs;
+093;530.04;535.82;GLABS;093.png;recreación: el maletín bajo la mesa de roble;;Generada con IA (SD-Turbo, Stability AI Community License);
 094;535.82;539.50;COM;094.jpg;Antique clock dial (Unsplash).jpg;https://commons.wikimedia.org/wiki/File%3AAntique_clock_dial_%28Unsplash%29.jpg;CC0;Brooke Campbell bcampbell
 095;539.50;546.38;COM;095.jpg;20 July plot Polish language.JPG;https://commons.wikimedia.org/wiki/File%3A20_July_plot_Polish_language.JPG;Public domain;Artur Andrzej
 096;546.38;551.98;COM;096.jpg;Attentat 200744.png;https://commons.wikimedia.org/wiki/File%3AAttentat_200744.png;Public domain;Alexvial at French Wikipedia
@@ -99,7 +99,7 @@
 098;559.02;567.68;CLIP;098.mp4;Universal Newsreel: 1945-05-08 Germany Gives Up (desde 221 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
 099;567.68;576.08;COM;099.jpg;FernschreiberT37 4923.jpg;https://commons.wikimedia.org/wiki/File%3AFernschreiberT37_4923.jpg;CC BY-SA 3.0 de;Túrelio
 100;576.08;581.04;COM;100.jpg;Allemagne - le ministère de la Reichswehr avec son drapeau en berne - btv1b90532239.jpg;https://commons.wikimedia.org/wiki/File%3AAllemagne_-_le_minist%C3%A8re_de_la_Reichswehr_avec_son_drapeau_en_berne_-_btv1b90532239.jpg;Public domain;Agence de presse Mondial Photo-Presse. Agence photographique
-101;581.04;587.77;GLABS;101.png;recreación: el patio del Bendlerblock visto desde arriba (sin violencia explícita);;Generada con G-Labs;
+101;581.04;587.77;GLABS;101.png;recreación: el patio del Bendlerblock visto desde arriba (sin violencia explícita);;Generada con IA (SD-Turbo, Stability AI Community License);
 102;587.77;595.86;COM;102.jpg;Albert Mertz von Quirnheim.jpg;https://commons.wikimedia.org/wiki/File%3AAlbert_Mertz_von_Quirnheim.jpg;PDM, Public domain;unknown
 103;595.86;604.08;COM;103.jpg;Gedenktafel Stauffenbergstr 13 (Tierg) Widerstandskämpfer 20 Juli 1944.jpg;https://commons.wikimedia.org/wiki/File%3AGedenktafel_Stauffenbergstr_13_%28Tierg%29_Widerstandsk%C3%A4mpfer_20_Juli_1944.jpg;CC BY-SA 3.0, GFDL;OTFW , Berlin
 104;604.08;609.50;COM;104.jpg;2015-10 Berlin-Tiergarten (78).jpg;https://commons.wikimedia.org/wiki/File%3A2015-10_Berlin-Tiergarten_%2878%29.jpg;CC BY 4.0;Marek Mróz
@@ -112,13 +112,13 @@
 111;642.94;649.12;COM;111.jpg;Volksempfänger VE 301 Dyn, NG-2009-110.jpg;https://commons.wikimedia.org/wiki/File%3AVolksempf%C3%A4nger_VE_301_Dyn%2C_NG-2009-110.jpg;CC0;Rijksmuseum
 112;649.12;656.04;CLIP;112.mp4;Universal Newsreel: 1945-05-08 Germany Gives Up (desde 113 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
 113;656.04;658.74;COM;113.jpg;Claus Schenk Graf von Stauffenberg Sterbeurkunde 1944.jpg;https://commons.wikimedia.org/wiki/File%3AClaus_Schenk_Graf_von_Stauffenberg_Sterbeurkunde_1944.jpg;Public domain;"Standesamt officer; Photo: Andreas Praefcke"
-114;658.74;664.40;GLABS;114.png;Nina reúne a los niños el 21 de julio;;Generada con G-Labs;
-115;664.40;668.98;GLABS;115.png;los cuatro niños escuchan a su madre;;Generada con G-Labs;
-116;668.98;675.12;GLABS;116.png;Berthold a los diez años;;Generada con G-Labs;
-117;675.12;682.31;GLABS;117.png;Nina responde a su hijo;;Generada con G-Labs;
-118;682.31;689.42;GLABS;118.png;Heimeran llora;;Generada con G-Labs;
-119;689.42;695.36;GLABS;119.png;la Gestapo se lleva a Nina de noche;;Generada con G-Labs;
-120;695.36;700.36;GLABS;120.png;los niños miran desde la ventana;;Generada con G-Labs;
+114;658.74;664.40;GLABS;114.png;Nina reúne a los niños el 21 de julio;;Generada con IA (SD-Turbo, Stability AI Community License);
+115;664.40;668.98;GLABS;115.png;los cuatro niños escuchan a su madre;;Generada con IA (SD-Turbo, Stability AI Community License);
+116;668.98;675.12;GLABS;116.png;Berthold a los diez años;;Generada con IA (SD-Turbo, Stability AI Community License);
+117;675.12;682.31;GLABS;117.png;Nina responde a su hijo;;Generada con IA (SD-Turbo, Stability AI Community License);
+118;682.31;689.42;GLABS;118.png;Heimeran llora;;Generada con IA (SD-Turbo, Stability AI Community License);
+119;689.42;695.36;GLABS;119.png;la Gestapo se lleva a Nina de noche;;Generada con IA (SD-Turbo, Stability AI Community License);
+120;695.36;700.36;GLABS;120.png;los niños miran desde la ventana;;Generada con IA (SD-Turbo, Stability AI Community License);
 121;700.36;703.08;CLIP;121.mp4;Universal Newsreel: 1945-05-08 Germany Gives Up (desde 101 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
 122;703.08;709.00;BA;122.jpg;Bundesarchiv Bild 183-S72707, Heinrich Himmler (cropped).jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-S72707%2C_Heinrich_Himmler_%28cropped%29.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-S72707 / CC-BY-SA 3.0
 123;709.00;715.36;COM;123.jpg;2008 Kaiserschloss Posen 03.JPG;https://commons.wikimedia.org/wiki/File%3A2008_Kaiserschloss_Posen_03.JPG;CC BY-SA 3.0 pl;Ziko
@@ -134,26 +134,26 @@
 133;769.02;774.00;BA;133.jpg;Bundesarchiv Bild 183-53829-0001, Alexander Schenk v. Stauffenberg.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-53829-0001%2C_Alexander_Schenk_v._Stauffenberg.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-53829-0001 / CC-BY-SA 3.0
 134;774.00;780.42;COM;134.jpg;FFundBeob.JPG;https://commons.wikimedia.org/wiki/File%3AFFundBeob.JPG;CC BY-SA 3.0, GFDL;Scargill
 135;780.42;786.38;BA;135.jpg;Bundesarchiv Bild 183-B18164, Russland, Simferopol, Razzia.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-B18164%2C_Russland%2C_Simferopol%2C_Razzia.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-B18164 / Hans Zündorf /CC-BY-SA 3.0
-136;786.38;789.84;GLABS;136.png;detienen a parientes ancianos;;Generada con G-Labs;
+136;786.38;789.84;GLABS;136.png;detienen a parientes ancianos;;Generada con IA (SD-Turbo, Stability AI Community License);
 137;789.84;796.80;GRAF;137.png;gráfico propio;;propio;
 138;796.80;799.14;COM;138.jpg;Adolf v Sternenfels Frhr in the Germany & Austria, Directories of Military and Marine Officers.jpg;https://commons.wikimedia.org/wiki/File%3AAdolf_v_Sternenfels_Frhr_in_the_Germany_%26_Austria%2C_Directories_of_Military_and_Marine_Officers.jpg;PDM, Public domain;Bundesarchiv-Militärarchiv
 139;799.14;806.78;COM;139.jpg;Nikolaus von Üxküll.jpg;https://commons.wikimedia.org/wiki/File%3ANikolaus_von_%C3%9Cxk%C3%BCll.jpg;CC BY-SA 3.0, GFDL;Unknown author
 140;806.78;811.58;COM;140.jpg;JVA und Gedenkstaette Ploetzensee 04-2015 img4.jpg;https://commons.wikimedia.org/wiki/File%3AJVA_und_Gedenkstaette_Ploetzensee_04-2015_img4.jpg;CC BY-SA 3.0, FAL;A.Savin
 141;811.58;816.32;BA;141.jpg;Bundesarchiv Bild 151-03-26, Volksgerichtshof, Peter Graf Yorck v. Wartenburg.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_151-03-26%2C_Volksgerichtshof%2C_Peter_Graf_Yorck_v._Wartenburg.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 151-03-26 / CC-BY-SA 3.0
 142;816.32;823.42;COM;142.jpg;FamiliengrabvonHofacker.jpg;https://commons.wikimedia.org/wiki/File%3AFamiliengrabvonHofacker.jpg;CC BY-SA 4.0;Mirilailai
-143;823.42;829.98;GLABS;143.png;retrato de Melitta (no hay foto libre);;Generada con G-Labs;
+143;823.42;829.98;GLABS;143.png;retrato de Melitta (no hay foto libre);;Generada con IA (SD-Turbo, Stability AI Community License);
 144;829.98;837.76;BA;144.jpg;Bundesarchiv Bild 101I-417-1766-03A, Flugzeug Junkers Ju 88.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_101I-417-1766-03A%2C_Flugzeug_Junkers_Ju_88.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 101I-417-1766-03A / Ellerbrock / CC-BY-SA 3.0
 145;837.76;844.36;COM;145.jpg;Iron Cross (1939), 2nd class, with black core paint missing - 02 back.jpg;https://commons.wikimedia.org/wiki/File%3AIron_Cross_%281939%29%2C_2nd_class%2C_with_black_core_paint_missing_-_02_back.jpg;CC BY-SA 4.0;Lieberraldus
 146;844.36;849.61;BA;146.jpg;Bundesarchiv Bild 101I-363-2258-11, Flugzeug Junkers Ju 88.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_101I-363-2258-11%2C_Flugzeug_Junkers_Ju_88.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 101I-363-2258-11 / Rompel / CC-BY-SA 3.0
-147;849.61;854.60;GLABS;147.png;Melitta en la cabina;;Generada con G-Labs;
+147;849.61;854.60;GLABS;147.png;Melitta en la cabina;;Generada con IA (SD-Turbo, Stability AI Community License);
 148;854.60;857.92;COM;148.jpg;Bücker Bü 181 Bestmann Flygvapenmuseum.jpg;https://commons.wikimedia.org/wiki/File%3AB%C3%BCcker_B%C3%BC_181_Bestmann_Flygvapenmuseum.jpg;CC BY-SA 4.0;Bene Riobó
 149;857.92;864.32;MAPA;149.png;gráfico propio (Natural Earth, dominio público);;propio;
-150;864.32;868.80;GLABS;150.png;Nina en una celda;;Generada con G-Labs;
+150;864.32;868.80;GLABS;150.png;Nina en una celda;;Generada con IA (SD-Turbo, Stability AI Community License);
 151;868.80;874.66;COM;151.jpg;Hochturm (Rottweil)-10.jpg;https://commons.wikimedia.org/wiki/File%3AHochturm_%28Rottweil%29-10.jpg;CC BY-SA 4.0;Muck
 152;874.66;881.78;COM;152.jpg;GestapoBerlin1945.jpg;https://commons.wikimedia.org/wiki/File%3AGestapoBerlin1945.jpg;Public domain;Adam Carr
 153;881.78;887.68;COM;153.jpg;Martin-Gropius-Bau eastern side 1988 (2).jpg;https://commons.wikimedia.org/wiki/File%3AMartin-Gropius-Bau_eastern_side_1988_%282%29.jpg;CC BY 3.0;pictures Jettcom
-154;887.68;891.60;GLABS;154.png;Nina interrogada por la Gestapo;;Generada con G-Labs;
-155;891.60;897.54;GLABS;155.png;Nina finge ser una ama de casa simple;;Generada con G-Labs;
+154;887.68;891.60;GLABS;154.png;Nina interrogada por la Gestapo;;Generada con IA (SD-Turbo, Stability AI Community License);
+155;891.60;897.54;GLABS;155.png;Nina finge ser una ama de casa simple;;Generada con IA (SD-Turbo, Stability AI Community License);
 156;897.54;902.04;COM;156.jpg;Clothespins on the Clotheslines.jpg;https://commons.wikimedia.org/wiki/File%3AClothespins_on_the_Clotheslines.jpg;CC BY-SA 4.0;Nt
 157;902.04;905.74;COM;157.jpg;Sitzen an der Schreibmaschine - LABW - Staatsarchiv Freiburg W 134 Nr. 007264.jpg;https://commons.wikimedia.org/wiki/File%3ASitzen_an_der_Schreibmaschine_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._007264.jpg;CC BY 4.0;Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg W 134 Nr. 007264
 158;905.74;910.24;COM;158.jpg;Zellenbau Ravensbrück-2025-09-msu-0845-0870.jpg;https://commons.wikimedia.org/wiki/File%3AZellenbau_Ravensbr%C3%BCck-2025-09-msu-0845-0870.jpg;CC BY-SA 4.0;Matthias Süßen
@@ -161,14 +161,14 @@
 160;913.88;918.32;COM;160.jpg;Mario von Bucovich Berlin Polizeipräsidium Alexanderplatz 1928.png;https://commons.wikimedia.org/wiki/File%3AMario_von_Bucovich_Berlin_Polizeipr%C3%A4sidium_Alexanderplatz_1928.png;PDM, Public domain;Mario von Bucovich
 161;918.32;924.46;BA;161.jpg;Bundesarchiv Bild 183-1985-0417-15, Ravensbrück, Konzentrationslager.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-1985-0417-15%2C_Ravensbr%C3%BCck%2C_Konzentrationslager.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-1985-0417-15 / CC-BY-SA 3.0
 162;924.46;931.24;BA;162.jpg;Bundesarchiv Bild 183-66165-0002, Mahn- und Gedenkstätte Ravensbrück, Zellen.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-66165-0002%2C_Mahn-_und_Gedenkst%C3%A4tte_Ravensbr%C3%BCck%2C_Zellen.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-66165-0002 / CC-BY-SA 3.0
-163;931.24;936.54;GLABS;163.png;Nina embarazada en aislamiento;;Generada con G-Labs;
+163;931.24;936.54;GLABS;163.png;Nina embarazada en aislamiento;;Generada con IA (SD-Turbo, Stability AI Community License);
 164;936.54;943.26;COM;164.jpg;Window on a winter night in Vibble, Gotland.jpg;https://commons.wikimedia.org/wiki/File%3AWindow_on_a_winter_night_in_Vibble%2C_Gotland.jpg;CC BY-SA 4.0;W.carter
 165;943.26;947.56;COM;165.jpg;Allee Ravensbrück-2025-09-msu-0845-0864.jpg;https://commons.wikimedia.org/wiki/File%3AAllee_Ravensbr%C3%BCck-2025-09-msu-0845-0864.jpg;CC BY-SA 4.0;Matthias Süßen
 166;947.56;953.00;COM;166.jpg;Frankfurt-Oder Marienkirche.jpg;https://commons.wikimedia.org/wiki/File%3AFrankfurt-Oder_Marienkirche.jpg;CC BY-SA 4.0;Werner Laudon
 167;953.00;959.90;COM;167.jpg;Newborn baby sleeps in a basket.jpg;https://commons.wikimedia.org/wiki/File%3ANewborn_baby_sleeps_in_a_basket.jpg;CC0;Elizabeth
 168;959.90;964.74;COM;168.jpg;Gate of Auschwitz II, 28 November 2007 (3).jpg;https://commons.wikimedia.org/wiki/File%3AGate_of_Auschwitz_II%2C_28_November_2007_%283%29.jpg;Public domain;Logaritmo
 169;964.74;968.04;MAPA;169.png;gráfico propio (Natural Earth, dominio público);;propio;
-170;968.04;973.44;GLABS;170.png;Nina con Konstanze en el hospital;;Generada con G-Labs;
+170;968.04;973.44;GLABS;170.png;Nina con Konstanze en el hospital;;Generada con IA (SD-Turbo, Stability AI Community License);
 171;973.44;980.86;BA;171.jpg;Bundesarchiv Bild 183-L01399, Westfronat, Lazarettzug.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-L01399%2C_Westfronat%2C_Lazarettzug.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-L01399 / Rutkowski, Heinz / CC-BY-SA 3.0
 172;980.86;987.78;MAPA;172.png;gráfico propio (Natural Earth, dominio público);;propio;
 173;987.78;995.78;COM;173.jpg;Alexianer St Josefs-Krankenhaus Potsdam-Sanssouci (2023-10-31) - IMG 07.jpg;https://commons.wikimedia.org/wiki/File%3AAlexianer_St_Josefs-Krankenhaus_Potsdam-Sanssouci_%282023-10-31%29_-_IMG_07.jpg;CC BY 4.0;Chainwit
@@ -178,64 +178,64 @@
 177;1018.48;1021.32;COM;177.jpg;Antique stethoscope.JPG;https://commons.wikimedia.org/wiki/File%3AAntique_stethoscope.JPG;CC BY-SA 3.0, GFDL;BrokenSphere
 178;1021.32;1025.90;COM;178.jpg;Alexianer St Josefs-Krankenhaus Potsdam-Sanssouci (2023-10-31) - IMG 11.jpg;https://commons.wikimedia.org/wiki/File%3AAlexianer_St_Josefs-Krankenhaus_Potsdam-Sanssouci_%282023-10-31%29_-_IMG_11.jpg;CC BY 4.0;Chainwit
 179;1025.90;1031.32;COM;179.jpg;Hospital corridor 2.jpg;https://commons.wikimedia.org/wiki/File%3AHospital_corridor_2.jpg;CC BY 2.0;tanakawho from Tokyo, Japan
-180;1031.32;1032.76;GLABS;180.png;el médico tranquiliza a Nina;;Generada con G-Labs;
+180;1031.32;1032.76;GLABS;180.png;el médico tranquiliza a Nina;;Generada con IA (SD-Turbo, Stability AI Community License);
 181;1032.76;1039.58;COM;181.jpg;Galilee trip. Safad. A ward in the hospital LOC matpc.20795.tif;https://commons.wikimedia.org/wiki/File%3AGalilee_trip._Safad._A_ward_in_the_hospital_LOC_matpc.20795.tif;Public domain;Matson Collection
-182;1039.58;1045.80;GLABS;182.png;bautismo de urgencia;;Generada con G-Labs;
+182;1039.58;1045.80;GLABS;182.png;bautismo de urgencia;;Generada con IA (SD-Turbo, Stability AI Community License);
 183;1045.80;1047.82;COM;183.jpg;Candles in the Chapel of the Angel. Church of the Holy Sepulchre, Jerusalem 048 - Aug 2011.jpg;https://commons.wikimedia.org/wiki/File%3ACandles_in_the_Chapel_of_the_Angel._Church_of_the_Holy_Sepulchre%2C_Jerusalem_048_-_Aug_2011.jpg;CC BY 3.0;Guillaume Paumier
-184;1047.82;1054.88;GLABS;184.png;bautismo del 12 de abril de 1945;;Generada con G-Labs;
+184;1047.82;1054.88;GLABS;184.png;bautismo del 12 de abril de 1945;;Generada con IA (SD-Turbo, Stability AI Community License);
 185;1054.88;1062.62;COM;185.jpg;Museum Verbindingsdienst Old telephone pic3.JPG;https://commons.wikimedia.org/wiki/File%3AMuseum_Verbindingsdienst_Old_telephone_pic3.JPG;CC0;Alf van Beem
 186;1062.62;1070.30;COM;186.jpg;Museum Verbindingsdienst Old telephone pic2.JPG;https://commons.wikimedia.org/wiki/File%3AMuseum_Verbindingsdienst_Old_telephone_pic2.JPG;CC0;Alf van Beem
 187;1070.30;1073.46;COM;187.jpg;Antique clock face (23969984684).jpg;https://commons.wikimedia.org/wiki/File%3AAntique_clock_face_%2823969984684%29.jpg;CC BY 2.0;Thomas Quine
-188;1073.46;1076.06;GLABS;188.png;se llevan a Nina y a la bebé;;Generada con G-Labs;
+188;1073.46;1076.06;GLABS;188.png;se llevan a Nina y a la bebé;;Generada con IA (SD-Turbo, Stability AI Community License);
 189;1076.06;1084.00;MAPA;189.png;gráfico propio (Natural Earth, dominio público);;propio;
 190;1084.00;1090.60;COM;190.jpg;Schönberg (Niederbayern).jpg;https://commons.wikimedia.org/wiki/File%3ASch%C3%B6nberg_%28Niederbayern%29.jpg;CC BY-SA 4.0;H.Helmlechner
 191;1090.60;1095.56;CLIP;191.mp4;Universal Newsreel: 1945-03-15 Allies Open Final Drive In Germany (desde 137 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
 192;1095.56;1100.72;COM;192.jpg;Pfarrkirche Trogen 20210825 HOF04551 RAW-Export 20220503002569cens Kopie.jpg;https://commons.wikimedia.org/wiki/File%3APfarrkirche_Trogen_20210825_HOF04551_RAW-Export_20220503002569cens_Kopie.jpg;CC BY 4.0;PantheraLeo1359531
-193;1100.72;1104.28;GLABS;193.png;Nina convence al policía;;Generada con G-Labs;
+193;1100.72;1104.28;GLABS;193.png;Nina convence al policía;;Generada con IA (SD-Turbo, Stability AI Community License);
 194;1104.28;1109.44;COM;194.jpg;Dülmen, Leuste, Bäume im Nebel -- 2020 -- 5042 (bw).jpg;https://commons.wikimedia.org/wiki/File%3AD%C3%BClmen%2C_Leuste%2C_B%C3%A4ume_im_Nebel_--_2020_--_5042_%28bw%29.jpg;CC BY-SA 4.0;Dietmar Rabich
 195;1109.44;1115.10;CLIP;195.mp4;Universal Newsreel: 1945-04-02 Death Knell For Germany (desde 117 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
-196;1115.10;1120.38;GLABS;196.png;Nina libre con la bebé;;Generada con G-Labs;
+196;1115.10;1120.38;GLABS;196.png;Nina libre con la bebé;;Generada con IA (SD-Turbo, Stability AI Community License);
 197;1120.38;1127.68;COM;197.jpg;Newborn baby in hospital by Bonnie Gruenberg.jpg;https://commons.wikimedia.org/wiki/File%3ANewborn_baby_in_hospital_by_Bonnie_Gruenberg.jpg;CC BY-SA 3.0;Bonnie U. Gruenberg
 198;1127.68;1134.04;COM;198.jpg;Autumn forest - Flickr - Stiller Beobachter (3).jpg;https://commons.wikimedia.org/wiki/File%3AAutumn_forest_-_Flickr_-_Stiller_Beobachter_%283%29.jpg;CC BY 2.0;Stiller Beobachter from Ansbach, Germany
 199;1134.04;1137.24;COM;199.jpg;Doline im Wald - geo.hlipp.de - 13621.jpg;https://commons.wikimedia.org/wiki/File%3ADoline_im_Wald_-_geo.hlipp.de_-_13621.jpg;CC BY-SA 2.0;Jonathan Wilkins
-200;1137.24;1145.18;GLABS;200.png;se llevan a los niños de Lautlingen;;Generada con G-Labs;
+200;1137.24;1145.18;GLABS;200.png;se llevan a los niños de Lautlingen;;Generada con IA (SD-Turbo, Stability AI Community License);
 201;1145.18;1149.62;COM;201.jpg;BadSachsaRiver.jpg;https://commons.wikimedia.org/wiki/File%3ABadSachsaRiver.jpg;CC BY-SA 3.0;Torbenbrinker
 202;1149.62;1157.10;COM;202.jpg;Kinderheim Borntal Bad Sachsa-1003047 cropped.jpg;https://commons.wikimedia.org/wiki/File%3AKinderheim_Borntal_Bad_Sachsa-1003047_cropped.jpg;CC BY-SA 3.0;Vincent Eisfeld
 203;1157.10;1161.62;COM;203.jpg;Bauernhaus (Hasemann).jpg;https://commons.wikimedia.org/wiki/File%3ABauernhaus_%28Hasemann%29.jpg;PDM, Public domain;Artwork: Wilhelm Hasemann. File: James Steakley
-204;1161.62;1167.12;GLABS;204.png;recreación: dormitorio del hogar;;Generada con G-Labs;
+204;1161.62;1167.12;GLABS;204.png;recreación: dormitorio del hogar;;Generada con IA (SD-Turbo, Stability AI Community License);
 205;1167.12;1173.66;BA;205.jpg;Bundesarchiv Bild 183-L17036, Kinderlandverschickung.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-L17036%2C_Kinderlandverschickung.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-L17036 / CC-BY-SA 3.0
 206;1173.66;1175.72;COM;206.jpg;Shoes of striker's children - DPLA - 0f2be4520c27a8dde4589730bba2433e.jpg;https://commons.wikimedia.org/wiki/File%3AShoes_of_striker%27s_children_-_DPLA_-_0f2be4520c27a8dde4589730bba2433e.jpg;Public domain;[Dold, Lewis R.]
 207;1175.72;1183.18;GRAF;207.png;gráfico propio;;propio;
-208;1183.18;1189.92;GLABS;208.png;recreación: separan a los niños por edad;;Generada con G-Labs;
+208;1183.18;1189.92;GLABS;208.png;recreación: separan a los niños por edad;;Generada con IA (SD-Turbo, Stability AI Community License);
 209;1189.92;1192.56;COM;209.jpg;Image 140 of George S. Patton Papers, Diaries, 1910-1945, Original, 1944, Oct. 3-1945, Feb. 5.jpg;https://commons.wikimedia.org/wiki/File%3AImage_140_of_George_S._Patton_Papers%2C_Diaries%2C_1910-1945%2C_Original%2C_1944%2C_Oct._3-1945%2C_Feb._5.jpg;PDM, Public domain;
 210;1192.56;1194.64;COM;210.jpg;CICR-ICRC-PublicArchives WWII-files RomanDeckert09062020.jpg;https://commons.wikimedia.org/wiki/File%3ACICR-ICRC-PublicArchives_WWII-files_RomanDeckert09062020.jpg;CC BY-SA 4.0;RomanDeckert
 211;1194.64;1200.36;COM;211.jpg;Valkyrie telex declaring Hitler's death.jpg;https://commons.wikimedia.org/wiki/File%3AValkyrie_telex_declaring_Hitler%27s_death.jpg;CC BY-SA 4.0;German Bundesarchiv
 212;1200.36;1205.94;BA;212.jpg;Bundesarchiv Bild 183-J15063, Familie mit 12 Kindern.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-J15063%2C_Familie_mit_12_Kindern.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-J15063 / CC-BY-SA 3.0
-213;1205.94;1212.72;GLABS;213.png;recreación: niño mirando por la ventana;;Generada con G-Labs;
+213;1205.94;1212.72;GLABS;213.png;recreación: niño mirando por la ventana;;Generada con IA (SD-Turbo, Stability AI Community License);
 214;1212.72;1217.90;BA;214.jpg;Bundesarchiv Bild 183-C0716-0046-003, Claus Schenk Graf v. Stauffenberg.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-C0716-0046-003%2C_Claus_Schenk_Graf_v._Stauffenberg.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-C0716-0046-003 / CC-BY-SA 3.0
 215;1217.90;1221.56;COM;215.jpg;HandwritingOfOneJohnJay(NotTheFamousOne).jpg;https://commons.wikimedia.org/wiki/File%3AHandwritingOfOneJohnJay%28NotTheFamousOne%29.jpg;CC BY-SA 3.0, Public domain;John Jay
 216;1221.56;1229.00;COM;216.jpg;J Simonsen - Bad Sachsa. Partie am Schmelzteich (80505 um 1925).jpg;https://commons.wikimedia.org/wiki/File%3AJ_Simonsen_-_Bad_Sachsa._Partie_am_Schmelzteich_%2880505_um_1925%29.jpg;PDM, Public domain;
-217;1229.00;1232.76;GLABS;217.png;recreación: niños despiertos de noche;;Generada con G-Labs;
+217;1229.00;1232.76;GLABS;217.png;recreación: niños despiertos de noche;;Generada con IA (SD-Turbo, Stability AI Community License);
 218;1232.76;1238.42;COM;218.jpg;Beech forest in Nyuto Onsenkyo (1).jpg;https://commons.wikimedia.org/wiki/File%3ABeech_forest_in_Nyuto_Onsenkyo_%281%29.jpg;CC BY-SA 4.0;掬茶
-219;1238.42;1246.80;GLABS;219.png;recreación: una madre recoge a su hijo;;Generada con G-Labs;
+219;1238.42;1246.80;GLABS;219.png;recreación: una madre recoge a su hijo;;Generada con IA (SD-Turbo, Stability AI Community License);
 220;1246.80;1249.68;COM;220.jpg;Kinderheim Borntal Bad Sachsa-5561.jpg;https://commons.wikimedia.org/wiki/File%3AKinderheim_Borntal_Bad_Sachsa-5561.jpg;CC BY-SA 3.0;Erik Eisfeld
 221;1249.68;1254.84;COM;221.jpg;Tangled Trees Melting Snow (53688284519).jpg;https://commons.wikimedia.org/wiki/File%3ATangled_Trees_Melting_Snow_%2853688284519%29.jpg;CC BY 2.0, Public domain;BLM Alaska
 222;1254.84;1260.84;COM;222.jpg;Fotothek df ps 0006120 Denkmäler - Denkmale - Ehrenmäler - Ehrenmale ^ Ereignisd.jpg;https://commons.wikimedia.org/wiki/File%3AFotothek_df_ps_0006120_Denkm%C3%A4ler_-_Denkmale_-_Ehrenm%C3%A4ler_-_Ehrenmale_%5E_Ereignisd.jpg;CC BY-SA 3.0 de;Deutsche Fotothek‎
 223;1260.84;1265.96;COM;223.jpg;Buchenwald Barracks 74974.jpg;https://commons.wikimedia.org/wiki/File%3ABuchenwald_Barracks_74974.jpg;PDM, Public domain;
 224;1265.96;1270.50;COM;224.jpg;LKW Opel-Blitz.jpg;https://commons.wikimedia.org/wiki/File%3ALKW_Opel-Blitz.jpg;CC BY-SA 3.0, GFDL;Foto Funke / Bot 9. Dez. 2008/ bearbeitet vom Elkawe
-225;1270.50;1272.42;GLABS;225.png;recreación: camión de la Wehrmacht con niños;;Generada con G-Labs;
+225;1270.50;1272.42;GLABS;225.png;recreación: camión de la Wehrmacht con niños;;Generada con IA (SD-Turbo, Stability AI Community License);
 226;1272.42;1279.06;CLIP;226.mp4;Universal Newsreel: 1945-03-12 Air Smashes Devastate Germany (desde 45 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
 227;1279.06;1285.88;COM;227.jpg;Waldweg, Käsplatte.jpg;https://commons.wikimedia.org/wiki/File%3AWaldweg%2C_K%C3%A4splatte.jpg;CC BY 4.0;Rosa-Maria Rinkl
 228;1285.88;1293.66;CLIP;228.mp4;Universal Newsreel: 1945-04-02 Death Knell For Germany (desde 93 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
 229;1293.66;1298.64;COM;229.jpg;Alexianer St Josefs-Krankenhaus Potsdam-Sanssouci (2023-10-31) - IMG 10.jpg;https://commons.wikimedia.org/wiki/File%3AAlexianer_St_Josefs-Krankenhaus_Potsdam-Sanssouci_%282023-10-31%29_-_IMG_10.jpg;CC BY 4.0;Chainwit
 230;1298.64;1302.76;COM;230.jpg;Alexianer St Josefs-Krankenhaus Potsdam-Sanssouci (2023-10-31) - IMG 08.jpg;https://commons.wikimedia.org/wiki/File%3AAlexianer_St_Josefs-Krankenhaus_Potsdam-Sanssouci_%282023-10-31%29_-_IMG_08.jpg;CC BY 4.0;Chainwit
-231;1302.76;1307.92;GLABS;231.png;recreación: niños ven llegar a los estadounidenses;;Generada con G-Labs;
+231;1302.76;1307.92;GLABS;231.png;recreación: niños ven llegar a los estadounidenses;;Generada con IA (SD-Turbo, Stability AI Community License);
 232;1307.92;1311.70;BA;232.jpg;Bundesarchiv Bild 183-78612-0002, KZ Sachsenhausen, Häftlinge vor Lagertor.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-78612-0002%2C_KZ_Sachsenhausen%2C_H%C3%A4ftlinge_vor_Lagertor.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-78612-0002 /
 233;1311.70;1322.80;COM;233.jpg;Buchenwald Barracks 75028.jpg;https://commons.wikimedia.org/wiki/File%3ABuchenwald_Barracks_75028.jpg;PDM, Public domain;Photographed by William B. Duff
 234;1322.80;1327.12;BA;234.jpg;Bundesarchiv Bild 183-53829-0001, Alexander Schenk v. Stauffenberg - Ausschnitt.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-53829-0001%2C_Alexander_Schenk_v._Stauffenberg_-_Ausschnitt.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-53829-0001 / CC-BY-SA 3.0
 235;1327.12;1333.76;MAPA;235.png;gráfico propio (Natural Earth, dominio público);;propio;
 236;1333.76;1339.66;CLIP;236.mp4;Universal Newsreel: 1945-06-04 Allies Sieze German Loot and Criminals (desde 65 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
-237;1339.66;1343.60;GLABS;237.png;recreación: rostros de los rehenes por la ventanilla del autobús;;Generada con G-Labs;
+237;1339.66;1343.60;GLABS;237.png;recreación: rostros de los rehenes por la ventanilla del autobús;;Generada con IA (SD-Turbo, Stability AI Community License);
 238;1343.60;1347.24;COM;238.jpg;Grossglockner High Alpine Road.JPG;https://commons.wikimedia.org/wiki/File%3AGrossglockner_High_Alpine_Road.JPG;CC BY-SA 3.0, GFDL;Iamthestig
 239;1347.24;1349.74;COM;239.jpg;Bücker Bü-181 Bestmann SE-CAX ca-1955 Egelsbach-Cockpit.jpg;https://commons.wikimedia.org/wiki/File%3AB%C3%BCcker_B%C3%BC-181_Bestmann_SE-CAX_ca-1955_Egelsbach-Cockpit.jpg;CC BY-SA 3.0, CC BY-SA 3.0 de, GFDL;H.-C. Köster
 240;1349.74;1354.36;COM;240.jpg;Bücker Bü 181 (8735594120).jpg;https://commons.wikimedia.org/wiki/File%3AB%C3%BCcker_B%C3%BC_181_%288735594120%29.jpg;CC BY-SA 2.0;bomberpilot
@@ -243,12 +243,12 @@
 242;1357.20;1364.84;COM;242.jpg;Bücker Bü 181 Berlin 01.jpg;https://commons.wikimedia.org/wiki/File%3AB%C3%BCcker_B%C3%BC_181_Berlin_01.jpg;CC BY-SA 3.0;W2k2
 243;1364.84;1371.36;COM;243.jpg;44-15439-P-51D-Mustang-31FG308FS-HLB-American-Beauty-Capt-John-J-Voll-over-Italy-1944.jpg;https://commons.wikimedia.org/wiki/File%3A44-15439-P-51D-Mustang-31FG308FS-HLB-American-Beauty-Capt-John-J-Voll-over-Italy-1944.jpg;Public domain;USAAF
 244;1371.36;1378.17;COM;244.jpg;North American P-51 Mustang of the 52nd FG takes off from Ghisonaccia Alzitone airfield, Corsica, France, 28 May 1944 (148028024).jpg;https://commons.wikimedia.org/wiki/File%3ANorth_American_P-51_Mustang_of_the_52nd_FG_takes_off_from_Ghisonaccia_Alzitone_airfield%2C_Corsica%2C_France%2C_28_May_1944_%28148028024%29.jpg;Public domain;U.S. Army Air Forces photo in History of the 52nd Fighter Group…
-245;1378.17;1382.96;GLABS;245.png;la avioneta aterrizada en el campo;;Generada con G-Labs;
+245;1378.17;1382.96;GLABS;245.png;la avioneta aterrizada en el campo;;Generada con IA (SD-Turbo, Stability AI Community License);
 246;1382.96;1385.38;COM;246.jpg;Grossglockner High Alpine Road (28721906201).jpg;https://commons.wikimedia.org/wiki/File%3AGrossglockner_High_Alpine_Road_%2828721906201%29.jpg;CC BY 2.0;A_Peach from Berlin, Germany
 247;1385.38;1392.18;COM;247.jpg;D-BY-Dachau - KZ-Gedenkstätte Dachau 3231.JPG;https://commons.wikimedia.org/wiki/File%3AD-BY-Dachau_-_KZ-Gedenkst%C3%A4tte_Dachau_3231.JPG;CC BY-SA 3.0;ANKAWÜ
 248;1392.18;1394.16;BA;248.jpg;Bundesarchiv Bild 101I-380-0069-33, Polen, Verhaftung von Juden, Transport.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_101I-380-0069-33%2C_Polen%2C_Verhaftung_von_Juden%2C_Transport.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 101I-380-0069-33 / Lifta / CC-BY-SA 3.0
 249;1394.16;1400.46;COM;249.jpg;Gezicht op Niederdorf Tirol. Niederdorf im Pustertal (titel op object), RP-F-00-9109.jpg;https://commons.wikimedia.org/wiki/File%3AGezicht_op_Niederdorf_Tirol._Niederdorf_im_Pustertal_%28titel_op_object%29%2C_RP-F-00-9109.jpg;CC0;Rijksmuseum
-250;1400.46;1404.92;GLABS;250.png;el grupo de rehenes;;Generada con G-Labs;
+250;1400.46;1404.92;GLABS;250.png;el grupo de rehenes;;Generada con IA (SD-Turbo, Stability AI Community License);
 251;1404.92;1412.76;COM;251.jpg;Kurt Schuschnigg 1934.jpg;https://commons.wikimedia.org/wiki/File%3AKurt_Schuschnigg_1934.jpg;PDM, Public domain;
 252;1412.76;1420.92;COM;252.jpg;Léon Blum Meurisse b 1927.jpg;https://commons.wikimedia.org/wiki/File%3AL%C3%A9on_Blum_Meurisse_b_1927.jpg;Public domain;
 253;1420.92;1428.02;COM;253.jpg;Prags Hotel am Pragser Wildsee 2019 II.jpg;https://commons.wikimedia.org/wiki/File%3APrags_Hotel_am_Pragser_Wildsee_2019_II.jpg;CC BY-SA 4.0;ManfredK
@@ -266,12 +266,12 @@
 265;1497.58;1500.78;COM;265.jpg;Barbed Wire Roll.jpg;https://commons.wikimedia.org/wiki/File%3ABarbed_Wire_Roll.jpg;CC BY-SA 3.0;Logan King
 266;1500.78;1503.23;COM;266.jpg;Blick nach Albstadt-Lautlingen vom Donau-Zollernalb-Weg - panoramio.jpg;https://commons.wikimedia.org/wiki/File%3ABlick_nach_Albstadt-Lautlingen_vom_Donau-Zollernalb-Weg_-_panoramio.jpg;CC BY 3.0;qwesy qwesy
 267;1503.23;1510.75;BA;267.jpg;Bundesarchiv Bild 137-068862, Sonderzug der Einwandererzentralstelle.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_137-068862%2C_Sonderzug_der_Einwandererzentralstelle.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 137-068862 / CC-BY-SA 3.0
-268;1510.75;1516.69;GLABS;268.png;la condesa Üxküll llega en autobús;;Generada con G-Labs;
+268;1510.75;1516.69;GLABS;268.png;la condesa Üxküll llega en autobús;;Generada con IA (SD-Turbo, Stability AI Community License);
 269;1516.69;1520.15;BA;269.jpg;Bundesarchiv Bild 146-1984-102-25A, Kaunas, Litauische Aktivisten.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1984-102-25A%2C_Kaunas%2C_Litauische_Aktivisten.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 146-1984-102-25A / Barschdorff / CC-BY-SA 3.0
 270;1520.15;1523.47;COM;270.jpg;Lautlingen Schloss 5.jpg;https://commons.wikimedia.org/wiki/File%3ALautlingen_Schloss_5.jpg;Public domain;Photo: Andreas Praefcke
 271;1523.47;1527.71;COM;271.jpg;Copped Hall first floor west window, Epping, Essex, England.jpg;https://commons.wikimedia.org/wiki/File%3ACopped_Hall_first_floor_west_window%2C_Epping%2C_Essex%2C_England.jpg;CC BY-SA 4.0;Acabashi
-272;1527.71;1533.23;GLABS;272.png;el reencuentro;;Generada con G-Labs;
-273;1533.23;1538.77;GLABS;273.png;los hermanos conocen a Konstanze;;Generada con G-Labs;
+272;1527.71;1533.23;GLABS;272.png;el reencuentro;;Generada con IA (SD-Turbo, Stability AI Community License);
+273;1533.23;1538.77;GLABS;273.png;los hermanos conocen a Konstanze;;Generada con IA (SD-Turbo, Stability AI Community License);
 274;1538.77;1541.33;GRAF;274.png;gráfico propio;;propio;
 275;1541.33;1545.79;CLIP;275.mp4;Universal Newsreel: 1945-04-02 Death Knell For Germany (desde 137 s);https://archive.org/details/universal_newsreels;Dominio público (Universal Newsreels, donados al dominio público vía NARA);
 276;1545.79;1552.58;COM;276.jpg;Lautlingen 2003.JPG;https://commons.wikimedia.org/wiki/File%3ALautlingen_2003.JPG;CC BY-SA 2.0 de;Heiko Peter Melle
@@ -300,7 +300,7 @@
 299;1670.77;1679.11;COM;299.jpg;Selection on the ramp at Auschwitz-Birkenau, 1944 (Auschwitz Album) 1b.jpg;https://commons.wikimedia.org/wiki/File%3ASelection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg;Public domain;
 300;1679.11;1685.87;COM;300.jpg;Adolf Eichmann takes notes during his trial USHMM 65268.jpg;https://commons.wikimedia.org/wiki/File%3AAdolf_Eichmann_takes_notes_during_his_trial_USHMM_65268.jpg;Public domain;Courtesy of Israel Government Press Office
 301;1685.87;1692.77;COM;301.jpg;Fritz-Bauer-Straße - Tübingen.jpg;https://commons.wikimedia.org/wiki/File%3AFritz-Bauer-Stra%C3%9Fe_-_T%C3%BCbingen.jpg;CC BY-SA 4.0;Reutlingendorf
-302;1692.77;1696.17;GLABS;302.png;Nina en los años 50;;Generada con G-Labs;
+302;1692.77;1696.17;GLABS;302.png;Nina en los años 50;;Generada con IA (SD-Turbo, Stability AI Community License);
 303;1696.17;1703.15;COM;303.jpg;Gdańsk Dom Uphagena 010.jpg;https://commons.wikimedia.org/wiki/File%3AGda%C5%84sk_Dom_Uphagena_010.jpg;CC0;Аимаина хикари
 304;1703.15;1708.07;COM;304.jpg;Riverdale, Interior, Exit from empty reading room (NYPL b11524053-1253081).tiff;https://commons.wikimedia.org/wiki/File%3ARiverdale%2C_Interior%2C_Exit_from_empty_reading_room_%28NYPL_b11524053-1253081%29.tiff;PDM, Public domain;Scan by NYPL
 305;1708.07;1713.77;COM;305.jpg;Bamberg Keßlerstraße 9 Fassade.jpg;https://commons.wikimedia.org/wiki/File%3ABamberg_Ke%C3%9Flerstra%C3%9Fe_9_Fassade.jpg;CC BY 3.0;Photo: Andreas Praefcke
@@ -308,7 +308,7 @@
 307;1717.75;1721.29;COM;307.jpg;Dülmen, Kirchspiel, Nebel in der Bauerschaft Börnste -- 2021 -- 8089.jpg;https://commons.wikimedia.org/wiki/File%3AD%C3%BClmen%2C_Kirchspiel%2C_Nebel_in_der_Bauerschaft_B%C3%B6rnste_--_2021_--_8089.jpg;CC BY-SA 4.0;Dietmar Rabich
 308;1721.29;1726.39;COM;308.jpg;2015-10 Berlin-Tiergarten (77).jpg;https://commons.wikimedia.org/wiki/File%3A2015-10_Berlin-Tiergarten_%2877%29.jpg;CC BY 4.0;Marek Mróz
 309;1726.39;1730.25;COM;309.jpg;International Labour Day Edit-a-Thon - vintage microphone - KDKA radio station.JPG;https://commons.wikimedia.org/wiki/File%3AInternational_Labour_Day_Edit-a-Thon_-_vintage_microphone_-_KDKA_radio_station.JPG;CC BY-SA 4.0;Fourandsixty
-310;1730.25;1734.21;GLABS;310.png;Nina con sus cinco hijos en los años 50;;Generada con G-Labs;
+310;1730.25;1734.21;GLABS;310.png;Nina con sus cinco hijos en los años 50;;Generada con IA (SD-Turbo, Stability AI Community License);
 311;1734.21;1739.66;GRAF;311.png;gráfico propio;;propio;
 312;1739.66;1744.17;BA;312.jpg;Bundesarchiv Bild 146-2004-0092, Andernach, Adenauer besucht Bundeswehr.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-2004-0092%2C_Andernach%2C_Adenauer_besucht_Bundeswehr.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 146-2004-0092 / Wolf, Helmut J. / CC-BY-SA 3.0
 313;1744.17;1752.03;BA;313.jpg;Bundesarchiv Bild 183-64549-0006, Sonthofen, Generalslehrgang, Besuch Blank.jpg;https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-64549-0006%2C_Sonthofen%2C_Generalslehrgang%2C_Besuch_Blank.jpg;CC BY-SA 3.0 de;Bundesarchiv, Bild 183-64549-0006 / CC-BY-SA 3.0
@@ -329,7 +329,7 @@
 328;1835.97;1842.17;COM;328.jpg;Meadows above Les Diablerets.jpg;https://commons.wikimedia.org/wiki/File%3AMeadows_above_Les_Diablerets.jpg;CC BY-SA 4.0;Peter Sabol
 329;1842.17;1849.07;COM;329.jpg;"Writing at a portable desk with reed, reed knife, and ink well; citing bound rubricated manuscripts with fore- and top-edge clasps and bookmarks (Genoa, 16th. c.) (8067972631).jpg";https://commons.wikimedia.org/wiki/File%3AWriting_at_a_portable_desk_with_reed%2C_reed_knife%2C_and_ink_well%3B_citing_bound_rubricated_manuscripts_with_fore-_and_top-edge_clasps_and_bookmarks_%28Genoa%2C_16th._c.%29_%288067972631%29.jpg;CC BY 2.0;takomabibelot
 330;1849.07;1854.37;COM;330.jpg;Drying laundry Saturday 20210306 094854.jpg;https://commons.wikimedia.org/wiki/File%3ADrying_laundry_Saturday_20210306_094854.jpg;CC BY 2.0;el cajon yacht club
-331;1854.37;1859.37;GLABS;331.png;Nina anciana;;Generada con G-Labs;
+331;1854.37;1859.37;GLABS;331.png;Nina anciana;;Generada con IA (SD-Turbo, Stability AI Community License);
 332;1859.37;1864.05;COM;332.jpg;Bendlerstrasse, nå Stauffenbergstrasse.JPG;https://commons.wikimedia.org/wiki/File%3ABendlerstrasse%2C_n%C3%A5_Stauffenbergstrasse.JPG;CC BY-SA 3.0, GFDL;Paalso Paal Sørensen 2009
 333;1864.05;1870.21;COM;333.jpg;Schloss Kirchlauter 1.JPG;https://commons.wikimedia.org/wiki/File%3ASchloss_Kirchlauter_1.JPG;CC BY-SA 2.5, CC BY-SA 3.0, GFDL;I, D.j.mueller
 334;1870.21;1873.25;COM;334.jpg;D-6-74-160-12 Friedhof.jpg;https://commons.wikimedia.org/wiki/File%3AD-6-74-160-12_Friedhof.jpg;CC BY-SA 4.0;Stephan van Helden

@@ -72,9 +72,9 @@ for r, m in zip(rows, MAP):
     else:
         tipo, clip, buscar, donde, prompt, light = A[key]
         full = f'{expand(prompt)}, {LIGHT[light]}, {STYLE}'
-        desc = f'G-LABS (guardar como medios/{n}.png): {full}'
+        desc = f'IMAGEN IA (medios/{n}.png, SD-Turbo; se puede reemplazar por G-Labs): {full}'
         gl.append(f'{n} | {mmss(t0)} | {dur:.1f} s | {texto}\n      PROMPT: {full}')
-        csvrows.append([n, t0, t1, 'GLABS', f'{n}.png', buscar, '', 'Generada con G-Labs', ''])
+        csvrows.append([n, t0, t1, 'GLABS', f'{n}.png', buscar, '', 'Generada con IA (SD-Turbo, Stability AI Community License)', ''])
     esc.append(head + '\n      ' + desc)
 
 open(os.path.join(V, 'escenas.txt'), 'w', encoding='utf-8').write(
@@ -110,6 +110,7 @@ corto = ['Música: Kevin MacLeod (incompetech.com) — ' + ', '.join(f'"{t}"' fo
          'Archivo fílmico: Universal Newsreels y "Tunisian Victory" (1944), dominio público (National Archives / archive.org).',
          'Fotografías: Bundesarchiv (CC-BY-SA 3.0 DE) y Wikimedia Commons (licencias CC BY / CC BY-SA y dominio público).',
          'Mapas: Natural Earth (dominio público). Narración: voz generada con Voizum.',
+         'Algunas ilustraciones fueron generadas con IA (Stability AI SD-Turbo) y no son fotografías de época.',
          'Lista completa de autores y licencias de cada imagen: [PEGAR AQUÍ EL ENLACE A creditos_completos.txt]']
 open(os.path.join(V, 'creditos_descripcion.txt'), 'w', encoding='utf-8').write(
     'CRÉDITOS CORTOS — pegar en la descripción de YouTube (entra en el límite de 5000 caracteres)\n\n' + '\n'.join(corto) + '\n')
