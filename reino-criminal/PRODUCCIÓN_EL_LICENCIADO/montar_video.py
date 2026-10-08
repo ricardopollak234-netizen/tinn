@@ -125,6 +125,7 @@ def main():
     ap.add_argument('--hasta', type=int, default=9999)
     ap.add_argument('--sin-grado', action='store_true', help='no aplicar la corrección de color neo-noir')
     ap.add_argument('--hilos', type=int, default=1, help='escenas que se renderizan a la vez (más rápido en PCs con varios núcleos)')
+    ap.add_argument('--cache', help='carpeta donde guardar los tramos renderizados; al volver a montar solo se rehacen las escenas cuyo medio cambió')
     a = ap.parse_args()
 
     ff = ffmpeg_bin()
@@ -153,11 +154,15 @@ def main():
                 medio = tarjeta(e['n'], e['texto'], tmp / f"tarjeta_{e['n']:03d}.png")
                 if medio is None:
                     sys.exit('Falta Pillow para crear las tarjetas provisionales (pip install pillow).')
-            seg = tmp / f"seg_{e['n']:03d}.mp4"
+            seg = (Path(a.cache) if a.cache else tmp) / f"seg_{e['n']:03d}_{round(e['seg'] * FPS)}{'' if a.sin_grado else 'g'}.mp4"
             trabajos.append((i, e, Path(medio), seg))
             lista.append(seg)
+        if a.cache:
+            Path(a.cache).mkdir(parents=True, exist_ok=True)
         def hacer(t):
             i, e, medio, seg = t
+            if a.cache and seg.exists() and seg.stat().st_mtime >= medio.stat().st_mtime:
+                return
             render_escena(ff, medio, e['seg'], seg, e['n'], not a.sin_grado)
             print(f"[{i + 1}/{len(sel)}] escena {e['n']:03d}  {e['seg']:.2f} s  ← {medio.name}", flush=True)
         from concurrent.futures import ThreadPoolExecutor
