@@ -1,0 +1,78 @@
+FUENTES Y NOTAS DEL GUION — "Encontraron $205 millones en efectivo en una mansión de México… y dijo que eran de un partido político" (Zhenli Ye Gon)
+==================================================================================================================================
+
+CONTEO: 4.779 palabras → ~29 min con la voz "fernando martinez posta" a velocidad 1.0 (≈163 palabras por minuto, medido en el video de El Licenciado).
+Información actualizada hasta octubre de 2026.
+
+--------------------------------------------------------------------------------
+ESTRUCTURA (palabras | minutos aprox. | frase de inicio)
+--------------------------------------------------------------------------------
+ 1. EL OPERATIVO (469 | 2,9) ........ "Marzo de 2007. Agentes federales entran a una mansión…"
+    La escena del dinero, cifras, dos toneladas, columna más alta que la Torre Latinoamericana,
+    comparación con la Iniciativa Mérida, conteo en Banjército, la DEA, el giro del partido político.
+ 2. ¿QUIÉN ERA? (580 | 3,5) ......... "Zhenli Ye Gon nació el 31 de enero de 1963 en Shanghái…"
+    Llegada en 1990, importaciones, nacionalidad, Unimed (1997), planta de Toluca, la mansión,
+    "no soy un narcotraficante", su versión de que dio dinero al PRI y al PAN.
+ 3. EL NEGOCIO (844 | 5,2) .......... "Se llama pseudoefedrina."
+    Pseudoefedrina → metanfetamina, epidemia en EE. UU., la producción se va a México, permisos
+    de Cofepris, 34 toneladas, cargamentos con otros nombres, Lázaro Cárdenas, reunión de Mérida,
+    versión de Medina Mora, Cártel de Sinaloa, el primo condenado, la defensa, el modelo que llega al fentanilo.
+ 4. LA VIDA DE LUJO (818 | 5,0) ..... "Porque Zhenli Ye Gon no solo guardaba dinero. También lo apostaba."
+    Las Vegas: 125 millones perdidos, 84 en el Venetian, transferencias, crédito, bonos de ejecutivos,
+    reporte tardío, multa de 47,4 millones a Las Vegas Sands; 33 millones a paraísos fiscales, HSBC,
+    propiedades, la paradoja del efectivo en casa.
+ 5. LA HUIDA Y "COOPELAS O CUELLO" (856 | 5,2) .. "El 15 de marzo de 2007, el día del cateo…"
+    Interpol, detenidos, entrevista con AP, las maletas, Javier Lozano, Calderón ("va a fracasar"),
+    elección de 2006, encuesta, El Tri, "yo le creo al chino", arresto en Maryland, agentes muertos.
+ 6. EL FINAL ABIERTO (1.212 | 7,4) .. "Parecía un caso ganado. No lo fue."
+    Caída del caso en EE. UU. (2009), viaje del dinero (Banjército → Santander → Bank of America →
+    reparto en tres), Calderón vs. López Obrador, subasta de la mansión, extradición (2016),
+    esposa condenada, sin sentencia por 17 años, condena de julio de 2026, cierre con la pregunta.
+
+--------------------------------------------------------------------------------
+FUENTES PRINCIPALES
+--------------------------------------------------------------------------------
+- Wikipedia (inglés y español), "Zhenli Ye Gon": lista de lo asegurado, auditorías 2002–2006, 291 importaciones,
+  químico de Unimed, absolución de Juan Llaca (2010), hermanos liberados (2012), reunión de Mérida, agentes muertos
+  (Los Angeles Times, 2-ago-2007), debida diligencia de Las Vegas Sands, encuesta de Reforma y calcomanías (Washington Post).
+- The National Law Journal, "A losing hand" (Mike Scarcella, 27-jul-2009): arresto en restaurante asiático de Wheaton,
+  frase de la DEA, juez Alan Kay ("pruebas débiles"), testigos que se retractaron, juez Emmet Sullivan, "ultra exitoso".
+- NBC News / AP (23-jul-2007): Medina Mora, 150 millones del partido, "el mayor decomiso de dinero del narcotráfico".
+- NPR (julio de 2007): "dos toneladas de efectivo", conferencia de prensa en Washington, fotos, Calderón ("estrategia burda
+  y tonta… va a fracasar… este hombre va a ir a la cárcel"), Riva Palacio, investigación en el Congreso.
+- AP, citado por Mexfiles (22-jul-2007): "no presentaron pruebas que respaldaran esa afirmación".
+- Infobae (31-jul-2026), "Antes del fentanilo…": cifra exacta (205.564.763 USD), 34 toneladas 2003–2005, cuatro cargamentos,
+  DEA–SIEDO 2006, Lázaro Cárdenas, "cooperas o cuello" (cita de las maletas), InSight Crime, primo, 275 millones,
+  subasta de la casa (102 millones de pesos, Carlos Bremer), propiedad del Edomex.
+- Expansión (18 y 29-jul-2019; 30-jul-2026), Zeta (oct-2016; jul-2019; jul-2026), El Universal (2019), La Razón (2026),
+  La Silla Rota (18-nov-2025), Excélsior (esposa y primo), Expansión (2022, esposa liberada).
+- Sopitas (resumen de la investigación de Univision "Un cuento chino", de Mónica Cruz y Gerardo Reyes): Banjército,
+  Santander, Bank of America, 21 mil dólares falsos, comisión de ~1 millón, gastos de la PGR, memo del CJF, Salud.
+- Departamento de Justicia de EE. UU. / acuerdo con Las Vegas Sands (27-ago-2013), vía CNN, Fox News, News3LV e Inside
+  Asian Gaming: 125 millones perdidos, 84 en el Venetian, 45 millones en transferencias y 13 en cheques de caja
+  (feb-2005 a mar-2007), 36,5 millones de crédito, bonos de ejecutivos, reporte de abril de 2007, pago de 47.400.300 USD.
+
+--------------------------------------------------------------------------------
+PUNTOS DUDOSOS Y CÓMO SE TRATARON
+--------------------------------------------------------------------------------
+1. Cifra: 205, 206 o 207 millones según la fuente. Se usa la cifra oficial de la PGR (205.564.763 USD); el 207 incluye otras monedas.
+2. "Pared de billetes del piso al techo" y "tardaron días en contarlos" (arranque propuesto): no encontré una fuente que lo
+   confirme. Se usa lo documentado: billetes en maletas, clósets y paredes falsas; conteo en Banjército y luego en EE. UU.
+3. Comparación: 205,6 millones ≈ 41 % de los 500 millones que el gobierno de Bush pidió para México en el primer año de la
+   Iniciativa Mérida ("cuatro de cada diez dólares"). Pesos: tipo de cambio de ~11 por dólar en marzo de 2007.
+4. Columna de billetes: 2,06 millones de billetes × 0,11 mm ≈ 225 m (Torre Latinoamericana: 182 m, 204 m con antena).
+   Se aclara "si todos hubieran estado en billetes de cien" (los fiscales dijeron "principalmente" billetes de cien).
+5. Año de nacionalización: 1993 (Infobae, Expansión, El Universal) o 2002 (Wikipedia, otras). Se dicen las dos.
+6. Lugar y fecha del arresto: Wheaton (Washington Post, NLJ) o Rockville (PGR, Zeta); 23 o 24 de julio. Se usa Wheaton, 23 de julio.
+7. Número de detenidos en la casa: 9 (Wikipedia) u 11 (NPR). Se dice "cerca de una decena".
+8. "Cooperas o cuello": versión de Ye Gon, nunca probada. Lozano lo negó ("ridículas"); Calderón lo llamó estrategia para
+   evadir la justicia. Se dice siempre que es su versión y que no presentó pruebas.
+9. "Cuento chino": atribuido a Calderón por la prensa; se dice "según la prensa".
+10. Las Vegas: las cifras vienen del acuerdo del Departamento de Justicia. "Mayor jugador en efectivo" viene de la prensa
+    especializada (Inside Asian Gaming); se atribuye así. No encontré fuente del "avión privado": no se usa.
+11. Agentes muertos en Guerrero: lo publicó Los Angeles Times; nunca se probó relación con el caso, y se dice.
+12. Destino del dinero: Calderón habla de 335 centros Nueva Vida; Univision/Salud de 240. Se cita a Calderón y se dice que
+    Salud reportó centros contra adicciones, sin dar número.
+13. 70 millones "desaparecidos" y 275 millones: afirmación de Ye Gon, nunca probada. Se dice así.
+14. Situación actual: condenado el 30-jul-2026 a 15 años y un día por lavado (33 millones); sigue en el Altiplano con otros
+    procesos abiertos. No encontré novedades posteriores a agosto de 2026.
