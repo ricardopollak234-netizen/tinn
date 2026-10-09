@@ -1,0 +1,620 @@
+001 | ~7 s | NARRACIÓN: Marzo de 2007. Agentes federales entran a una mansión de la calle Sierra Madre, en Lomas de Chapultepec,
+
+002 | ~7 s | NARRACIÓN: una de las colonias más exclusivas de la Ciudad de México, y empiezan a abrir puertas. Detrás hay billetes.
+
+003 | ~6 s | NARRACIÓN: Billetes de cien dólares, en fajos, metidos en maletas. Escondidos en clósets. Apilados detrás de paredes falsas.
+
+004 | ~3 s | NARRACIÓN: Cuando terminaron de sacarlos, los fajos formaban montañas.
+
+005 | ~6 s | NARRACIÓN: La cifra oficial fue de doscientos cinco millones quinientos sesenta y cuatro mil dólares en efectivo.
+
+006 | ~3 s | NARRACIÓN: Y eso era solo lo que había en dólares.
+
+007 | ~8 s | NARRACIÓN: Además encontraron diecisiete millones de pesos, unos doscientos mil euros, dólares de Hong Kong, monedas de oro, cheques de viajero, joyas,
+
+008 | ~6 s | NARRACIÓN: relojes, un fusil AK-47 y pistolas de uso exclusivo del Ejército. Para darse una idea del tamaño:
+
+009 | ~4 s | NARRACIÓN: la radio pública de Estados Unidos habló de dos toneladas de efectivo.
+
+010 | ~6 s | NARRACIÓN: Si todos esos dólares hubieran estado en billetes de cien, serían más de dos millones de billetes.
+
+011 | ~5 s | NARRACIÓN: Puestos uno encima del otro, formarían una columna más alta que la Torre Latinoamericana.
+
+012 | ~4 s | NARRACIÓN: En pesos de aquel momento, eran más de dos mil doscientos millones.
+
+013 | ~8 s | NARRACIÓN: Equivalía a cuatro de cada diez dólares que, meses después, el gobierno de Estados Unidos pidió a su Congreso para ayudar
+
+014 | ~5 s | NARRACIÓN: a México contra el narcotráfico durante el primer año de la llamada Iniciativa Mérida.
+
+015 | ~7 s | NARRACIÓN: Solo que este dinero no estaba en un banco ni en una bóveda del gobierno. Estaba en una casa.
+
+016 | ~3 s | NARRACIÓN: Era tanto que contarlo fue un problema.
+
+017 | ~7 s | NARRACIÓN: Según una investigación de la cadena Univision, los billetes se llevaron primero a Banjército, el banco de las Fuerzas Armadas,
+
+018 | ~6 s | NARRACIÓN: para contarlos y certificarlos. De ahí pasaron a otro banco. Y al final terminaron en Estados Unidos.
+
+019 | ~8 s | NARRACIÓN: La DEA, la agencia antidrogas estadounidense, lo presentó como el mayor decomiso de dinero del narcotráfico que el mundo había visto.
+
+020 | ~6 s | NARRACIÓN: En su comunicado, lo comparó con sacarse el premio mayor. El dueño de la casa no estaba.
+
+021 | ~5 s | NARRACIÓN: Se llamaba Zhenli Ye Gon, un empresario farmacéutico nacido en China y nacionalizado mexicano.
+
+022 | ~7 s | NARRACIÓN: Pero lo más extraño no fue el dinero. Fue lo que dijo el dueño cuando por fin habló.
+
+023 | ~6 s | NARRACIÓN: Dijo que el dinero no era suyo. Que la mayor parte pertenecía a un partido político.
+
+024 | ~4 s | NARRACIÓN: Que se lo habían dejado durante la campaña presidencial de 2006.
+
+025 | ~8 s | NARRACIÓN: Y que un funcionario lo había obligado a guardarlo con una amenaza que México no volvería a olvidar: «Cooperas o cuello».
+
+026 | ~4 s | NARRACIÓN: ¿De dónde salieron doscientos cinco millones de dólares en efectivo?
+
+027 | ~5 s | NARRACIÓN: ¿Eran la ganancia de vender químicos a los cárteles, como sostuvo el gobierno?
+
+028 | ~3 s | NARRACIÓN: ¿O dinero de una campaña, como aseguró el empresario?
+
+029 | ~5 s | NARRACIÓN: ¿Y adónde fue a parar todo ese dinero después de que lo contaron?
+
+030 | ~6 s | NARRACIÓN: Esta es la historia de los doscientos cinco millones de dólares encontrados en una mansión de México…
+
+031 | ~4 s | NARRACIÓN: y del hombre que dijo que eran de un partido político.
+
+032 | ~7 s | NARRACIÓN: Zhenli Ye Gon nació el 31 de enero de 1963 en Shanghái, la ciudad más grande de China.
+
+033 | ~4 s | NARRACIÓN: De su vida antes de México se sabe muy poco.
+
+034 | ~7 s | NARRACIÓN: Lo que sí está documentado es que en 1990, con veintisiete años, llegó a la Ciudad de México.
+
+035 | ~4 s | NARRACIÓN: No llegó como químico ni como médico. Llegó como comerciante.
+
+036 | ~4 s | NARRACIÓN: Según la prensa de la época, sus primeros negocios fueron de importación:
+
+037 | ~5 s | NARRACIÓN: telas, ropa, zapatos y juguetes, un negocio que empezó junto con sus cuñados.
+
+038 | ~6 s | NARRACIÓN: Algunas notas de 2007 aseguran que también hizo fortuna revendiendo mercancía decomisada por la aduana mexicana.
+
+039 | ~7 s | NARRACIÓN: Era el México de la apertura comercial, cuando los productos asiáticos empezaban a llenar los mercados del país.
+
+040 | ~6 s | NARRACIÓN: Con los años, se quedó. Las fuentes ni siquiera coinciden en cuándo se hizo mexicano:
+
+041 | ~4 s | NARRACIÓN: unas dicen que en 1993 y otras, que en 2002.
+
+042 | ~6 s | NARRACIÓN: Pero en lo que todas coinciden es en el siguiente paso, el que cambió su vida.
+
+043 | ~7 s | NARRACIÓN: En 1997 fundó una empresa farmacéutica: Unimed Pharm Chem México. Unimed no fabricaba medicinas famosas ni tenía una marca conocida.
+
+044 | ~5 s | NARRACIÓN: Su negocio era otro: importar materias primas para que otras empresas fabricaran medicamentos.
+
+045 | ~7 s | NARRACIÓN: Compraba sustancias químicas en el extranjero, las traía a México con permisos del gobierno y las vendía a laboratorios.
+
+046 | ~8 s | NARRACIÓN: Según los documentos de su caso en Estados Unidos, Unimed llegó a hacer doscientas noventa y una importaciones desde Canadá, China,
+
+047 | ~3 s | NARRACIÓN: Inglaterra, Alemania, Israel, Hong Kong y Estados Unidos.
+
+048 | ~7 s | NARRACIÓN: Y según el semanario Zeta, tenía un acuerdo con Chifeng Arker, una enorme empresa química del norte de China,
+
+049 | ~2 s | NARRACIÓN: en la región de Mongolia Interior.
+
+050 | ~8 s | NARRACIÓN: El negocio creció tanto que Ye Gon empezó a construir una planta farmacéutica propia en Toluca, en el Estado de México.
+
+051 | ~6 s | NARRACIÓN: Según su defensa, era una planta moderna, de primer nivel, donde iba a producir medicamentos con receta.
+
+052 | ~3 s | NARRACIÓN: Años después, en un tribunal de Washington,
+
+053 | ~6 s | NARRACIÓN: hasta el fiscal estadounidense que lo acusaba lo describió como un hombre de negocios muy sofisticado.
+
+054 | ~6 s | NARRACIÓN: Él mismo, en una declaración jurada presentada en 2007, se describió como un empresario ultra exitoso.
+
+055 | ~4 s | NARRACIÓN: Y en ese documento escribió una frase que repetiría durante años:
+
+056 | ~5 s | NARRACIÓN: «No soy un narcotraficante, ni un capo, y mucho menos un gran capo».
+
+057 | ~6 s | NARRACIÓN: En la prensa mexicana, y después en los expedientes de la Fiscalía, lo llamarían simplemente el Chino.
+
+058 | ~4 s | NARRACIÓN: Ye Gon no se escondía. Tenía empresas registradas, permisos oficiales y empleados.
+
+059 | ~6 s | NARRACIÓN: Y las auditorías que funcionarios mexicanos hicieron a Unimed entre 2002 y 2006 no encontraron irregularidades.
+
+060 | ~6 s | NARRACIÓN: Con el dinero llegó la casa. La mansión de Sierra Madre, en Lomas de Chapultepec,
+
+061 | ~6 s | NARRACIÓN: tenía más de mil doscientos metros cuadrados de terreno y más de mil quinientos de construcción.
+
+062 | ~4 s | NARRACIÓN: Una casa de techos de teja roja, detrás de muros altos,
+
+063 | ~6 s | NARRACIÓN: en una calle tranquila de una de las zonas más caras del país. ¿Y los políticos?
+
+064 | ~6 s | NARRACIÓN: Ahí empieza la parte de la historia que solo se conoce por su propia boca.
+
+065 | ~4 s | NARRACIÓN: Años después, en una entrevista con Univision desde una cárcel de Virginia,
+
+066 | ~4 s | NARRACIÓN: aseguró que había dado dinero tanto al PRI como al PAN,
+
+067 | ~5 s | NARRACIÓN: los dos partidos que se habían turnado el poder en México. No dio nombres.
+
+068 | ~7 s | NARRACIÓN: Dijo que si los daba, la iba a pasar muy mal. Lo que sí es seguro es que, para 2006,
+
+069 | ~5 s | NARRACIÓN: el comerciante que había llegado de Shanghái vendiendo telas y juguetes se movía
+
+070 | ~7 s | NARRACIÓN: con una cantidad de dinero que muy pocos empresarios en México podían igualar. La pregunta es de dónde salía.
+
+071 | ~4 s | NARRACIÓN: Y para entenderlo hay que hablar de una sola sustancia.
+
+072 | ~6 s | NARRACIÓN: Se llama pseudoefedrina. Durante décadas, fue uno de los ingredientes más comunes de las farmacias.
+
+073 | ~4 s | NARRACIÓN: Está en muchas pastillas para la gripe y en descongestionantes nasales.
+
+074 | ~6 s | NARRACIÓN: Es legal, es barata y se vende en todo el mundo. Pero tiene un problema.
+
+075 | ~7 s | NARRACIÓN: Con un proceso químico relativamente sencillo, la pseudoefedrina, y su pariente la efedrina, se pueden convertir en metanfetamina.
+
+076 | ~4 s | NARRACIÓN: La droga que en México se conoce como cristal, o como hielo.
+
+077 | ~5 s | NARRACIÓN: A principios de los años dos mil, Estados Unidos vivía una epidemia de metanfetamina.
+
+078 | ~4 s | NARRACIÓN: Miles de laboratorios caseros, escondidos en casas, remolques y granjas,
+
+079 | ~6 s | NARRACIÓN: compraban pastillas para la gripe en las farmacias y las cocinaban hasta convertirlas en droga.
+
+080 | ~7 s | NARRACIÓN: Para frenarlo, Washington endureció las reglas: limitó la venta de esas medicinas y obligó a guardarlas detrás del mostrador.
+
+081 | ~7 s | NARRACIÓN: Los laboratorios caseros empezaron a desaparecer. Pero la demanda no desapareció. Y la producción se fue al sur.
+
+082 | ~7 s | NARRACIÓN: En México, los cárteles vieron el negocio. Ya tenían las rutas, los contactos y la red para cruzar la frontera.
+
+083 | ~7 s | NARRACIÓN: Solo les faltaba la materia prima. Y la materia prima había que traerla del otro lado del mundo:
+
+084 | ~4 s | NARRACIÓN: de las grandes fábricas químicas de China y la India.
+
+085 | ~4 s | NARRACIÓN: Ahí es donde el gobierno mexicano dice que entró Zhenli Ye Gon.
+
+086 | ~6 s | NARRACIÓN: Entre 2002 y julio de 2005, la Comisión Federal para la Protección contra Riesgos Sanitarios, la Cofepris,
+
+087 | ~6 s | NARRACIÓN: autorizó a Unimed a importar efedrina y pseudoefedrina. Según los documentos del tribunal de Washington,
+
+088 | ~6 s | NARRACIÓN: entre 2003 y 2005 la empresa trajo legalmente unas treinta y cuatro toneladas de esas sustancias.
+
+089 | ~7 s | NARRACIÓN: Treinta y cuatro toneladas de un químico que se usa en pastillas que pesan una fracción de gramo.
+
+090 | ~7 s | NARRACIÓN: En 2005, México también apretó las reglas. El permiso de Unimed venció el 1 de julio de ese año.
+
+091 | ~5 s | NARRACIÓN: Según la acusación, Ye Gon no se detuvo: siguió importando, pero con otros nombres.
+
+092 | ~4 s | NARRACIÓN: Los fiscales sostienen que entre finales de 2005 y finales
+
+093 | ~7 s | NARRACIÓN: de 2006 llegaron al menos cuatro cargamentos declarados como otras sustancias que, en realidad, servían para fabricar pseudoefedrina.
+
+094 | ~6 s | NARRACIÓN: En marzo de 2006, la DEA y la unidad mexicana contra la delincuencia organizada, la SIEDO,
+
+095 | ~7 s | NARRACIÓN: abrieron una investigación conjunta sobre Unimed. Y en diciembre de 2006, en el puerto de Lázaro Cárdenas, en Michoacán,
+
+096 | ~8 s | NARRACIÓN: las autoridades aseguraron casi veinte toneladas de un producto con acetato de pseudoefedrina. Ese mismo mes, el nuevo presidente, Felipe Calderón,
+
+097 | ~6 s | NARRACIÓN: mandó al Ejército a Michoacán en el primer gran operativo de su guerra contra el narcotráfico.
+
+098 | ~3 s | NARRACIÓN: La PGR vinculó aquel cargamento con Ye Gon.
+
+099 | ~7 s | NARRACIÓN: El 14 de marzo de 2007, Calderón recibió en Mérida al presidente de Estados Unidos, George W. Bush.
+
+100 | ~8 s | NARRACIÓN: Los dos anunciaron que iban a ampliar su cooperación contra el narcotráfico. Meses después, de esa reunión nacería la Iniciativa Mérida.
+
+101 | ~4 s | NARRACIÓN: Y al día siguiente del encuentro, el 15 de marzo,
+
+102 | ~7 s | NARRACIÓN: los agentes de la PGR estaban abriendo las puertas de la casa de Sierra Madre. La versión oficial era clara.
+
+103 | ~2 s | NARRACIÓN: El procurador general, Eduardo Medina Mora,
+
+104 | ~7 s | NARRACIÓN: dijo que el dinero estaba ligado a una de las redes de tráfico de pseudoefedrina más grandes del continente.
+
+105 | ~6 s | NARRACIÓN: Que la red operaba desde 2004, que importaba la sustancia de forma ilegal y que la vendía
+
+106 | ~6 s | NARRACIÓN: a un cártel que la convertía en cristal y la mandaba a Estados Unidos. ¿A qué cártel?
+
+107 | ~7 s | NARRACIÓN: La PGR lo relacionó sobre todo con el Cártel de Sinaloa, la organización del Chapo Guzmán y del Mayo Zambada.
+
+108 | ~5 s | NARRACIÓN: Según la organización InSight Crime, que investiga el crimen organizado en América Latina,
+
+109 | ~6 s | NARRACIÓN: Ye Gon habría sido su principal proveedor de químicos, gracias a sus contactos en China.
+
+110 | ~8 s | NARRACIÓN: Años después, la justicia mexicana condenó a un primo suyo, Ye Yong Qing, a veinticinco años de prisión por traficar efedrina,
+
+111 | ~7 s | NARRACIÓN: pseudoefedrina y otros precursores, y por producir drogas sintéticas. Ye Gon siempre lo negó. Dijo que jamás había vendido drogas,
+
+112 | ~7 s | NARRACIÓN: que ni siquiera sabía cómo se veía la metanfetamina y que sus químicos eran para la fábrica de Toluca.
+
+113 | ~5 s | NARRACIÓN: Su defensa recordó que, de casi trescientos cargamentos de Unimed, solo cuatro fueron cuestionados.
+
+114 | ~6 s | NARRACIÓN: Y que en su casa, en su fábrica y en sus bodegas nunca se encontró metanfetamina.
+
+115 | ~4 s | NARRACIÓN: El químico responsable de Unimed, aprobado por el propio gobierno,
+
+116 | ~4 s | NARRACIÓN: declaró bajo juramento que no sabía que las sustancias importadas estuvieran prohibidas,
+
+117 | ~4 s | NARRACIÓN: y que le había dicho a Ye Gon que eran legales.
+
+118 | ~7 s | NARRACIÓN: Y en 2010, un juez mexicano absolvió a otro de los acusados del caso porque la PGR no logró probar,
+
+119 | ~4 s | NARRACIÓN: entre otras cosas, que la sustancia asegurada fuera una droga.
+
+120 | ~7 s | NARRACIÓN: Pero su nombre se quedó pegado a una idea que, con los años, se volvió el corazón del narcotráfico moderno.
+
+121 | ~7 s | NARRACIÓN: Usar empresas legales, con permisos oficiales y proveedores en Asia, para mover químicos a escala industrial. Según InSight Crime,
+
+122 | ~7 s | NARRACIÓN: ese modelo lo repetirían durante dos décadas otros intermediarios ligados al Cártel de Sinaloa y al Cártel Jalisco Nueva Generación.
+
+123 | ~3 s | NARRACIÓN: Primero para la metanfetamina. Y después, para el fentanilo.
+
+124 | ~6 s | NARRACIÓN: Si el gobierno tenía razón, los billetes de Sierra Madre eran la ganancia de ese negocio.
+
+125 | ~6 s | NARRACIÓN: Y si los billetes eran la ganancia, la casa era solo una parte de cómo se gastaba.
+
+126 | ~6 s | NARRACIÓN: Porque Zhenli Ye Gon no solo guardaba dinero. También lo apostaba. Y para apostar se iba lejos:
+
+127 | ~6 s | NARRACIÓN: a más de dos mil kilómetros de Lomas de Chapultepec, en medio del desierto de Nevada,
+
+128 | ~7 s | NARRACIÓN: a los casinos de Las Vegas. Lo que se sabe de esa parte de su vida no viene de rumores,
+
+129 | ~4 s | NARRACIÓN: sino de un documento del Departamento de Justicia de Estados Unidos.
+
+130 | ~7 s | NARRACIÓN: Según ese documento, entre 2004 y 2007 Ye Gon perdió más de ciento veinticinco millones de dólares en varios casinos.
+
+131 | ~7 s | NARRACIÓN: Solo en uno de ellos, el Venetian, propiedad de la empresa Las Vegas Sands, perdió unos ochenta y cuatro millones.
+
+132 | ~5 s | NARRACIÓN: Ochenta y cuatro millones de dólares en las mesas de un solo casino.
+
+133 | ~5 s | NARRACIÓN: El Venetian es uno de los hoteles más famosos de Las Vegas, con canales,
+
+134 | ~4 s | NARRACIÓN: góndolas y techos pintados que imitan la ciudad de Venecia.
+
+135 | ~7 s | NARRACIÓN: Para jugadores como Ye Gon, existen salones privados, mesas con apuestas mínimas altísimas y un trato de rey.
+
+136 | ~7 s | NARRACIÓN: Los casinos los llaman ballenas: clientes capaces de mover en una noche lo que otros mueven en toda su vida.
+
+137 | ~6 s | NARRACIÓN: Ye Gon era una de las ballenas más grandes. Según la prensa especializada en juego,
+
+138 | ~6 s | NARRACIÓN: llegó a ser el mayor jugador en efectivo que el Venetian había tenido hasta ese momento.
+
+139 | ~6 s | NARRACIÓN: Y el casino no lo trataba como un sospechoso, sino como un cliente de oro.
+
+140 | ~7 s | NARRACIÓN: Según los abogados de Las Vegas Sands, la empresa incluso mandó a México a un investigador privado y
+
+141 | ~4 s | NARRACIÓN: a un empleado para confirmar que Ye Gon era un empresario legítimo.
+
+142 | ~7 s | NARRACIÓN: Concluyeron que lo era y que su dinero no era lavado. ¿Cómo llegaba ese dinero de México a Las Vegas?
+
+143 | ~5 s | NARRACIÓN: Según el Departamento de Justicia, por transferencias desde bancos y casas de cambio mexicanas.
+
+144 | ~7 s | NARRACIÓN: Entre febrero de 2005 y marzo de 2007, mandó al casino unos cuarenta y cinco millones de dólares por transferencia,
+
+145 | ~7 s | NARRACIÓN: y otros trece millones en cheques de caja. Además, el casino le daba crédito: de lo que perdió,
+
+146 | ~3 s | NARRACIÓN: unos treinta y seis millones y medio eran préstamos
+
+147 | ~5 s | NARRACIÓN: de la propia casa que nunca se pagaron y se terminaron dando por perdidos.
+
+148 | ~7 s | NARRACIÓN: Sus pérdidas eran tan grandes que, según el mismo documento, influyeron en los bonos de varios ejecutivos de la empresa.
+
+149 | ~7 s | NARRACIÓN: Entre ellos, algunos de los encargados de vigilar que el casino cumpliera las leyes contra el lavado de dinero.
+
+150 | ~6 s | NARRACIÓN: En Estados Unidos, los casinos están obligados a avisar al gobierno cuando ven movimientos sospechosos.
+
+151 | ~5 s | NARRACIÓN: Un empresario mexicano que transfiere decenas de millones de dólares desde casas de cambio,
+
+152 | ~7 s | NARRACIÓN: y que pierde ochenta y cuatro millones en las mesas, parecería un caso obvio. Pero según el Departamento de Justicia,
+
+153 | ~6 s | NARRACIÓN: el Venetian no presentó un reporte de actividad sospechosa sobre Ye Gon hasta abril de 2007.
+
+154 | ~8 s | NARRACIÓN: Es decir, un mes después del cateo de Lomas de Chapultepec. Años después, eso le costó caro al casino. En 2013,
+
+155 | ~5 s | NARRACIÓN: Las Vegas Sands aceptó pagar cuarenta y siete millones cuatrocientos mil dólares al gobierno
+
+156 | ~3 s | NARRACIÓN: de Estados Unidos para evitar un proceso penal.
+
+157 | ~7 s | NARRACIÓN: La empresa dijo que había cooperado por completo con la investigación y se comprometió a reforzar sus controles.
+
+158 | ~4 s | NARRACIÓN: Las Vegas no fue el único lugar por donde pasó su dinero.
+
+159 | ~8 s | NARRACIÓN: Según la investigación mexicana que, casi veinte años después, terminaría en una condena, entre 2004 y 2007 una de sus empresas,
+
+160 | ~8 s | NARRACIÓN: la Constructora Inmobiliaria Federal, mandó al extranjero más de treinta y tres millones de dólares a través de una casa de cambio,
+
+161 | ~4 s | NARRACIÓN: con destino a paraísos fiscales. Parte de ese dinero, según la Fiscalía,
+
+162 | ~6 s | NARRACIÓN: terminó en una empresa que ya había sido usada para comprar aviones de forma irregular.
+
+163 | ~7 s | NARRACIÓN: Según InSight Crime, en total habría movido alrededor de noventa millones de dólares a través de cuatro bancos.
+
+164 | ~8 s | NARRACIÓN: Y según el semanario Zeta, sus bienes aparecieron también en una investigación de lavado de dinero contra el banco británico HSBC.
+
+165 | ~7 s | NARRACIÓN: Mientras tanto, en México, su vida era la de un hombre muy rico. Además de la casa de Lomas,
+
+166 | ~3 s | NARRACIÓN: tenía otra propiedad en el Estado de México
+
+167 | ~6 s | NARRACIÓN: que años después el gobierno estatal compraría en ciento ochenta y un millones de pesos.
+
+168 | ~3 s | NARRACIÓN: En el cateo, las autoridades se llevaron siete vehículos.
+
+169 | ~6 s | NARRACIÓN: Y entre las joyas y los relojes que años después se pusieron a la venta,
+
+170 | ~7 s | NARRACIÓN: había un reloj valuado en casi tres millones de pesos. Y aquí está una de las grandes rarezas del caso.
+
+171 | ~5 s | NARRACIÓN: Un hombre que movía decenas de millones por bancos, casas de cambio y casinos,
+
+172 | ~4 s | NARRACIÓN: que sabía cómo transferir dinero de un país a otro…
+
+173 | ~7 s | NARRACIÓN: guardaba más de doscientos millones de dólares en billetes, dentro de su casa, en maletas y detrás de paredes falsas.
+
+174 | ~3 s | NARRACIÓN: Para el gobierno, la explicación era sencilla:
+
+175 | ~7 s | NARRACIÓN: era dinero del narcotráfico, demasiado como para meterlo al sistema financiero sin que alguien preguntara de dónde venía.
+
+176 | ~3 s | NARRACIÓN: Para Ye Gon, la explicación era otra.
+
+177 | ~7 s | NARRACIÓN: Y cuando la contó, el caso dejó de ser una historia de químicos y se convirtió en un escándalo político.
+
+178 | ~6 s | NARRACIÓN: El 15 de marzo de 2007, el día del cateo, Zhenli Ye Gon no estaba en México.
+
+179 | ~5 s | NARRACIÓN: Según los reportes, estaba en Estados Unidos. Algunas versiones lo ubicaron en Las Vegas.
+
+180 | ~8 s | NARRACIÓN: En la casa de Sierra Madre, los agentes detuvieron a cerca de una decena de personas, entre ellas a su esposa.
+
+181 | ~3 s | NARRACIÓN: Poco después también fueron detenidos dos de sus hermanos.
+
+182 | ~8 s | NARRACIÓN: La PGR pidió a la Interpol que lo buscara, y su ficha llegó a policías de más de ciento ochenta países.
+
+183 | ~4 s | NARRACIÓN: Ye Gon no se entregó. Y durante semanas no dijo nada.
+
+184 | ~6 s | NARRACIÓN: Hasta que, a finales de junio de 2007, dos meses y medio después del cateo,
+
+185 | ~4 s | NARRACIÓN: habló con la agencia de noticias Associated Press desde Estados Unidos.
+
+186 | ~6 s | NARRACIÓN: Su versión, contada por él y por sus abogados, fue esta. Durante la campaña presidencial de 2006,
+
+187 | ~8 s | NARRACIÓN: unas personas llegaron a su fábrica con cinco o siete millones de dólares en efectivo y le pidieron que los guardara.
+
+188 | ~4 s | NARRACIÓN: Él no quiso. Le dijeron que solo era un favor.
+
+189 | ~6 s | NARRACIÓN: Y el dinero siguió llegando, en bolsas de lona con millones de dólares cada una.
+
+190 | ~8 s | NARRACIÓN: Según Ye Gon, de los más de doscientos cinco millones encontrados en su casa, unos ciento cincuenta millones no eran suyos.
+
+191 | ~7 s | NARRACIÓN: Eran de un fondo político para la campaña del Partido Acción Nacional, el PAN, el partido de Felipe Calderón.
+
+192 | ~7 s | NARRACIÓN: Y señaló a un hombre: Javier Lozano Alarcón, quien en 2007 era el secretario del Trabajo del gobierno de Calderón.
+
+193 | ~8 s | NARRACIÓN: Ye Gon contó que le enseñaron dos maletas. Que abrió una y estaba llena de billetes. Y que entonces le dijeron:
+
+194 | ~7 s | NARRACIÓN: «Cooperas o cuello». Es decir: o cooperas, o te cortan el cuello. Con su acento, la frase sonó distinta.
+
+195 | ~4 s | NARRACIÓN: Y así se quedó para siempre en México: «Coopelas o cuello».
+
+196 | ~4 s | NARRACIÓN: Poco después, sus abogados dieron una conferencia de prensa en Washington.
+
+197 | ~4 s | NARRACIÓN: Ye Gon participó por teléfono, desde un lugar que no revelaron.
+
+198 | ~4 s | NARRACIÓN: Dijo que no creía que el presidente Calderón supiera del asunto,
+
+199 | ~7 s | NARRACIÓN: pero insistió en que los hombres que le dieron el dinero le dijeron que era de la campaña.
+
+200 | ~7 s | NARRACIÓN: Aseguró que tenía fotos que lo probaban. Y le pidió al presidente una investigación justa. Esas fotos no se mostraron.
+
+201 | ~6 s | NARRACIÓN: Según la agencia Associated Press, ni Ye Gon ni sus abogados presentaron pruebas que respaldaran su versión.
+
+202 | ~7 s | NARRACIÓN: La respuesta del gobierno fue inmediata. Javier Lozano calificó las acusaciones de ridículas y anunció que demandaría al empresario.
+
+203 | ~2 s | NARRACIÓN: Según la prensa mexicana, después desistió.
+
+204 | ~7 s | NARRACIÓN: Y el presidente Calderón dijo que se trataba de una estrategia burda y tonta para evadir la justicia mexicana.
+
+205 | ~4 s | NARRACIÓN: «Va a fracasar», dijo. «Este hombre va a ir a la cárcel».
+
+206 | ~7 s | NARRACIÓN: Y según la prensa, también lo llamó, con un juego de palabras que se repitió durante años, un cuento chino.
+
+207 | ~7 s | NARRACIÓN: Pero el daño ya estaba hecho. Calderón había ganado la elección de 2006 por poco más de medio punto porcentual,
+
+208 | ~4 s | NARRACIÓN: en una de las elecciones más disputadas de la historia de México.
+
+209 | ~4 s | NARRACIÓN: Su rival, Andrés Manuel López Obrador, nunca reconoció el resultado.
+
+210 | ~8 s | NARRACIÓN: Y de pronto aparecía un hombre con doscientos millones de dólares diciendo que el dinero era de la campaña del ganador.
+
+211 | ~4 s | NARRACIÓN: Los partidos de oposición abrieron una investigación en el Congreso.
+
+212 | ~7 s | NARRACIÓN: Un columnista mexicano, Raymundo Riva Palacio, lo resumió así en una entrevista con la radio pública de Estados Unidos:
+
+213 | ~7 s | NARRACIÓN: en México, dijo, la realidad no sirve de mucho; lo que importa es la percepción. Y la percepción se desbordó.
+
+214 | ~2 s | NARRACIÓN: Según el diario The Washington Post,
+
+215 | ~7 s | NARRACIÓN: una encuesta del periódico Reforma encontró que la mayoría de los mexicanos o le creían a Ye Gon,
+
+216 | ~3 s | NARRACIÓN: o no le creían a ninguno de los dos.
+
+217 | ~6 s | NARRACIÓN: Se vendieron calcomanías para coche que decían, más o menos, «yo le creo al chino».
+
+218 | ~6 s | NARRACIÓN: «Coopelas o cuello» se volvió un meme nacional antes de que en México se hablara de memes.
+
+219 | ~6 s | NARRACIÓN: Salió en caricaturas políticas, en chistes, en canciones y en las conversaciones de todos los días.
+
+220 | ~6 s | NARRACIÓN: El grupo de rock El Tri, de Álex Lora, grabó una canción llamada «Coopelas o cueio»,
+
+221 | ~7 s | NARRACIÓN: que al final incluye el audio de la entrevista original. Mientras México se reía, en Estados Unidos lo estaban buscando.
+
+222 | ~8 s | NARRACIÓN: El 23 de julio de 2007, agentes de la DEA entraron a un restaurante chino en un centro comercial de Wheaton,
+
+223 | ~6 s | NARRACIÓN: en Maryland, en las afueras de Washington. Zhenli Ye Gon estaba cenando. Lo detuvieron sin resistencia.
+
+224 | ~4 s | NARRACIÓN: La DEA celebró la captura con una frase hecha para los titulares:
+
+225 | ~7 s | NARRACIÓN: con su arresto, dijo, no solo habían atrapado al hombre detrás del dinero, sino al hombre detrás de la metanfetamina.
+
+226 | ~6 s | NARRACIÓN: Días después, en México, la prensa informó que dos agentes federales que habían participado en las detenciones
+
+227 | ~4 s | NARRACIÓN: de la mansión fueron encontrados muertos en el estado de Guerrero.
+
+228 | ~5 s | NARRACIÓN: Nunca se estableció ninguna relación entre esas muertes y el caso Ye Gon.
+
+229 | ~7 s | NARRACIÓN: Pero el detalle se sumó a la sensación de que, alrededor de ese dinero, nada era lo que parecía.
+
+230 | ~3 s | NARRACIÓN: En Estados Unidos lo acusaron de un solo cargo:
+
+231 | ~8 s | NARRACIÓN: conspirar para ayudar a fabricar más de quinientos gramos de metanfetamina, sabiendo que la droga iba a entrar a Estados Unidos.
+
+232 | ~4 s | NARRACIÓN: Un delito con una pena mínima de diez años de prisión.
+
+233 | ~3 s | NARRACIÓN: Parecía un caso ganado. No lo fue.
+
+234 | ~7 s | NARRACIÓN: Desde la primera audiencia, el juez que decidió mantenerlo preso dijo que el gobierno había presentado pruebas débiles.
+
+235 | ~7 s | NARRACIÓN: Lo dejó en la cárcel por la gravedad de la acusación y porque podía huir, pero dejó escrito que,
+
+236 | ~6 s | NARRACIÓN: aparte del dinero y las armas, había poco que lo ligara con droga destinada a Estados Unidos.
+
+237 | ~8 s | NARRACIÓN: Su abogado lo dijo de otra forma ante el tribunal: «¿Se encontró metanfetamina en la casa? No. ¿En la fábrica? No.
+
+238 | ~8 s | NARRACIÓN: ¿En la bodega? No». La defensa pidió las muestras de los químicos que México había asegurado, para analizarlas de forma independiente.
+
+239 | ~7 s | NARRACIÓN: Nunca llegaron. Los fiscales explicaron que, según les dijeron, las muestras se habían agotado en los análisis de laboratorio.
+
+240 | ~5 s | NARRACIÓN: Y había otro detalle. Los abogados de Ye Gon pidieron ver el dinero.
+
+241 | ~7 s | NARRACIÓN: Los fiscales estadounidenses respondieron que México no lo había guardado como prueba: lo había contado y depositado en cuentas bancarias.
+
+242 | ~7 s | NARRACIÓN: En junio de 2009, a tres meses del juicio, el Departamento de Justicia se rindió. Pidió retirar la acusación.
+
+243 | ~4 s | NARRACIÓN: Explicó que un testigo clave, preso en México, se había retractado,
+
+244 | ~6 s | NARRACIÓN: y que otro se negaba a declarar por miedo a represalias. El juez Emmet Sullivan estaba furioso.
+
+245 | ~4 s | NARRACIÓN: Dijo que el gobierno sabía desde hacía más de un año
+
+246 | ~6 s | NARRACIÓN: que el testigo se había retractado y no se lo había dicho a la defensa.
+
+247 | ~3 s | NARRACIÓN: «Este hombre ha estado prácticamente en confinamiento solitario», dijo.
+
+248 | ~5 s | NARRACIÓN: «Alguien en el Departamento de Justicia tiene que dar una muy buena respuesta».
+
+249 | ~6 s | NARRACIÓN: Y sobre la falta de cooperación de México con las pruebas, fue todavía más directo:
+
+250 | ~4 s | NARRACIÓN: México, dijo, simplemente le había hecho un desaire a Estados Unidos.
+
+251 | ~8 s | NARRACIÓN: El 28 de agosto de 2009, todos los cargos en Estados Unidos contra Zhenli Ye Gon fueron retirados de forma definitiva.
+
+252 | ~7 s | NARRACIÓN: Pero no salió libre. México había pedido su extradición en 2008, y Estados Unidos decidió mantenerlo preso mientras se resolvía.
+
+253 | ~5 s | NARRACIÓN: Mientras él peleaba en los tribunales, el dinero ya había hecho su propio viaje.
+
+254 | ~7 s | NARRACIÓN: Según la investigación de Univision, titulada «Un cuento chino», después de Banjército los billetes pasaron al banco Santander,
+
+255 | ~6 s | NARRACIÓN: que los mandó a su socio en Estados Unidos, Bank of America, para contarlos otra vez.
+
+256 | ~7 s | NARRACIÓN: Ahí encontraron veintiún mil dólares falsos. El banco cobró cerca de un millón de dólares por el servicio,
+
+257 | ~7 s | NARRACIÓN: y el gobierno lo pagó con el propio dinero decomisado. Y Bank of America no devolvió los billetes:
+
+258 | ~2 s | NARRACIÓN: devolvió el equivalente por transferencia electrónica.
+
+259 | ~7 s | NARRACIÓN: Los doscientos cinco millones de dólares en efectivo, la montaña de billetes que le dio la vuelta al mundo,
+
+260 | ~5 s | NARRACIÓN: dejaron de existir como billetes. Se convirtieron en un número en una cuenta.
+
+261 | ~7 s | NARRACIÓN: En julio de 2007, apenas cuatro meses después del cateo, el gobierno repartió ese número en tres partes casi iguales:
+
+262 | ~4 s | NARRACIÓN: unos sesenta y ocho millones de dólares para el Poder Judicial,
+
+263 | ~5 s | NARRACIÓN: otros tantos para la PGR y otros tantos para la Secretaría de Salud.
+
+264 | ~4 s | NARRACIÓN: La idea era que el dinero del narco sirviera para combatirlo:
+
+265 | ~8 s | NARRACIÓN: a la PGR porque persigue a los delincuentes, a los jueces porque los castigan y a Salud porque atiende las adicciones.
+
+266 | ~8 s | NARRACIÓN: Según Univision, la PGR reportó gastos en equipo, en compra y remodelación de edificios, en sistemas de seguridad y en vehículos.
+
+267 | ~7 s | NARRACIÓN: El Consejo de la Judicatura metió su parte en un fondo y, según un documento obtenido por los periodistas,
+
+268 | ~3 s | NARRACIÓN: después no pudo decir en qué la había gastado.
+
+269 | ~6 s | NARRACIÓN: Y la Secretaría de Salud dijo que la usó para construir centros contra las adicciones. En 2019,
+
+270 | ~4 s | NARRACIÓN: el entonces presidente López Obrador dijo en su conferencia de prensa
+
+271 | ~7 s | NARRACIÓN: que no sabía dónde había quedado el dinero y ordenó investigar. Horas después, Felipe Calderón le respondió en Twitter:
+
+272 | ~8 s | NARRACIÓN: el dinero, escribió, se había destinado a construir trescientos treinta y cinco centros Nueva Vida de prevención y tratamiento de adicciones.
+
+273 | ~4 s | NARRACIÓN: Y remató con una frase del propio López Obrador: «Hay otros datos».
+
+274 | ~6 s | NARRACIÓN: Ese mismo año, la mansión de Sierra Madre se subastó en Los Pinos, la antigua residencia presidencial.
+
+275 | ~6 s | NARRACIÓN: La compró la fundación de un empresario regiomontano, Carlos Bremer, en ciento dos millones de pesos,
+
+276 | ~8 s | NARRACIÓN: y según la prensa el dinero se usó en becas para deportistas mexicanos. Las joyas y los relojes también se subastaron.
+
+277 | ~3 s | NARRACIÓN: Y Ye Gon tiene su propia cuenta.
+
+278 | ~6 s | NARRACIÓN: Según él, en su casa no había doscientos cinco millones de dólares, sino doscientos setenta y cinco.
+
+279 | ~4 s | NARRACIÓN: Asegura que setenta millones desaparecieron después del cateo. Nunca lo ha probado.
+
+280 | ~7 s | NARRACIÓN: En Estados Unidos, la pelea por su extradición duró casi una década. Un juez la aprobó en 2011.
+
+281 | ~3 s | NARRACIÓN: Ye Gon apeló una y otra vez.
+
+282 | ~7 s | NARRACIÓN: Argumentó que no podían perseguirlo dos veces por lo mismo, que en México lo torturarían y que podían matarlo.
+
+283 | ~6 s | NARRACIÓN: En una entrevista desde la cárcel, en 2015, insistió en que el dinero era para campañas políticas,
+
+284 | ~7 s | NARRACIÓN: pero se negó a dar nombres. En octubre de 2016, la Suprema Corte de Estados Unidos rechazó su último recurso.
+
+285 | ~7 s | NARRACIÓN: El 18 de octubre, los alguaciles estadounidenses lo entregaron en la Ciudad de México, tras un vuelo desde Virginia.
+
+286 | ~7 s | NARRACIÓN: De ahí, un avión de la PGR lo llevó a Toluca y al penal de máxima seguridad del Altiplano.
+
+287 | ~8 s | NARRACIÓN: Días después, un juez de Toluca le dictó formal prisión por doce delitos, entre ellos delincuencia organizada, delitos contra la salud,
+
+288 | ~7 s | NARRACIÓN: lavado de dinero y posesión de armas del Ejército. Su esposa ya había sido condenada a quince años de prisión.
+
+289 | ~6 s | NARRACIÓN: Según la Fiscalía, ella sabía del dinero, lo cuidaba, lo gastaba y resguardaba las armas.
+
+290 | ~6 s | NARRACIÓN: Salió libre en 2022, después de cumplir su condena. Ye Gon, en cambio, siguió esperando.
+
+291 | ~3 s | NARRACIÓN: Pasaron los años y su caso no se resolvía.
+
+292 | ~6 s | NARRACIÓN: En noviembre de 2025, un juez le negó salir de la cárcel mientras terminaba su proceso.
+
+293 | ~4 s | NARRACIÓN: Su defensa argumentó que llevaba más de diecisiete años preso sin sentencia,
+
+294 | ~5 s | NARRACIÓN: cuando la Constitución mexicana fija un límite de dos años para la prisión preventiva.
+
+295 | ~8 s | NARRACIÓN: El juez respondió que su caso seguía abierto y que, con propiedades en China y sin arraigo en México, podía escapar.
+
+296 | ~4 s | NARRACIÓN: Hasta que, el 30 de julio de 2026, llegó la primera condena.
+
+297 | ~4 s | NARRACIÓN: Un juez federal de la Ciudad de México lo sentenció
+
+298 | ~4 s | NARRACIÓN: a quince años y un día de prisión por lavado de dinero.
+
+299 | ~4 s | NARRACIÓN: Pero no por los doscientos cinco millones de su casa.
+
+300 | ~6 s | NARRACIÓN: La condena fue por los treinta y tres millones de dólares que, según la Fiscalía,
+
+301 | ~6 s | NARRACIÓN: mandó a paraísos fiscales a través de una casa de cambio entre 2004 y 2007.
+
+302 | ~4 s | NARRACIÓN: Hoy, en octubre de 2026, Zhenli Ye Gon sigue en el Altiplano.
+
+303 | ~7 s | NARRACIÓN: Los procesos por narcotráfico, delincuencia organizada y armas siguen abiertos. Casi veinte años después del cateo, el balance es extraño.
+
+304 | ~7 s | NARRACIÓN: El hombre al que Estados Unidos llamó el hombre detrás de la metanfetamina no ha sido condenado por narcotráfico.
+
+305 | ~3 s | NARRACIÓN: Los cargos en Estados Unidos se cayeron.
+
+306 | ~6 s | NARRACIÓN: Y la única sentencia en su contra es por una parte del dinero que mandó al extranjero,
+
+307 | ~6 s | NARRACIÓN: no por el que se encontró en su casa. Su versión del partido político nunca se probó.
+
+308 | ~7 s | NARRACIÓN: No presentó públicamente las fotos que dijo tener, y los señalados siempre lo negaron. Y los billetes ya no existen.
+
+309 | ~6 s | NARRACIÓN: Se contaron, se transfirieron, se repartieron y se gastaron en edificios, juzgados, clínicas y becas.
+
+310 | ~6 s | NARRACIÓN: Lo único que no se gastó fue la pregunta. ¿De quién era realmente el dinero?
+
