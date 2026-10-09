@@ -7,6 +7,22 @@ escenas, cada una con su foto, clip o imagen.
 REGLA DE ORO: usar TODO el material público y libre que exista (fotos y clips de
 archivo) y dejar G-Labs SOLO como último recurso, para lo que no tenga material libre.
 
+PREFERENCIA DEL CANAL (pedida por el dueño): lo que importa es que la imagen sea
+ADECUADA a lo que dice la narración, aunque sea antigua, borrosa o esté dañada.
+- Siempre antes una foto o un clip de archivo de la época que muestre lo que se narra
+  (o algo equivalente de esos años) que una foto actual en color o una genérica.
+- Fotos actuales (memoriales, edificios hoy, paisajes) solo cuando la narración habla
+  del presente o del lugar tal como es ahora.
+- Fotos de stock genéricas (máquinas de escribir, sillas vacías, niebla) y las imágenes
+  de IA son el último recurso. Antes de usarlas, buscar más: otras palabras en alemán,
+  francés o inglés, categorías de Commons, más noticieros de archive.org
+  (Universal Newsreels, colecciones del gobierno de EE. UU.).
+- Si una escena no tiene material de archivo propio, preferir un plano de archivo de la
+  misma época y tema (un juicio de 1946, un campo de prisioneros de 1945) antes que una
+  imagen moderna o de IA.
+- Mantener la regla de no repetir fotos ni clips: buscar varias opciones por tema
+  para no tener que repetir.
+
 --------------------------------------------------------------------------------
 PASO 1 — DIVIDIR EN ESCENAS
 --------------------------------------------------------------------------------
@@ -39,9 +55,9 @@ PASO 2 — ELEGIR LA FUENTE (en este orden)
    interrogatorios, recreaciones) y personas sin retrato libre. Aun así, escribir un
    prompt de respaldo para cada escena de archivo, por si no se encuentra.
 
-Para reducir G-Labs:
-- Reutilizar la misma foto real en escenas no seguidas, con otro zoom o encuadre.
-- Reutilizar una imagen de G-Labs ya generada en lugar de generar otra parecida.
+Para reducir G-Labs (sin repetir fotos ni clips):
+- Usar otro tramo del mismo noticiero o del mismo rollo de archivo (sin repetir planos).
+- Buscar más fotos de la misma serie del Bundesarchiv o de la misma categoría de Commons.
 - Si existe una foto de archivo de la época que muestra algo equivalente (un hogar
   infantil de los años 40, un tribunal de los 50), preferirla a una recreación.
 
