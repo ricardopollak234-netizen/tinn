@@ -1,0 +1,588 @@
+001 | ~5 s | NARRACIÓN: Brooklyn, Nueva York. Enero de 2019. En la sala de un tribunal federal,
+
+002 | ~6 s | NARRACIÓN: un hombre de treinta y dos años se sienta en la silla de los testigos.
+
+003 | ~4 s | NARRACIÓN: Lleva un traje azul marino y se le nota nervioso. Tiene motivos:
+
+004 | ~6 s | NARRACIÓN: a pocos metros, en la mesa de la defensa, está sentado Joaquín Guzmán Loera, el Chapo.
+
+005 | ~7 s | NARRACIÓN: El juez ha tomado una medida poco común. Prohibió a los dibujantes del tribunal retratar la cara del testigo.
+
+006 | ~4 s | NARRACIÓN: Si el cártel llega a saber cómo luce hoy, podría encontrarlo.
+
+007 | ~7 s | NARRACIÓN: Según la cadena CNN, cuando empieza a declarar, el testigo y el Chapo se miran a los ojos.
+
+008 | ~4 s | NARRACIÓN: No es un sicario. No es un narcotraficante. Es un informático.
+
+009 | ~7 s | NARRACIÓN: Se llama Christian Rodríguez, y durante años fue el encargado de que nadie pudiera escuchar las conversaciones del Chapo.
+
+010 | ~6 s | NARRACIÓN: Y ahí, frente al jurado y frente a su antiguo jefe, cuenta lo que hizo después:
+
+011 | ~6 s | NARRACIÓN: «Les di acceso al servidor del Chapo Guzmán. Les di los nombres de usuario y las contraseñas».
+
+012 | ~6 s | NARRACIÓN: Un día antes, el jurado había escuchado por primera vez la voz del Chapo en grabaciones secretas.
+
+013 | ~8 s | NARRACIÓN: Una voz aguda, nasal, casi cantada, dando órdenes a sus pistoleros, hablando de sobornos a policías y de toneladas de cocaína.
+
+014 | ~4 s | NARRACIÓN: Llamadas que el Chapo hizo convencido de que nadie podía oírlo.
+
+015 | ~7 s | NARRACIÓN: Todas habían pasado por el sistema que construyó el hombre que ahora estaba en la silla de los testigos.
+
+016 | ~6 s | NARRACIÓN: Y todas habían terminado en manos del FBI. Cuando conoció al Chapo, Christian Rodríguez tenía veintiún años.
+
+017 | ~5 s | NARRACIÓN: ¿Cómo un estudiante que había dejado la universidad terminó volando a la sierra
+
+018 | ~6 s | NARRACIÓN: de Sinaloa para trabajar con el narcotraficante más buscado del planeta? ¿Cómo lo atrapó el FBI?
+
+019 | ~6 s | NARRACIÓN: ¿Y qué pasa con un hombre que traiciona al Chapo y sigue vivo para contarlo?
+
+020 | ~6 s | NARRACIÓN: Para entenderlo, hay que volver al principio. Esta es la historia del informático del Chapo…
+
+021 | ~3 s | NARRACIÓN: el hombre que lo entregó al FBI.
+
+022 | ~8 s | NARRACIÓN: Christian Rodríguez es colombiano. Según la prensa estadounidense que cubrió el juicio, nació a mediados de los años ochenta y estudió ingeniería,
+
+023 | ~8 s | NARRACIÓN: pero dejó la universidad antes de terminar. Tenía una idea: montar su propia empresa de seguridad informática. Era el momento perfecto.
+
+024 | ~6 s | NARRACIÓN: A mediados de los años dos mil, los teléfonos inteligentes empezaban a llenar el mundo.
+
+025 | ~3 s | NARRACIÓN: Las BlackBerry eran el símbolo de los empresarios.
+
+026 | ~7 s | NARRACIÓN: Y una pregunta empezaba a preocupar a muchas personas con dinero y algo que esconder: ¿quién puede leer mis mensajes?
+
+027 | ~4 s | NARRACIÓN: Para los narcotraficantes, esa pregunta era de vida o muerte.
+
+028 | ~7 s | NARRACIÓN: Durante décadas, las agencias antidrogas de Estados Unidos habían derribado a grandes capos de la misma manera: escuchando sus teléfonos.
+
+029 | ~7 s | NARRACIÓN: Un capo puede esconderse en una montaña, cambiar de casa cada semana y rodearse de cientos de pistoleros.
+
+030 | ~7 s | NARRACIÓN: Pero tarde o temprano tiene que hablar con alguien. Y en ese momento, si alguien está escuchando, queda expuesto.
+
+031 | ~4 s | NARRACIÓN: Rodríguez tenía la respuesta. Sabía montar sistemas de comunicación cifrada:
+
+032 | ~7 s | NARRACIÓN: redes privadas donde los mensajes y las llamadas viajan codificados, de modo que, si alguien los intercepta en el camino,
+
+033 | ~7 s | NARRACIÓN: solo encuentra basura. Para leerlos hace falta una clave. Y esa clave la controla quien administra el sistema.
+
+034 | ~6 s | NARRACIÓN: Para entenderlo sin palabras técnicas: es como mandar cada carta dentro de una caja fuerte.
+
+035 | ~8 s | NARRACIÓN: El cartero puede robarse la caja, pero no puede abrirla. Solo quien tiene la combinación puede leer lo que hay adentro.
+
+036 | ~4 s | NARRACIÓN: Y en una red privada, quien reparte las combinaciones es el administrador.
+
+037 | ~8 s | NARRACIÓN: Uno de sus primeros clientes grandes fue una familia de Medellín: los Cifuentes Villa. En la superficie, los Cifuentes eran empresarios.
+
+038 | ~3 s | NARRACIÓN: En los tribunales de Estados Unidos, eran otra cosa.
+
+039 | ~8 s | NARRACIÓN: Según el Departamento de Estado, el clan había llevado a Estados Unidos más de treinta y un mil kilos de cocaína.
+
+040 | ~6 s | NARRACIÓN: Su jefe, Jorge Milton Cifuentes, era uno de los proveedores colombianos del Cártel de Sinaloa.
+
+041 | ~4 s | NARRACIÓN: Washington llegó a ofrecer cinco millones de dólares por información para capturarlo.
+
+042 | ~5 s | NARRACIÓN: Rodríguez montó para los Cifuentes un sistema de mensajes cifrados de extremo a extremo.
+
+043 | ~7 s | NARRACIÓN: Cada mensaje salía cerrado con una parte de la clave, y solo el destinatario, con la otra parte, podía abrirlo.
+
+044 | ~3 s | NARRACIÓN: Todo pasaba por un servidor que él mismo administraba.
+
+045 | ~6 s | NARRACIÓN: Según su testimonio, llegó a crear unas cien extensiones para la familia y sus socios.
+
+046 | ~4 s | NARRACIÓN: Funcionó tan bien que Jorge Cifuentes decidió recomendarlo a alguien más.
+
+047 | ~4 s | NARRACIÓN: Su hermano, Alex Cifuentes, vivía desde 2007 en un lugar muy particular:
+
+048 | ~5 s | NARRACIÓN: escondido en la sierra de Sinaloa, junto a un socio de la familia.
+
+049 | ~7 s | NARRACIÓN: Un hombre bajo, robusto, que llevaba años prófugo después de escaparse en 2001 de una cárcel de máxima seguridad.
+
+050 | ~5 s | NARRACIÓN: Ese socio era el Chapo Guzmán. Y tenía un problema con la tecnología.
+
+051 | ~6 s | NARRACIÓN: A principios de 2008, Christian Rodríguez, con veintiún años, aterrizó en Culiacán, la capital de Sinaloa.
+
+052 | ~7 s | NARRACIÓN: De ahí lo llevaron a una pista clandestina en las afueras de la ciudad y lo subieron a una avioneta.
+
+053 | ~7 s | NARRACIÓN: Según contó en el juicio, el vuelo duró entre veinticinco y treinta minutos, sobre las montañas de la Sierra Madre.
+
+054 | ~3 s | NARRACIÓN: Él iba con miedo: la avioneta le parecía insegura.
+
+055 | ~7 s | NARRACIÓN: Cuando aterrizaron en una pista corta, escondida entre los cerros, lo esperaba un grupo de hombres armados, vestidos como militares.
+
+056 | ~7 s | NARRACIÓN: Lo subieron a un vehículo todoterreno y lo llevaron montaña arriba hasta una casa pequeña. Adentro estaba Alex Cifuentes.
+
+057 | ~5 s | NARRACIÓN: Y a su lado, el hombre cuyo nombre y fama Rodríguez ya conocía.
+
+058 | ~6 s | NARRACIÓN: Años después, Alex Cifuentes le describió al jurado cómo era la vida en esas guaridas.
+
+059 | ~7 s | NARRACIÓN: El Chapo tenía alrededor de media docena repartidas por la sierra. Tenían televisión satelital y hasta servicio de limpieza.
+
+060 | ~8 s | NARRACIÓN: Y cuando el Ejército se acercaba, había que agarrar las armas y salir corriendo en la oscuridad. El problema era sencillo.
+
+061 | ~7 s | NARRACIÓN: En la sierra no había internet. El Chapo se comunicaba con teléfonos satelitales, y esos teléfonos fallaban cuando llovía fuerte.
+
+062 | ~7 s | NARRACIÓN: Para un hombre que manejaba un negocio en varios continentes desde una montaña, quedarse sin señal era un problema serio.
+
+063 | ~6 s | NARRACIÓN: Rodríguez les explicó el sistema que había montado para los Cifuentes y les dijo lo que necesitaba:
+
+064 | ~5 s | NARRACIÓN: internet de alta velocidad en la sierra. En una segunda visita hizo la demostración.
+
+065 | ~4 s | NARRACIÓN: Llamó de un teléfono a otro a través de la red.
+
+066 | ~6 s | NARRACIÓN: Según su testimonio, hasta preparó un diagrama para explicárselo a los hombres mayores. «Les gustó», dijo.
+
+067 | ~5 s | NARRACIÓN: Pero el Chapo tenía una preferencia. No le gustaba escribir. Le gustaba hablar.
+
+068 | ~6 s | NARRACIÓN: Y preguntó si se podía hacer lo mismo con las llamadas de voz. Se podía.
+
+069 | ~7 s | NARRACIÓN: Rodríguez montó para el Cártel de Sinaloa una red de telefonía por internet, como la central de una empresa.
+
+070 | ~5 s | NARRACIÓN: Cada teléfono tenía una extensión. Las llamadas viajaban cifradas hasta servidores que él controlaba,
+
+071 | ~7 s | NARRACIÓN: y desde fuera nadie podía marcar a esos números sin conocer la ruta. Además tenía un cortafuegos para impedir intrusos.
+
+072 | ~4 s | NARRACIÓN: «Funcionaba como el sistema de una compañía», explicó en el juicio.
+
+073 | ~6 s | NARRACIÓN: Según los testimonios, el Chapo mandó instalar el sistema en unos cien teléfonos. Él tenía tres números.
+
+074 | ~5 s | NARRACIÓN: Y en los mensajes, su nombre de usuario era una sola letra: «J».
+
+075 | ~6 s | NARRACIÓN: Jorge Cifuentes declaró en el juicio que Rodríguez les había prometido comunicaciones seguras por voz,
+
+076 | ~4 s | NARRACIÓN: texto y datos para prácticamente toda la cúpula del cártel. Según él,
+
+077 | ~5 s | NARRACIÓN: el Chapo podía conectarse por wifi desde sus escondites en la Sierra Madre
+
+078 | ~6 s | NARRACIÓN: y hablar con cualquier parte del mundo sin que las autoridades supieran lo que estaban haciendo.
+
+079 | ~3 s | NARRACIÓN: El sistema no lo manejaba solo Rodríguez.
+
+080 | ~6 s | NARRACIÓN: El Chapo tenía sus propios técnicos, y uno de ellos, conocido como Benjamín, también podía administrarlo.
+
+081 | ~7 s | NARRACIÓN: Pero la arquitectura, las claves y los servidores los había montado el colombiano. Los servidores estaban en Canadá.
+
+082 | ~5 s | NARRACIÓN: El Chapo le pagó cien mil dólares en efectivo por montar el sistema.
+
+083 | ~7 s | NARRACIÓN: Rodríguez contó que el cártel gastó alrededor de un millón de dólares en toda la red, y que él,
+
+084 | ~3 s | NARRACIÓN: con los años, ganó unos quinientos mil.
+
+085 | ~7 s | NARRACIÓN: Para un joven que unos años antes estaba intentando arrancar una empresa pequeña, era una fortuna. Pero tenía un precio.
+
+086 | ~3 s | NARRACIÓN: El Chapo lo llamaba a cualquier hora.
+
+087 | ~7 s | NARRACIÓN: Rodríguez viajaba a Sinaloa más o menos cada mes y medio para hacer mantenimiento y revisar el sistema con él.
+
+088 | ~6 s | NARRACIÓN: En el juicio dijo que se reunió con el Chapo en persona unas doce veces.
+
+089 | ~4 s | NARRACIÓN: Y en una de esas visitas entendió en qué se había metido.
+
+090 | ~5 s | NARRACIÓN: En 2009, el Chapo lo mandó llamar a la sierra con un pedido enorme.
+
+091 | ~7 s | NARRACIÓN: Según Rodríguez, quería instalar programas espía en todos los cibercafés de Culiacán, para saber qué decía la gente de él.
+
+092 | ~7 s | NARRACIÓN: Rodríguez le explicó que, técnicamente, se podía. No alcanzaron a terminar la conversación. El Chapo recibió una llamada urgente:
+
+093 | ~7 s | NARRACIÓN: el Ejército venía en camino. Todos salieron corriendo. El Chapo, Alex Cifuentes, unos quince hombres armados… y el informático colombiano.
+
+094 | ~5 s | NARRACIÓN: Según su testimonio, caminaron durante tres días por la sierra, con los soldados detrás.
+
+095 | ~8 s | NARRACIÓN: Uno de los escoltas cargaba un arma que, le dijeron, podía derribar un helicóptero. El Chapo, contó Rodríguez, estaba muy tranquilo.
+
+096 | ~4 s | NARRACIÓN: Él estaba aterrorizado. Después de esa huida volvió a Colombia.
+
+097 | ~7 s | NARRACIÓN: Según Rolling Stone, nunca más volvió a ver al Chapo en persona. Pero siguió trabajando para él a distancia.
+
+098 | ~6 s | NARRACIÓN: Porque para entonces, el Chapo ya le había encargado un trabajo más delicado que proteger sus llamadas.
+
+099 | ~8 s | NARRACIÓN: Quería espiar a los suyos. Poco después de que la red empezó a funcionar, el Chapo llamó a Rodríguez con una pregunta:
+
+100 | ~4 s | NARRACIÓN: ¿se podía vigilar a las personas cercanas a él? Se podía.
+
+101 | ~7 s | NARRACIÓN: Existía un programa comercial llamado FlexiSPY, que se vendía en internet para, supuestamente, vigilar los teléfonos de hijos o empleados.
+
+102 | ~7 s | NARRACIÓN: Una vez instalado, permitía ver la ubicación del teléfono, el registro de llamadas, los mensajes de texto y los correos.
+
+103 | ~7 s | NARRACIÓN: Y tenía una función más: encender a distancia el micrófono del aparato, sin que su dueño se diera cuenta.
+
+104 | ~7 s | NARRACIÓN: Rodríguez volvió a volar a la sierra para explicárselo. El Chapo quedó encantado. Primero pidió diez teléfonos. Después pidió más.
+
+105 | ~6 s | NARRACIÓN: Rodríguez instalaba el programa en aparatos nuevos, que luego el Chapo regalaba a quien él quería vigilar.
+
+106 | ~7 s | NARRACIÓN: Los llamaba sus teléfonos «especiales». En total, según el testimonio, llegó a vigilar unos cincuenta teléfonos y computadoras. ¿A quién?
+
+107 | ~5 s | NARRACIÓN: A sus socios, a sus empleados. Y a las mujeres de su vida.
+
+108 | ~4 s | NARRACIÓN: Uno de esos teléfonos era el de su esposa, Emma Coronel.
+
+109 | ~6 s | NARRACIÓN: Otro, el de Agustina Cabanillas, una mujer con la que, según los mensajes presentados en el juicio,
+
+110 | ~5 s | NARRACIÓN: tenía una relación sentimental y que además le ayudaba a coordinar envíos de droga.
+
+111 | ~5 s | NARRACIÓN: Rodríguez contó en el tribunal uno de los trucos favoritos de su jefe.
+
+112 | ~3 s | NARRACIÓN: El Chapo llamaba a alguien, conversaba normalmente y colgaba.
+
+113 | ~8 s | NARRACIÓN: Y enseguida encendía el micrófono de ese teléfono, para escuchar qué decía de él cuando creía que ya nadie lo oía.
+
+114 | ~7 s | NARRACIÓN: Alex Cifuentes lo resumió así ante el jurado: al Chapo le interesaba muchísimo lo que la gente decía de él.
+
+115 | ~8 s | NARRACIÓN: Si no tenía que ver con él, no le importaba. La vigilancia llegó a ocuparle tanto tiempo que el Chapo llamaba
+
+116 | ~4 s | NARRACIÓN: a Rodríguez varias veces al día con preguntas sobre el programa.
+
+117 | ~8 s | NARRACIÓN: Al final le encargó a uno de sus hombres leer todos los reportes y avisarle de lo importante. Hubo quien sospechó.
+
+118 | ~5 s | NARRACIÓN: En uno de los mensajes interceptados, Agustina Cabanillas le contaba a otra persona:
+
+119 | ~5 s | NARRACIÓN: «Ayer lo caché viendo un montón de fotos, como de cámaras de seguridad».
+
+120 | ~4 s | NARRACIÓN: Y que, cuando ella entró, él cerró rápido las ventanas.
+
+121 | ~6 s | NARRACIÓN: El hombre más paranoico de México había convertido los teléfonos de sus seres queridos en micrófonos.
+
+122 | ~7 s | NARRACIÓN: Lo que no sabía es que, muy pronto, alguien más iba a escuchar todo lo que él escuchaba.
+
+123 | ~6 s | NARRACIÓN: En Estados Unidos, el FBI sabía que el Cártel de Sinaloa usaba un sistema cifrado.
+
+124 | ~3 s | NARRACIÓN: Y lo intentó todo para entrar. No pudo.
+
+125 | ~6 s | NARRACIÓN: El agente especial Stephen Marston, experto en delitos informáticos, lo explicó en el juicio con una frase:
+
+126 | ~8 s | NARRACIÓN: «Nos dimos cuenta de que, sin acceso desde adentro, no íbamos a poder entrar al sistema». Necesitaban a alguien de adentro.
+
+127 | ~7 s | NARRACIÓN: Y había una sola persona que tenía todas las llaves. En febrero de 2010, según The New York Times,
+
+128 | ~6 s | NARRACIÓN: Christian Rodríguez viajó a Nueva York para una reunión de negocios en un hotel de Manhattan.
+
+129 | ~7 s | NARRACIÓN: El cliente era un hombre que se presentaba como un mafioso ruso. Quería un sistema como el del Chapo:
+
+130 | ~7 s | NARRACIÓN: una forma de hablar con sus socios sin que la policía pudiera escuchar. Rodríguez le explicó lo que podía hacer.
+
+131 | ~7 s | NARRACIÓN: El mafioso ruso era un agente encubierto del FBI. Y la reunión estaba siendo grabada. El FBI esperó.
+
+132 | ~3 s | NARRACIÓN: Y en 2011 fue a buscarlo a Bogotá.
+
+133 | ~6 s | NARRACIÓN: Los agentes le dijeron que sabían que trabajaba para el Chapo y que estaba en serios problemas.
+
+134 | ~7 s | NARRACIÓN: Le mostraron lo que tenían. Según su testimonio, al principio intentó salvarse diciendo que solo trabajaba para los Cifuentes:
+
+135 | ~7 s | NARRACIÓN: le aterraba que lo relacionaran con el Chapo. Pero los agentes sabían que mentía. Ese mismo día aceptó cooperar.
+
+136 | ~5 s | NARRACIÓN: En un instante, el FBI había volteado al hombre que tenía las llaves
+
+137 | ~6 s | NARRACIÓN: de toda la red de comunicaciones de la organización de narcotráfico más grande del mundo.
+
+138 | ~8 s | NARRACIÓN: Ahora había que entrar sin que nadie se diera cuenta. Y ahí Rodríguez hizo la jugada más arriesgada de su vida.
+
+139 | ~5 s | NARRACIÓN: Les dijo a sus jefes que el sistema necesitaba una actualización de rutina.
+
+140 | ~5 s | NARRACIÓN: Como parte de esa actualización, movió los servidores de Canadá a los Países Bajos.
+
+141 | ~7 s | NARRACIÓN: Según el agente Marston, los Países Bajos se eligieron porque no le iban a parecer sospechosos al cártel.
+
+142 | ~7 s | NARRACIÓN: Y porque allí, con la ayuda de las autoridades holandesas, el FBI podía descifrar los datos con más facilidad.
+
+143 | ~5 s | NARRACIÓN: Con los servidores ya en territorio holandés, Rodríguez entregó las claves de cifrado.
+
+144 | ~5 s | NARRACIÓN: Y también los nombres de usuario y las contraseñas de toda la red.
+
+145 | ~7 s | NARRACIÓN: Durante esos meses, Rodríguez llevó una doble vida perfecta. Seguía contestando las llamadas del cártel, seguía resolviendo fallas, seguía cobrando.
+
+146 | ~3 s | NARRACIÓN: Y al mismo tiempo trabajaba para el FBI.
+
+147 | ~7 s | NARRACIÓN: Según el agente Marston, los técnicos del FBI se encontraron con problemas para descifrar parte de la información,
+
+148 | ~7 s | NARRACIÓN: y varios de esos problemas los resolvió el propio Rodríguez, que podía entrar a los servidores a distancia.
+
+149 | ~6 s | NARRACIÓN: A partir de abril de 2011, cada vez que el Chapo levantaba el teléfono en la sierra,
+
+150 | ~6 s | NARRACIÓN: la llamada viajaba cifrada hasta Holanda… y de ahí llegaba a los oídos del FBI.
+
+151 | ~3 s | NARRACIÓN: Los agentes la escuchaban unos días después.
+
+152 | ~6 s | NARRACIÓN: Entre abril de 2011 y enero de 2012, el FBI captó alrededor de mil quinientas llamadas.
+
+153 | ~6 s | NARRACIÓN: Según The New York Times, en unas doscientas se escucha al Chapo. Según el diario,
+
+154 | ~4 s | NARRACIÓN: fue una de las intervenciones telefónicas más extensas contra un acusado desde
+
+155 | ~5 s | NARRACIÓN: que el FBI grabó en secreto al jefe mafioso John Gotti, en Nueva York.
+
+156 | ~8 s | NARRACIÓN: Al principio, los agentes no tenían ninguna grabación segura de la voz del Chapo para comparar. Lo reconocían por el contexto:
+
+157 | ~3 s | NARRACIÓN: los demás le decían «señor», «el jefe», «el hombre».
+
+158 | ~5 s | NARRACIÓN: Y por la voz, que el agente Marston describió como aguda, nasal y cantadita.
+
+159 | ~7 s | NARRACIÓN: Lo que se escucha en esas grabaciones es al jefe del Cártel de Sinaloa manejando su negocio en tiempo real.
+
+160 | ~6 s | NARRACIÓN: En una llamada de abril de 2011, uno de sus pistoleros, Orso Iván Gastélum, el Cholo Iván,
+
+161 | ~7 s | NARRACIÓN: se queja de unos policías locales que estaban en la nómina pero no cumplían. El Cholo quiere golpearlos.
+
+162 | ~6 s | NARRACIÓN: El Chapo lo calma. «No andes persiguiendo a los policías», le dice. «Ellos son los que ayudan».
+
+163 | ~6 s | NARRACIÓN: El Cholo le contesta que fue él quien les enseñó a ser como lobos. En otra,
+
+164 | ~8 s | NARRACIÓN: el Chapo habla de mandar a un operador apodado el Gato a sobornar a un nuevo comandante de la Policía Federal.
+
+165 | ~5 s | NARRACIÓN: Y en un momento increíble, el Gato le pasa el teléfono al comandante.
+
+166 | ~6 s | NARRACIÓN: El Chapo le dice que el Gato es de «la empresa» y le pide que lo cuide.
+
+167 | ~8 s | NARRACIÓN: En otra llamada, el Chapo negocia la compra de seis toneladas de cocaína con un representante de una guerrilla colombiana. Regatea el precio.
+
+168 | ~7 s | NARRACIÓN: Insiste en mandar a un «técnico» a revisar la calidad de la droga antes de enviar el primer pago:
+
+169 | ~3 s | NARRACIÓN: cincuenta mil dólares. Hay llamadas de todo tipo.
+
+170 | ~7 s | NARRACIÓN: En una, el Chapo le da indicaciones a una mujer para llegar a la casa de Ismael Zambada, el Mayo,
+
+171 | ~5 s | NARRACIÓN: en medio de la sierra, y le explica que el camino ya está pavimentado.
+
+172 | ~4 s | NARRACIÓN: En otra, saluda a una mujer con un «¿Cómo le va,
+
+173 | ~4 s | NARRACIÓN: hermosura?» y discuten porque ella no quiere vender una camioneta de él.
+
+174 | ~7 s | NARRACIÓN: Y como el Chapo seguía usando FlexiSPY, el FBI también pudo leer los mensajes de los teléfonos «especiales».
+
+175 | ~5 s | NARRACIÓN: Los de sus socios. Los de Agustina Cabanillas. Y los de su esposa.
+
+176 | ~6 s | NARRACIÓN: Los mensajes con Agustina Cabanillas eran, al mismo tiempo, cartas de amor y órdenes de trabajo.
+
+177 | ~5 s | NARRACIÓN: «Eres la persona más importante para mí, mi amor», le escribía el Chapo.
+
+178 | ~6 s | NARRACIÓN: Y en la misma conversación le pedía que buscara a alguien dispuesto a «ir de pesca»:
+
+179 | ~5 s | NARRACIÓN: salir en una lancha a encontrarse en altamar con un barco del cártel cargado
+
+180 | ~4 s | NARRACIÓN: de droga y traerla de vuelta como si fuera pesca.
+
+181 | ~8 s | NARRACIÓN: Cuando ella le preguntaba si quería «las grandes» o «las chicas», según los fiscales estaban hablando de marihuana o de cocaína.
+
+182 | ~4 s | NARRACIÓN: Según los mensajes, el Chapo también le pagó una liposucción.
+
+183 | ~4 s | NARRACIÓN: En otro mensaje, Emma Coronel le pasa el teléfono a su padre.
+
+184 | ~7 s | NARRACIÓN: El Chapo le advierte que use solo la BlackBerry, porque trabajar con radios es peligroso: la Patrulla Fronteriza está escuchando.
+
+185 | ~8 s | NARRACIÓN: Y le dice que, si usa la radio antes de un vuelo, mejor no mande ni un kilo, porque se cae todo.
+
+186 | ~8 s | NARRACIÓN: El hombre que le daba lecciones de seguridad a su suegro no sabía que el FBI estaba leyendo esa misma conversación.
+
+187 | ~7 s | NARRACIÓN: En el juicio, un agente del FBI leyó en voz alta, con tono monótono, la vida privada del Chapo.
+
+188 | ~4 s | NARRACIÓN: Emma Coronel le decía «papi» o «don Joaquín». Él la llamaba «amor».
+
+189 | ~7 s | NARRACIÓN: Hablaban de sus gemelas, nacidas en agosto de 2011, a las que el Chapo llamaba «mis reinitas». En un mensaje,
+
+190 | ~7 s | NARRACIÓN: él le aconsejaba registrar a las bebés con otro nombre para poder poner una casa nueva a nombre de ellas.
+
+191 | ~4 s | NARRACIÓN: En un mensaje, cuando las niñas tenían unos seis meses,
+
+192 | ~5 s | NARRACIÓN: el Chapo escribió que una de ellas no le tenía miedo a nada,
+
+193 | ~4 s | NARRACIÓN: y bromeó con darle un AK-47 «para que ande conmigo».
+
+194 | ~6 s | NARRACIÓN: Pero hacer de agente doble tiene un problema. Tarde o temprano, alguien empieza a hacer preguntas.
+
+195 | ~6 s | NARRACIÓN: En el verano de 2011, según el agente Marston, el Chapo pareció dejar de usar el sistema.
+
+196 | ~7 s | NARRACIÓN: El número de llamadas cayó en picada. Rodríguez empezó a ponerse nervioso. Sentía que sus jefes sospechaban de él.
+
+197 | ~7 s | NARRACIÓN: Y un día, escuchando una de las llamadas interceptadas, confirmó su peor miedo. Era Alex Cifuentes hablando con su madre.
+
+198 | ~7 s | NARRACIÓN: Le decía que ya estaba confirmado. Que Christian era el soplón. Rodríguez huyó de Colombia a Estados Unidos.
+
+199 | ~5 s | NARRACIÓN: Después llegó su familia. Pero el FBI todavía lo necesitaba. En febrero de 2012,
+
+200 | ~4 s | NARRACIÓN: le pidieron que viajara a México para trabajar en tiempo real
+
+201 | ~4 s | NARRACIÓN: con el sistema de espionaje del Chapo y ayudar a ubicarlo.
+
+202 | ~5 s | NARRACIÓN: El hombre que el cártel sospechaba que era un soplón volvía a su territorio,
+
+203 | ~7 s | NARRACIÓN: ahora siguiendo las señales de los teléfonos de su antiguo jefe. Esa vez, el Chapo no estaba en la sierra.
+
+204 | ~5 s | NARRACIÓN: Estaba en una casa de lujo en Los Cabos, en Baja California Sur,
+
+205 | ~3 s | NARRACIÓN: un destino turístico en la punta de la península.
+
+206 | ~7 s | NARRACIÓN: Apenas un día antes, la ciudad había recibido una reunión de cancilleres del G20, con la secretaria de Estado estadounidense,
+
+207 | ~4 s | NARRACIÓN: Hillary Clinton, entre ellos. Los mensajes de esos días quedaron grabados.
+
+208 | ~7 s | NARRACIÓN: El Chapo le escribe a Emma Coronel para saber si está bien. Ella le cuenta que vio un carro sospechoso.
+
+209 | ~8 s | NARRACIÓN: Él le contesta que es del gobierno, que haga una vida normal: «solo quieren ver si vas a donde estoy yo».
+
+210 | ~7 s | NARRACIÓN: Le pregunta si tiene un arma. Ella dice que sí, una de él. «Guárdala en el escondite, amor», le escribe.
+
+211 | ~6 s | NARRACIÓN: Y de pronto, un mensaje corto: «Todo bien, amor. Luego te busco. Voy en camino».
+
+212 | ~3 s | NARRACIÓN: La policía había llegado a la casa.
+
+213 | ~6 s | NARRACIÓN: Según los mensajes presentados en el juicio, el Chapo le escribió después a su esposa:
+
+214 | ~6 s | NARRACIÓN: «Vi que estaban tocando la puerta de al lado y alcancé a saltarme». Se escapó otra vez.
+
+215 | ~7 s | NARRACIÓN: Detuvieron a tres de sus hombres y se llevaron teléfonos y libretas con información del sistema de comunicaciones.
+
+216 | ~7 s | NARRACIÓN: Después, el hombre más buscado del mundo le pedía a su esposa que le comprara pantalones, ropa interior, zapatos…
+
+217 | ~4 s | NARRACIÓN: y tinte negro para el bigote. Christian Rodríguez siguió ayudando al FBI.
+
+218 | ~5 s | NARRACIÓN: Según su testimonio, instaló a distancia un localizador en el teléfono de Jorge Cifuentes,
+
+219 | ~7 s | NARRACIÓN: el hombre que lo había recomendado con el Chapo. En noviembre de 2012, Jorge Cifuentes fue detenido en Venezuela.
+
+220 | ~7 s | NARRACIÓN: Más tarde lo extraditaron a Estados Unidos. En el juicio, Alex Cifuentes contó lo que pasó en la sierra.
+
+221 | ~6 s | NARRACIÓN: Dijo que el Chapo le contó que Rodríguez había dado información sobre su hermano a las autoridades.
+
+222 | ~8 s | NARRACIÓN: Y que el Chapo le dio una orden: había que encontrarlo para matarlo. «Empecé a buscarlo», declaró Cifuentes. No lo encontraron.
+
+223 | ~6 s | NARRACIÓN: Rodríguez vivía en Estados Unidos, bajo la protección del gobierno federal. Pero en 2013 se derrumbó.
+
+224 | ~4 s | NARRACIÓN: En el juicio contó que sufrió un colapso nervioso por el estrés.
+
+225 | ~6 s | NARRACIÓN: Que lo internaron dos veces en un hospital y que le aplicaron terapia electroconvulsiva, es decir, electrochoques.
+
+226 | ~4 s | NARRACIÓN: Dijo que el tratamiento no le borró los recuerdos lejanos,
+
+227 | ~8 s | NARRACIÓN: solo los del día anterior y el día siguiente de cada sesión. Años después seguía tomando medicamentos y yendo a terapia.
+
+228 | ~8 s | NARRACIÓN: Los fiscales explicaron otra razón de su miedo: después de que dejó de trabajar para el Chapo, el cártel intentó localizarlo.
+
+229 | ~3 s | NARRACIÓN: Y en el juicio salió algo más.
+
+230 | ~6 s | NARRACIÓN: Según el propio Rodríguez, durante esos años tuvo dos familias paralelas, cada una con hijos,
+
+231 | ~4 s | NARRACIÓN: y una no sabía de la existencia de la otra.
+
+232 | ~6 s | NARRACIÓN: Mientras tanto, el Chapo siguió libre dos años más. Lo capturaron en Mazatlán en febrero de 2014.
+
+233 | ~5 s | NARRACIÓN: Se fugó por un túnel de la cárcel del Altiplano en julio de 2015.
+
+234 | ~4 s | NARRACIÓN: Y lo volvieron a atrapar en Los Mochis en enero de 2016.
+
+235 | ~5 s | NARRACIÓN: Un año después, el 19 de enero de 2017, lo extraditaron a Estados Unidos.
+
+236 | ~8 s | NARRACIÓN: Y en noviembre de 2018 empezó su juicio en Brooklyn. El caso de la fiscalía se apoyaba sobre todo en testigos:
+
+237 | ~6 s | NARRACIÓN: antiguos socios, proveedores y pistoleros que habían decidido cooperar a cambio de reducir sus condenas.
+
+238 | ~7 s | NARRACIÓN: La defensa del Chapo atacó a cada uno. Dijo que eran criminales confesos, mentirosos que lo acusaban para salvarse.
+
+239 | ~6 s | NARRACIÓN: Pero las llamadas de Christian Rodríguez eran otra cosa. No eran el recuerdo de alguien.
+
+240 | ~6 s | NARRACIÓN: Era la voz del Chapo, dando órdenes con sus propias palabras. La defensa lo sabía.
+
+241 | ~6 s | NARRACIÓN: Antes del juicio, los abogados del Chapo habían pedido que se descartaran los mensajes obtenidos con FlexiSPY.
+
+242 | ~8 s | NARRACIÓN: Argumentaron que el gobierno no había seguido los procedimientos legales para conseguirlos. El juez rechazó el pedido. Los mensajes entraron como prueba.
+
+243 | ~7 s | NARRACIÓN: Keegan Hamilton, un periodista que siguió todo el juicio, contó a la radio pública de Estados Unidos que,
+
+244 | ~4 s | NARRACIÓN: durante casi todo el proceso, el Chapo parecía de buen humor.
+
+245 | ~8 s | NARRACIÓN: Pero la semana de Christian Rodríguez, en su cara apareció una mueca. Sabía que el jurado estaba escuchando su propia voz.
+
+246 | ~7 s | NARRACIÓN: El agente Marston explicó cómo habían confirmado que era él. Compararon la voz de las llamadas con dos grabaciones indiscutibles:
+
+247 | ~4 s | NARRACIÓN: una llamada del Chapo desde la cárcel de Manhattan con una hermana,
+
+248 | ~7 s | NARRACIÓN: y el video de la entrevista que le hizo el actor Sean Penn en 2015. La defensa protestó:
+
+249 | ~6 s | NARRACIÓN: no se había hecho un análisis científico de voz. Pero el jurado ya había escuchado.
+
+250 | ~4 s | NARRACIÓN: Christian Rodríguez declaró los días 9 y 10 de enero de 2019.
+
+251 | ~4 s | NARRACIÓN: Los fiscales le preguntaron cómo se había sentido aquella vez
+
+252 | ~4 s | NARRACIÓN: que huyó por la sierra con el Chapo y el Ejército detrás.
+
+253 | ~5 s | NARRACIÓN: El abogado de la defensa le preguntó cuánto había ganado. Él no lo escondió:
+
+254 | ~5 s | NARRACIÓN: medio millón de dólares trabajando para el cártel, que el gobierno le permitió conservar.
+
+255 | ~7 s | NARRACIÓN: Y más de cuatrocientos mil que le pagó el FBI en honorarios y gastos. Nunca fue acusado de ningún delito.
+
+256 | ~4 s | NARRACIÓN: Nunca pasó un solo día preso. Y todavía esperaba algo más:
+
+257 | ~6 s | NARRACIÓN: la recompensa de hasta cinco millones de dólares que el Departamento de Estado ofrecía por Jorge Cifuentes.
+
+258 | ~6 s | NARRACIÓN: «Tengo la esperanza y la ilusión de que los recibiré algún día», dijo ante el jurado.
+
+259 | ~5 s | NARRACIÓN: En la sala estaba Emma Coronel, que asistió a casi todo el juicio.
+
+260 | ~4 s | NARRACIÓN: Escuchó cómo se leían en voz alta sus mensajes con su marido.
+
+261 | ~7 s | NARRACIÓN: Y también los mensajes de su marido con otra mujer. Según la revista Rolling Stone, no movió un músculo.
+
+262 | ~7 s | NARRACIÓN: El 12 de febrero de 2019, el jurado declaró al Chapo culpable de los diez cargos en su contra.
+
+263 | ~4 s | NARRACIÓN: En julio lo condenaron a cadena perpetua más treinta años.
+
+264 | ~7 s | NARRACIÓN: Hoy está en la cárcel federal de máxima seguridad de Florence, en Colorado, la más estricta de Estados Unidos.
+
+265 | ~6 s | NARRACIÓN: Dos años después, en febrero de 2021, Emma Coronel fue detenida en un aeropuerto cerca de Washington.
+
+266 | ~8 s | NARRACIÓN: Se declaró culpable de narcotráfico y lavado de dinero, la condenaron a tres años de prisión y salió libre en 2023.
+
+267 | ~5 s | NARRACIÓN: Jorge y Alex Cifuentes, los hermanos que llevaron a Rodríguez hasta la sierra,
+
+268 | ~4 s | NARRACIÓN: también terminaron cooperando con la fiscalía y declarando contra el Chapo.
+
+269 | ~6 s | NARRACIÓN: A Alex lo detuvieron a finales de 2013 en un rancho en las afueras de Culiacán,
+
+270 | ~7 s | NARRACIÓN: protegido por la escolta personal del Chapo. Desde la cárcel, su hermano Jorge lo convenció de colaborar con Estados Unidos.
+
+271 | ~6 s | NARRACIÓN: Es decir: el hombre que recomendó al informático, y el hombre que recibió la orden de matarlo,
+
+272 | ~7 s | NARRACIÓN: terminaron sentados en la misma silla de los testigos que él. ¿Y Christian Rodríguez? Nadie sabe públicamente dónde está.
+
+273 | ~6 s | NARRACIÓN: En 2019 vivía en Estados Unidos, bajo la protección del gobierno federal, posiblemente con otra identidad.
+
+274 | ~6 s | NARRACIÓN: Desde entonces no ha vuelto a aparecer. ¿Qué fue Christian Rodríguez? Para el FBI, el informante perfecto:
+
+275 | ~5 s | NARRACIÓN: el hombre que le abrió la puerta del sistema que nadie había podido romper.
+
+276 | ~5 s | NARRACIÓN: Para el Cártel de Sinaloa, un soplón al que había que encontrar y matar.
+
+277 | ~4 s | NARRACIÓN: Para los Cifuentes, el muchacho de confianza que ellos mismos habían recomendado.
+
+278 | ~7 s | NARRACIÓN: Él, en el juicio, no se presentó como un héroe. No habló de valentía ni de justicia. Habló de miedo.
+
+279 | ~7 s | NARRACIÓN: De una avioneta sobre la sierra, de tres días huyendo del Ejército, de un colapso nervioso, de electrochoques, de medicamentos.
+
+280 | ~3 s | NARRACIÓN: Y de una recompensa que todavía esperaba cobrar.
+
+281 | ~6 s | NARRACIÓN: Su historia dejó una lección que los cárteles y los gobiernos aprendieron al mismo tiempo.
+
+282 | ~4 s | NARRACIÓN: Ningún sistema es más seguro que la persona que tiene las llaves.
+
+283 | ~4 s | NARRACIÓN: La batalla por los teléfonos cifrados no terminó con el Chapo.
+
+284 | ~7 s | NARRACIÓN: En junio de 2021, el FBI y la policía de varios países revelaron una operación todavía más audaz:
+
+285 | ~7 s | NARRACIÓN: durante años habían repartido entre organizaciones criminales unos doce mil teléfonos con una aplicación de mensajes supuestamente secreta, llamada ANOM.
+
+286 | ~7 s | NARRACIÓN: La habían creado ellos mismos. Los teléfonos llegaron a más de trescientas organizaciones criminales en más de cien países,
+
+287 | ~5 s | NARRACIÓN: y cada mensaje que sus usuarios creían secreto terminaba en manos de la policía.
+
+288 | ~6 s | NARRACIÓN: Cuando la operación salió a la luz, más de ochocientas personas fueron detenidas en todo el mundo.
+
+289 | ~6 s | NARRACIÓN: Esta vez, el FBI no necesitó convencer a ningún informático para que le entregara las llaves.
+
+290 | ~8 s | NARRACIÓN: Esta vez, las llaves eran suyas desde el principio. Pero todo empezó con algo mucho más pequeño. Un muchacho de veintiún años,
+
+291 | ~7 s | NARRACIÓN: una avioneta sobre la Sierra Madre y un narcotraficante que confió sus secretos al único hombre que podía venderlos.
+
+292 | ~6 s | NARRACIÓN: El Chapo pasó años escuchando a escondidas a su esposa, a sus amantes y a sus socios,
+
+293 | ~6 s | NARRACIÓN: convencido de que la información era poder. Tenía razón. Solo se equivocó en una cosa:
+
+294 | ~3 s | NARRACIÓN: creyó que el único que escuchaba era él.
+
