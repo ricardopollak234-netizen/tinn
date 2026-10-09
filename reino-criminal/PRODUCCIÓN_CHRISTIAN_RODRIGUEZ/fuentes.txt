@@ -1,14 +1,15 @@
 FUENTES Y NOTAS DEL GUION — "Christian Rodríguez, el informático del Chapo que lo entregó al FBI"
 ==================================================================================================
 
-CONTEO: 4.619 palabras → ~28 min con la voz "fernando martinez posta" a velocidad 1.0 (≈163 palabras por minuto).
+CONTEO: 4.620 palabras → ~28 min con la voz "fernando martinez posta" a velocidad 1.0 (≈163 palabras por minuto).
 Información actualizada hasta octubre de 2026.
 
 --------------------------------------------------------------------------------
 ESTRUCTURA (frase de inicio)
 --------------------------------------------------------------------------------
  1. GANCHO ............. "Brooklyn, Nueva York. Enero de 2019."
-    El jurado escucha la voz del Chapo; el testigo al que no se puede dibujar; las preguntas del video.
+    Rodríguez declara frente al Chapo (testigo que no se puede dibujar, «Les di acceso al servidor…»), las grabaciones
+    del día anterior y la vuelta al principio.
  2. ¿QUIÉN ERA? ........ "Christian Rodríguez es colombiano."
     Estudiante de ingeniería que deja la universidad, empresa de seguridad informática, qué es el cifrado,
     los Cifuentes Villa y sus cien extensiones.

@@ -1,20 +1,24 @@
 Brooklyn, Nueva York. Enero de 2019.
 
-En la sala del juicio más vigilado del mundo, un fiscal aprieta un botón. Por los parlantes se escucha una voz aguda, nasal, casi cantada. Es una llamada telefónica de abril de 2011. Y la voz pertenece al hombre que está sentado en la mesa de la defensa: Joaquín Guzmán Loera, el Chapo.
+En la sala de un tribunal federal, un hombre de treinta y dos años se sienta en la silla de los testigos. Lleva un traje azul marino y se le nota nervioso. Tiene motivos: a pocos metros, en la mesa de la defensa, está sentado Joaquín Guzmán Loera, el Chapo.
 
-En la grabación, el Chapo regaña a uno de sus pistoleros por pelearse con la policía. «No andes persiguiendo a los policías», le dice. «Ellos son los que ayudan».
+El juez ha tomado una medida poco común. Prohibió a los dibujantes del tribunal retratar la cara del testigo. Si el cártel llega a saber cómo luce hoy, podría encontrarlo.
 
-Durante años, el Chapo habló por teléfono convencido de que nadie podía escucharlo. Usaba un sistema propio, cifrado, con servidores en el extranjero. Una red privada para él, sus socios, sus pistoleros, su esposa y sus amantes. El FBI pasó meses tratando de romperla y no pudo.
+Según la cadena CNN, cuando empieza a declarar, el testigo y el Chapo se miran a los ojos.
 
-Ese sistema lo había construido un muchacho colombiano de veintiún años.
+No es un sicario. No es un narcotraficante. Es un informático. Se llama Christian Rodríguez, y durante años fue el encargado de que nadie pudiera escuchar las conversaciones del Chapo.
 
-Y ese mismo muchacho fue quien le entregó las llaves al FBI.
+Y ahí, frente al jurado y frente a su antiguo jefe, cuenta lo que hizo después: «Les di acceso al servidor del Chapo Guzmán. Les di los nombres de usuario y las contraseñas».
 
-Al día siguiente, el jurado lo vio entrar a la sala. Tenía treinta y dos años, un traje azul marino y cara de nervios. El juez había prohibido a los dibujantes del tribunal retratar su rostro, para que el cártel no pudiera reconocerlo. Según la cadena CNN, cuando empezó a declarar, él y el Chapo se miraron a los ojos.
+Un día antes, el jurado había escuchado por primera vez la voz del Chapo en grabaciones secretas. Una voz aguda, nasal, casi cantada, dando órdenes a sus pistoleros, hablando de sobornos a policías y de toneladas de cocaína. Llamadas que el Chapo hizo convencido de que nadie podía oírlo.
 
-Se llama Christian Rodríguez. Fue el informático del Chapo Guzmán. Durante casi un año, sin que su jefe lo supiera, cada llamada que pasaba por su sistema terminó en manos del FBI.
+Todas habían pasado por el sistema que construyó el hombre que ahora estaba en la silla de los testigos. Y todas habían terminado en manos del FBI.
+
+Cuando conoció al Chapo, Christian Rodríguez tenía veintiún años.
 
 ¿Cómo un estudiante que había dejado la universidad terminó volando a la sierra de Sinaloa para trabajar con el narcotraficante más buscado del planeta? ¿Cómo lo atrapó el FBI? ¿Y qué pasa con un hombre que traiciona al Chapo y sigue vivo para contarlo?
+
+Para entenderlo, hay que volver al principio.
 
 Esta es la historia del informático del Chapo… el hombre que lo entregó al FBI.
 
@@ -136,7 +140,7 @@ Ahora había que entrar sin que nadie se diera cuenta. Y ahí Rodríguez hizo la
 
 Les dijo a sus jefes que el sistema necesitaba una actualización de rutina. Como parte de esa actualización, movió los servidores de Canadá a los Países Bajos. Según el agente Marston, los Países Bajos se eligieron porque no le iban a parecer sospechosos al cártel. Y porque allí, con la ayuda de las autoridades holandesas, el FBI podía descifrar los datos con más facilidad.
 
-Con los servidores ya en territorio holandés, Rodríguez entregó las claves de cifrado. Y también los nombres de usuario y las contraseñas. «Les di acceso al servidor del Chapo Guzmán», dijo en el juicio.
+Con los servidores ya en territorio holandés, Rodríguez entregó las claves de cifrado. Y también los nombres de usuario y las contraseñas de toda la red.
 
 Durante esos meses, Rodríguez llevó una doble vida perfecta. Seguía contestando las llamadas del cártel, seguía resolviendo fallas, seguía cobrando. Y al mismo tiempo trabajaba para el FBI. Según el agente Marston, los técnicos del FBI se encontraron con problemas para descifrar parte de la información, y varios de esos problemas los resolvió el propio Rodríguez, que podía entrar a los servidores a distancia.
 
