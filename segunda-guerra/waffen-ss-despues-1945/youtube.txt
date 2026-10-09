@@ -1,0 +1,57 @@
+PAQUETE PARA YOUTUBE — Las Waffen-SS después de 1945
+(no es texto narrable)
+
+--------------------------------------------------------------------------------
+TÍTULO
+--------------------------------------------------------------------------------
+¿Adónde Fueron Las Waffen-SS Después De 1945?
+
+Alternativas:
+- Qué Pasó Con Los Soldados De Las Waffen-SS Cuando Terminó La Guerra
+- Casi Un Millón De Hombres: El Destino Oculto De Las Waffen-SS
+
+--------------------------------------------------------------------------------
+MINIATURA (idea)
+--------------------------------------------------------------------------------
+Primer plano en blanco y negro de un brazo con la manga subida y una cicatriz redonda donde
+iba el tatuaje; detrás, una fila de prisioneros en 1945. Texto grande: "BORRARON LA MARCA".
+Texto pequeño: "¿Adónde fueron?". Sin esvásticas ni runas de las SS en la miniatura.
+
+--------------------------------------------------------------------------------
+DESCRIPCIÓN
+--------------------------------------------------------------------------------
+¿Adónde Fueron Las Waffen-SS Después De 1945?
+
+En 1945, casi un millón de hombres habían pasado por las Waffen-SS. Núremberg declaró
+criminal ese uniforme. Pero la mayoría de sus soldados sobrevivió a la guerra, y lo que hicieron
+después es una de las historias más incómodas de la posguerra.
+
+En este video veremos:
+- El tatuaje del grupo sanguíneo y la caza de los SS en los campos de prisioneros.
+- Por qué Josef Mengele pudo escapar.
+- Núremberg, el juicio de Malmedy y las condenas a muerte que nunca se cumplieron.
+- Kurt Meyer y la HIAG: la campaña para convertirlos en "soldados como los demás".
+- El juicio de Oradour-sur-Glane y la amnistía que partió a Francia en dos.
+- Las huidas de Léon Degrelle y Otto Skorzeny a España, las rutas de las ratas y el mito de ODESSA.
+- La verdad sobre la Legión Extranjera.
+- Los voluntarios extranjeros: fusilados, juzgados o recibidos como refugiados en América.
+- Los prisioneros en la Unión Soviética que volvieron en 1956.
+- Bitburg, Günter Grass, el último juicio y el escándalo de Ottawa en 2023.
+
+Casi un millón de hombres. Un uniforme declarado criminal. Y miles de caminos para escapar de él.
+
+[PEGAR AQUÍ creditos_descripcion.txt]
+
+--------------------------------------------------------------------------------
+ETIQUETAS
+--------------------------------------------------------------------------------
+waffen ss, segunda guerra mundial, historia, nazis después de la guerra, juicios de núremberg,
+masacre de malmedy, oradour sur glane, joachim peiper, kurt meyer, léon degrelle, otto skorzeny,
+josef mengele, rutas de las ratas, odessa, legión extranjera, legión letona, división galitzia,
+bitburg, günter grass, historia de la posguerra, documental historia
+
+--------------------------------------------------------------------------------
+CAPÍTULOS (ajustar los tiempos con tiempos_escenas.csv cuando esté la voz)
+--------------------------------------------------------------------------------
+00:00 El tatuaje
+(el resto se completa con los tiempos reales)
