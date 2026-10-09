@@ -1,0 +1,36 @@
+CÓMO ARMAR EL VIDEO — "Christian Rodríguez, el informático del Chapo que lo entregó al FBI"
+==========================================================================================
+
+Todo se hace desde la carpeta PRODUCCIÓN_CHRISTIAN_RODRIGUEZ. Los medios de cada escena están en `medios\`
+con el número de la escena: 001.jpg, 003.jpg, 013.mp4, …
+
+ARCHIVOS
+- guion.txt ............ texto narrado (4.620 palabras). Fuentes y puntos dudosos: fuentes.txt
+- narracion\narracion.mp3  narración de Voizum (voz "fernando martinez posta", velocidad 1.0), 27:45 min
+- escenas.txt .......... las 294 escenas con su fragmento de narración (lo usa montar_video.py)
+- fuentes_visuales.csv . planilla (Excel) con la fuente, el autor y la licencia de cada escena
+- CREDITOS.txt ......... créditos para la descripción de YouTube (el de la música es obligatorio)
+- medios\ .............. 294 medios: fotos y clips libres, mapas y fichas propias, ninguno repetido
+- video\reino_criminal_christian_rodriguez.mp4  el video terminado
+
+DERECHOS DE AUTOR (el video no debe tener material con copyright)
+- Solo se usó: dominio público del gobierno de EE. UU. (DVIDS, CBP, ICE, Guardia Costera, DEA, Departamento de Justicia),
+  clips de Pexels (licencia Pexels: uso comercial libre, sin personas identificables),
+  Creative Commons CC0 / CC BY / CC BY-SA (con crédito) y material propio (mapas con base de
+  Natural Earth, fichas de texto y gráficos).
+- Se descartaron licencias "no comercial" (NC) y "sin obras derivadas" (ND), capturas de televisión
+  o YouTube, fotos de agencias (AP, Reuters, Getty, AFP, EFE, Cuartoscuro), clips "courtesy",
+  portadas de diarios y fotos de personas reales que no tienen que ver con el caso.
+- No se usó G-Labs.
+- Música: Kevin MacLeod, CC BY 4.0 (crédito obligatorio, está en CREDITOS.txt).
+
+VOLVER A MONTARLO (por ejemplo, después de cambiar un medio)
+    python montar_video.py --audio "narracion\narracion.mp3" --hilos 4 --salida video_sin_musica.mp4
+    python musica_fondo.py --video video_sin_musica.mp4 --narracion narracion\narracion.mp3 ^
+        --musica "..\PRODUCCIÓN\musica\Stay the Course.mp3" "..\PRODUCCIÓN\musica\Leaving Home.mp3" ^
+                 "..\PRODUCCIÓN\musica\River of Io.mp3" "..\PRODUCCIÓN\musica\Symmetry.mp3" ^
+                 "..\PRODUCCIÓN\musica\I Can Feel it Coming.mp3" "..\PRODUCCIÓN\musica\Tyrant.mp3" ^
+                 "..\PRODUCCIÓN\musica\Man Down.mp3" "..\PRODUCCIÓN\musica\Vanishing.mp3" ^
+        --cortes 114.6 277.9 550.3 690.9 856.0 1092.8 1307.6 --salida reino_criminal_christian_rodriguez.mp4
+  (los temas están en la carpeta de música del primer video; el nivel de música por defecto, -23,
+  es el que quedó aprobado; los cortes coinciden con el inicio de cada bloque del guion)
