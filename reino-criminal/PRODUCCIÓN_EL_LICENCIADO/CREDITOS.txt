@@ -15,13 +15,13 @@ MÚSICA (obligatorio en la descripción, licencia CC BY 4.0):
 Licensed under Creative Commons: By Attribution 4.0 License
 http://creativecommons.org/licenses/by/4.0/
 
-LICENCIAS CREATIVE COMMONS (requieren atribución) — 248 archivos:
+LICENCIAS CREATIVE COMMONS (requieren atribución) — 249 archivos:
 001 — File:Theodore Roosevelt United States Courthouse (55268323856).jpg — ajay_suresh — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_United_States_Courthouse_(55268323856).jpg
 002 — SENTINAL NOW, I WITNESS STAND... — summonedbyfells — CC BY 2.0 — https://www.flickr.com/photos/8521690@N02/6100707360
 004 — Moleskine reporter notebook — Hades2k — CC BY-SA 2.0 — https://www.flickr.com/photos/24449221@N05/9069184930
 005 — Addis Ababa #12 — Thomas Leuthard — CC BY 2.0 — https://www.flickr.com/photos/41346951@N05/15664331910
 006 — Bible time — Brett Jordan — CC BY 2.0 — https://www.flickr.com/photos/55497864@N00/3518042098
-008 — BADGE - Scotland - Ross & Cromarty Constabulary collar-epaulette badge chromed — conner395 — CC BY 2.0 — https://www.flickr.com/photos/91779914@N00/14442016656
+008 — File:Placa Antigua de la Policía Judicial de Sinaloa..jpg — Pmsinaloa — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Placa_Antigua_de_la_Policía_Judicial_de_Sinaloa..jpg
 010 — File:TR Courthouse winter nite jeh.jpg — Jim.henderson — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:TR_Courthouse_winter_nite_jeh.jpg
 011 — Razor wire outside a jail in northern Afghanistan — Jacksoncam — CC BY 2.0 — https://www.flickr.com/photos/51017890@N07/5364480316
 014 — File:Us-treasury-building.jpg — MeanieHyaena — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Us-treasury-building.jpg
@@ -229,6 +229,7 @@ LICENCIAS CREATIVE COMMONS (requieren atribución) — 248 archivos:
 325 — Police Uniforms — maka — CC BY 2.0 — https://www.flickr.com/photos/60538528@N00/5013584119
 326 — Utrecht — sadettincanbay — CC BY 2.0 — https://www.flickr.com/photos/127321605@N06/22592374314
 328 — File:Demonstration against Javier Valdez murdering - May 16 2017 - Mexico City 06.jpg — ProtoplasmaKid — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Demonstration_against_Javier_Valdez_murdering_-_May_16_2017_-_Mexico_City_06.jpg
+329 — Fiscalía General de la República, Cuauhtémoc (2025) — Tbhotch — CC BY-SA 4.0 — https://commons.wikimedia.org/w/index.php?curid=163850138
 330 — Hotel Santana, El Dorado — wallygrom — CC BY-SA 2.0 — https://www.flickr.com/photos/33037982@N04/3576254603
 333 — Prison Cell Door (2) — Paige..., — CC BY 2.0 — https://www.flickr.com/photos/61546670@N02/8741219275
 334 — Mysterious document and sim card — adactio — CC BY 2.0 — https://www.flickr.com/photos/74105777@N00/2018086675
@@ -361,4 +362,4 @@ DOMINIO PÚBLICO / CC0 — 94 archivos:
 367 — Dark Recording Equipment with Microphones and Chairs — Image Catalog — CC0 — https://www.flickr.com/photos/132795455@N08/17093763009
 375 — File:IAGS Wanted Poster.jpg — 7A0455 — Public domain — https://commons.wikimedia.org/wiki/File:IAGS_Wanted_Poster.jpg
 
-MATERIAL PROPIO (mapas y fichas de texto) — 36 archivos: 009, 018, 047, 049, 051, 112, 121, 122, 130, 142, 147, 150, 153, 165, 174, 212, 214, 223, 245, 246, 251, 262, 266, 284, 294, 301, 317, 319, 322, 327, 329, 332, 338, 340, 349, 371
+MATERIAL PROPIO (mapas y fichas de texto) — 35 archivos: 009, 018, 047, 049, 051, 112, 121, 122, 130, 142, 147, 150, 153, 165, 174, 212, 214, 223, 245, 246, 251, 262, 266, 284, 294, 301, 317, 319, 322, 327, 332, 338, 340, 349, 371
