@@ -51,7 +51,17 @@ josef mengele, rutas de las ratas, odessa, legión extranjera, legión letona, d
 bitburg, günter grass, historia de la posguerra, documental historia
 
 --------------------------------------------------------------------------------
-CAPÍTULOS (ajustar los tiempos con tiempos_escenas.csv cuando esté la voz)
+CAPÍTULOS (pegar en la descripción)
 --------------------------------------------------------------------------------
-00:00 El tatuaje
-(el resto se completa con los tiempos reales)
+00:00 El tatuaje que los delataba
+02:22 Qué eran las Waffen-SS
+06:44 Mayo de 1945: la huida hacia el oeste
+09:23 Núremberg y el juicio de Malmedy
+12:34 Kurt Meyer y la HIAG
+17:08 Oradour: el juicio de Burdeos
+19:43 Las huidas: Degrelle, Skorzeny y Mengele
+22:40 El mito de la Legión Extranjera
+23:42 Los voluntarios extranjeros
+26:28 Cautivos en la Unión Soviética
+28:07 El pasado vuelve
+32:31 ¿Adónde fueron?
