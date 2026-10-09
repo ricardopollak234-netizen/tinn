@@ -1,0 +1,253 @@
+Brooklyn, Nueva York. Enero de 2019.
+
+En la sala del juicio más vigilado del mundo, un fiscal aprieta un botón. Por los parlantes se escucha una voz aguda, nasal, casi cantada. Es una llamada telefónica de abril de 2011. Y la voz pertenece al hombre que está sentado en la mesa de la defensa: Joaquín Guzmán Loera, el Chapo.
+
+En la grabación, el Chapo regaña a uno de sus pistoleros por pelearse con la policía. «No andes persiguiendo a los policías», le dice. «Ellos son los que ayudan».
+
+Durante años, el Chapo habló por teléfono convencido de que nadie podía escucharlo. Usaba un sistema propio, cifrado, con servidores en el extranjero. Una red privada para él, sus socios, sus pistoleros, su esposa y sus amantes. El FBI pasó meses tratando de romperla y no pudo.
+
+Ese sistema lo había construido un muchacho colombiano de veintiún años.
+
+Y ese mismo muchacho fue quien le entregó las llaves al FBI.
+
+Al día siguiente, el jurado lo vio entrar a la sala. Tenía treinta y dos años, un traje azul marino y cara de nervios. El juez había prohibido a los dibujantes del tribunal retratar su rostro, para que el cártel no pudiera reconocerlo. Según la cadena CNN, cuando empezó a declarar, él y el Chapo se miraron a los ojos.
+
+Se llama Christian Rodríguez. Fue el informático del Chapo Guzmán. Durante casi un año, sin que su jefe lo supiera, cada llamada que pasaba por su sistema terminó en manos del FBI.
+
+¿Cómo un estudiante que había dejado la universidad terminó volando a la sierra de Sinaloa para trabajar con el narcotraficante más buscado del planeta? ¿Cómo lo atrapó el FBI? ¿Y qué pasa con un hombre que traiciona al Chapo y sigue vivo para contarlo?
+
+Esta es la historia del informático del Chapo… el hombre que lo entregó al FBI.
+
+Christian Rodríguez es colombiano. Según la prensa estadounidense que cubrió el juicio, nació a mediados de los años ochenta y estudió ingeniería, pero dejó la universidad antes de terminar. Tenía una idea: montar su propia empresa de seguridad informática.
+
+Era el momento perfecto. A mediados de los años dos mil, los teléfonos inteligentes empezaban a llenar el mundo. Las BlackBerry eran el símbolo de los empresarios. Y una pregunta empezaba a preocupar a muchas personas con dinero y algo que esconder: ¿quién puede leer mis mensajes?
+
+Para los narcotraficantes, esa pregunta era de vida o muerte. Durante décadas, las agencias antidrogas de Estados Unidos habían derribado a grandes capos de la misma manera: escuchando sus teléfonos. Un capo puede esconderse en una montaña, cambiar de casa cada semana y rodearse de cientos de pistoleros. Pero tarde o temprano tiene que hablar con alguien. Y en ese momento, si alguien está escuchando, queda expuesto.
+
+Rodríguez tenía la respuesta. Sabía montar sistemas de comunicación cifrada: redes privadas donde los mensajes y las llamadas viajan codificados, de modo que, si alguien los intercepta en el camino, solo encuentra basura. Para leerlos hace falta una clave. Y esa clave la controla quien administra el sistema.
+
+Para entenderlo sin palabras técnicas: es como mandar cada carta dentro de una caja fuerte. El cartero puede robarse la caja, pero no puede abrirla. Solo quien tiene la combinación puede leer lo que hay adentro. Y en una red privada, quien reparte las combinaciones es el administrador.
+
+Uno de sus primeros clientes grandes fue una familia de Medellín: los Cifuentes Villa.
+
+En la superficie, los Cifuentes eran empresarios. En los tribunales de Estados Unidos, eran otra cosa. Según el Departamento de Estado, el clan había llevado a Estados Unidos más de treinta y un mil kilos de cocaína. Su jefe, Jorge Milton Cifuentes, era uno de los proveedores colombianos del Cártel de Sinaloa. Washington llegó a ofrecer cinco millones de dólares por información para capturarlo.
+
+Rodríguez montó para los Cifuentes un sistema de mensajes cifrados de extremo a extremo. Cada mensaje salía cerrado con una parte de la clave, y solo el destinatario, con la otra parte, podía abrirlo. Todo pasaba por un servidor que él mismo administraba. Según su testimonio, llegó a crear unas cien extensiones para la familia y sus socios.
+
+Funcionó tan bien que Jorge Cifuentes decidió recomendarlo a alguien más.
+
+Su hermano, Alex Cifuentes, vivía desde 2007 en un lugar muy particular: escondido en la sierra de Sinaloa, junto a un socio de la familia. Un hombre bajo, robusto, que llevaba años prófugo después de escaparse en 2001 de una cárcel de máxima seguridad.
+
+Ese socio era el Chapo Guzmán. Y tenía un problema con la tecnología.
+
+A principios de 2008, Christian Rodríguez, con veintiún años, aterrizó en Culiacán, la capital de Sinaloa.
+
+De ahí lo llevaron a una pista clandestina en las afueras de la ciudad y lo subieron a una avioneta. Según contó en el juicio, el vuelo duró entre veinticinco y treinta minutos, sobre las montañas de la Sierra Madre. Él iba con miedo: la avioneta le parecía insegura.
+
+Cuando aterrizaron en una pista corta, escondida entre los cerros, lo esperaba un grupo de hombres armados, vestidos como militares. Lo subieron a un vehículo todoterreno y lo llevaron montaña arriba hasta una casa pequeña.
+
+Adentro estaba Alex Cifuentes. Y a su lado, el hombre cuyo nombre y fama Rodríguez ya conocía.
+
+Años después, Alex Cifuentes le describió al jurado cómo era la vida en esas guaridas. El Chapo tenía alrededor de media docena repartidas por la sierra. Tenían televisión satelital y hasta servicio de limpieza. Y cuando el Ejército se acercaba, había que agarrar las armas y salir corriendo en la oscuridad.
+
+El problema era sencillo. En la sierra no había internet. El Chapo se comunicaba con teléfonos satelitales, y esos teléfonos fallaban cuando llovía fuerte. Para un hombre que manejaba un negocio en varios continentes desde una montaña, quedarse sin señal era un problema serio.
+
+Rodríguez les explicó el sistema que había montado para los Cifuentes y les dijo lo que necesitaba: internet de alta velocidad en la sierra. En una segunda visita hizo la demostración. Llamó de un teléfono a otro a través de la red. Según su testimonio, hasta preparó un diagrama para explicárselo a los hombres mayores. «Les gustó», dijo.
+
+Pero el Chapo tenía una preferencia. No le gustaba escribir. Le gustaba hablar. Y preguntó si se podía hacer lo mismo con las llamadas de voz.
+
+Se podía.
+
+Rodríguez montó para el Cártel de Sinaloa una red de telefonía por internet, como la central de una empresa. Cada teléfono tenía una extensión. Las llamadas viajaban cifradas hasta servidores que él controlaba, y desde fuera nadie podía marcar a esos números sin conocer la ruta. Además tenía un cortafuegos para impedir intrusos. «Funcionaba como el sistema de una compañía», explicó en el juicio.
+
+Según los testimonios, el Chapo mandó instalar el sistema en unos cien teléfonos. Él tenía tres números. Y en los mensajes, su nombre de usuario era una sola letra: «J».
+
+Jorge Cifuentes declaró en el juicio que Rodríguez les había prometido comunicaciones seguras por voz, texto y datos para prácticamente toda la cúpula del cártel. Según él, el Chapo podía conectarse por wifi desde sus escondites en la Sierra Madre y hablar con cualquier parte del mundo sin que las autoridades supieran lo que estaban haciendo.
+
+El sistema no lo manejaba solo Rodríguez. El Chapo tenía sus propios técnicos, y uno de ellos, conocido como Benjamín, también podía administrarlo. Pero la arquitectura, las claves y los servidores los había montado el colombiano.
+
+Los servidores estaban en Canadá.
+
+El Chapo le pagó cien mil dólares en efectivo por montar el sistema. Rodríguez contó que el cártel gastó alrededor de un millón de dólares en toda la red, y que él, con los años, ganó unos quinientos mil.
+
+Para un joven que unos años antes estaba intentando arrancar una empresa pequeña, era una fortuna. Pero tenía un precio. El Chapo lo llamaba a cualquier hora. Rodríguez viajaba a Sinaloa más o menos cada mes y medio para hacer mantenimiento y revisar el sistema con él. En el juicio dijo que se reunió con el Chapo en persona unas doce veces.
+
+Y en una de esas visitas entendió en qué se había metido.
+
+En 2009, el Chapo lo mandó llamar a la sierra con un pedido enorme. Según Rodríguez, quería instalar programas espía en todos los cibercafés de Culiacán, para saber qué decía la gente de él. Rodríguez le explicó que, técnicamente, se podía.
+
+No alcanzaron a terminar la conversación. El Chapo recibió una llamada urgente: el Ejército venía en camino.
+
+Todos salieron corriendo. El Chapo, Alex Cifuentes, unos quince hombres armados… y el informático colombiano. Según su testimonio, caminaron durante tres días por la sierra, con los soldados detrás. Uno de los escoltas cargaba un arma que, le dijeron, podía derribar un helicóptero.
+
+El Chapo, contó Rodríguez, estaba muy tranquilo. Él estaba aterrorizado.
+
+Después de esa huida volvió a Colombia. Según Rolling Stone, nunca más volvió a ver al Chapo en persona. Pero siguió trabajando para él a distancia.
+
+Porque para entonces, el Chapo ya le había encargado un trabajo más delicado que proteger sus llamadas.
+
+Quería espiar a los suyos.
+
+Poco después de que la red empezó a funcionar, el Chapo llamó a Rodríguez con una pregunta: ¿se podía vigilar a las personas cercanas a él?
+
+Se podía. Existía un programa comercial llamado FlexiSPY, que se vendía en internet para, supuestamente, vigilar los teléfonos de hijos o empleados. Una vez instalado, permitía ver la ubicación del teléfono, el registro de llamadas, los mensajes de texto y los correos. Y tenía una función más: encender a distancia el micrófono del aparato, sin que su dueño se diera cuenta.
+
+Rodríguez volvió a volar a la sierra para explicárselo. El Chapo quedó encantado.
+
+Primero pidió diez teléfonos. Después pidió más. Rodríguez instalaba el programa en aparatos nuevos, que luego el Chapo regalaba a quien él quería vigilar. Los llamaba sus teléfonos «especiales». En total, según el testimonio, llegó a vigilar unos cincuenta teléfonos y computadoras.
+
+¿A quién? A sus socios, a sus empleados. Y a las mujeres de su vida.
+
+Uno de esos teléfonos era el de su esposa, Emma Coronel. Otro, el de Agustina Cabanillas, una mujer con la que, según los mensajes presentados en el juicio, tenía una relación sentimental y que además le ayudaba a coordinar envíos de droga.
+
+Rodríguez contó en el tribunal uno de los trucos favoritos de su jefe. El Chapo llamaba a alguien, conversaba normalmente y colgaba. Y enseguida encendía el micrófono de ese teléfono, para escuchar qué decía de él cuando creía que ya nadie lo oía.
+
+Alex Cifuentes lo resumió así ante el jurado: al Chapo le interesaba muchísimo lo que la gente decía de él. Si no tenía que ver con él, no le importaba.
+
+La vigilancia llegó a ocuparle tanto tiempo que el Chapo llamaba a Rodríguez varias veces al día con preguntas sobre el programa. Al final le encargó a uno de sus hombres leer todos los reportes y avisarle de lo importante.
+
+Hubo quien sospechó. En uno de los mensajes interceptados, Agustina Cabanillas le contaba a otra persona: «Ayer lo caché viendo un montón de fotos, como de cámaras de seguridad». Y que, cuando ella entró, él cerró rápido las ventanas.
+
+El hombre más paranoico de México había convertido los teléfonos de sus seres queridos en micrófonos.
+
+Lo que no sabía es que, muy pronto, alguien más iba a escuchar todo lo que él escuchaba.
+
+En Estados Unidos, el FBI sabía que el Cártel de Sinaloa usaba un sistema cifrado. Y lo intentó todo para entrar. No pudo.
+
+El agente especial Stephen Marston, experto en delitos informáticos, lo explicó en el juicio con una frase: «Nos dimos cuenta de que, sin acceso desde adentro, no íbamos a poder entrar al sistema».
+
+Necesitaban a alguien de adentro. Y había una sola persona que tenía todas las llaves.
+
+En febrero de 2010, según The New York Times, Christian Rodríguez viajó a Nueva York para una reunión de negocios en un hotel de Manhattan. El cliente era un hombre que se presentaba como un mafioso ruso. Quería un sistema como el del Chapo: una forma de hablar con sus socios sin que la policía pudiera escuchar.
+
+Rodríguez le explicó lo que podía hacer.
+
+El mafioso ruso era un agente encubierto del FBI. Y la reunión estaba siendo grabada.
+
+El FBI esperó. Y en 2011 fue a buscarlo a Bogotá.
+
+Los agentes le dijeron que sabían que trabajaba para el Chapo y que estaba en serios problemas. Le mostraron lo que tenían. Según su testimonio, al principio intentó salvarse diciendo que solo trabajaba para los Cifuentes: le aterraba que lo relacionaran con el Chapo. Pero los agentes sabían que mentía.
+
+Ese mismo día aceptó cooperar.
+
+En un instante, el FBI había volteado al hombre que tenía las llaves de toda la red de comunicaciones de la organización de narcotráfico más grande del mundo.
+
+Ahora había que entrar sin que nadie se diera cuenta. Y ahí Rodríguez hizo la jugada más arriesgada de su vida.
+
+Les dijo a sus jefes que el sistema necesitaba una actualización de rutina. Como parte de esa actualización, movió los servidores de Canadá a los Países Bajos. Según el agente Marston, los Países Bajos se eligieron porque no le iban a parecer sospechosos al cártel. Y porque allí, con la ayuda de las autoridades holandesas, el FBI podía descifrar los datos con más facilidad.
+
+Con los servidores ya en territorio holandés, Rodríguez entregó las claves de cifrado. Y también los nombres de usuario y las contraseñas. «Les di acceso al servidor del Chapo Guzmán», dijo en el juicio.
+
+Durante esos meses, Rodríguez llevó una doble vida perfecta. Seguía contestando las llamadas del cártel, seguía resolviendo fallas, seguía cobrando. Y al mismo tiempo trabajaba para el FBI. Según el agente Marston, los técnicos del FBI se encontraron con problemas para descifrar parte de la información, y varios de esos problemas los resolvió el propio Rodríguez, que podía entrar a los servidores a distancia.
+
+A partir de abril de 2011, cada vez que el Chapo levantaba el teléfono en la sierra, la llamada viajaba cifrada hasta Holanda… y de ahí llegaba a los oídos del FBI. Los agentes la escuchaban unos días después.
+
+Entre abril de 2011 y enero de 2012, el FBI captó alrededor de mil quinientas llamadas. Según The New York Times, en unas doscientas se escucha al Chapo. Según el diario, fue una de las intervenciones telefónicas más extensas contra un acusado desde que el FBI grabó en secreto al jefe mafioso John Gotti, en Nueva York.
+
+Al principio, los agentes no tenían ninguna grabación segura de la voz del Chapo para comparar. Lo reconocían por el contexto: los demás le decían «señor», «el jefe», «el hombre». Y por la voz, que el agente Marston describió como aguda, nasal y cantadita.
+
+Lo que se escucha en esas grabaciones es al jefe del Cártel de Sinaloa manejando su negocio en tiempo real.
+
+En una llamada de abril de 2011, uno de sus pistoleros, Orso Iván Gastélum, el Cholo Iván, se queja de unos policías locales que estaban en la nómina pero no cumplían. El Cholo quiere golpearlos. El Chapo lo calma. «No andes persiguiendo a los policías», le dice. «Ellos son los que ayudan». El Cholo le contesta que fue él quien les enseñó a ser como lobos.
+
+En otra, el Chapo habla de mandar a un operador apodado el Gato a sobornar a un nuevo comandante de la Policía Federal. Y en un momento increíble, el Gato le pasa el teléfono al comandante. El Chapo le dice que el Gato es de «la empresa» y le pide que lo cuide.
+
+En otra llamada, el Chapo negocia la compra de seis toneladas de cocaína con un representante de una guerrilla colombiana. Regatea el precio. Insiste en mandar a un «técnico» a revisar la calidad de la droga antes de enviar el primer pago: cincuenta mil dólares.
+
+Hay llamadas de todo tipo. En una, el Chapo le da indicaciones a una mujer para llegar a la casa de Ismael Zambada, el Mayo, en medio de la sierra, y le explica que el camino ya está pavimentado. En otra, saluda a una mujer con un «¿Cómo le va, hermosura?» y discuten porque ella no quiere vender una camioneta de él.
+
+Y como el Chapo seguía usando FlexiSPY, el FBI también pudo leer los mensajes de los teléfonos «especiales». Los de sus socios. Los de Agustina Cabanillas. Y los de su esposa.
+
+Los mensajes con Agustina Cabanillas eran, al mismo tiempo, cartas de amor y órdenes de trabajo. «Eres la persona más importante para mí, mi amor», le escribía el Chapo. Y en la misma conversación le pedía que buscara a alguien dispuesto a «ir de pesca»: salir en una lancha a encontrarse en altamar con un barco del cártel cargado de droga y traerla de vuelta como si fuera pesca. Cuando ella le preguntaba si quería «las grandes» o «las chicas», según los fiscales estaban hablando de marihuana o de cocaína. Según los mensajes, el Chapo también le pagó una liposucción.
+
+En otro mensaje, Emma Coronel le pasa el teléfono a su padre. El Chapo le advierte que use solo la BlackBerry, porque trabajar con radios es peligroso: la Patrulla Fronteriza está escuchando. Y le dice que, si usa la radio antes de un vuelo, mejor no mande ni un kilo, porque se cae todo.
+
+El hombre que le daba lecciones de seguridad a su suegro no sabía que el FBI estaba leyendo esa misma conversación.
+
+En el juicio, un agente del FBI leyó en voz alta, con tono monótono, la vida privada del Chapo. Emma Coronel le decía «papi» o «don Joaquín». Él la llamaba «amor». Hablaban de sus gemelas, nacidas en agosto de 2011, a las que el Chapo llamaba «mis reinitas». En un mensaje, él le aconsejaba registrar a las bebés con otro nombre para poder poner una casa nueva a nombre de ellas. En un mensaje, cuando las niñas tenían unos seis meses, el Chapo escribió que una de ellas no le tenía miedo a nada, y bromeó con darle un AK-47 «para que ande conmigo».
+
+Pero hacer de agente doble tiene un problema. Tarde o temprano, alguien empieza a hacer preguntas.
+
+En el verano de 2011, según el agente Marston, el Chapo pareció dejar de usar el sistema. El número de llamadas cayó en picada.
+
+Rodríguez empezó a ponerse nervioso. Sentía que sus jefes sospechaban de él. Y un día, escuchando una de las llamadas interceptadas, confirmó su peor miedo.
+
+Era Alex Cifuentes hablando con su madre. Le decía que ya estaba confirmado. Que Christian era el soplón.
+
+Rodríguez huyó de Colombia a Estados Unidos. Después llegó su familia.
+
+Pero el FBI todavía lo necesitaba.
+
+En febrero de 2012, le pidieron que viajara a México para trabajar en tiempo real con el sistema de espionaje del Chapo y ayudar a ubicarlo. El hombre que el cártel sospechaba que era un soplón volvía a su territorio, ahora siguiendo las señales de los teléfonos de su antiguo jefe.
+
+Esa vez, el Chapo no estaba en la sierra. Estaba en una casa de lujo en Los Cabos, en Baja California Sur, un destino turístico en la punta de la península. Apenas un día antes, la ciudad había recibido una reunión de cancilleres del G20, con la secretaria de Estado estadounidense, Hillary Clinton, entre ellos.
+
+Los mensajes de esos días quedaron grabados. El Chapo le escribe a Emma Coronel para saber si está bien. Ella le cuenta que vio un carro sospechoso. Él le contesta que es del gobierno, que haga una vida normal: «solo quieren ver si vas a donde estoy yo». Le pregunta si tiene un arma. Ella dice que sí, una de él. «Guárdala en el escondite, amor», le escribe.
+
+Y de pronto, un mensaje corto: «Todo bien, amor. Luego te busco. Voy en camino».
+
+La policía había llegado a la casa. Según los mensajes presentados en el juicio, el Chapo le escribió después a su esposa: «Vi que estaban tocando la puerta de al lado y alcancé a saltarme».
+
+Se escapó otra vez. Detuvieron a tres de sus hombres y se llevaron teléfonos y libretas con información del sistema de comunicaciones. Después, el hombre más buscado del mundo le pedía a su esposa que le comprara pantalones, ropa interior, zapatos… y tinte negro para el bigote.
+
+Christian Rodríguez siguió ayudando al FBI. Según su testimonio, instaló a distancia un localizador en el teléfono de Jorge Cifuentes, el hombre que lo había recomendado con el Chapo. En noviembre de 2012, Jorge Cifuentes fue detenido en Venezuela. Más tarde lo extraditaron a Estados Unidos.
+
+En el juicio, Alex Cifuentes contó lo que pasó en la sierra. Dijo que el Chapo le contó que Rodríguez había dado información sobre su hermano a las autoridades. Y que el Chapo le dio una orden: había que encontrarlo para matarlo. «Empecé a buscarlo», declaró Cifuentes.
+
+No lo encontraron. Rodríguez vivía en Estados Unidos, bajo la protección del gobierno federal. Pero en 2013 se derrumbó.
+
+En el juicio contó que sufrió un colapso nervioso por el estrés. Que lo internaron dos veces en un hospital y que le aplicaron terapia electroconvulsiva, es decir, electrochoques. Dijo que el tratamiento no le borró los recuerdos lejanos, solo los del día anterior y el día siguiente de cada sesión. Años después seguía tomando medicamentos y yendo a terapia.
+
+Los fiscales explicaron otra razón de su miedo: después de que dejó de trabajar para el Chapo, el cártel intentó localizarlo. Y en el juicio salió algo más. Según el propio Rodríguez, durante esos años tuvo dos familias paralelas, cada una con hijos, y una no sabía de la existencia de la otra.
+
+Mientras tanto, el Chapo siguió libre dos años más. Lo capturaron en Mazatlán en febrero de 2014. Se fugó por un túnel de la cárcel del Altiplano en julio de 2015. Y lo volvieron a atrapar en Los Mochis en enero de 2016. Un año después, el 19 de enero de 2017, lo extraditaron a Estados Unidos.
+
+Y en noviembre de 2018 empezó su juicio en Brooklyn.
+
+El caso de la fiscalía se apoyaba sobre todo en testigos: antiguos socios, proveedores y pistoleros que habían decidido cooperar a cambio de reducir sus condenas. La defensa del Chapo atacó a cada uno. Dijo que eran criminales confesos, mentirosos que lo acusaban para salvarse.
+
+Pero las llamadas de Christian Rodríguez eran otra cosa. No eran el recuerdo de alguien. Era la voz del Chapo, dando órdenes con sus propias palabras.
+
+La defensa lo sabía. Antes del juicio, los abogados del Chapo habían pedido que se descartaran los mensajes obtenidos con FlexiSPY. Argumentaron que el gobierno no había seguido los procedimientos legales para conseguirlos. El juez rechazó el pedido. Los mensajes entraron como prueba.
+
+Keegan Hamilton, un periodista que siguió todo el juicio, contó a la radio pública de Estados Unidos que, durante casi todo el proceso, el Chapo parecía de buen humor. Pero la semana de Christian Rodríguez, en su cara apareció una mueca. Sabía que el jurado estaba escuchando su propia voz.
+
+El agente Marston explicó cómo habían confirmado que era él. Compararon la voz de las llamadas con dos grabaciones indiscutibles: una llamada del Chapo desde la cárcel de Manhattan con una hermana, y el video de la entrevista que le hizo el actor Sean Penn en 2015. La defensa protestó: no se había hecho un análisis científico de voz. Pero el jurado ya había escuchado.
+
+Christian Rodríguez declaró los días 9 y 10 de enero de 2019. Los fiscales le preguntaron cómo se había sentido aquella vez que huyó por la sierra con el Chapo y el Ejército detrás. El abogado de la defensa le preguntó cuánto había ganado. Él no lo escondió: medio millón de dólares trabajando para el cártel, que el gobierno le permitió conservar. Y más de cuatrocientos mil que le pagó el FBI en honorarios y gastos.
+
+Nunca fue acusado de ningún delito. Nunca pasó un solo día preso.
+
+Y todavía esperaba algo más: la recompensa de hasta cinco millones de dólares que el Departamento de Estado ofrecía por Jorge Cifuentes. «Tengo la esperanza y la ilusión de que los recibiré algún día», dijo ante el jurado.
+
+En la sala estaba Emma Coronel, que asistió a casi todo el juicio. Escuchó cómo se leían en voz alta sus mensajes con su marido. Y también los mensajes de su marido con otra mujer. Según la revista Rolling Stone, no movió un músculo.
+
+El 12 de febrero de 2019, el jurado declaró al Chapo culpable de los diez cargos en su contra. En julio lo condenaron a cadena perpetua más treinta años. Hoy está en la cárcel federal de máxima seguridad de Florence, en Colorado, la más estricta de Estados Unidos.
+
+Dos años después, en febrero de 2021, Emma Coronel fue detenida en un aeropuerto cerca de Washington. Se declaró culpable de narcotráfico y lavado de dinero, la condenaron a tres años de prisión y salió libre en 2023.
+
+Jorge y Alex Cifuentes, los hermanos que llevaron a Rodríguez hasta la sierra, también terminaron cooperando con la fiscalía y declarando contra el Chapo. A Alex lo detuvieron a finales de 2013 en un rancho en las afueras de Culiacán, protegido por la escolta personal del Chapo. Desde la cárcel, su hermano Jorge lo convenció de colaborar con Estados Unidos.
+
+Es decir: el hombre que recomendó al informático, y el hombre que recibió la orden de matarlo, terminaron sentados en la misma silla de los testigos que él.
+
+¿Y Christian Rodríguez?
+
+Nadie sabe públicamente dónde está. En 2019 vivía en Estados Unidos, bajo la protección del gobierno federal, posiblemente con otra identidad. Desde entonces no ha vuelto a aparecer.
+
+¿Qué fue Christian Rodríguez? Para el FBI, el informante perfecto: el hombre que le abrió la puerta del sistema que nadie había podido romper. Para el Cártel de Sinaloa, un soplón al que había que encontrar y matar. Para los Cifuentes, el muchacho de confianza que ellos mismos habían recomendado.
+
+Él, en el juicio, no se presentó como un héroe. No habló de valentía ni de justicia. Habló de miedo. De una avioneta sobre la sierra, de tres días huyendo del Ejército, de un colapso nervioso, de electrochoques, de medicamentos. Y de una recompensa que todavía esperaba cobrar.
+
+Su historia dejó una lección que los cárteles y los gobiernos aprendieron al mismo tiempo. Ningún sistema es más seguro que la persona que tiene las llaves.
+
+La batalla por los teléfonos cifrados no terminó con el Chapo. En junio de 2021, el FBI y la policía de varios países revelaron una operación todavía más audaz: durante años habían repartido entre organizaciones criminales unos doce mil teléfonos con una aplicación de mensajes supuestamente secreta, llamada ANOM. La habían creado ellos mismos. Los teléfonos llegaron a más de trescientas organizaciones criminales en más de cien países, y cada mensaje que sus usuarios creían secreto terminaba en manos de la policía. Cuando la operación salió a la luz, más de ochocientas personas fueron detenidas en todo el mundo.
+
+Esta vez, el FBI no necesitó convencer a ningún informático para que le entregara las llaves. Esta vez, las llaves eran suyas desde el principio.
+
+Pero todo empezó con algo mucho más pequeño. Un muchacho de veintiún años, una avioneta sobre la Sierra Madre y un narcotraficante que confió sus secretos al único hombre que podía venderlos.
+
+El Chapo pasó años escuchando a escondidas a su esposa, a sus amantes y a sus socios, convencido de que la información era poder.
+
+Tenía razón.
+
+Solo se equivocó en una cosa: creyó que el único que escuchaba era él.

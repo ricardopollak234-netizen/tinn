@@ -1,0 +1,89 @@
+FUENTES Y NOTAS DEL GUION — "Christian Rodríguez, el informático del Chapo que lo entregó al FBI"
+==================================================================================================
+
+CONTEO: 4.619 palabras → ~28 min con la voz "fernando martinez posta" a velocidad 1.0 (≈163 palabras por minuto).
+Información actualizada hasta octubre de 2026.
+
+--------------------------------------------------------------------------------
+ESTRUCTURA (frase de inicio)
+--------------------------------------------------------------------------------
+ 1. GANCHO ............. "Brooklyn, Nueva York. Enero de 2019."
+    El jurado escucha la voz del Chapo; el testigo al que no se puede dibujar; las preguntas del video.
+ 2. ¿QUIÉN ERA? ........ "Christian Rodríguez es colombiano."
+    Estudiante de ingeniería que deja la universidad, empresa de seguridad informática, qué es el cifrado,
+    los Cifuentes Villa y sus cien extensiones.
+ 3. LA SIERRA .......... "A principios de 2008, Christian Rodríguez, con veintiún años, aterrizó en Culiacán…"
+    La avioneta, los hombres armados, el Chapo, la red de voz cifrada, 100 teléfonos, el usuario «J»,
+    servidores en Canadá, el dinero, los cibercafés y los tres días huyendo del Ejército.
+ 4. EL ESPÍA ........... "Quería espiar a los suyos."
+    FlexiSPY, 50 teléfonos «especiales», el micrófono a distancia, Emma Coronel y Agustina Cabanillas.
+ 5. LA TRAMPA .......... "En Estados Unidos, el FBI sabía que el Cártel de Sinaloa usaba un sistema cifrado."
+    El falso mafioso ruso (Manhattan, 2010), Bogotá (2011), los servidores a Holanda, las claves, las llamadas
+    (Cholo Iván, el Gato y el comandante, la guerrilla), los mensajes (Agustina, Emma, el suegro).
+ 6. DESCUBIERTO ........ "Pero hacer de agente doble tiene un problema."
+    La llamada de Alex Cifuentes a su madre, la huida, Los Cabos (febrero de 2012), Jorge Cifuentes detenido,
+    la orden de matarlo, el colapso de 2013.
+ 7. EL JUICIO Y HOY .... "Mientras tanto, el Chapo siguió libre dos años más."
+    Capturas y fuga del Chapo, el juicio, la defensa, lo que cobró Rodríguez, el veredicto, Emma Coronel,
+    los Cifuentes, dónde está hoy, ANOM y la frase final.
+
+--------------------------------------------------------------------------------
+FUENTES PRINCIPALES
+--------------------------------------------------------------------------------
+- Rolling Stone (10-ene-2019), "El Chapo Trial: Meet IT Whiz Kid…": vuelo en avioneta, hombres armados,
+  Alex Cifuentes, cien extensiones, 100.000 dólares en efectivo, ~1 millón de costo, 500.000 ganados, visitas cada mes y
+  medio, cibercafés de Culiacán (2009), huida de tres días, FlexiSPY (10 → ~50 teléfonos), micrófono a distancia, el
+  asistente que leía los reportes, Bogotá, servidores, Cholo Iván («usted nos enseñó a ser como lobos»), caída de llamadas
+  en el verano de 2011, llamada de Alex Cifuentes a su madre («100 % confirmado»), huida a EE. UU., Los Cabos, colapso de 2013,
+  electrochoques, nunca acusado, protección federal, dibujantes, Emma Coronel inmóvil, voz «aguda, nasal, cantadita».
+- The New York Times (vía Honolulu Star-Advertiser, 8-ene-2019): reunión en un hotel de Manhattan en febrero de 2010 con un
+  agente encubierto que se hacía pasar por mafioso ruso; servidores de Canadá a Holanda; 1.500 llamadas (abr-2011 a ene-2012);
+  ~200 con el Chapo; comparación con John Gotti; «No andes persiguiendo a los policías…»; el Gato y el comandante de la
+  Policía Federal; las seis toneladas con la guerrilla y los 50.000 dólares; Jorge Cifuentes (wifi desde la sierra);
+  colapso nervioso y búsqueda del cártel (moción de la fiscalía).
+- CNN (9-ene-2019): primera reunión en 2008, FlexiSPY en teléfonos nuevos, 50 teléfonos, micrófono, «se miraron a los ojos»,
+  usuario «J», mensajes con Emma (gemelas, AK-47, registrar a las bebés con otro nombre, carro sospechoso, «guárdala en el
+  escondite», «Vi que estaban tocando la puerta de al lado…», tinte para el bigote), Agustina Cabanillas («ir de pesca»,
+  «las grandes o las chicas», «lo caché viendo fotos de cámaras»), el suegro y la Patrulla Fronteriza, tres detenidos en Los Cabos.
+- Expansión / AFP (10-ene-2019): ~12 reuniones con el Chapo, unos 15 hombres en la huida, el Chapo «muy tranquilo», dos veces
+  hospitalizado, electrochoques, dos familias paralelas, Bogotá en 2011 con el video, localizador en el teléfono de Jorge
+  Cifuentes, viaje a México, recompensa de hasta 5 millones («Tengo la esperanza y la ilusión…»).
+- La Opinión (11-ene-2019): Jorge Cifuentes lo manda con Alex, teléfonos satelitales que fallaban con la lluvia, vuelo de 25-30
+  minutos, segunda visita y demostración, «Les gustó», «funcionaba como el sistema de una compañía», 100 teléfonos, tres números,
+  «reinitas», 100.000 dólares, 500.000 ganados (a la defensa, Eduardo Balarezo), el técnico Benjamín.
+- AP (vía Yahoo, 14-ene-2019): Alex Cifuentes, enviado en 2007 a vivir con el Chapo; guaridas con televisión satelital y servicio
+  de limpieza; «Empecé a buscarlo»; «dile que Christian fue el que delató».
+- El Diario NY (8-ene-2019): indicaciones para llegar a la casa del Mayo, «¿Cómo le va, hermosura?», problemas técnicos que
+  resolvía Rodríguez.
+- NPR (11-ene-2019, Keegan Hamilton): el FBI pasó meses sin poder romper el cifrado; dibujantes; la mueca del Chapo.
+- CBC Radio (11-ene-2019): usuarios y contraseñas de toda la red; liposucción de Agustina Cabanillas.
+- Xataka México: moción de la defensa para suprimir la evidencia de FlexiSPY (rechazada); gemelas nacidas en agosto de 2011;
+  460.000 dólares del FBI.
+- Colombia Reports / Departamento de Estado: Jorge Cifuentes Villa detenido en Venezuela en noviembre de 2012, más de 31.000 kg
+  de cocaína, recompensa de 5 millones.
+- InSight Crime / ABC News: operativo de Los Cabos del 21 de febrero de 2012, un día después de la reunión del G20 con Clinton.
+- Rolling Stone (enero de 2019, Alex Cifuentes): detenido a finales de 2013 en un rancho de las afueras de Culiacán; su hermano
+  lo convenció de cooperar.
+- Europol / AP (8-jun-2021): operación ANOM / Escudo de Troya, ~12.000 teléfonos, más de 300 organizaciones en más de 100 países,
+  más de 800 detenidos.
+
+--------------------------------------------------------------------------------
+PUNTOS DUDOSOS Y CÓMO SE TRATARON
+--------------------------------------------------------------------------------
+1. Fecha de la trampa de Manhattan: The New York Times y CNN dicen 2010 (febrero según el NYT); Rolling Stone dice 3 de febrero
+   de 2011 pero también le da 23 años, lo que corresponde a 2010. Se usa febrero de 2010.
+2. Cuándo lo voltearon: la mayoría dice que en 2011, en Bogotá, y que aceptó ese mismo día. CBC lo cuenta de otra forma. Se usa 2011.
+3. Número de llamadas: 1.500 en total (NYT, El Diario, La Opinión); «más de 800» según Rolling Stone. Con el Chapo: ~200 (NYT)
+   o «más de 100» (Rolling Stone). Se usa 1.500 y ~200, atribuido al NYT.
+4. Pago del FBI: 460.000 (Xataka, CBS) o 480.000 dólares. Se dice «más de cuatrocientos mil».
+5. Las frases del Chapo están traducidas del inglés de las crónicas; el audio original en español no fue publicado. Se presentan
+   como paráfrasis fieles.
+6. Origen: Las2orillas lo llama «caleño», sin otra fuente; no se usa. Se dice solo «colombiano».
+7. «Olvidó renovar la licencia» (Las2orillas, atribuido a Jorge Cifuentes): sin otra fuente; no se usa.
+8. La fuga de 2001 «en un carrito de lavandería» está discutida; se dice solo «se escapó en 2001».
+9. El operativo de Los Cabos: en 2012 la Policía Federal dijo a El Universal no tener registro del operativo, pero las pruebas del
+   juicio (mensajes y teléfonos incautados) lo respaldan; se narra con la versión del juicio.
+10. Orden de matarlo: según Alex Cifuentes llegó después de que Rodríguez diera información sobre Jorge Cifuentes (detenido en
+    noviembre de 2012); por eso va después de Los Cabos.
+11. Dónde está hoy: no hay información pública desde 2019; se dice así. No se especula sobre identidad ni lugar.
+12. ANOM: no hay fuente que diga que se inspiró en el caso del Chapo; se presenta como un hecho posterior, sin relación causal.
