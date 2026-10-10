@@ -1,0 +1,123 @@
+FUENTES Y NOTAS — "Los hijos de los generales de Hitler que entraron al nuevo ejército alemán"
+(NO es texto narrable: no pasar este archivo a la voz)
+
+Conteo: 5.226 palabras → ~31 min a 172 palabras/min (con la voz de Voizum, ~33 min).
+Información revisada hasta el 10 de octubre de 2026.
+
+--------------------------------------------------------------------------------
+ESQUEMA
+--------------------------------------------------------------------------------
+ 1. Hook ................. 26/07/1955: exhumación del mariscal Model con su hijo presente
+ 2. 1945–1950 ............ desarme, Consejo de Control, "Ohne mich"
+ 3. El regreso ........... Corea, Himmerod, Eisenhower 1951, Adenauer 1952, OTAN 1955
+ 4. Nace la Bundeswehr ... 12/11/1955, Comité de Evaluación de Personal, Waffen-SS, Andernach
+ 5. Los hijos ............ Boege, Model, Erdmannsdorff, Schünemann, Schubert, Dybilasz,
+                           Foertsch, Ciliax, Senger und Etterlin, Guderian, Oster, Stauffenberg
+ 6. Los que no ........... Manfred Rommel, Friedeburg, Keitel, Fellgiebel
+ 7. El pasado ............ ciudadano de uniforme, juramento, Rudel 1976, decretos 1982/2018,
+                           cuarteles, funerales 1973, exposición de la Wehrmacht, 2017, NVA
+ 8. Generaciones ......... Altenburg 1983, Speidel hijo, Ulrich y Thomas de Maizière
+ 9. Cierre
+
+--------------------------------------------------------------------------------
+DATOS Y DÓNDE SE COMPROBARON
+--------------------------------------------------------------------------------
+CONTEXTO
+- Potsdam (2/08/1945): desarme y eliminación del militarismo (bpb). Leyes del Consejo de
+  Control n.º 8 (instrucción militar), n.º 23 (construcciones) y n.º 34 (20/08/1946,
+  disolución de la Wehrmacht y supresión de pensiones). de.wikipedia "Kontrollratsgesetz Nr. 34".
+- Himmerod, 5–9/10/1950: 15 antiguos oficiales (Vietinghoff, Speidel, Heusinger, Senger und
+  Etterlin, Baudissin, Kielmansegg, etc.); pedían fin de la "difamación" de la Wehrmacht y de las
+  Waffen-SS, liberación de condenados que actuaron "por órdenes" y una declaración de honor.
+  bundeswehr.de (Gründungstag); de/en.wikipedia "Himmeroder Denkschrift".
+- Eisenhower, 22–23/01/1951 (Bad Homburg): disculpa privada a Speidel y Heusinger; declaración
+  pública sobre la diferencia entre el soldado alemán y "Hitler and his criminal group".
+  FRUS 1951 vol. III doc. 243 (history.state.gov).
+- Adenauer en el Bundestag, 3/12/1952 (sesión 240): reconocimiento a "alle Waffenträger unseres
+  Volkes"; interrupción de Menzel (SPD): "Das haben wir alles von 1933 bis 1945 schon einmal
+  gehört!". Acta: dserver.bundestag.de/btp/01/01240.pdf.
+- Entrada en la OTAN: mayo de 1955 (formalmente 6/05/1955 según bpb; la BMVg dice 9/05). El guion
+  dice solo "mayo de 1955".
+- 12/11/1955: 101 voluntarios en la nave de vehículos de la Ermekeilkaserne (Bonn), 200 años de
+  Scharnhorst; muchos de traje; "todos habían sido soldados de la Wehrmacht". bundeswehr.de.
+- Personalgutachterausschuss: ley del 23/07/1955; 38 miembros (25 civiles), entre ellos Annedore
+  Leber, Schlabrendorff, Boeselager y Senger und Etterlin; criterio clave: actitud ante el 20 de
+  julio. bpb: 553 solicitudes, 470 aceptadas, 51 rechazadas, 32 retiradas (hasta dic. 1957).
+- Waffen-SS: decisión del 2/08/1956, ingreso con el grado como máximo de Obersturmbannführer
+  (teniente coronel); generales y coroneles de las SS excluidos (bpb; de.wikipedia).
+- Andernach: primeros voluntarios 2/01/1956; visita de Adenauer el 20/01/1956 a ~1.500 soldados
+  (bundeswehr.de). Filmación del Signal Corps de EE. UU.: NARA 111-LC-39137.
+- Servicio militar: ley del 7/07/1956; primeros reclutas el 1/04/1957 (bundeswehr.de).
+- Heusinger: primer Generalinspekteur (1957–61), luego presidente del Comité Militar de la OTAN.
+  Speidel: COMLANDCENT 1957–63 (fuerzas terrestres de la OTAN en Europa Central).
+- Fines de los años 50: más de 12.000 oficiales de carrera habían sido oficiales en la Wehrmacht
+  o la Reichswehr; 300 venían de las Waffen-SS (bpb, quiz "65 Jahre Bundeswehr").
+- Baudissin: capitán en el estado mayor del Afrika Korps, prisionero en Australia; "Innere
+  Führung" y "Staatsbürger in Uniform". Juramento de 1934 (Führereid) y Gelöbnis/Eid del § 9 de la
+  Soldatengesetz. de.wikipedia.
+- Rudel: octubre–noviembre de 1976; los generales Krupinski y Franke pasados a retiro anticipado.
+- Decreto de tradición de 1982: "Ein Unrechtsregime, wie das Dritte Reich, kann Tradition nicht
+  begründen." Decreto de 2018: "die Wehrmacht als Institution nicht traditionswürdig" (BMVg).
+- Cuarteles Dietl (Füssen) y Kübler (Mittenwald) renombrados el 9/11/1995 (Bundestag WD 2-3000-
+  005/19). Rommel-Kaserne Augustdorf (1961) y Dornstadt (1965) conservan el nombre; la BMVg dijo
+  en 2018 que Rommel "cumple las condiciones".
+- Funerales de 1973: el Generalinspekteur habló en el de Manstein; prohibido asistir de uniforme
+  al de Schörner (de.wikipedia).
+- Exposición sobre la Wehrmacht: 1995–1999, ~900.000 visitantes; soldados solo como particulares;
+  la segunda versión (2001) permitió ir de uniforme. Franco A. e Illkirch, 2017 (de.wikipedia).
+- NVA: fundada el 1/03/1956; generales ex-Wehrmacht (Vincenz Müller, Lenski...) retirados a
+  fines de los 50.
+- Wolfgang Altenburg: primer Generalinspekteur sin servicio en la Wehrmacht (ZMSBw).
+
+LOS HIJOS (de.wikipedia salvo indicación; los perfiles citan Bradley/Würzenthal/Model,
+"Die Generale und Admirale der Bundeswehr")
+- Hansgeorg Model (1927–2016): aspirante a oficial en dic. 1944; Bundeswehr mayo 1956; jefe del
+  Amt für Nachrichtenwesen 1982–87; general de brigada. Exhumación del padre el 26/07/1955 con su
+  presencia (con Winrich Behr) y traslado a Vossenack. En el libro documental sobre su padre lo
+  describe como seguidor leal de Hitler (se cita parafraseado). Coeditor de la obra de referencia
+  sobre los generales de la Bundeswehr.
+- Carlheinrich von Erdmannsdorff (1923–2002): prisionero soviético 8/05/1945–15/09/1949;
+  Bundeswehr 2/07/1956; general de brigada 1977. Padre: Gottfried von Erdmannsdorff, comandante de
+  Mogilev, ahorcado en público en el hipódromo de Minsk el 30/01/1946.
+- Christian Schünemann: padre Otto Schünemann, muerto el 29/06/1944 cerca de Mogilev, dos días
+  después de tomar el XXXIX Cuerpo Panzer; ayudante de Speidel y oficial de Heusinger;
+  jefe de estado mayor de NORTHAG 1979–83.
+- Klaus Schubert: prisionero en Yugoslavia hasta nov. 1952, condenado a muerte allí; Amt Blank
+  1953; general de división. Hartmut Dybilasz: padre muerto en cautiverio soviético (1950).
+- Ehrenfried Boege (n. 1933): voluntario en Andernach el 2/01/1956; general de brigada. Padre
+  liberado el 6/10/1955 tras 25 años de condena (Vorkutá).
+- Friedrich Foertsch: condenado a muerte el 29/06/1950, conmutado a 25 años; liberado en otoño de
+  1955 (46 kg, ciego de un ojo); Generalinspekteur 1961–63 pese a protestas soviéticas. Hartmut
+  Foertsch (1936–2011): desde el 3/10/1990 jefe del mando de enlace con las tropas soviéticas,
+  hasta dic. 1994.
+- Otto H. Ciliax: almirante de flotilla, Marinekommando Rostock 1991–94; padre: operación
+  Cerberus (feb. 1942).
+- Ferdinand von Senger und Etterlin (1923–1987): Stalingrado, brazo derecho perdido en agosto de
+  1944 cerca de Iasi; doctor en derecho (1951), Verfassungsschutz; Bundeswehr 1956;
+  CINCENT/AFCENT 1979–83.
+- Heinz Günther Guderian (1914–2004): Cruz de Caballero (5/10/1944, Falaise); organización Gehlen;
+  Bundeswehr 1956; Inspizient der Panzertruppe desde 1967; incluido en el "Braunbuch" de la RDA.
+- Achim Oster (1914–1983): seguridad del Amt Blank; agregado en Madrid durante el caso Spiegel
+  (detención de Conrad Ahlers en octubre de 1962 tras la llamada de Strauss); general de
+  división 1971–73. Padre: Hans Oster, ahorcado en Flossenbürg el 9/04/1945.
+- Berthold von Stauffenberg: citas de la entrevista de epd/Sonntagsblatt (20/07/2025).
+- Manfred Rommel: Luftwaffenhelfer; su padre le prohibió entrar en las Waffen-SS; alcalde de
+  Stuttgart 1975–96; destructor "Rommel" bautizado por la viuda en 1969.
+- Ludwig von Friedeburg: comandante del U 155 con 20 años; ministro de Educación de Hesse 1969–74;
+  inauguró la exposición sobre la Wehrmacht en Kiel (1999).
+- Keitel: últimas palabras "Ich folge jetzt meinen Söhnen – alles für Deutschland"; su hijo
+  Hans-Georg murió en 1941.
+- Walther-Peer Fellgiebel: hijo del general Erich Fellgiebel (ahorcado el 4/09/1944).
+- Hans Helmut Speidel: comandante de la guarnición de Berlín 1995–98.
+- Ulrich de Maizière: Oberstleutnant i.G. que informaba a Hitler en 1945; luego
+  Generalinspekteur. Thomas de Maizière: ministro de Defensa 2011–13.
+
+--------------------------------------------------------------------------------
+PUNTOS SUAVIZADOS O DESCARTADOS
+--------------------------------------------------------------------------------
+- No se da la cifra exacta de generales ex-Wehrmacht en 1959 (no comprobada).
+- La frase de Model hijo sobre su padre se parafrasea.
+- La última frase de Rommel a su hijo varía según las versiones; se dice "según contó Manfred".
+- La relación entre la Bundeswehr y la inteligencia es una observación a partir de las biografías,
+  no un dato publicado.
+- No se encontró ningún hijo de general de Hitler en el ejército de Alemania del Este.
