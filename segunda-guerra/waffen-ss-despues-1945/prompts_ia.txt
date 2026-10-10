@@ -1,0 +1,119 @@
+IMÁGENES GENERADAS CON IA — 39 escenas sin material libre (todas distintas)
+Se generaron con SD-Turbo. Si querés mejorarlas con G-Labs, usá el mismo prompt y guardá la imagen como medios/NNN.png.
+
+005 | 00:26.6 | 3.5 s | en la cara interna del brazo. Busca una sola letra.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, close-up of a man's bare upper left arm, sleeve rolled up, an American soldier's hand holding the arm, inspection, prisoner of war camp 1945
+
+007 | 00:35.8 | 1.8 s | Es el grupo sanguíneo.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, close-up of a small blue ink tattooed letter on the inner side of a man's upper arm, skin detail, 1945
+
+009 | 00:44.8 | 7.7 s | Era un privilegio de élite. En 1945 se convirtió en una condena. Esa pequeña letra decía quién eras.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, German army field hospital 1943, wounded soldier on a stretcher receiving a blood transfusion, medics, tent
+
+011 | 00:55.0 | 9.4 s | Por eso, en esos meses, muchos hombres intentaron borrarla. Con cigarrillos encendidos, con cuchillos, con ácido.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, close-up of a round burn scar on the inner side of a man's upper arm, rolled-up sleeve, harsh light, 1945
+
+145 | 14:04.3 | 4.7 s | la asociación de ayuda mutua de antiguos miembros de las Waffen-SS.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, group of middle-aged German men in suits at a veterans association meeting, 1950s, banner on the wall, beer hall
+
+146 | 14:09.0 | 4.0 s | Oficialmente, la HIAG se dedicaba a buscar a los desaparecidos,
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, Red Cross missing persons search office 1950s, women reading lists of names of missing soldiers on boards
+
+147 | 14:13.0 | 7.9 s | a apoyar a las viudas y a reclamar pensiones para los veteranos. Pero su verdadera misión era otra. Cambiar la historia.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, a widow in a dark coat holding a letter in a 1950s German kitchen, sad, window light
+
+148 | 14:20.9 | 4.7 s | Su mensaje se resumía en el título de un libro que publicaría años después Paul Hausser,
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, a stack of old German hardcover books on a wooden table, 1960s, no readable text
+
+150 | 14:30.1 | 6.0 s | Según la HIAG, las Waffen-SS habían sido tropas de combate, valientes y caballerosas,
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, veterans in suits standing at attention at a war memorial wreath ceremony, 1950s Germany, flags without symbols
+
+151 | 14:36.1 | 8.0 s | que nada tuvieron que ver con los campos ni con el genocidio. Los crímenes, decían, eran cosa de otros. Las otras SS.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, an old typewriter with a sheet of paper in a dim study, 1950s, cigarette smoke
+
+152 | 14:44.0 | 6.9 s | Era una mentira cómoda, y mucha gente quería creerla. Los veteranos podían sentirse orgullosos otra vez.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, older German men in suits raising beer mugs at a long table in a tavern, 1950s, reunion
+
+153 | 14:50.9 | 5.2 s | Los políticos de Alemania Occidental necesitaban sus votos y los de sus familias.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, West German election campaign posters on a street wall 1953, people walking, no readable text
+
+154 | 14:56.1 | 5.7 s | Y en plena Guerra Fría, los antiguos enemigos de los soviéticos ya no parecían tan peligrosos.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, Cold War border fence with watchtower in Germany 1950s, barbed wire, fog
+
+161 | 15:39.9 | 7.6 s | Diez años después de Núremberg, algunos hombres que habían vestido la calavera de las SS volvían a ponerse un uniforme alemán,
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, young West German soldiers in new 1956 uniforms and helmets standing in formation, barracks yard
+
+162 | 15:47.5 | 2.1 s | ahora como aliados de la OTAN.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, NATO military parade 1957, tanks and soldiers, crowd watching
+
+163 | 15:49.7 | 6.3 s | Las reuniones de veteranos se llenaban de antiguos camaradas, con medallas en el pecho y canciones de guerra.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, veterans meeting in a large hall 1960s Germany, men in suits with medals on their chests singing
+
+164 | 15:56.0 | 4.0 s | Cuando Sepp Dietrich murió, en abril de 1966,
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, black mourning ribbon on a framed photograph of an old officer, candles, 1966
+
+165 | 15:60.0 | 6.9 s | miles de veteranos llegaron de toda Alemania y de varios países de Europa para despedirlo en el cementerio de Ludwigsburg.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, large crowd of elderly men in dark coats at a cemetery funeral, Germany 1966, wreaths
+
+166 | 16:06.9 | 5.2 s | Las fuentes no coinciden en la cifra, pero los cálculos van de mil a siete mil personas.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, long line of mourners walking along a cemetery path, overcast day, 1966
+
+167 | 16:12.1 | 2.2 s | Kurt Meyer no llegó a verlo.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, empty wooden chair beside a window with rain, quiet room, 1961
+
+168 | 16:14.4 | 7.6 s | Había muerto en diciembre de 1961, el mismo día de su cumpleaños, de un ataque al corazón.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, a calendar page and a birthday cake untouched on a table, dim winter light, December 1961
+
+169 | 16:22.0 | 3.4 s | A su entierro también acudieron miles de antiguos camaradas.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, crowd of men in hats at a funeral procession in a German town, December 1961, snow
+
+238 | 23:08.4 | 6.1 s | La realidad es más modesta. La Legión sí reclutó a decenas de miles de alemanes en la posguerra,
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, French Foreign Legion recruitment office 1947, young men in shabby coats waiting in line
+
+239 | 23:14.4 | 3.7 s | muchos de ellos antiguos soldados sin trabajo y sin futuro.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, young unemployed German men sitting on the steps of a ruined building 1947, shabby clothes
+
+240 | 23:18.1 | 5.2 s | Y entre ellos hubo, sin duda, hombres de las Waffen-SS que ocultaron su pasado.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, a legionnaire in a kepi blanc looking away, his face half in shadow, barracks 1950
+
+241 | 23:23.3 | 5.8 s | Pero los historiadores creen que fueron una minoría, y que la cifra se ha exagerado mucho.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, French Foreign Legion soldiers marching in the jungle of Indochina 1951, rifles, heat
+
+242 | 23:29.1 | 6.7 s | El libro de 1971, según la mayoría de los expertos, era en gran parte ficción.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, an old paperback war novel lying on a wooden table, worn cover without text, 1971
+
+255 | 24:49.6 | 3.8 s | Y unos cuantos eligieron ir a combatir a Indochina con otro uniforme.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, French Foreign Legion soldiers boarding a troop ship for Indochina 1950, harbor
+
+264 | 25:32.4 | 4.9 s | Pero muchos otros habían sido reclutados a la fuerza, y ahora huían de Stalin.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, refugees with suitcases walking on a muddy road in a displaced persons camp 1946, barracks
+
+283 | 27:25.2 | 5.2 s | Para los hombres de las SS, bastaba con haber pertenecido a la unidad equivocada.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, German prisoners of war with shaved heads marching in a Soviet labor camp in the snow, guards, 1949
+
+293 | 28:27.2 | 10.8 s | Pero en 1976 un periódico francés publicó su nombre y su pasado. Empezaron a aparecer pintadas en las paredes. Llegaron amenazas.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, graffiti painted on a stone wall of a French village house, night, 1976, text unreadable
+
+294 | 28:38.0 | 6.4 s | En la noche del 13 al 14 de julio, la fiesta nacional francesa, su casa fue atacada e incendiada.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, a stone house burning at night beside a river, flames and smoke, rural France 1976
+
+295 | 28:44.4 | 7.0 s | A la mañana siguiente encontraron un cuerpo calcinado entre los escombros. Los autores nunca fueron identificados ni juzgados.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, burned ruins of a house at dawn, smoke, firemen standing, rural France 1976
+
+296 | 28:51.5 | 3.1 s | Treinta años después de su condena a muerte en Dachau,
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, a river bank in rural eastern France at dawn with mist, quiet, 1976
+
+297 | 28:54.6 | 3.9 s | la guerra había alcanzado a Peiper en la orilla de un río francés.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, charred roof beams against the sky after a fire, black and white
+
+326 | 31:43.5 | 5.6 s | entre protestas de quienes ven en ese homenaje una forma de blanquear el uniforme de las SS.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, protesters holding signs on a city street in Riga in winter, police line, 2010s
+
+337 | 32:45.6 | 3.0 s | y el pasado lo alcanzó en una noche de fuego.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, silhouette of a house on fire at night reflected in a dark river
+
+342 | 33:10.5 | 3.7 s | Y Günter Grass eligió callar, hasta que ya no pudo más.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, an old desk with a typewriter, a pipe and a stack of manuscripts in a dim study, 2006
+
+346 | 33:34.6 | 1.8 s | Que la culpa era de otros.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, close-up of the hands of an old man folded on a table, 1990s

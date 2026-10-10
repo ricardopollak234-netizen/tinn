@@ -1,0 +1,1060 @@
+ESCENAS DEL VIDEO — una imagen o clip distinto por escena (sin repeticiones)
+
+001 | 00:00.0–00:07.7 (7.7 s) | Verano de 1945. En un campo de prisioneros del sur de Alemania, miles de hombres esperan en fila bajo el sol.
+      CLIP: Universal Newsreel: 1945-05-14 Beaten Nazis Sign Historic Surrender, desde 136 s
+
+002 | 00:07.7–00:12.6 (4.9 s) | Llevan uniformes sin insignias, botas gastadas y la mirada clavada en el suelo.
+      CLIP: Universal Newsreel: 1944-12-20 Allies Fight Fierce Nazi Counter-Blow, desde 180 s
+
+003 | 00:12.6–00:19.8 (7.2 s) | Al final de la fila, un soldado estadounidense repite la misma orden una y otra vez. Levanta el brazo izquierdo.
+      FOTO [COM]: Remagen enclosure.jpg (Public domain)
+
+004 | 00:19.8–00:26.6 (6.8 s) | El prisionero obedece. El soldado le sube la manga y mira la piel, unos veinte centímetros por encima del codo,
+      CLIP: Universal Newsreel: 1945-05-14 Beaten Nazis Sign Historic Surrender, desde 112 s
+
+005 | 00:26.6–00:30.1 (3.5 s) | en la cara interna del brazo. Busca una sola letra.
+      IMAGEN IA (medios/005.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, close-up of a man's bare upper left arm, sleeve rolled up, an American soldier's hand holding the arm, inspection, prisoner of war camp 1945
+
+006 | 00:30.1–00:35.8 (5.7 s) | Una A, una B, una AB o una O, tatuadas en tinta azul.
+      CLIP: Universal Newsreel: 1945-05-14 Beaten Nazis Sign Historic Surrender, desde 124 s
+
+007 | 00:35.8–00:37.5 (1.8 s) | Es el grupo sanguíneo.
+      IMAGEN IA (medios/007.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, close-up of a small blue ink tattooed letter on the inner side of a man's upper arm, skin detail, 1945
+
+008 | 00:37.5–00:44.8 (7.2 s) | Durante la guerra, los miembros de las Waffen-SS lo llevaban tatuado para recibir una transfusión rápida si caían heridos.
+      FOTO [BA]: Bundesarchiv Bild 146-1977-143-11, Frankreich, Lagebesprechung von Waffen-SS-Soldaten.jpg (CC BY-SA 3.0 de)
+
+009 | 00:44.8–00:52.4 (7.7 s) | Era un privilegio de élite. En 1945 se convirtió en una condena. Esa pequeña letra decía quién eras.
+      IMAGEN IA (medios/009.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, German army field hospital 1943, wounded soldier on a stretcher receiving a blood transfusion, medics, tent
+
+010 | 00:52.4–00:55.0 (2.6 s) | Y quien la tenía pasaba a otra fila.
+      CLIP: Universal Newsreel: 1945-05-14 Beaten Nazis Sign Historic Surrender, desde 144.5 s
+
+011 | 00:55.0–01:04.4 (9.4 s) | Por eso, en esos meses, muchos hombres intentaron borrarla. Con cigarrillos encendidos, con cuchillos, con ácido.
+      IMAGEN IA (medios/011.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, close-up of a round burn scar on the inner side of a man's upper arm, rolled-up sleeve, harsh light, 1945
+
+012 | 01:04.4–01:10.8 (6.4 s) | Cicatrices redondas en el mismo lugar exacto del brazo, que delataban precisamente lo que querían esconder.
+      CLIP: Universal Newsreel: 1944-12-20 Allies Fight Fierce Nazi Counter-Blow, desde 164 s
+
+013 | 01:10.8–01:13.4 (2.6 s) | Hubo alguien que no tuvo que borrar nada.
+      FOTO [COM]: Josef Mengele, Auschwitz. Album Höcker (cropped).jpg (Public domain)
+
+014 | 01:13.4–01:20.5 (7.2 s) | Un médico que había servido en las Waffen-SS y que después trabajó en Auschwitz se había negado a hacerse el tatuaje.
+      FOTO [COM]: Mengele2 (cropped).jpg (CC BY-SA 3.0)
+
+015 | 01:20.5–01:26.2 (5.7 s) | Los americanos lo tuvieron en sus manos y lo dejaron ir. Se llamaba Josef Mengele.
+      FOTO [COM]: Mengele2.jpg (CC BY-SA 3.0)
+
+016 | 01:26.2–01:30.7 (4.4 s) | Nos contaron que, con la caída de Berlín, las SS desaparecieron.
+      FOTO [COM]: Ruins of the Reichstag in Berlin, 3 June 1945. BU8573.jpg (Public domain)
+
+017 | 01:30.7–01:36.1 (5.5 s) | Que sus hombres murieron en el frente, terminaron en la horca o se esfumaron en la noche.
+      FOTO [COM]: Graffiti inside the ruins of the German Reichstag building.jpg (Public domain)
+
+018 | 01:36.1–01:44.0 (7.9 s) | Es mentira. La mayoría sobrevivió. Y lo que hicieron después es una de las historias más incómodas de la posguerra.
+      FOTO [COM]: Winston Churchill As Prime Minister 1940-1945 BU8949.jpg (Public domain)
+
+019 | 01:44.0–01:48.8 (4.8 s) | Hoy verás adónde fueron los hombres de las Waffen-SS cuando las armas callaron.
+      CLIP: Universal Newsreel: 1945-11-29 Nuremberg War Crimes Trials Open, desde 40 s
+
+020 | 01:48.8–01:52.5 (3.6 s) | Los que fueron juzgados y los que nunca pisaron un tribunal.
+      FOTO [COM]: Camp for German prisoners of war. Unidentified location in Germany - NARA - 292564.jpg (PDM, Public domain)
+
+021 | 01:52.5–01:56.4 (3.9 s) | Los que huyeron a España, a Argentina o a la Legión Extranjera.
+      FOTO [COM]: Léon Degrelle portrait.jpg (Public domain)
+
+022 | 01:56.4–02:02.7 (6.3 s) | Los extranjeros que acabaron fusilados por sus propios compatriotas o recibidos como refugiados en América.
+      FOTO [BA]: Bundesarchiv Bild 183-J16133, Lettland, Appell der SS-Legion.jpg (CC BY-SA 3.0 de)
+
+023 | 02:02.7–02:08.7 (6.0 s) | Y los veteranos que fundaron una asociación para convencer al mundo de que habían sido soldados como los demás.
+      FOTO [COM]: Wesel-Mahnmal für die Vermissten und Gefangenen.jpg (CC BY-SA 4.0)
+
+024 | 02:08.7–02:14.9 (6.2 s) | Casi un millón de hombres. Un uniforme declarado criminal. Y miles de caminos para escapar de él.
+      GRÁFICO propio (024.png, herramientas/graficos_waffenss.py)
+
+025 | 02:14.9–02:19.1 (4.2 s) | Si te atreves a mirar lo que pasó cuando terminó la guerra y empezó el olvido,
+      GRÁFICO propio (025.png, herramientas/graficos_waffenss.py)
+
+026 | 02:19.1–02:22.7 (3.6 s) | suscríbete ahora y activa la campana. Empezamos.
+      FOTO [COM]: Reichstag during postwar (34219373493).jpg (CC BY 2.0)
+
+027 | 02:22.7–02:30.7 (8.0 s) | Para entender adónde fueron, primero hay que entender qué eran. Y para eso hay que volver a 1933, a Berlín,
+      FOTO [BA]: Bundesarchiv Bild 183-S38324, Tag von Potsdam, Adolf Hitler, Paul v. Hindenburg.jpg (CC BY-SA 3.0 de)
+
+028 | 02:30.7–02:36.7 (6.0 s) | donde Adolf Hitler acababa de llegar al poder y quería algo que ningún canciller alemán había tenido.
+      FOTO [BA]: Bundesarchiv Bild 102-16093, Tag von Potsdam, Rede Hitler in Garnisonkirche.jpg (CC BY-SA 3.0 de)
+
+029 | 02:36.7–02:40.0 (3.3 s) | Una guardia propia, que no dependiera del ejército.
+      FOTO [COM]: Adolf Hitler Berghof-1936.jpg (CC BY-SA 3.0 de)
+
+030 | 02:40.0–02:47.6 (7.6 s) | Así nació un pequeño cuerpo de unos ciento veinte hombres, escogidos por su altura, su físico y su lealtad absoluta.
+      FOTO [BA]: Bundesarchiv Bild 102-17312, Berlin-Lichterfelde, Hitler bei Leibstandarte.jpg (CC BY-SA 3.0 de)
+
+031 | 02:47.6–02:56.0 (8.4 s) | Se llamó la Leibstandarte Adolf Hitler. Su comandante era un antiguo sargento bávaro, duro y tosco, llamado Sepp Dietrich.
+      FOTO [BA]: Bundesarchiv Bild 102-17311, Berlin-Lichterfelde, Hitler bei Leibstandarte.jpg (CC BY-SA 3.0 de)
+
+032 | 02:56.0–03:01.4 (5.4 s) | Aquellos hombres pertenecían a las SS, la organización que dirigía Heinrich Himmler.
+      FOTO [BA]: Bundesarchiv Bild 183-R99087, Heinrich Himmler in Salzburg.jpg (CC BY-SA 3.0 de)
+
+033 | 03:01.4–03:07.5 (6.1 s) | Las mismas SS que controlaban la policía política y que pronto administrarían los campos de concentración.
+      FOTO [BA]: Bundesarchiv Bild 152-01-14, Dachau, Konzentrationslager 1933.jpg (CC BY-SA 3.0 de)
+
+034 | 03:07.5–03:13.1 (5.6 s) | Esa es la clave de toda esta historia. Las Waffen-SS no eran un ejército aparte.
+      FOTO [BA]: Bundesarchiv Bild 152-01-16, KZ Dachau, SS-Wachmannschaft.jpg (CC BY-SA 3.0 de)
+
+035 | 03:13.1–03:18.7 (5.6 s) | Eran el brazo armado de la misma organización que levantó Dachau, Buchenwald y Auschwitz.
+      FOTO [BA]: Bundesarchiv Bild 183-R96361, Dachau, Konzentrationslager.jpg (CC BY-SA 3.0 de)
+
+036 | 03:18.7–03:27.9 (9.2 s) | Con la guerra, aquel pequeño cuerpo creció hasta límites que nadie había imaginado. En 1939 eran unas pocas decenas de miles.
+      FOTO [BA]: Bundesarchiv Bild 101III-Petersheim-046-03, Frankreich, Waffen-SS-Kavallerie-Division.jpg (CC BY-SA 3.0 de)
+
+037 | 03:27.9–03:34.3 (6.5 s) | Al final de la guerra habían pasado por sus filas unos novecientos mil hombres, según la mayoría de los historiadores.
+      GRÁFICO propio (037.png, herramientas/graficos_waffenss.py)
+
+038 | 03:34.3–03:39.5 (5.2 s) | Llegaron a formar treinta y ocho divisiones, aunque muchas solo existían en el papel.
+      GRÁFICO propio (038.png, herramientas/graficos_waffenss.py)
+
+039 | 03:39.5–03:44.6 (5.1 s) | Y aquí aparece la primera sorpresa. Una gran parte de esos hombres no eran alemanes.
+      FOTO [COM]: Waffen SS recruitment poster.jpg (CC0)
+
+040 | 03:44.6–03:52.8 (8.3 s) | Himmler soñaba con un ejército de toda la raza germánica, y empezó reclutando voluntarios en Noruega, Dinamarca, Holanda y Flandes.
+      FOTO [COM]: Propaganda Poster SS-Freiwilligen-Grenadier-Division Langemarck met opschrift De asche van Claes klopt op mijne borst ... Uilenspiegel roept ook U naar de Waffen SS.jpg (Public domain)
+
+041 | 03:52.8–04:03.7 (10.8 s) | Después, cuando las bajas se multiplicaron, la puerta se abrió a casi cualquiera. Franceses, valones, letones, estonios, ucranianos, croatas, húngaros.
+      FOTO [COM]: Birger Cranner (1902-45) Vi seirer! Bli med Den Norske Legions Skiløperbataljon 1941 WW2 Norway propaganda recruiting poster (SS-Freiwilligen-Schikompanie Norwegen Skijegerbataljonen) No known copyright restrictions.png (CC BY-SA 4.0)
+
+042 | 04:03.7–04:11.0 (7.3 s) | Al final de la guerra, según muchos historiadores, cerca de la mitad de las Waffen-SS no habían nacido en Alemania.
+      GRÁFICO propio (042.png, herramientas/graficos_waffenss.py)
+
+043 | 04:11.0–04:18.7 (7.7 s) | Algunos se alistaron por convicción política. Otros por anticomunismo, por aventura o por dinero.
+      FOTO [COM]: Deutsche Maenner SS aus dem Elsass und aus Lothringen können ihren Einsatz für das Grossdeutsche Reich beweisen... - btv1b101121992.jpg (Public domain)
+
+044 | 04:18.7–04:23.0 (4.2 s) | Y muchos, sobre todo en los últimos años, porque no les dejaron otra opción.
+      FOTO [COM]: Propaganda poster of Nasjonal Samling NS, Norw. fascist party. "Ungdom! Framtiden er din!" (no date) Unknown designer illustrator, Herolden agency. Exhibition at Justismuseet, Norway 2019-03-07 DSC06952 cropped.jpg (CC BY-SA 4.0)
+
+045 | 04:23.0–04:30.2 (7.2 s) | Fueron reclutados a la fuerza en los países ocupados o enviados allí directamente desde el servicio militar obligatorio.
+      FOTO [COM]: Vi Seirer! Bli med Den Norske Legions Skiløperbataljon DNL Propaganda Plakat Vervekampanje (the Norwegian Legion´s Ski Ranger Battalion recruitment poster Skiing soldiers dog) Birger Cranner 1941 Hjemmefrontmuseet Rakkestad local WW2.jpg (CC BY-SA 4.0)
+
+046 | 04:30.2–04:35.9 (5.8 s) | En el campo de batalla, las Waffen-SS tuvieron fama de tropas duras y fanáticas.
+      FOTO [BA]: Bundesarchiv Bild 146-1989-113-19, Bei Caen, Angehörige der Waffen-SS neben Panzer.jpg (CC BY-SA 3.0 de)
+
+047 | 04:35.9–04:39.0 (3.1 s) | Pero su nombre quedó unido para siempre a otra cosa.
+      FOTO [BA]: Bundesarchiv Bild 101III-Weyer-036-28A, Angehörige der Waffen-SS mit MP.jpg (CC BY-SA 3.0 de)
+
+048 | 04:39.0–04:44.6 (5.6 s) | En mayo de 1940, en el norte de Francia, hombres de la división Totenkopf,
+      FOTO [COM]: Le Paradis memorial, Norwich Cathedral.jpg (CC BY-SA 4.0)
+
+049 | 04:44.6–04:48.3 (3.7 s) | formada en gran parte por antiguos guardias de campos de concentración,
+      FOTO [COM]: Memorial to a survivor of the Le Paradis Massacre - geograph.org.uk - 6296942.jpg (CC BY-SA 2.0)
+
+050 | 04:48.3–04:54.1 (5.8 s) | fusilaron a noventa y siete soldados británicos que se habían rendido, en una granja de Le Paradis.
+      FOTO [COM]: LabLazhadegLaPlaineauBoisLuc'skKlaodanDuigou.jpg (CC BY-SA 3.0)
+
+051 | 04:54.1–05:01.4 (7.2 s) | Ese mismo mes, en Wormhoudt, la Leibstandarte asesinó a decenas de prisioneros británicos encerrados en un granero.
+      FOTO [COM]: PlakennLazhadegLaPlaineauBoisEkelsbekeMae1940ouzhanilizkatolikLuc'hskeudennKlaodanDuigou.jpg (CC BY-SA 3.0)
+
+052 | 05:01.4–05:07.8 (6.4 s) | En el frente oriental, unidades de las Waffen-SS participaron en la guerra de exterminio contra civiles y judíos,
+      FOTO [COM]: Polish Soldier's Grave Warsaw 1945.jpg (Public domain)
+
+053 | 05:07.8–05:12.7 (4.9 s) | y en la represión del levantamiento de Varsovia de 1944.
+      FOTO [COM]: 74. rocznica zakończenia II wojny światowej w Europie.jpg (CC BY 2.0)
+
+054 | 05:12.7–05:20.9 (8.2 s) | El 10 de junio de 1944, en Francia, soldados de la división Das Reich rodearon el pueblo de Oradour-sur-Glane.
+      FOTO [COM]: Oradour-sur-Glane-Entrance-1361.jpg (Public domain)
+
+055 | 05:20.9–05:28.5 (7.6 s) | Separaron a los hombres de las mujeres y los niños. Al caer la tarde, 643 personas estaban muertas.
+      FOTO [COM]: Cimetière de voitures, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+056 | 05:28.5–05:31.5 (3.0 s) | Entre ellas, más de doscientos niños.
+      FOTO [COM]: Cimetière voitures, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+057 | 05:31.5–05:37.7 (6.1 s) | Seis meses después, en diciembre de 1944, durante la ofensiva de las Ardenas,
+      FOTO [BA]: Bundesarchiv Bild 183-J28477, Ardennenoffensive, Lagebesprechnung.jpg (CC BY-SA 3.0 de)
+
+058 | 05:37.7–05:42.8 (5.1 s) | una columna de la Leibstandarte al mando de un joven coronel llamado Joachim Peiper se cruzó
+      FOTO [BA]: Bundesarchiv Bild 183-1985-0104-501, Ardennenoffensive, Grenadiere in Luxemburg.jpg (CC BY-SA 3.0 de)
+
+059 | 05:42.8–05:48.3 (5.5 s) | con un grupo de soldados estadounidenses capturados en un cruce de caminos cerca de Malmedy, en Bélgica.
+      FOTO [BA]: Bundesarchiv Bild 183-J28619, Ardennenoffensive, gefangene Amerikaner.jpg (CC BY-SA 3.0 de)
+
+060 | 05:48.3–05:52.7 (4.4 s) | Ochenta y cuatro de ellos fueron asesinados en un campo nevado.
+      FOTO [BA]: Bundesarchiv Bild 183-J28493, Ardennenoffensive, überrannte amerikanische Stellung.jpg (CC BY-SA 3.0 de)
+
+061 | 05:52.7–05:56.5 (3.9 s) | Los cuerpos quedaron allí, bajo la nieve, durante semanas.
+      FOTO [COM]: "Body of American soldier is borne on stretcher from terrain in vicinity of Malmedy, Belgium, where on or about 17 Decem - NARA - 532956.jpg (PDM, Public domain)
+
+062 | 05:56.5–06:05.0 (8.5 s) | Cuando el ejército estadounidense recuperó la zona, en enero de 1945, los fotógrafos militares documentaron cada uno de ellos,
+      FOTO [COM]: Baugnez2007.jpg (Public domain)
+
+063 | 06:05.0–06:09.4 (4.4 s) | todavía en la posición en la que habían caído, algunos con las manos en alto.
+      FOTO [COM]: Baugnezinristeys.png (CC BY 3.0, GFDL)
+
+064 | 06:09.4–06:18.2 (8.8 s) | Aquellas fotografías recorrieron los periódicos de Estados Unidos. Para millones de americanos, la palabra SS dejó de ser una sigla lejana.
+      FOTO [COM]: Malmedy LCCN2004661783.jpg (Public domain)
+
+065 | 06:18.2–06:23.7 (5.5 s) | Imagina lo que significaba ese uniforme en la primavera de 1945.
+      FOTO [BA]: Bundesarchiv Bild 146-1972-109-18A, Berlin, Bendlerstraße, Waffen-SS-Männer.jpg (CC BY-SA 3.0 de)
+
+066 | 06:23.7–06:27.6 (3.9 s) | Para sus enemigos, era la marca de los peores crímenes de la guerra.
+      FOTO [BA]: Bundesarchiv Bild 101III-Altstadt-065-05, Russland, Waffen-SS-Div. "Wiking", Auszeichnung.jpg (CC BY-SA 3.0 de)
+
+067 | 06:27.6–06:32.2 (4.5 s) | Para quienes lo vestían, era motivo de orgullo, un símbolo de élite.
+      FOTO [BA]: Bundesarchiv Bild 146-1974-149-23, Waffen-SS, 13. Gebirgs-Div. "Handschar".jpg (CC BY-SA 3.0 de)
+
+068 | 06:32.2–06:36.9 (4.8 s) | Entre esas dos miradas se iba a jugar el destino de casi un millón de hombres.
+      FOTO [BA]: Bundesarchiv Bild 101I-024-3535-30, Ostfront, Waffen-SS-Angehörige bei Rast.jpg (CC BY-SA 3.0 de)
+
+069 | 06:36.9–06:44.6 (7.7 s) | Porque en mayo de 1945, la guerra terminó. Pero para ellos, la verdadera batalla apenas empezaba.
+      FOTO [BA]: Bundesarchiv Bild 101III-Lerche-46-02, Frankreich, Ordensverleihung an Waffen-SS.jpg (CC BY-SA 3.0 de)
+
+070 | 06:44.6–06:53.8 (9.2 s) | Mayo de 1945. Alemania se derrumba y los restos de las divisiones de las Waffen-SS se dispersan por media Europa.
+      FOTO [COM]: Field Marshal Keitel signs German surrender terms in Berlin 8 May 1945 - Restoration.jpg (Public domain)
+
+071 | 06:53.8–07:00.8 (7.0 s) | En Hungría, en Austria, en Bohemia, en el norte de Italia, en las costas del Báltico.
+      FOTO [COM]: German Wehrmacht soldiers surrender in Böhmen 1945 - colorized.jpg (CC BY-SA 4.0)
+
+072 | 07:00.8–07:07.5 (6.7 s) | En esos últimos días, casi todos compartían un mismo miedo. No a la muerte. A los soviéticos.
+      CLIP: Universal Newsreel: 1944-12-20 Allies Fight Fierce Nazi Counter-Blow, desde 186 s
+
+073 | 07:07.5–07:14.5 (7.0 s) | Sabían lo que las Waffen-SS habían hecho en el este, y sabían que el Ejército Rojo no iba a mostrar piedad.
+      FOTO [COM]: Surrender of the Dachau concentration camp to American forces of the Army’s 42nd Infantry Division on April 29, 1945 in Dachau, Germany.jpg (CC BY 2.0)
+
+074 | 07:14.5–07:17.9 (3.4 s) | Así que comenzó una carrera desesperada hacia el oeste.
+      CLIP: Universal Newsreel: 1945-05-14 Beaten Nazis Sign Historic Surrender, desde 4 s
+
+075 | 07:17.9–07:25.1 (7.1 s) | Columnas enteras abandonaron sus vehículos y caminaron durante días para entregarse a los americanos o a los británicos.
+      FOTO [COM]: SC 329851 - Tanks moving into Ivera to surrender to the 34th Div. (U.S.). They are part of the German 75th Corps. 5 May, 1945. (52593678507).jpg (Public domain)
+
+076 | 07:25.1–07:28.3 (3.2 s) | Algunos lo lograron. Muchos no.
+      CLIP: Universal Newsreel: 1945-05-14 Beaten Nazis Sign Historic Surrender, desde 48 s
+
+077 | 07:28.3–07:35.1 (6.9 s) | Los que quedaron atrapados en el lado equivocado de la línea desaparecieron durante años en los campos de prisioneros soviéticos.
+      CLIP: Universal Newsreel: 1944-12-20 Allies Fight Fierce Nazi Counter-Blow, desde 196 s
+
+078 | 07:35.1–07:39.9 (4.8 s) | Los que llegaron al oeste descubrieron enseguida que su uniforme no era uno más.
+      FOTO [COM]: German Prisoners of War in Britain- Everyday Life at a German POW Camp, UK, 1945 D26737.jpg (Public domain)
+
+079 | 07:39.9–07:47.6 (7.6 s) | Los aliados habían decidido que todos los miembros de las SS entraban en una categoría especial, la del arresto automático.
+      FOTO [COM]: German Prisoners of War in Britain- Everyday Life at a German POW Camp, UK, 1945 D26730.jpg (Public domain)
+
+080 | 07:47.6–07:51.5 (3.9 s) | No importaba si habías sido cocinero, conductor o comandante.
+      FOTO [COM]: German Prisoners of War in Britain- Everyday Life at a German POW Camp, UK, 1945 D26735.jpg (Public domain)
+
+081 | 07:51.5–07:57.7 (6.2 s) | Si eras SS, ibas a un campo de internamiento, y desde allí se investigaría qué habías hecho.
+      FOTO [COM]: German Prisoners of War in Britain- Everyday Life at a German POW Camp, UK, 1945 D26723.jpg (Public domain)
+
+082 | 07:57.7–08:02.2 (4.5 s) | De ahí la búsqueda del tatuaje. De ahí las filas con el brazo levantado.
+      FOTO [COM]: German Prisoners of War in Britain- Everyday Life at a German POW Camp, UK, 1945 D26734.jpg (Public domain)
+
+083 | 08:02.2–08:05.9 (3.7 s) | Y de ahí las cicatrices de quienes intentaron arrancarse la marca de la piel.
+      FOTO [COM]: German Prisoners of War in Britain- Everyday Life at a German POW Camp, UK, 1945 D26721.jpg (Public domain)
+
+084 | 08:05.9–08:08.8 (2.9 s) | Algunos ni siquiera llegaron a un campo.
+      FOTO [COM]: A) Officiers de la LVF puis de la Division Charlemagne 01.jpg (CC BY-SA 4.0)
+
+085 | 08:08.8–08:14.2 (5.4 s) | El 8 de mayo de 1945, el mismo día en que Alemania firmaba la rendición,
+      FOTO [COM]: Photographie de propagande défilé du 2ème anniversaire de la Légion des volontaires français contre le bolchévisme aux, PH25785.jpg (CC0)
+
+086 | 08:14.2–08:23.1 (8.9 s) | doce voluntarios franceses de la división de las Waffen-SS Charlemagne fueron entregados por los estadounidenses a las tropas francesas del general Leclerc,
+      FOTO [COM]: Bad reichenhall 2.jpg (CC BY-SA 4.0)
+
+087 | 08:23.1–08:29.1 (5.9 s) | cerca de Bad Reichenhall, en Baviera. Fueron fusilados sin juicio en un bosque cercano.
+      FOTO [COM]: Member of SS Charlemagne, Panorama Nr. 4, Deutsche Wochenschau.jpg (Public domain)
+
+088 | 08:29.1–08:33.7 (4.6 s) | Para la Francia libre, no eran prisioneros de guerra. Eran traidores.
+      FOTO [BA]: Bundesarchiv Bild 101III-Apfel-017-30, Frankreich, Paris, deutsche Besatzung.jpg (CC BY-SA 3.0 de)
+
+089 | 08:33.7–08:37.5 (3.8 s) | Otros, en cambio, se escurrieron entre los dedos de los vencedores.
+      FOTO [COM]: Richard Baer, Josef Mengele, Rudolf Hoess, Auschwitz. Album Höcker.jpg (Public domain)
+
+090 | 08:37.5–08:47.2 (9.7 s) | Josef Mengele había servido como médico en la división Wiking, en el frente ruso, antes de llegar a Auschwitz en 1943.
+      FOTO [COM]: Josef Mengele, sem data.tif (Public domain)
+
+091 | 08:47.2–08:56.3 (9.2 s) | En el verano de 1945 estuvo en un campo de prisioneros estadounidense. Como no tenía el tatuaje, nadie sospechó quién era.
+      FOTO [COM]: Museu da Polícia Civil. (47444068121) (cropped).jpg (CC BY 2.0)
+
+092 | 08:56.3–09:03.0 (6.7 s) | Lo liberaron. Durante los años siguientes trabajó como peón en una granja de Baviera, con nombre falso,
+      FOTO [COM]: Museu da Polícia Civil. (47444068121).jpg (CC BY 2.0)
+
+093 | 09:03.0–09:07.7 (4.6 s) | mientras su nombre aparecía en las listas de criminales más buscados del mundo.
+      FOTO [COM]: Richard Baer, Josef Mengele, Rudolf Hoess, Auschwitz. Album Höcker (cropped).jpg (Public domain)
+
+094 | 09:07.7–09:13.0 (5.3 s) | Esa fue la primera gran grieta. Los aliados tenían en sus campos a cientos de miles de hombres,
+      FOTO [COM]: Documents on shelves in the archive store (History Centre) at the Herbert.jpg (CC BY-SA 3.0)
+
+095 | 09:13.0–09:20.4 (7.4 s) | y muy pocos medios para averiguar quién había hecho qué. Faltaban documentos, faltaban testigos, faltaban traductores.
+      FOTO [COM]: Burned records on shelves in a stack area of Building 100 at the National Personnel Records Center, St. Louis, Missouri on July 13, 1973.jpg (PDM, Public domain)
+
+096 | 09:20.4–09:23.7 (3.3 s) | Y el tiempo jugaba a favor de los culpables.
+      FOTO [COM]: Burned records sliding off shelves onto the floor in a stack area after the fire in Building 100 at the National Personnel Records Center, St. Louis, Missouri on July 13, 1973.jpg (PDM, Public domain)
+
+097 | 09:23.7–09:28.7 (5.1 s) | Pero antes de juzgar a los hombres, los vencedores querían juzgar al uniforme.
+      FOTO [COM]: Nuremberg 11356 photo Ray D Addario.JPG (Public domain)
+
+098 | 09:28.7–09:32.9 (4.2 s) | Núremberg, 1 de octubre de 1946.
+      CLIP: Universal Newsreel: 1945-11-29 Nuremberg War Crimes Trials Open, desde 8 s
+
+099 | 09:32.9–09:40.3 (7.4 s) | En la sala 600 del Palacio de Justicia, el Tribunal Militar Internacional lee la última parte de su sentencia.
+      CLIP: Universal Newsreel: 1946-10-08 21 Nazi Chiefs Guilty, desde 92 s
+
+100 | 09:40.3–09:46.1 (5.8 s) | Ya ha condenado a los jerarcas del Tercer Reich. Ahora tiene que decidir algo distinto.
+      CLIP: Universal Newsreel: 1945-11-29 Nuremberg War Crimes Trials Open, desde 16 s
+
+101 | 09:46.1–09:50.5 (4.4 s) | Si las organizaciones del régimen, como tales, eran criminales.
+      FOTO [COM]: German War Crimes Trials. Nuernberg & Dachau - NARA - 292601.jpg (PDM, Public domain)
+
+102 | 09:50.5–09:57.6 (7.1 s) | Y llega el turno de las SS. Durante el juicio, la defensa había intentado separar a las Waffen-SS del resto.
+      CLIP: Universal Newsreel: 1946-10-08 21 Nazi Chiefs Guilty, desde 112 s
+
+103 | 09:57.6–10:05.5 (7.9 s) | Había llamado a declarar al general Paul Hausser, uno de sus fundadores, que sostuvo que sus hombres eran soldados profesionales,
+      FOTO [COM]: Defendants Nuremberg-War-Crimes-Tribunal 1945-11-27.jpg (Public domain)
+
+104 | 10:05.5–10:08.2 (2.7 s) | ajenos a los campos y a las matanzas.
+      FOTO [COM]: Panel of justices and attorneys Nuremberg Trials 1945.jpeg (PDM, Public domain)
+
+105 | 10:08.2–10:16.3 (8.1 s) | El tribunal no le creyó. Declaró que las SS en su conjunto, incluidas las Waffen-SS, habían sido una organización criminal,
+      CLIP: Universal Newsreel: 1946-10-08 21 Nazi Chiefs Guilty, desde 164 s
+
+106 | 10:16.3–10:19.5 (3.2 s) | utilizada para la persecución y el exterminio de los judíos,
+      GRÁFICO propio (106.png, herramientas/graficos_waffenss.py)
+
+107 | 10:19.5–10:23.7 (4.2 s) | para las brutalidades en los campos y para el asesinato de prisioneros de guerra.
+      CLIP: Universal Newsreel: 1946-10-08 21 Nazi Chiefs Guilty, desde 176 s
+
+108 | 10:23.7–10:25.4 (1.6 s) | Pero dejó una excepción.
+      FOTO [COM]: Panel of justices and attorneys Nuremberg Trials 1945 (cropped).jpeg (PDM, Public domain)
+
+109 | 10:25.4–10:30.5 (5.1 s) | Quedaban fuera los hombres que habían sido reclutados por el Estado de tal manera que no tuvieron elección,
+      GRÁFICO propio (109.png, herramientas/graficos_waffenss.py)
+
+110 | 10:30.5–10:33.5 (3.0 s) | y que no habían cometido crímenes.
+      FOTO [BA]: Bundesarchiv Bild 183-H27798, Nürnberger Prozess, Verhandlungssaal.jpg (CC BY-SA 3.0 de)
+
+111 | 10:33.5–10:39.2 (5.7 s) | Esa frase, de apenas unas líneas, iba a decidir el futuro de cientos de miles de personas.
+      CLIP: Universal Newsreel: 1946-10-08 21 Nazi Chiefs Guilty, desde 68 s
+
+112 | 10:39.2–10:48.2 (9.0 s) | Durante décadas, casi todos los veteranos de las Waffen-SS dirían lo mismo. Que ellos no eligieron. Que eran solo soldados.
+      FOTO [COM]: Defendants in the dock at nuremberg trials.jpg (Public domain)
+
+113 | 10:48.2–10:55.3 (7.2 s) | Mientras tanto, empezaban los juicios contra los autores de los crímenes concretos. Y el más famoso fue el de Malmedy.
+      CLIP: Universal Newsreel: 1945-10-22 Nazi War Criminal Sentenced, desde 4 s
+
+114 | 10:55.3–11:04.4 (9.1 s) | En mayo de 1946, en el antiguo campo de concentración de Dachau, convertido ahora en sede de tribunales militares estadounidenses,
+      CLIP: Universal Newsreel: 1945-10-22 Nazi War Criminal Sentenced, desde 56 s
+
+115 | 11:04.4–11:08.4 (3.9 s) | se sentaron en el banquillo más de setenta hombres de la Leibstandarte.
+      FOTO [COM]: Tribunal militaire de Dachau.jpg (PDM, Public domain)
+
+116 | 11:08.4–11:16.0 (7.6 s) | Entre ellos, Joachim Peiper, el coronel de la columna de las Ardenas, y su antiguo comandante, Sepp Dietrich.
+      CLIP: Universal Newsreel: 1945-10-22 Nazi War Criminal Sentenced, desde 12 s
+
+117 | 11:16.0–11:20.0 (4.0 s) | En julio llegó el veredicto. Todos fueron declarados culpables.
+      CLIP: Universal Newsreel: 1945-10-22 Nazi War Criminal Sentenced, desde 72 s
+
+118 | 11:20.0–11:27.5 (7.5 s) | Cuarenta y tres fueron condenados a morir en la horca, Peiper entre ellos. Dietrich recibió cadena perpetua.
+      CLIP: Universal Newsreel: 1945-10-22 Nazi War Criminal Sentenced, desde 44 s
+
+119 | 11:27.5–11:30.0 (2.6 s) | Parecía el final. No lo fue.
+      FOTO [COM]: Joachim Peiper, while standing before American judges.jpg (Public domain)
+
+120 | 11:30.0–11:37.3 (7.3 s) | Muy pronto se supo que los interrogadores estadounidenses habían usado métodos más que dudosos para obtener las confesiones.
+      FOTO [COM]: Malmedy 1 court.jpg (Public domain)
+
+121 | 11:37.3–11:44.6 (7.3 s) | Simulacros de juicio, presiones, celdas de aislamiento. Los abogados defensores denunciaron torturas.
+      CLIP: Universal Newsreel: 1945-10-22 Nazi War Criminal Sentenced, desde 24 s
+
+122 | 11:44.6–11:48.2 (3.6 s) | Hubo investigaciones en el ejército y en el Senado de Estados Unidos,
+      FOTO [COM]: Joachim Peiper's mugshot.jpg (Public domain)
+
+123 | 11:48.2–11:54.8 (6.7 s) | donde un joven senador llamado Joseph McCarthy convirtió el caso en un espectáculo político.
+      FOTO [COM]: Joachim Peiper's mugshot (cropped).jpg (Public domain)
+
+124 | 11:54.8–11:56.6 (1.8 s) | La ironía era brutal.
+      FOTO [BA]: Bundesarchiv Bild 183-R65485, Joachim Peiper.jpg (CC BY-SA 3.0 de)
+
+125 | 11:56.6–12:05.7 (9.1 s) | El juicio por una de las peores matanzas de prisioneros americanos acabó convertido en un escándalo sobre cómo los americanos habían tratado a los acusados.
+      FOTO [BA]: Bundesarchiv Bild 101III-Bueschel-010-11A, Himmler bei der SS-Kavallerie-Division.jpg (CC BY-SA 3.0 de)
+
+126 | 12:05.7–12:10.8 (5.1 s) | Las condenas a muerte se conmutaron una tras otra. Ninguna se cumplió.
+      FOTO [BA]: Bundesarchiv Bild 101III-Mayr-034-11A, Griechenland, Himmler mit Offizieren der Waffen-SS (cropped).jpg (CC BY-SA 3.0 de)
+
+127 | 12:10.8–12:17.8 (6.9 s) | A mediados de los años cincuenta, todos los condenados de Malmedy estaban en libertad o a punto de estarlo.
+      FOTO [BA]: Bundesarchiv Bild 101III-Weill-054 -31A, Heinrich Himmler in Frankreich.jpg (CC BY-SA 3.0 de)
+
+128 | 12:17.8–12:25.6 (7.9 s) | Joachim Peiper salió de la prisión de Landsberg en diciembre de 1956, después de once años y medio entre rejas.
+      FOTO [BA]: Bundesarchiv Bild 101III-Weill-056-03, Metz, Heinrich Himmler.jpg (CC BY-SA 3.0 de)
+
+129 | 12:25.6–12:29.2 (3.5 s) | En apenas una década, el mundo había cambiado de enemigo.
+      FOTO [BA]: Bundesarchiv Bild 101III-Weill-056-07, Frankreich, Metz, Himmler und Offiziere.jpg (CC BY-SA 3.0 de)
+
+130 | 12:29.2–12:34.1 (4.9 s) | Y en ese mundo nuevo, los viejos verdugos iban a encontrar un lugar inesperado.
+      FOTO [BA]: Bundesarchiv Bild 101III-Weill-056-08, Metz, Heinrich Himmler.jpg (CC BY-SA 3.0 de)
+
+131 | 12:34.1–12:38.8 (4.7 s) | Para entender ese cambio, hay que mirar a un hombre en particular. Kurt Meyer.
+      FOTO [BA]: Bundesarchiv Bild 101III-Ludwig-006-19, Kurt Meyer.jpg (CC BY-SA 3.0 de)
+
+132 | 12:38.8–12:46.0 (7.2 s) | En 1944, con solo treinta y tres años, Meyer era el general más joven del ejército alemán.
+      FOTO [COM]: Kurt Meyer at Stenopos battle.jpg (CC BY-SA 3.0)
+
+133 | 12:46.0–12:52.5 (6.5 s) | Mandaba la división Hitlerjugend, formada en gran parte por adolescentes nacidos en 1926,
+      FOTO [COM]: Marszałek Gerd von Rundstedt podczas inspekcji na Wale Atlantyckim (2-337).jpg (PDM, Public domain)
+
+134 | 12:52.5–12:55.8 (3.3 s) | que habían crecido sin conocer otra cosa que el nazismo.
+      FOTO [BA]: Bundesarchiv Bild 146-1988-028-25A, Frankreich, Invasionsfront.jpg (CC BY-SA 3.0 de)
+
+135 | 12:55.8–13:03.2 (7.4 s) | En los días posteriores al desembarco de Normandía, prisioneros canadienses capturados por esa división fueron asesinados,
+      FOTO [BA]: Bundesarchiv Bild 146-1989-099-06, Frankreich, Kurt Meyer, Fritz Witt, Max Wünsche.jpg (CC BY-SA 3.0 de)
+
+136 | 13:03.2–13:09.0 (5.8 s) | algunos de ellos en el jardín de la abadía de Ardenne, donde Meyer tenía su puesto de mando.
+      FOTO [COM]: Ardennes Abbey 1.JPG (CC BY-SA 3.0, GFDL)
+
+137 | 13:09.0–13:16.4 (7.4 s) | En diciembre de 1945, un tribunal militar canadiense lo juzgó en Aurich, en el norte de Alemania.
+      FOTO [COM]: Ardenne Abbey aerial.jpg (CC BY-SA 4.0)
+
+138 | 13:16.4–13:23.6 (7.2 s) | Fue condenado a muerte. Pero el general canadiense que debía confirmar la sentencia dudó, y la cambió por cadena perpetua.
+      FOTO [COM]: Ardennes Abbey - courtyard.jpg (CC BY-SA 4.0)
+
+139 | 13:23.6–13:30.3 (6.7 s) | Meyer cumplió parte de su condena en una penitenciaría de Canadá, en New Brunswick, como un preso más.
+      FOTO [COM]: Abbaye d'Ardenne fouilles 1988.jpg (CC BY-SA 4.0)
+
+140 | 13:30.3–13:39.0 (8.7 s) | En 1951 lo trasladaron a una cárcel de Alemania Occidental. Y en septiembre de 1954 salió en libertad.
+      FOTO [COM]: MeyerTrial.jpg (Public domain)
+
+141 | 13:39.0–13:46.0 (7.0 s) | Imagina la escena. Diez años antes, Meyer era el rostro de una división acusada de asesinar prisioneros.
+      FOTO [BA]: Bundesarchiv Bild 183-S92727, Berlin, Alexanderplatz, Berolinahaus, Ruine, Wiederaufbau, Straßenbahnen.jpg (CC BY-SA 3.0 de)
+
+142 | 13:46.0–13:50.9 (4.9 s) | Ahora salía de prisión a una Alemania que se estaba reconstruyendo a toda velocidad,
+      FOTO [BA]: Bundesarchiv Bild 183-08093-0015, Sachsendorf, Wiederaufbau, Auszeichnung.jpg (CC BY-SA 3.0 de)
+
+143 | 13:50.9–13:56.5 (5.6 s) | que se preparaba para tener otra vez un ejército, y que necesitaba a millones de antiguos soldados.
+      FOTO [BA]: Bundesarchiv Bild 183-08224-0005, Neu-Levin, Wiederaufbau, Bauplanung.jpg (CC BY-SA 3.0 de)
+
+144 | 13:56.5–14:04.3 (7.8 s) | Meyer se convirtió en una de las voces más activas de una organización que había nacido en 1951, la HIAG,
+      FOTO [COM]: 242-HF-0767 001 Totenfeier 1923-11-04 Anfange d Bewegung Münchener Trauertag Parade völkischen Kampfverbände Kronprinz Rupprecht Prinz Leopold v Bayern NSDAP SA Nationalist Mourning Day Armeemuseum Denkmal NARA.jpg (CC0)
+
+145 | 14:04.3–14:09.0 (4.7 s) | la asociación de ayuda mutua de antiguos miembros de las Waffen-SS.
+      IMAGEN IA (medios/145.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, group of middle-aged German men in suits at a veterans association meeting, 1950s, banner on the wall, beer hall
+
+146 | 14:09.0–14:13.0 (4.0 s) | Oficialmente, la HIAG se dedicaba a buscar a los desaparecidos,
+      IMAGEN IA (medios/146.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, Red Cross missing persons search office 1950s, women reading lists of names of missing soldiers on boards
+
+147 | 14:13.0–14:20.9 (7.9 s) | a apoyar a las viudas y a reclamar pensiones para los veteranos. Pero su verdadera misión era otra. Cambiar la historia.
+      IMAGEN IA (medios/147.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, a widow in a dark coat holding a letter in a 1950s German kitchen, sad, window light
+
+148 | 14:20.9–14:25.6 (4.7 s) | Su mensaje se resumía en el título de un libro que publicaría años después Paul Hausser,
+      IMAGEN IA (medios/148.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, a stack of old German hardcover books on a wooden table, 1960s, no readable text
+
+149 | 14:25.6–14:30.1 (4.4 s) | el mismo general que había declarado en Núremberg: soldados como los demás.
+      GRÁFICO propio (149.png, herramientas/graficos_waffenss.py)
+
+150 | 14:30.1–14:36.1 (6.0 s) | Según la HIAG, las Waffen-SS habían sido tropas de combate, valientes y caballerosas,
+      IMAGEN IA (medios/150.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, veterans in suits standing at attention at a war memorial wreath ceremony, 1950s Germany, flags without symbols
+
+151 | 14:36.1–14:44.0 (8.0 s) | que nada tuvieron que ver con los campos ni con el genocidio. Los crímenes, decían, eran cosa de otros. Las otras SS.
+      IMAGEN IA (medios/151.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, an old typewriter with a sheet of paper in a dim study, 1950s, cigarette smoke
+
+152 | 14:44.0–14:50.9 (6.9 s) | Era una mentira cómoda, y mucha gente quería creerla. Los veteranos podían sentirse orgullosos otra vez.
+      IMAGEN IA (medios/152.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, older German men in suits raising beer mugs at a long table in a tavern, 1950s, reunion
+
+153 | 14:50.9–14:56.1 (5.2 s) | Los políticos de Alemania Occidental necesitaban sus votos y los de sus familias.
+      IMAGEN IA (medios/153.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, West German election campaign posters on a street wall 1953, people walking, no readable text
+
+154 | 14:56.1–15:01.9 (5.7 s) | Y en plena Guerra Fría, los antiguos enemigos de los soviéticos ya no parecían tan peligrosos.
+      IMAGEN IA (medios/154.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, Cold War border fence with watchtower in Germany 1950s, barbed wire, fog
+
+155 | 15:01.9–15:08.6 (6.7 s) | En los años cincuenta, el canciller Konrad Adenauer llegó a defender en público que los soldados de las Waffen-SS,
+      FOTO [BA]: Bundesarchiv B 145 Bild-F000878-0012, Braunschweig, Konrad Adenauer verlässt Sonderzug.jpg (CC BY-SA 3.0 de)
+
+156 | 15:08.6–15:15.6 (7.1 s) | salvo los culpables de crímenes, habían sido soldados como los demás. La HIAG difundió esas palabras durante décadas.
+      FOTO [BA]: Bundesarchiv Bild 146-2005-0060, Empfang bei Bundeskanzler Konrad Adenauer.jpg (CC BY-SA 3.0 de)
+
+157 | 15:15.6–15:24.0 (8.4 s) | Y en 1955, cuando Alemania Occidental creó su nuevo ejército, la Bundeswehr, surgió una pregunta incómoda.
+      FOTO [BA]: Bundesarchiv B 145 Bild-F003303-0016, Andernach, Rede Adenauer vor Bundeswehr-Soldaten.jpg (CC BY-SA 3.0 de)
+
+158 | 15:24.0–15:30.0 (6.0 s) | ¿Podían entrar los antiguos oficiales de las Waffen-SS? La respuesta fue un sí con condiciones.
+      FOTO [BA]: Bundesarchiv Bild 146-2004-0092, Andernach, Adenauer besucht Bundeswehr.jpg (CC BY-SA 3.0 de)
+
+159 | 15:30.0–15:37.0 (7.0 s) | Cada caso pasaba por una comisión que revisaba el pasado del aspirante, y solo se aceptaban hasta cierto rango.
+      FOTO [BA]: Bundesarchiv Bild 146-1998-006-34, Andernach, Adenauer besucht Bundeswehr.jpg (CC BY-SA 3.0 de)
+
+160 | 15:37.0–15:39.9 (2.9 s) | Fueron relativamente pocos, pero estaban ahí.
+      FOTO [COM]: Manöver Nordwind der Bundeswehr (Kiel 13.790) 1957 (V1).jpg (CC BY-SA 3.0 de)
+
+161 | 15:39.9–15:47.5 (7.6 s) | Diez años después de Núremberg, algunos hombres que habían vestido la calavera de las SS volvían a ponerse un uniforme alemán,
+      IMAGEN IA (medios/161.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, young West German soldiers in new 1956 uniforms and helmets standing in formation, barracks yard
+
+162 | 15:47.5–15:49.7 (2.1 s) | ahora como aliados de la OTAN.
+      IMAGEN IA (medios/162.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, NATO military parade 1957, tanks and soldiers, crowd watching
+
+163 | 15:49.7–15:56.0 (6.3 s) | Las reuniones de veteranos se llenaban de antiguos camaradas, con medallas en el pecho y canciones de guerra.
+      IMAGEN IA (medios/163.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, veterans meeting in a large hall 1960s Germany, men in suits with medals on their chests singing
+
+164 | 15:56.0–15:60.0 (4.0 s) | Cuando Sepp Dietrich murió, en abril de 1966,
+      IMAGEN IA (medios/164.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, black mourning ribbon on a framed photograph of an old officer, candles, 1966
+
+165 | 15:60.0–16:06.9 (6.9 s) | miles de veteranos llegaron de toda Alemania y de varios países de Europa para despedirlo en el cementerio de Ludwigsburg.
+      IMAGEN IA (medios/165.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, large crowd of elderly men in dark coats at a cemetery funeral, Germany 1966, wreaths
+
+166 | 16:06.9–16:12.1 (5.2 s) | Las fuentes no coinciden en la cifra, pero los cálculos van de mil a siete mil personas.
+      IMAGEN IA (medios/166.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, long line of mourners walking along a cemetery path, overcast day, 1966
+
+167 | 16:12.1–16:14.4 (2.2 s) | Kurt Meyer no llegó a verlo.
+      IMAGEN IA (medios/167.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, empty wooden chair beside a window with rain, quiet room, 1961
+
+168 | 16:14.4–16:22.0 (7.6 s) | Había muerto en diciembre de 1961, el mismo día de su cumpleaños, de un ataque al corazón.
+      IMAGEN IA (medios/168.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, a calendar page and a birthday cake untouched on a table, dim winter light, December 1961
+
+169 | 16:22.0–16:25.4 (3.4 s) | A su entierro también acudieron miles de antiguos camaradas.
+      IMAGEN IA (medios/169.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, crowd of men in hats at a funeral procession in a German town, December 1961, snow
+
+170 | 16:25.4–16:30.7 (5.3 s) | Paul Hausser, el general que había defendido a las Waffen-SS ante el tribunal de Núremberg,
+      FOTO [COM]: Paul Hausser.jpg (Public domain)
+
+171 | 16:30.7–16:36.7 (6.0 s) | vivió lo suficiente para ver su libro en las librerías y su versión de la historia repetida en revistas,
+      FOTO [BA]: Bundesarchiv Bild 146-1973-122-16, Paul Hausser (cropped).jpg (CC BY-SA 3.0 de)
+
+172 | 16:36.7–16:44.1 (7.5 s) | novelas de guerra y reuniones de veteranos. Murió en 1972, a los noventa y dos años.
+      FOTO [BA]: Bundesarchiv Bild 192-041, KZ Mauthausen, Besuch Himmler (cropped).jpg (CC BY-SA 3.0 de)
+
+173 | 16:44.1–16:50.8 (6.6 s) | Durante décadas, su relato de los soldados limpios y valientes fue más popular que las sentencias de los tribunales.
+      FOTO [BA]: Bundesarchiv Bild 192-135, KZ Mauthausen, Himmlervisite.jpg (CC BY-SA 3.0 de)
+
+174 | 16:50.8–16:57.2 (6.4 s) | Solo a partir de los años ochenta y noventa, con la apertura de archivos y una nueva generación de historiadores,
+      FOTO [BA]: Bundesarchiv Bild 101III-Merz-013-33, Russland, Führer der Waffen-SS.jpg (CC BY-SA 3.0 de)
+
+175 | 16:57.2–17:00.2 (3.0 s) | esa imagen empezó a resquebrajarse de verdad.
+      FOTO [BA]: Bundesarchiv Bild 101III-Zschaeckel-198-19, Russland, bei Charkow, Heinrich Himmler.jpg (CC BY-SA 3.0 de)
+
+176 | 17:00.2–17:08.8 (8.7 s) | En Alemania, el pasado empezaba a dormirse. Pero en Francia, en un pequeño pueblo en ruinas, nadie estaba dispuesto a olvidar.
+      FOTO [COM]: Bascule l'Auze, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+177 | 17:08.8–17:11.8 (3.0 s) | Burdeos, enero de 1953.
+      FOTO [COM]: Bascule publique, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+178 | 17:11.8–17:19.3 (7.5 s) | Casi nueve años después de la matanza, un tribunal militar francés juzga por fin a los responsables de Oradour-sur-Glane.
+      FOTO [COM]: Boulangerie Bouchoule, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+179 | 17:19.3–17:25.9 (6.6 s) | En el banquillo solo hay veintiún acusados. De los cerca de doscientos soldados que entraron aquel día en el pueblo,
+      FOTO [COM]: Croisement rue principale, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+180 | 17:25.9–17:32.7 (6.9 s) | muchos habían muerto en combate y otros vivían en Alemania Oriental, fuera del alcance de la justicia francesa.
+      FOTO [COM]: Ecole des filles, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+181 | 17:32.7–17:40.2 (7.5 s) | Y entre esos veintiún acusados había un detalle que lo cambió todo. Catorce de ellos eran franceses. Alsacianos.
+      FOTO [COM]: Eglise, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+182 | 17:40.2–17:43.6 (3.4 s) | Alsacia había sido anexionada por Alemania durante la guerra,
+      FOTO [COM]: Entrée ferme de l'Auze, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+183 | 17:43.6–17:50.8 (7.2 s) | y miles de sus jóvenes habían sido reclutados a la fuerza en el ejército alemán, y algunos en las Waffen-SS.
+      FOTO [COM]: Champ de foire, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+184 | 17:50.8–17:55.4 (4.5 s) | En Francia los llaman los malgré-nous, los que fueron a pesar de sí mismos.
+      FOTO [COM]: Arbre de la libert, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+185 | 17:55.4–18:01.4 (6.0 s) | Trece de los catorce alsacianos del juicio aseguraban que los habían obligado a vestir ese uniforme.
+      FOTO [COM]: Chai Denis, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+186 | 18:01.4–18:09.1 (7.7 s) | El tribunal dictó sus condenas en febrero. Prisión o trabajos forzados para la mayoría, y pena de muerte para dos acusados,
+      FOTO [COM]: Clapier ferme de l'Auze, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+187 | 18:09.1–18:12.7 (3.6 s) | entre ellos el único alsaciano que se había presentado voluntario.
+      FOTO [COM]: Colonne Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+188 | 18:12.7–18:19.6 (6.9 s) | Y entonces Francia estalló en dos. En Alsacia, las condenas se vivieron como una ofensa a toda la región,
+      FOTO [COM]: Monument aux malgré-nous (Turckheim).jpg (CC BY-SA 4.0)
+
+189 | 18:19.6–18:24.6 (5.0 s) | a miles de familias cuyos hijos habían sido arrastrados a la guerra contra su voluntad.
+      FOTO [COM]: Lixhausen croix des malgré nous1.jpg (CC BY-SA 4.0)
+
+190 | 18:24.6–18:29.5 (5.0 s) | En el Lemosín, donde estaba Oradour, se vivieron como una burla a los muertos.
+      FOTO [COM]: Lixhausen croix des malgré nous2.jpg (CC BY-SA 4.0)
+
+191 | 18:29.5–18:38.3 (8.7 s) | El gobierno eligió Alsacia. Pocos días después, el parlamento francés aprobó una amnistía para los alsacianos reclutados a la fuerza.
+      FOTO [COM]: ObernaiMalgréNous.JPG (CC BY-SA 2.5)
+
+192 | 18:38.3–18:41.0 (2.7 s) | Salieron en libertad casi enseguida.
+      FOTO [COM]: Plaque Alsace Moselle WWII Intérieur Gare Metz Ville - Metz (FR57) - 2022-02-25 - 1.jpg (CC BY-SA 4.0)
+
+193 | 18:41.0–18:45.2 (4.2 s) | Para entender la herida, hay que saber que Oradour nunca se reconstruyó.
+      FOTO [COM]: Ecole des garçons, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+194 | 18:45.2–18:51.7 (6.5 s) | Por decisión del gobierno francés, las ruinas se conservaron exactamente como quedaron aquel 10 de junio.
+      FOTO [COM]: Ecole des Lorrains, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+195 | 18:51.7–18:58.3 (6.6 s) | Los coches oxidados en la calle, las máquinas de coser en las casas quemadas, el tranvía que ya no pasaba.
+      FOTO [COM]: Entrée, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+196 | 18:58.3–19:04.8 (6.5 s) | Justo al lado se levantó un pueblo nuevo. Los supervivientes vivían, literalmente, junto a sus muertos.
+      FOTO [COM]: Ferme de l'Auze, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+197 | 19:04.8–19:11.9 (7.1 s) | La reacción de Oradour fue inmediata. Los supervivientes devolvieron las condecoraciones que el Estado les había concedido.
+      FOTO [COM]: France NA 87 Oradour-sur-Glane 02.jpg (CC BY-SA 3.0)
+
+198 | 19:11.9–19:17.1 (5.2 s) | Durante años, el pueblo se negó a recibir a los representantes del gobierno en sus ceremonias.
+      FOTO [COM]: Arbre de la Liberté, Oradour-sur-Glane.jpg (CC BY-SA 4.0)
+
+199 | 19:17.1–19:24.7 (7.5 s) | ¿Y el hombre que había mandado la división Das Reich? El general Heinz Lammerding fue condenado a muerte en ausencia.
+      FOTO [COM]: Lammerding.jpg (CC BY-SA 3.0)
+
+200 | 19:24.7–19:32.5 (7.8 s) | Pero nunca fue entregado a Francia. Vivió en Düsseldorf, en Alemania Occidental, como un próspero empresario de la construcción.
+      FOTO [COM]: Kurt Weisse.jpg (CC BY-SA 4.0)
+
+201 | 19:32.5–19:35.5 (3.1 s) | Murió en 1971, en su cama.
+      FOTO [BA]: Bundesarchiv Bild 101I-668-7168-26A, Reichsgebiet, Leitstand der 4. Flakdivision.jpg (CC BY-SA 3.0 de)
+
+202 | 19:35.5–19:43.1 (7.6 s) | Y no fue el único que esquivó a la justicia. Porque mientras unos esperaban sentencia, otros ya habían cruzado fronteras.
+      FOTO [BA]: Bundesarchiv Bild 183-08093-0009, Sachsendorf, Wiederaufbau, Leistungstafel.jpg (CC BY-SA 3.0 de)
+
+203 | 19:43.1–19:50.9 (7.8 s) | Imagina la escena. Es la madrugada del 8 de mayo de 1945, el último día de la guerra en Europa.
+      FOTO [COM]: Aterrizaje en la playa de la Concha del bombardero modelo Heinkel 111, que venía directamente desde Noruega de Léon Degrelle, piloto belga y cabeza del partido nazi en Bélgica en la Segunda... (1 de 5) - Fondo Car-Kutxa Fototeka.jpg (CC BY-SA 3.0)
+
+204 | 19:50.9–19:55.9 (5.0 s) | Un bombardero alemán Heinkel vuela sobre el golfo de Vizcaya, casi sin combustible.
+      FOTO [COM]: Aterrizaje en la playa de la Concha del bombardero modelo Heinkel 111, que venía directamente desde Noruega de Léon Degrelle, piloto belga y cabeza del partido nazi en Bélgica en la Segunda... (2 de 5) - Fondo Car-Kutxa Fototeka.jpg (CC BY-SA 3.0)
+
+205 | 19:55.9–20:03.5 (7.6 s) | A bordo viaja Léon Degrelle, el líder fascista belga que había mandado a los voluntarios valones de las Waffen-SS.
+      FOTO [COM]: Aterrizaje en la playa de la Concha del bombardero modelo Heinkel 111, que venía directamente desde Noruega de Léon Degrelle, piloto belga y cabeza del partido nazi en Bélgica en la Segunda... (3 de 5) - Fondo Car-Kutxa Fototeka.jpg (CC BY-SA 3.0)
+
+206 | 20:03.5–20:10.9 (7.4 s) | Había despegado de Noruega, una de las últimas tierras que seguían en manos alemanas. Su destino era la España de Franco.
+      GRÁFICO propio (206.png, herramientas/graficos_waffenss.py)
+
+207 | 20:10.9–20:17.4 (6.5 s) | El avión no llegó a ningún aeropuerto. Se estrelló en la playa de La Concha, en San Sebastián.
+      FOTO [COM]: Aterrizaje en la playa de la Concha del bombardero modelo Heinkel 111, que venía directamente desde Noruega de Léon Degrelle, piloto belga y cabeza del partido nazi en Bélgica en la Segunda... (4 de 5) - Fondo Car-Kutxa Fototeka.jpg (CC BY-SA 3.0)
+
+208 | 20:17.4–20:20.5 (3.1 s) | Degrelle salió de los restos con graves heridas.
+      FOTO [COM]: Aterrizaje en la playa de la Concha del bombardero modelo Heinkel 111, que venía directamente desde Noruega de Léon Degrelle, piloto belga y cabeza del partido nazi en Bélgica en la Segunda... (5 de 5) - Fondo Car-Kutxa Fototeka.jpg (CC BY-SA 3.0)
+
+209 | 20:20.5–20:25.8 (5.3 s) | Bélgica lo había condenado a muerte por traición y pidió su entrega una y otra vez.
+      FOTO [COM]: Degrelle Lippert.jpg (CC0)
+
+210 | 20:25.8–20:35.5 (9.7 s) | España se negó, primero alegando su estado de salud y después con silencio. En 1954, Degrelle obtuvo la nacionalidad española.
+      FOTO [COM]: Degrelle, Leon.jpg (Public domain)
+
+211 | 20:35.5–20:43.1 (7.6 s) | Vivió en España durante casi medio siglo, escribió libros, concedió entrevistas en las que defendía el nazismo y negaba el Holocausto,
+      FOTO [COM]: Léon Degrelle à Charleroi - 01.jpg (Public domain)
+
+212 | 20:43.1–20:48.5 (5.5 s) | y murió en Málaga en 1994, con ochenta y siete años.
+      FOTO [COM]: Léon Degrelle à Charleroi - 02.jpg (Public domain)
+
+213 | 20:48.5–20:52.0 (3.4 s) | España fue también el refugio de otro hombre.
+      FOTO [COM]: Otto Skorzeny portait.jpg (Public domain)
+
+214 | 20:52.0–20:59.4 (7.4 s) | Otto Skorzeny, el oficial austríaco de las Waffen-SS famoso por el rescate de Mussolini en 1943.
+      FOTO [BA]: Bundesarchiv Bild 101I-567-1503A-07, Gran Sasso, Mussolini mit deutschen Fallschirmjägern.jpg (CC BY-SA 3.0 de)
+
+215 | 20:59.4–21:03.1 (3.7 s) | Después de la guerra fue juzgado por los americanos y absuelto.
+      FOTO [BA]: Bundesarchiv Bild 101I-567-1503A-08, Gran Sasso, Skorzeny, Mussolini mit Fallschirmjägern.jpg (CC BY-SA 3.0 de)
+
+216 | 21:03.1–21:08.5 (5.4 s) | Pero seguía internado en un campo de Darmstadt a la espera de su proceso de desnazificación.
+      FOTO [BA]: Bundesarchiv Bild 101I-567-1503C-15, Gran Sasso, Mussolini vor Hotel.jpg (CC BY-SA 3.0 de)
+
+217 | 21:08.5–21:15.4 (6.9 s) | En 1948 se escapó. Él mismo afirmó años después que lo habían ayudado antiguos camaradas,
+      FOTO [BA]: Bundesarchiv Bild 101I-567-1503C-16, Gran Sasso, Mussolini vor Hotel.jpg (CC BY-SA 3.0 de)
+
+218 | 21:15.4–21:21.1 (5.7 s) | y circularon rumores de que los servicios secretos estadounidenses miraron hacia otro lado.
+      FOTO [BA]: Bundesarchiv Bild 101I-567-1503C-17, Gran Sasso, Mussolini vor Hotel.jpg (CC BY-SA 3.0 de)
+
+219 | 21:21.1–21:28.6 (7.5 s) | Terminó en Madrid, donde montó una empresa y vivió con total tranquilidad hasta su muerte en 1975.
+      FOTO [BA]: Bundesarchiv Bild 101I-567-1503C-18, Gran Sasso, Mussolini vor Hotel.jpg (CC BY-SA 3.0 de)
+
+220 | 21:28.6–21:32.7 (4.1 s) | Y luego estaba Argentina. Durante décadas se habló de ODESSA,
+      FOTO [COM]: Hudalkurtefinished.png (CC BY-SA 4.0)
+
+221 | 21:32.7–21:41.9 (9.2 s) | una supuesta organización secreta de antiguos miembros de las SS que habría sacado de Europa a miles de criminales con dinero, documentos y casas seguras.
+      FOTO [COM]: Alois Hudal Santa Maria dell'Anima ca 1940.jpg (CC BY-SA 4.0)
+
+222 | 21:41.9–21:46.3 (4.4 s) | La idea se hizo famosa gracias a una novela de 1972.
+      FOTO [COM]: Alois Hudal (Grabtafel).jpg (CC BY-SA 4.0)
+
+223 | 21:46.3–21:52.8 (6.6 s) | Pero la mayoría de los historiadores coinciden en que ODESSA, como gran red organizada, nunca existió.
+      FOTO [COM]: Cabildo de Buenos Aires en 1950.jpg (Public domain)
+
+224 | 21:52.8–21:59.1 (6.3 s) | Lo que sí existió fue algo más sencillo, y quizá más inquietante. Las llamadas rutas de las ratas.
+      FOTO [COM]: Amérique - Amérique du Sud - Argentine - Région de Pampas - Ville fédérale de Buenos Aires - Buenos Aires - Port de Buenos Aires - Prise de vue 1-2 (MédiHAL 1805097).jpg (Licence Ouverte 2.0)
+
+225 | 21:59.1–22:01.8 (2.7 s) | Caminos de fuga a través de Austria e Italia,
+      GRÁFICO propio (225.png, herramientas/graficos_waffenss.py)
+
+226 | 22:01.8–22:06.4 (4.6 s) | con la ayuda de algunos sacerdotes como el obispo austríaco Alois Hudal en Roma,
+      FOTO [COM]: Amérique - Amérique du Sud - Argentine - Région de Pampas - Ville fédérale de Buenos Aires - Buenos Aires - Port de Buenos Aires - Prise de vue 2-2 (MédiHAL 1805099).jpg (Licence Ouverte 2.0)
+
+227 | 22:06.4–22:12.4 (6.0 s) | documentos de viaje de la Cruz Roja obtenidos con identidades falsas y un gobierno argentino, el de Perón,
+      FOTO [COM]: Signac - Harbor of Le Trieux, 1925, 1950.295.jpg (PDM, Public domain)
+
+228 | 22:12.4–22:17.7 (5.3 s) | dispuesto a recibir a técnicos y militares alemanes sin hacer demasiadas preguntas.
+      FOTO [COM]: Alois Hudal signature.jpg (Public domain)
+
+229 | 22:17.7–22:23.9 (6.2 s) | Por esa ruta pasó Josef Mengele. En 1949 salió de su escondite en Baviera,
+      FOTO [COM]: Josef Mengele, Auschwitz. Album Höcker (cropped) b.jpg (Public domain)
+
+230 | 22:23.9–22:30.8 (6.9 s) | cruzó los Alpes hacia Italia y embarcó en el puerto de Génova con un documento de la Cruz Roja a nombre de Helmut Gregor.
+      GRÁFICO propio (230.png, herramientas/graficos_waffenss.py)
+
+231 | 22:30.8–22:35.8 (5.0 s) | Llegó a Buenos Aires. Después vivió en Paraguay y en Brasil. Nunca fue capturado.
+      FOTO [COM]: Kramer, Mengele, Baer, Höcker, Schmidetzki.jpg (Public domain)
+
+232 | 22:35.8–22:40.6 (4.8 s) | Murió ahogado en una playa de Brasil, en 1979.
+      FOTO [COM]: Mengele Pavillon.jpg (CC BY-SA 4.0)
+
+233 | 22:40.6–22:49.4 (8.8 s) | Pero para muchos antiguos soldados de las Waffen-SS sin dinero ni contactos, la huida tuvo otro nombre. La Legión Extranjera francesa.
+      FOTO [COM]: Legion1PW.jpg (Public domain)
+
+234 | 22:49.4–22:51.9 (2.4 s) | Existe una leyenda muy extendida.
+      FOTO [COM]: Captain gallant full.JPG (Public domain)
+
+235 | 22:51.9–22:58.4 (6.5 s) | Que miles de veteranos de las SS se alistaron en la Legión para escapar de la justicia y terminaron luchando en Indochina,
+      FOTO [COM]: Raymond Tournoux et le Colonel Jeanpierre du 1er REP en mars 1958 (Algérie).jpg (CC BY-SA 4.0)
+
+236 | 22:58.4–23:02.3 (3.9 s) | en la selva de Vietnam, contra los guerrilleros comunistas.
+      FOTO [COM]: Bataille de Na San.png (Public domain)
+
+237 | 23:02.3–23:08.4 (6.1 s) | Hasta se publicó un libro, en 1971, que pretendía ser las memorias de uno de ellos.
+      FOTO [COM]: Camp retranché de Na San nov-déc 1952.jpg (Public domain)
+
+238 | 23:08.4–23:14.4 (6.1 s) | La realidad es más modesta. La Legión sí reclutó a decenas de miles de alemanes en la posguerra,
+      IMAGEN IA (medios/238.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, French Foreign Legion recruitment office 1947, young men in shabby coats waiting in line
+
+239 | 23:14.4–23:18.1 (3.7 s) | muchos de ellos antiguos soldados sin trabajo y sin futuro.
+      IMAGEN IA (medios/239.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, young unemployed German men sitting on the steps of a ruined building 1947, shabby clothes
+
+240 | 23:18.1–23:23.3 (5.2 s) | Y entre ellos hubo, sin duda, hombres de las Waffen-SS que ocultaron su pasado.
+      IMAGEN IA (medios/240.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, a legionnaire in a kepi blanc looking away, his face half in shadow, barracks 1950
+
+241 | 23:23.3–23:29.1 (5.8 s) | Pero los historiadores creen que fueron una minoría, y que la cifra se ha exagerado mucho.
+      IMAGEN IA (medios/241.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, French Foreign Legion soldiers marching in the jungle of Indochina 1951, rifles, heat
+
+242 | 23:29.1–23:35.8 (6.7 s) | El libro de 1971, según la mayoría de los expertos, era en gran parte ficción.
+      IMAGEN IA (medios/242.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, an old paperback war novel lying on a wooden table, worn cover without text, 1971
+
+243 | 23:35.8–23:42.9 (7.1 s) | Unos huían hacia el sur. Otros hacia el oeste. Pero había cientos de miles que no podían ir a ninguna parte.
+      FOTO [COM]: NSB-ers en collaborateurs aangehouden, Bestanddeelnr 900-2709.jpg (CC0)
+
+244 | 23:42.9–23:47.0 (4.1 s) | Porque si eras alemán, al final siempre podías volver a Alemania.
+      FOTO [COM]: Massagraf te Waalsdorp. Duitse oorlogsmisdadigers en Nederlandse collaborateurs , Bestanddeelnr 120-0622.jpg (CC0)
+
+245 | 23:47.0–23:54.0 (7.0 s) | Pero ¿qué pasaba si eras noruego, holandés, belga, francés o letón, y habías vestido el uniforme de las SS?
+      GRÁFICO propio (245.png, herramientas/graficos_waffenss.py)
+
+246 | 23:54.0–24:01.7 (7.7 s) | Para los voluntarios de Europa occidental, la respuesta llegó rápido. Al volver a casa, fueron juzgados como colaboracionistas.
+      FOTO [COM]: Massagraf te Waalsdorp. Duitse oorlogsmisdadigers en Nederlandse collaborateurs , Bestanddeelnr 900-5763.jpg (CC0)
+
+247 | 24:01.7–24:07.9 (6.1 s) | En Noruega, Dinamarca, Holanda y Bélgica, miles de antiguos voluntarios pasaron por los tribunales.
+      FOTO [COM]: Massagraf te Waalsdorp. Duitse oorlogsmisdadigers en Nederlandse collaborateurs , Bestanddeelnr 900-5764.jpg (CC0)
+
+248 | 24:07.9–24:13.9 (6.1 s) | La mayoría recibió penas de prisión, perdió sus derechos civiles o su nacionalidad durante años.
+      FOTO [COM]: Een groep opgepakte collaborateurs wordt onder bewaking afgevoerd locatie hoek , Bestanddeelnr 900-4256.jpg (CC0)
+
+249 | 24:13.9–24:18.5 (4.6 s) | Algunos de los que habían participado en asesinatos fueron condenados a muerte.
+      FOTO [COM]: Een groep opgepakte collaborateurs wordt onder bewaking afgevoerd locatie Velpe, Bestanddeelnr 900-4257.jpg (CC0)
+
+250 | 24:18.5–24:23.3 (4.8 s) | Los franceses de la división Charlemagne tuvieron uno de los finales más extraños de todos.
+      FOTO [COM]: REI FSZ Kugelbach 02.jpg (CC BY-SA 3.0)
+
+251 | 24:23.3–24:30.6 (7.3 s) | En los últimos días de abril de 1945, unos pocos cientos de ellos estaban entre los últimos defensores de Berlín,
+      FOTO [COM]: REI FSZ Kugelbach 01.jpg (CC BY-SA 3.0)
+
+252 | 24:30.6–24:35.1 (4.5 s) | peleando calle por calle a pocos cientos de metros del búnker de Hitler.
+      FOTO [COM]: REI FSZ Soldaten 1WK.jpg (CC BY-SA 3.0)
+
+253 | 24:35.1–24:43.2 (8.1 s) | Casi todos murieron o fueron capturados por los soviéticos. Los supervivientes que lograron volver a Francia fueron juzgados por colaboración.
+      FOTO [COM]: A) Officiers de la LVF puis de la Division Charlemagne 02.jpg (CC BY-SA 4.0)
+
+254 | 24:43.2–24:49.6 (6.5 s) | Según varios testimonios, a algunos se les ofreció una salida. La cárcel o la Legión Extranjera.
+      FOTO [COM]: Bad Reichenhall Alte Saline 773.jpg (CC BY-SA 3.0)
+
+255 | 24:49.6–24:53.4 (3.8 s) | Y unos cuantos eligieron ir a combatir a Indochina con otro uniforme.
+      IMAGEN IA (medios/255.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, French Foreign Legion soldiers boarding a troop ship for Indochina 1950, harbor
+
+256 | 24:53.4–24:56.6 (3.2 s) | En el este, la historia fue mucho más complicada.
+      FOTO [BA]: Bundesarchiv Bild 101I-702-0420-35, Lettland, Riga, Beisetzung.jpg (CC BY-SA 3.0 de)
+
+257 | 24:56.6–24:58.0 (1.4 s) | Cuando la guerra terminó,
+      FOTO [COM]: Voldemārs Veiss .jpg (CC BY-SA 4.0)
+
+258 | 24:58.0–25:05.6 (7.6 s) | miles de soldados de las legiones letona y estonia de las Waffen-SS lograron rendirse a los británicos y a los americanos.
+      FOTO [COM]: Памятник битве у Море.jpg (Public domain)
+
+259 | 25:05.6–25:10.6 (5.0 s) | Muchos acabaron en un enorme campo de prisioneros en Zedelgem, en Bélgica.
+      FOTO [COM]: GrabWaldemarWeiss.jpg (CC BY-SA 3.0, GFDL)
+
+260 | 25:10.6–25:16.2 (5.6 s) | Volver a casa significaba volver a la Unión Soviética, que había ocupado otra vez sus países.
+      FOTO [COM]: 3 1 0 17 12541 34808 1938-05 SA-Oberführer Horst von Petersdorff Berlin 1938-05 Commemorative ceremony Riga Latvia German Freikorps in Baltic 1919 Eiserne Division Und doch banners nazi propaganda Narodowe Archiwum Cyfrowe PD.jpg (PDM, Public domain)
+
+261 | 25:16.2–25:19.9 (3.7 s) | Y eso significaba la cárcel, el gulag o algo peor.
+      FOTO [COM]: Latvian Legion conscription order.jpg (Public domain)
+
+262 | 25:19.9–25:26.5 (6.6 s) | Para Occidente, aquellos hombres eran un problema incómodo. Habían vestido el uniforme de las SS.
+      FOTO [COM]: Parches de cuello de la 15.SS.jpg (CC BY-SA 4.0)
+
+263 | 25:26.5–25:32.4 (5.9 s) | Algunos habían pertenecido antes a unidades policiales que participaron en el asesinato de judíos.
+      FOTO [COM]: Emblema de la 15. División.png (CC BY-SA 4.0)
+
+264 | 25:32.4–25:37.3 (4.9 s) | Pero muchos otros habían sido reclutados a la fuerza, y ahora huían de Stalin.
+      IMAGEN IA (medios/264.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, refugees with suitcases walking on a muddy road in a displaced persons camp 1946, barracks
+
+265 | 25:37.3–25:45.7 (8.3 s) | En septiembre de 1950, la comisión estadounidense encargada de los refugiados tomó una decisión que todavía hoy genera polémica.
+      FOTO [COM]: Barletta DP camp, 1947 (002).tif (CC BY-SA 3.0)
+
+266 | 25:45.7–25:52.1 (6.4 s) | Declaró que las legiones bálticas de las Waffen-SS no podían considerarse un movimiento hostil a Estados Unidos,
+      FOTO [COM]: Barletta DP camp, 1947 (007).tif (CC BY-SA 3.0)
+
+267 | 25:52.1–25:58.2 (6.1 s) | porque se diferenciaban de las SS alemanas en su origen, su ideología y su forma de reclutamiento.
+      FOTO [COM]: Barletta DP camp, 1947 (021).tif (CC BY-SA 3.0)
+
+268 | 25:58.2–26:02.4 (4.2 s) | Desde ese momento, sus antiguos miembros pudieron emigrar a América.
+      FOTO [COM]: Barletta DP camp, 1947 (049).tif (CC BY-SA 3.0)
+
+269 | 26:02.4–26:09.3 (6.8 s) | Algo parecido ocurrió con la división Galitzia, formada por voluntarios ucranianos en 1943.
+      FOTO [COM]: Parade galizia recruits lviv 18.07.43.jpg (Public domain)
+
+270 | 26:09.3–26:16.1 (6.8 s) | Unos diez mil de sus hombres se rindieron a los británicos en Austria y pasaron dos años en un campo de prisioneros en Rimini,
+      FOTO [COM]: Керівництво Галичини вітає добровольців. На передньому плані - Голова Військової Управи полк. Бізанц..jpg (PDM, Public domain)
+
+271 | 26:16.1–26:21.8 (5.7 s) | en Italia. La Unión Soviética exigía su entrega. Los británicos se negaron.
+      FOTO [COM]: Monument to the 14th Waffen Grenadier Division of the SS "Galicia" in an Elkins Park Cemetery.jpg (PDM, Public domain)
+
+272 | 26:21.8–26:28.9 (7.1 s) | En 1947 los trasladaron a Gran Bretaña, y en los años siguientes muchos emigraron a Canadá.
+      FOTO [COM]: Zumkampf.jpg (Public domain)
+
+273 | 26:28.9–26:33.6 (4.7 s) | Y a los que cayeron en manos soviéticas, la historia los trató de otra forma.
+      FOTO [COM]: Soviet POWs.jpg (CC BY 4.0, Public domain)
+
+274 | 26:33.6–26:39.8 (6.3 s) | Para Moscú no había matices. No existían reclutados a la fuerza ni soldados como los demás.
+      FOTO [COM]: Soviet Prisoners of War in Finland, Winter War.jpg (Public domain)
+
+275 | 26:39.8–26:44.6 (4.8 s) | Quien llevaba la marca de las SS era un criminal de guerra, y punto.
+      FOTO [COM]: Prisoner of war, mass, Soviet soldier Fortepan 73897.jpg (Public domain)
+
+276 | 26:44.6–26:48.8 (4.2 s) | Miles de prisioneros alemanes, y entre ellos muchos de las Waffen-SS,
+      FOTO [COM]: Movie camera, prisoner of war, war correspondent, Soviet soldier, woman soldier Fortepan 29158.jpg (Public domain)
+
+277 | 26:48.8–26:55.9 (7.1 s) | pasaron años en campos de trabajo repartidos desde Ucrania hasta Siberia, reconstruyendo las fábricas,
+      FOTO [COM]: Soviet prisoners of war under the Lithuanian rebels (Lithuanian Activist Front) control in Eastern Lithuania, 1941.jpg (Public domain)
+
+278 | 26:55.9–27:03.2 (7.2 s) | los puentes y las ciudades que su ejército había destruido. Picaban piedra, talaban bosques, bajaban a las minas.
+      FOTO [COM]: German pows stalingrad 1943.jpg (Public domain)
+
+279 | 27:03.2–27:07.6 (4.4 s) | Muchos murieron allí, de hambre, de frío o de agotamiento.
+      FOTO [COM]: Military, prisoner of war, horse, Soviet soldier Fortepan 29114.jpg (Public domain)
+
+280 | 27:07.6–27:13.8 (6.2 s) | A finales de los años cuarenta, cuando la mayoría de los prisioneros alemanes comenzaba a volver a casa,
+      FOTO [COM]: Prisoner of war, Soviet soldier Fortepan 73898.jpg (Public domain)
+
+281 | 27:13.8–27:19.8 (6.0 s) | la Unión Soviética hizo algo más. Organizó juicios rápidos, a veces de pocos minutos,
+      FOTO [COM]: Red Army soldiers as prisoners of war in the town square of Leipalingis, July 1941, Lithuania.jpg (Public domain)
+
+282 | 27:19.8–27:25.2 (5.4 s) | en los que miles de prisioneros fueron condenados a veinticinco años de trabajos forzados.
+      FOTO [COM]: Russian prisoners of war laukovat mine Vuosalmi 2.9. 1941..jpg (Public domain)
+
+283 | 27:25.2–27:30.4 (5.2 s) | Para los hombres de las SS, bastaba con haber pertenecido a la unidad equivocada.
+      IMAGEN IA (medios/283.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, German prisoners of war with shaved heads marching in a Soviet labor camp in the snow, guards, 1949
+
+284 | 27:30.4–27:34.5 (4.1 s) | Sus familias en Alemania pasaron años sin saber si seguían vivos.
+      FOTO [BA]: Bundesarchiv B 145 Bild-F003028-0001, Lager Friedland, Ankunft von Kriegsheimkehrern.jpg (CC BY-SA 3.0 de)
+
+285 | 27:34.5–27:45.0 (10.5 s) | Los últimos no regresaron hasta 1955 y 1956, después de que el canciller Adenauer viajara a Moscú a negociar su liberación.
+      FOTO [BA]: Bundesarchiv B 145 Bild-F003023-0009, Lager Friedland, suchende Angehörige.jpg (CC BY-SA 3.0 de)
+
+286 | 27:45.0–27:51.8 (6.8 s) | Cuando bajaron de los trenes en el campo de Friedland, en Alemania Occidental, muchas madres no reconocieron a sus hijos.
+      FOTO [BA]: Bundesarchiv B 145 Bild-F003028-0007, Lager Friedland, suchende Angehörige.jpg (CC BY-SA 3.0 de)
+
+287 | 27:51.8–27:55.2 (3.4 s) | Habían pasado más de diez años desde el fin de la guerra.
+      FOTO [BA]: Bundesarchiv Bild 146-1987-053-38, Lager Friedland, Ankunft von Kriegsheimkehrern.jpg (CC BY-SA 3.0 de)
+
+288 | 27:55.2–28:02.7 (7.5 s) | Una guerra, un uniforme, y destinos completamente distintos según el lado de la frontera en que te sorprendiera la paz.
+      FOTO [COM]: Brunnen am Grenzdurchgangslager 1.jpg (CC BY 4.0)
+
+289 | 28:02.7–28:07.7 (5.0 s) | Pero el pasado tenía una costumbre. Volver cuando nadie lo esperaba.
+      FOTO [COM]: Brunnen am Grenzdurchgangslager 4.jpg (CC BY 4.0)
+
+290 | 28:07.7–28:15.9 (8.2 s) | Traves, Francia, julio de 1976. Un pequeño pueblo del este del país, cerca de la frontera con Suiza.
+      FOTO [COM]: Traves église 8.JPG (CC BY-SA 3.0, GFDL)
+
+291 | 28:15.9–28:24.1 (8.2 s) | En una casa junto al río vive desde hace años un alemán discreto, que se gana la vida como traductor. Es Joachim Peiper.
+      FOTO [COM]: Traves. Maison de justice.jpg (CC BY-SA 4.0)
+
+292 | 28:24.1–28:27.2 (3.1 s) | Durante un tiempo, nadie en el pueblo supo quién era.
+      FOTO [COM]: Joachim Peiper grave.jpg (CC BY-SA 4.0)
+
+293 | 28:27.2–28:38.0 (10.8 s) | Pero en 1976 un periódico francés publicó su nombre y su pasado. Empezaron a aparecer pintadas en las paredes. Llegaron amenazas.
+      IMAGEN IA (medios/293.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, graffiti painted on a stone wall of a French village house, night, 1976, text unreadable
+
+294 | 28:38.0–28:44.4 (6.4 s) | En la noche del 13 al 14 de julio, la fiesta nacional francesa, su casa fue atacada e incendiada.
+      IMAGEN IA (medios/294.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, a stone house burning at night beside a river, flames and smoke, rural France 1976
+
+295 | 28:44.4–28:51.5 (7.0 s) | A la mañana siguiente encontraron un cuerpo calcinado entre los escombros. Los autores nunca fueron identificados ni juzgados.
+      IMAGEN IA (medios/295.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, burned ruins of a house at dawn, smoke, firemen standing, rural France 1976
+
+296 | 28:51.5–28:54.6 (3.1 s) | Treinta años después de su condena a muerte en Dachau,
+      IMAGEN IA (medios/296.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, a river bank in rural eastern France at dawn with mist, quiet, 1976
+
+297 | 28:54.6–28:58.5 (3.9 s) | la guerra había alcanzado a Peiper en la orilla de un río francés.
+      IMAGEN IA (medios/297.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, charred roof beams against the sky after a fire, black and white
+
+298 | 28:58.5–29:03.5 (5.1 s) | Nueve años más tarde, el pasado de las Waffen-SS llegó hasta la Casa Blanca.
+      FOTO [COM]: Bitburg (Eifel); Soldatenfriedhof und Kriegsgräberstätte Kolmeshöhe d.jpg (CC BY-SA 3.0)
+
+299 | 29:03.5–29:08.7 (5.1 s) | En 1985, para el cuadragésimo aniversario del fin de la guerra,
+      FOTO [COM]: Bitburg (Eifel); Soldatenfriedhof und Kriegsgräberstätte Kolmeshöhe e.jpg (CC BY-SA 3.0)
+
+300 | 29:08.7–29:16.0 (7.3 s) | el presidente estadounidense Ronald Reagan y el canciller alemán Helmut Kohl planearon un gesto de reconciliación.
+      FOTO [COM]: Bitburg (Eifel); Soldatenfriedhof und Kriegsgräberstätte Kolmeshöhe a.jpg (CC BY-SA 3.0)
+
+301 | 29:16.0–29:19.8 (3.8 s) | Una visita conjunta a un cementerio militar alemán en Bitburg.
+      FOTO [COM]: 2985818 Gräber deutscher Soldaten, Kriegsgräberstätte Bitburg-Kolmeshöhe 2016.jpg (Public domain)
+
+302 | 29:19.8–29:27.4 (7.6 s) | Entonces se descubrió que entre las cerca de dos mil tumbas de aquel cementerio había cuarenta y nueve de soldados de las Waffen-SS.
+      FOTO [COM]: Bitburg (Eifel); Soldatenfriedhof und Kriegsgräberstätte Kolmeshöhe h.jpg (CC BY-SA 3.0)
+
+303 | 29:27.4–29:36.5 (9.1 s) | Las protestas fueron enormes. Veteranos estadounidenses, supervivientes del Holocausto y congresistas pidieron a Reagan que cancelara la visita.
+      FOTO [COM]: Bitburg (Eifel); Soldatenfriedhof und Kriegsgräberstätte Kolmeshöhe q.jpg (CC BY-SA 3.0)
+
+304 | 29:36.5–29:43.6 (7.2 s) | El escritor Elie Wiesel, superviviente de Auschwitz, se lo pidió en persona, delante de las cámaras de televisión.
+      FOTO [COM]: Bitburg (Eifel); Soldatenfriedhof und Kriegsgräberstätte Kolmeshöhe f.jpg (CC BY-SA 3.0)
+
+305 | 29:43.6–29:48.0 (4.4 s) | Reagan mantuvo el viaje, aunque añadió una visita al antiguo campo de Bergen-Belsen.
+      FOTO [COM]: Bitburg (Eifel); Soldatenfriedhof und Kriegsgräberstätte Kolmeshöhe o.jpg (CC BY-SA 3.0)
+
+306 | 29:48.0–29:51.2 (3.1 s) | El 5 de mayo de 1985 depositó una corona en Bitburg. Pasó allí apenas ocho minutos.
+      FOTO [COM]: Bitburg (Eifel); Soldatenfriedhof und Kriegsgräberstätte Kolmeshöhe n.jpg (CC BY-SA 3.0)
+
+307 | 29:51.2–29:53.3 (2.1 s) | Nadie ha olvidado esos ocho minutos.
+      FOTO [COM]: Bitburg (Eifel); Soldatenfriedhof und Kriegsgräberstätte Kolmeshöhe m.jpg (CC BY-SA 3.0)
+
+308 | 29:53.3–30:03.7 (10.5 s) | En 2006, el pasado volvió con la voz de uno de los escritores más famosos de Alemania.
+      FOTO [COM]: Günter Grass auf dem Blauen Sofa.jpg (CC BY 2.0)
+
+309 | 30:03.7–30:10.6 (6.8 s) | Günter Grass, premio Nobel de Literatura, que durante décadas había exigido a su país enfrentarse a su historia nazi,
+      FOTO [COM]: Quotation from "The Tin Drum" at Gdańsk Główny train station.jpg (Public domain)
+
+310 | 30:10.6–30:17.2 (6.6 s) | reveló en una entrevista que a los diecisiete años había sido reclutado en una división de las Waffen-SS, la Frundsberg.
+      FOTO [COM]: Anwesen Günter und Ute Grass 2025.jpg (CC BY-SA 4.0)
+
+311 | 30:17.2–30:20.4 (3.2 s) | Lo había callado durante más de sesenta años.
+      FOTO [COM]: Alfred Doeblin Haus Wewelsfleth 2009.jpg (Public domain)
+
+312 | 30:20.4–30:25.4 (5.0 s) | No se le acusaba de ningún crimen. Pero la pregunta golpeó a toda Alemania.
+      FOTO [COM]: Grave Guenter Grass in Behlendorf.jpg (CC BY 3.0, GFDL)
+
+313 | 30:25.4–30:30.0 (4.6 s) | Si incluso él había guardado silencio, ¿cuántos más lo habían hecho?
+      FOTO [COM]: Fassade GGH 2021.jpg (CC BY-SA 4.0)
+
+314 | 30:30.0–30:38.1 (8.1 s) | Y la justicia, aunque tarde, también volvió. En 2010, un tribunal de Aquisgrán condenó a cadena perpetua a Heinrich Boere,
+      FOTO [COM]: Aachen Landgericht.jpg (CC BY-SA 3.0, GFDL)
+
+315 | 30:38.1–30:48.1 (10.0 s) | un antiguo voluntario holandés de las Waffen-SS que en 1944 había asesinado a tres civiles en Holanda como parte de un comando de represalias.
+      FOTO [COM]: Aachen Landgericht West.jpg (CC BY-SA 3.0, GFDL)
+
+316 | 30:48.1–30:56.6 (8.4 s) | Holanda lo había condenado en 1949, pero él había huido a Alemania y vivió tranquilo durante sesenta años.
+      FOTO [COM]: 20200904 Justizzentrum Aachen 02.jpg (CC BY 4.0)
+
+317 | 30:56.6–31:01.2 (4.6 s) | Tenía ochenta y ocho años cuando escuchó la sentencia. Murió en prisión.
+      FOTO [COM]: Amts- und Landgericht, Aachen.JPG (CC BY 3.0, GFDL)
+
+318 | 31:01.2–31:03.9 (2.7 s) | Incluso el dinero se convirtió en un escándalo.
+      FOTO [BA]: Bundesarchiv B 145 Bild-F091457-0006, Bundestag, Plenarsaal während Sitzung.jpg (CC BY-SA 3.0 de)
+
+319 | 31:03.9–31:09.6 (5.7 s) | Durante décadas, Alemania pagó pensiones de invalidez de guerra a soldados heridos en combate,
+      FOTO [BA]: Bundesarchiv B 145 Bild-F091457-0001, Bundestag, Plenarsaal vor Säuberung.jpg (CC BY-SA 3.0 de)
+
+320 | 31:09.6–31:14.9 (5.3 s) | y entre ellos había antiguos miembros de las Waffen-SS, también extranjeros,
+      FOTO [BA]: Bundesarchiv B 145 Bild-F091457-0003, Bundestag, Plenarsaal während Sitzung.jpg (CC BY-SA 3.0 de)
+
+321 | 31:14.9–31:20.1 (5.2 s) | mientras muchas víctimas del nazismo en Europa del Este apenas habían recibido nada.
+      FOTO [BA]: Bundesarchiv B 145 Bild-F091457-0004, Bundestag, Plenarsaal während Sitzung.jpg (CC BY-SA 3.0 de)
+
+322 | 31:20.1–31:28.0 (7.8 s) | En 1998, el parlamento alemán aprobó una cláusula para retirar esas pensiones a los responsables de crímenes.
+      FOTO [BA]: Bundesarchiv B 145 Bild-F091457-0007, Bundestag, Plenarsaal während Sitzung.jpg (CC BY-SA 3.0 de)
+
+323 | 31:28.0–31:33.4 (5.4 s) | Años después, en Bélgica y Holanda, la polémica todavía volvía a los periódicos.
+      FOTO [BA]: Bundesarchiv B 145 Bild-F091457-0005, Bundestag, Plenarsaal während Sitzung.jpg (CC BY-SA 3.0 de)
+
+324 | 31:33.4–31:36.3 (2.9 s) | Y en Letonia, cada 16 de marzo,
+      FOTO [COM]: Den Lotyšské legie (17).jpg (CC BY 3.0)
+
+325 | 31:36.3–31:43.5 (7.2 s) | algunos antiguos legionarios y sus simpatizantes desfilan por el centro de Riga para recordar a los caídos de la legión letona,
+      FOTO [COM]: Den Lotyšské legie (6).jpg (CC BY 3.0)
+
+326 | 31:43.5–31:49.1 (5.6 s) | entre protestas de quienes ven en ese homenaje una forma de blanquear el uniforme de las SS.
+      IMAGEN IA (medios/326.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, protesters holding signs on a city street in Riga in winter, police line, 2010s
+
+327 | 31:49.1–31:59.0 (9.8 s) | El último eco llegó en septiembre de 2023, en Ottawa. El presidente de Ucrania, Volodímir Zelenski, visitaba el Parlamento de Canadá.
+      FOTO [COM]: West Block Temp House of Commons, 2022.jpg (CC BY-SA 4.0)
+
+328 | 31:59.0–32:04.4 (5.4 s) | En la tribuna de invitados había un anciano de noventa y ocho años, Yaroslav Hunka.
+      FOTO [COM]: Diefenbaker addressing the House of Commons Jan 1959 (4301796).jpg (Public domain)
+
+329 | 32:04.4–32:09.4 (5.0 s) | El presidente de la Cámara lo presentó como un héroe de guerra que había luchado contra los rusos,
+      FOTO [COM]: House of Commons at West Block.jpg (CC BY-SA 4.0)
+
+330 | 32:09.4–32:12.7 (3.4 s) | y todo el Parlamento se puso de pie para aplaudirlo.
+      FOTO [COM]: Parliament2.jpg (CC BY-SA 3.0, GFDL)
+
+331 | 32:12.7–32:18.7 (5.9 s) | En pocas horas se supo que Hunka había servido en la división Galitzia de las Waffen-SS.
+      FOTO [COM]: The Parliament. The House of Commons Chamber - Ottawa, Canada - panoramio.jpg (CC BY-SA 3.0)
+
+332 | 32:18.7–32:24.0 (5.4 s) | El presidente de la Cámara tuvo que dimitir. El gobierno canadiense pidió perdón públicamente.
+      FOTO [COM]: House of Commons Canada, Ottawa.jpg (CC BY 2.0)
+
+333 | 32:24.0–32:31.1 (7.1 s) | Setenta y ocho años después del fin de la guerra, un uniforme volvía a ocupar los titulares de todo el mundo.
+      FOTO [COM]: Commons Chamber showing, Speaker's Chair, Clerk's table and rear gallery, House of Commons, Parliament Buildings.jpg (PD-1923, Public domain)
+
+334 | 32:31.1–32:36.6 (5.4 s) | Entonces, ¿adónde fueron las Waffen-SS después de 1945?
+      GRÁFICO propio (334.png, herramientas/graficos_waffenss.py)
+
+335 | 32:36.6–32:41.8 (5.2 s) | A todas partes. Y esa es precisamente la respuesta más inquietante.
+      FOTO [BA]: Bundesarchiv Bild 101III-Weill-059-26, Metz, Heinrich Himmler.jpg (CC BY-SA 3.0 de)
+
+336 | 32:41.8–32:45.6 (3.8 s) | Joachim Peiper eligió el silencio y una casa junto a un río francés,
+      FOTO [BA]: Bundesarchiv Bild 183-R65485, Joachim Peiper (3x4).jpg (CC BY-SA 3.0 de)
+
+337 | 32:45.6–32:48.6 (3.0 s) | y el pasado lo alcanzó en una noche de fuego.
+      IMAGEN IA (medios/337.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, silhouette of a house on fire at night reflected in a dark river
+
+338 | 32:48.6–32:54.1 (5.5 s) | Kurt Meyer eligió reescribir la historia y murió convertido en héroe para sus antiguos camaradas.
+      FOTO [COM]: Grab Kurt Meyer.jpg (CC BY-SA 4.0)
+
+339 | 32:54.1–32:59.1 (5.0 s) | Léon Degrelle eligió el exilio y la propaganda, y nunca se arrepintió de nada.
+      FOTO [COM]: Léon Degrelle.jpg (Public domain)
+
+340 | 32:59.1–33:04.5 (5.4 s) | Josef Mengele eligió la huida y murió en una playa con un nombre que no era el suyo.
+      FOTO [COM]: Mengele (cropped).jpg (Public domain)
+
+341 | 33:04.5–33:10.5 (6.0 s) | Heinrich Boere eligió esconderse a la vista de todos, y la justicia lo encontró sesenta años tarde.
+      FOTO [COM]: Aachen Landgericht Portal.jpg (CC BY-SA 3.0, GFDL)
+
+342 | 33:10.5–33:14.1 (3.7 s) | Y Günter Grass eligió callar, hasta que ya no pudo más.
+      IMAGEN IA (medios/342.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, an old desk with a typewriter, a pipe and a stack of manuscripts in a dim study, 2006
+
+343 | 33:14.1–33:21.3 (7.2 s) | Pero detrás de esos nombres famosos hubo cientos de miles de hombres anónimos. La mayoría no fue juzgada nunca.
+      FOTO [COM]: Elderly man in Rhodes, Greece (black and white).jpg (CC BY 3.0)
+
+344 | 33:21.3–33:28.7 (7.4 s) | Volvieron a sus pueblos, a sus fábricas, a sus familias. Se casaron, tuvieron hijos, cobraron sus pensiones.
+      FOTO [COM]: Old peasant with dagger and long smoking pipe, Mestia, Svanetia, Georgia (Republic).jpg (Public domain)
+
+345 | 33:28.7–33:34.6 (5.9 s) | Y muchos repitieron hasta el final la misma frase. Que solo eran soldados. Que no sabían nada.
+      FOTO [COM]: Old Asian Man in Black and White.jpg (CC0)
+
+346 | 33:34.6–33:36.4 (1.8 s) | Que la culpa era de otros.
+      IMAGEN IA (medios/346.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, close-up of the hands of an old man folded on a table, 1990s
+
+347 | 33:36.4–33:43.2 (6.8 s) | Los jueces de Núremberg habían dicho otra cosa. Que ese uniforme pertenecía a una organización criminal.
+      CLIP: Universal Newsreel: 1945-11-29 Nuremberg War Crimes Trials Open, desde 116 s
+
+348 | 33:43.2–33:46.7 (3.5 s) | Que podía haber excepciones, pero no inocencia colectiva.
+      CLIP: Universal Newsreel: 1946-10-08 21 Nazi Chiefs Guilty, desde 196 s
+
+349 | 33:46.7–33:50.7 (4.0 s) | El tatuaje en el brazo se podía quemar. La cicatriz se quedaba.
+      GRÁFICO propio (349.png, herramientas/graficos_waffenss.py)
+
+350 | 33:50.7–33:56.2 (5.5 s) | La guerra terminó en 1945. El uniforme no se quitó tan fácilmente.
+      GRÁFICO propio (350.png, herramientas/graficos_waffenss.py)
+
+351 | 33:56.2–34:02.7 (6.6 s) | Ahora quiero saber tu opinión. ¿Crees que los soldados reclutados a la fuerza deben ser juzgados igual que los voluntarios?
+      GRÁFICO propio (351.png, herramientas/graficos_waffenss.py)
+
+352 | 34:02.7–34:09.4 (6.7 s) | Déjamelo en los comentarios, que los leo todos. Y si esta historia te pareció importante, dale like,
+      GRÁFICO propio (352.png, herramientas/graficos_waffenss.py)
+
+353 | 34:09.4–34:14.7 (5.3 s) | compártela y suscríbete para no perderte la próxima historia que los libros prefieren olvidar.
+      GRÁFICO propio (353.png, herramientas/graficos_waffenss.py)

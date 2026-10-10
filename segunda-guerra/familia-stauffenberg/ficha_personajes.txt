@@ -1,0 +1,49 @@
+FICHA DE PERSONAJES — descripción fija usada en todos los prompts de G-Labs (no usar nombres reales en G-Labs)
+
+NINA (pregnant):
+  a German woman in her early thirties with dark brown hair pinned back in a 1940s style, dark intelligent eyes and an oval face, visibly pregnant
+
+NINA (pale and ill):
+  a pale exhausted German woman in her early thirties with dark brown hair loose on the pillow, dark intelligent eyes and an oval face
+
+NINA (1950s):
+  a German woman in her forties with dark hair streaked with gray pinned back, dark intelligent eyes, an oval face and a plain dark 1950s wool dress
+
+NINA (old):
+  an elderly German woman
+
+NINA:
+  a German woman in her twenties to early thirties with dark brown hair pinned back in a 1930s-1940s style, dark intelligent eyes, an oval face and a simple dark dress
+
+CLAUS (1943-1944):
+  a German officer in his mid-thirties with dark wavy hair, a black eye patch over his left eye and an empty right sleeve folded at the wrist, plain field-gray uniform without insignia
+
+CLAUS (1940):
+  a tall slim German officer in his early thirties with dark wavy hair combed back, a strong straight nose and dark eyes, plain field-gray uniform without insignia
+
+CLAUS (1942):
+  a tall slim German officer in his mid-thirties with dark wavy hair combed back, a strong straight nose and dark eyes, plain field-gray uniform without insignia
+
+CLAUS:
+  a tall slim German officer in his twenties with dark wavy hair combed back, a strong straight nose and dark eyes
+
+BERTHOLD:
+  a ten-year-old German boy with short light-brown hair parted to the side in a knitted 1940s sweater and short trousers
+
+HEIMERAN:
+  an eight-year-old German boy with tousled dark-blond hair in a 1940s shirt
+
+FRANZ LUDWIG:
+  a six-year-old German boy with straight brown hair and a round face
+
+VALERIE:
+  a three-year-old German girl with light-brown hair in a short bob and a small smock dress
+
+KONSTANZE:
+  a tiny newborn baby girl wrapped in a white wool blanket
+
+MELITTA:
+  a German woman in her early forties with short dark hair and a determined face in a 1940s leather flying jacket
+
+DR SCHRANK:
+  a German doctor in his fifties with gray hair and round glasses in a white coat
