@@ -22,6 +22,7 @@ from PIL import Image, ImageFilter, ImageDraw, ImageFont, ImageEnhance
 
 FPS = 30
 CRF = '23'  # con grano animado, CRF más bajo dispara el tamaño (CRF 20 + grano 9 ≈ 50 Mbps)
+PRESET = os.environ.get('PRESET', 'veryfast')  # PRESET=ultrafast renderiza más rápido (archivo algo más grande)
 IMG_EXT = ('.jpg', '.jpeg', '.png', '.webp', '.tif', '.tiff')
 VID_EXT = ('.mp4', '.mov', '.webm', '.mkv', '.m4v')
 
@@ -92,13 +93,13 @@ def seg_image(img, dur, W, H, move, out):
     vf = (f"zoompan=z='{zexpr}':x='{x}':y='{y}':d={frames}:s={W}x{H}:fps={FPS},"
           f"{grade(W)}")
     run(['ffmpeg', '-v', 'error', '-y', '-loop', '1', '-i', img, '-vf', vf, '-frames:v', str(frames),
-         '-c:v', 'libx264', '-preset', 'veryfast', '-crf', CRF, '-r', str(FPS), '-an', out])
+         '-c:v', 'libx264', '-preset', PRESET, '-crf', CRF, '-r', str(FPS), '-an', out])
 
 def seg_video(src, dur, W, H, out):
     frames = max(2, round(dur * FPS))
     vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},{grade(W)}")
     run(['ffmpeg', '-v', 'error', '-y', '-stream_loop', '-1', '-i', src, '-vf', vf,
-         '-frames:v', str(frames), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', CRF, '-an', out])
+         '-frames:v', str(frames), '-c:v', 'libx264', '-preset', PRESET, '-crf', CRF, '-an', out])
 
 def find_media(d, n):
     for e in IMG_EXT + VID_EXT:
