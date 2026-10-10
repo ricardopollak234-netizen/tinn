@@ -4,7 +4,7 @@ from topics import R
 S = {x['n']: x['t'] for x in json.load(open(f'{D}/scenes.json'))}
 cands = json.load(open(f'{D}/cands.json')); good = json.load(open(f'{D}/good.json')); clips = json.load(open(f'{D}/clips.json'))
 GRAF = {25, 43, 56, 89, 131, 334, 335, 348, 349, 350, 351, 352}
-FORCE_IA = {'332', '333', '266', '271'}
+FORCE_IA = {'332', '266', '271'}
 TOPIC_OVR = {15: 'hj_general', 24: 'hj_general', 41: 'hj_general', 42: 'hj_general', 49: 'hj_general', 50: 'hj_general', 26: 'hj_general', 277: 'flakhelfer', 278: 'pow_camp', 261: 'recap', 262: 'hj_general', 263: 'hj_general', 264: 'nuremberg', 265: 'nuremberg',
              267: 'witnesses', 268: 'witnesses', 269: 'witnesses', 270: 'witnesses', 286: 'hj_camps', 320: 'school_1945', 321: 'hj_camps', 322: 'pow_camp', 323: 'hj_general', 324: 'hj_general', 325: 'hj_general', 287: 'hj_camps', 288: 'volkssturm'}
 # si el tema se queda sin fotos, se prueba con temas afines de la misma época (archivo antes que IA)

@@ -7,7 +7,7 @@ Licencia: Creative Commons By Attribution 4.0 — http://creativecommons.org/lic
 Archivo fílmico: Universal Newsreels y "Your Job in Germany" (Ejército de EE. UU., 1945), dominio público (National Archives / archive.org).
 Fotografías: Bundesarchiv (CC-BY-SA 3.0 DE), Wikimedia Commons (CC BY / CC BY-SA, Licence Ouverte y dominio público).
 Mapas: Natural Earth (dominio público). Narración: voz generada con Voizum.
-Cuatro ilustraciones fueron generadas con IA (Stability AI SD-Turbo) y no son fotografías de época.
+Tres ilustraciones sin personas (escenas 266, 271 y 332) fueron generadas con IA (Stability AI SD-Turbo); no son fotografías de época.
 
 Imágenes que requieren atribución (el resto son de dominio público o CC0):
 "(20231211) Leipzig 04" — Roy Zuo — CC BY-SA 4.0
@@ -115,6 +115,7 @@ Bundesarchiv, Bild 101I-297-1722-26 / CC-BY-SA 3.0
 Bundesarchiv, Bild 101I-637-4193-20 / CC-BY-SA 3.0
 Bundesarchiv, Bild 101I-671-7473-06 / CC-BY-SA 3.0
 Bundesarchiv, Bild 102-03588A / CC-BY-SA 3.0
+Bundesarchiv, Bild 102-10460 / CC-BY-SA 3.0
 Bundesarchiv, Bild 102-12780 / CC-BY-SA 3.0
 Bundesarchiv, Bild 102-15347 / CC-BY-SA 3.0
 Bundesarchiv, Bild 102-15348 / CC-BY-SA 3.0

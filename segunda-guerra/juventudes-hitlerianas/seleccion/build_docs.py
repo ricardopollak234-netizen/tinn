@@ -65,7 +65,7 @@ corto = ['Música: Kevin MacLeod (incompetech.com) — ' + ', '.join(f'"{t}"' fo
          'Archivo fílmico: Universal Newsreels y "Your Job in Germany" (Ejército de EE. UU., 1945), dominio público (National Archives / archive.org).',
          'Fotografías: Bundesarchiv (CC-BY-SA 3.0 DE), Wikimedia Commons (CC BY / CC BY-SA, Licence Ouverte y dominio público).',
          'Mapas: Natural Earth (dominio público). Narración: voz generada con Voizum.',
-         'Cuatro ilustraciones fueron generadas con IA (Stability AI SD-Turbo) y no son fotografías de época.',
+         'Tres ilustraciones sin personas (escenas 266, 271 y 332) fueron generadas con IA (Stability AI SD-Turbo); no son fotografías de época.',
          'Lista completa de autores y licencias de cada imagen: [PEGAR AQUÍ EL ENLACE A creditos_completos.txt]']
 open(os.path.join(V, 'creditos_descripcion.txt'), 'w', encoding='utf-8').write('CRÉDITOS CORTOS — pegar en la descripción de YouTube\n\n' + '\n'.join(corto) + '\n')
 open(os.path.join(V, 'creditos_completos.txt'), 'w', encoding='utf-8').write('\n'.join(

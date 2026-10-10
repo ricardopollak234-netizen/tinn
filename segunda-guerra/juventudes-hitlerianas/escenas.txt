@@ -796,7 +796,7 @@ ESCENAS DEL VIDEO — una imagen o clip distinto por escena (sin repeticiones)
       FOTO [COM]: Berlin Brigade. Spandau Prison. 1983. (5).JPG (CC BY-SA 3.0)
 
 266 | 25:26.7–25:30.2 (3.5 s) | Años después emigró a Norteamérica y se hizo periodista.
-      IMAGEN IA (medios/266.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, young man with a suitcase standing on the deck of an ocean liner leaving a European harbor, emigrants, 1950s
+      IMAGEN IA (medios/266.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, an ocean liner leaving a European harbor, seen from the empty pier, suitcases and crates on the dock, smoke from the funnels, no people, 1950s
 
 267 | 25:30.2–25:37.2 (6.9 s) | En los años ochenta, una superviviente de Auschwitz llamada Helen Waterford le propuso algo que parecía imposible.
       FOTO [COM]: 2014-05-05 Zeitzeugengespräch mit Hubert-Helmut Lange, (18) Cornelia Regin, Direktorin vom Stadtarchiv Hannover, erinnert an noch fehlende Archivalien der Deutschen Messe AG.jpg (CC BY-SA 3.0)
@@ -811,7 +811,7 @@ ESCENAS DEL VIDEO — una imagen o clip distinto por escena (sin repeticiones)
       FOTO [COM]: 2014-05-05 Zeitzeugengespräch mit Hubert-Helmut Lange, (37) der Autor und Herausgeber Dieter Tasch, jahrzehntelang Journalist der Hannoversche Allgemeine Zeitung.jpg (CC BY-SA 3.0)
 
 271 | 25:50.2–25:57.4 (7.2 s) | En 1985, Heck publicó sus memorias con un título que no dejaba lugar a dudas, Un niño de Hitler.
-      IMAGEN IA (medios/271.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, a hardcover memoir book lying on a wooden desk next to old snapshots of boys in uniform and a typewriter
+      IMAGEN IA (medios/271.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, a closed plain hardcover book and a fountain pen on a wooden desk next to an old typewriter, no people, still life
 
 272 | 25:57.4–26:03.3 (5.9 s) | Murió en 2005. Había dedicado la segunda mitad de su vida a explicar cómo se fabrica un fanático.
       FOTO [BA]: Bundesarchiv Bild 183-D0208-0006-004, Tützpatz, Arbeiter des VEG.jpg (CC BY-SA 3.0 de)
@@ -997,7 +997,7 @@ ESCENAS DEL VIDEO — una imagen o clip distinto por escena (sin repeticiones)
       IMAGEN IA (medios/332.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, an old framed black and white photograph hanging on the wall of a modest living room, armchair, lamp, quiet atmosphere
 
 333 | 31:27.5–31:31.7 (4.2 s) | Un niño de doce años frente a un dictador que le tocaba la mejilla.
-      IMAGEN IA (medios/333.png, SD-Turbo; se puede reemplazar por G-Labs): 1940s black and white archival documentary photograph, film grain, realistic, an elderly man with gray hair seen from behind, looking at an old framed photograph on the wall, dim light
+      FOTO [BA]: Bundesarchiv Bild 102-10460, Adolf Hitler, Rednerposen.jpg (CC BY-SA 3.0 de)
 
 334 | 31:31.7–31:36.7 (5.0 s) | Entonces, ¿qué pasó con las Juventudes Hitlerianas después de la guerra?
       GRÁFICO propio (334.png, herramientas/graficos_hj.py)

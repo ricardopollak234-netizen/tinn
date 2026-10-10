@@ -21,7 +21,15 @@ ADECUADA a lo que dice la narración, aunque sea antigua, borrosa o esté dañad
   misma época y tema (un juicio de 1946, un campo de prisioneros de 1945) antes que una
   imagen moderna o de IA.
 - Mantener la regla de no repetir fotos ni clips: buscar varias opciones por tema
-  para no tener que repetir.
+  para no tener que repetir. Una versión recortada o coloreada de la misma foto
+  cuenta como repetición.
+- Nada de imágenes deformadas: las imágenes de IA van SIN personas ni caras (objetos,
+  lugares, paisajes, barcos, documentos). Si la escena pide una persona, usar una foto
+  de archivo. Revisar cada imagen de IA ampliada antes de renderizar (caras, manos,
+  cabezas duplicadas, textos ilegibles) y descartar la que tenga defectos.
+- No usar tomas de propaganda nazi aunque aparezcan dentro de películas de dominio
+  público (p. ej. "El triunfo de la voluntad" dentro de "Your Job in Germany"):
+  pueden generar reclamos de derechos en YouTube.
 
 --------------------------------------------------------------------------------
 PASO 1 — DIVIDIR EN ESCENAS
