@@ -1,0 +1,1461 @@
+{
+"001": [
+"commons",
+"reichskanzlei__0"
+],
+"002": [
+"commons",
+"czech_1945__0"
+],
+"003": [
+"commons",
+"reichskanzlei__3"
+],
+"004": [
+"commons",
+"czech_1945__1"
+],
+"005": [
+"commons",
+"hitler_1945__2"
+],
+"006": [
+"commons",
+"hitler_1945__4"
+],
+"007": [
+"commons",
+"czech_1945__8"
+],
+"008": [
+"commons",
+"silesia_1945__5"
+],
+"009": [
+"commons",
+"wolfskinder__1"
+],
+"010": [
+"commons",
+"volkssturm__0"
+],
+"011": [
+"commons",
+"hj_division__0"
+],
+"012": [
+"commons",
+"volkssturm__7"
+],
+"013": [
+"commons",
+"recap__7"
+],
+"014": [
+"commons",
+"hitler_1945__1"
+],
+"015": [
+"commons",
+"hj_general__0"
+],
+"016": [
+"commons",
+"hj_general__1"
+],
+"017": [
+"commons",
+"hj_general__2"
+],
+"018": [
+"commons",
+"hj_general__3"
+],
+"019": [
+"commons",
+"hj_general__4"
+],
+"020": [
+"commons",
+"hj_general__6"
+],
+"021": [
+"commons",
+"hj_general__7"
+],
+"022": [
+"commons",
+"hj_general__8"
+],
+"023": [
+"commons",
+"hj_general__9"
+],
+"024": [
+"commons",
+"hj_general__10"
+],
+"025": [
+"graf",
+null
+],
+"026": [
+"commons",
+"hj_general__13"
+],
+"027": [
+"commons",
+"hitler_1933__1"
+],
+"028": [
+"commons",
+"schirach__0"
+],
+"029": [
+"commons",
+"schirach__1"
+],
+"030": [
+"commons",
+"schirach__2"
+],
+"031": [
+"commons",
+"schirach__3"
+],
+"032": [
+"commons",
+"norkus__0"
+],
+"033": [
+"commons",
+"norkus__1"
+],
+"034": [
+"commons",
+"norkus__2"
+],
+"035": [
+"commons",
+"norkus__3"
+],
+"036": [
+"commons",
+"hitler_1933__2"
+],
+"037": [
+"commons",
+"hitler_1933__3"
+],
+"038": [
+"commons",
+"hitler_1933__0"
+],
+"039": [
+"commons",
+"hj_general__14"
+],
+"040": [
+"commons",
+"hj_general__20"
+],
+"041": [
+"commons",
+"hj_general__21"
+],
+"042": [
+"commons",
+"hj_general__22"
+],
+"043": [
+"graf",
+null
+],
+"044": [
+"commons",
+"hj_camps__2"
+],
+"045": [
+"commons",
+"hj_camps__3"
+],
+"046": [
+"commons",
+"hj_camps__4"
+],
+"047": [
+"commons",
+"hj_camps__6"
+],
+"048": [
+"commons",
+"hj_general__23"
+],
+"049": [
+"commons",
+"hj_general__24"
+],
+"050": [
+"commons",
+"hj_general__25"
+],
+"051": [
+"commons",
+"hj_general__26"
+],
+"052": [
+"commons",
+"hj_general__27"
+],
+"053": [
+"commons",
+"hj_general__28"
+],
+"054": [
+"commons",
+"hj_general__29"
+],
+"055": [
+"commons",
+"hj_general__30"
+],
+"056": [
+"graf",
+null
+],
+"057": [
+"commons",
+"klv__1"
+],
+"058": [
+"commons",
+"klv__2"
+],
+"059": [
+"commons",
+"klv__3"
+],
+"060": [
+"commons",
+"klv__4"
+],
+"061": [
+"commons",
+"klv__5"
+],
+"062": [
+"commons",
+"klv__6"
+],
+"063": [
+"commons",
+"klv__7"
+],
+"064": [
+"commons",
+"hj_general__11"
+],
+"065": [
+"clip",
+[
+"1945-03-12_Air_Smashes_Devastate_Germany.mp4",
+45
+]
+],
+"066": [
+"commons",
+"flakhelfer__0"
+],
+"067": [
+"commons",
+"flakhelfer__2"
+],
+"068": [
+"commons",
+"flakhelfer__6"
+],
+"069": [
+"commons",
+"flakhelfer__7"
+],
+"070": [
+"commons",
+"hj_division__1"
+],
+"071": [
+"commons",
+"hj_division__5"
+],
+"072": [
+"commons",
+"hj_division__7"
+],
+"073": [
+"commons",
+"hj_division__6"
+],
+"074": [
+"commons",
+"volkssturm__1"
+],
+"075": [
+"commons",
+"volkssturm__2"
+],
+"076": [
+"commons",
+"flakhelfer__3"
+],
+"077": [
+"commons",
+"white_rose__1"
+],
+"078": [
+"commons",
+"white_rose__0"
+],
+"079": [
+"commons",
+"white_rose__17"
+],
+"080": [
+"commons",
+"white_rose__19"
+],
+"081": [
+"commons",
+"edelweiss__18"
+],
+"082": [
+"commons",
+"edelweiss__15"
+],
+"083": [
+"commons",
+"edelweiss__22"
+],
+"084": [
+"commons",
+"edelweiss__23"
+],
+"085": [
+"commons",
+"edelweiss__12"
+],
+"086": [
+"commons",
+"edelweiss__0"
+],
+"087": [
+"commons",
+"edelweiss__25"
+],
+"088": [
+"commons",
+"berlin_1945__7"
+],
+"089": [
+"graf",
+null
+],
+"090": [
+"commons",
+"berlin_1945__0"
+],
+"091": [
+"commons",
+"berlin_1945__2"
+],
+"092": [
+"commons",
+"berlin_1945__1"
+],
+"093": [
+"commons",
+"berlin_1945__3"
+],
+"094": [
+"commons",
+"bunker__3"
+],
+"095": [
+"commons",
+"bunker__4"
+],
+"096": [
+"commons",
+"bunker__1"
+],
+"097": [
+"commons",
+"axmann__0"
+],
+"098": [
+"commons",
+"axmann__9"
+],
+"099": [
+"commons",
+"axmann__4"
+],
+"100": [
+"commons",
+"bormann__0"
+],
+"101": [
+"commons",
+"bormann__7"
+],
+"102": [
+"commons",
+"bormann__1"
+],
+"103": [
+"commons",
+"bormann__4"
+],
+"104": [
+"commons",
+"bormann__5"
+],
+"105": [
+"commons",
+"bormann__6"
+],
+"106": [
+"commons",
+"bormann__8"
+],
+"107": [
+"commons",
+"bormann__9"
+],
+"108": [
+"clip",
+[
+"1945-05-14_Beaten_Nazis_Sign_Historic_Surrender.mp4",
+136
+]
+],
+"109": [
+"clip",
+[
+"1945-05-14_Beaten_Nazis_Sign_Historic_Surrender.mp4",
+144.5
+]
+],
+"110": [
+"clip",
+[
+"1944-12-20_Allies_Fight_Fierce_Nazi_Counter-Blow.mp4",
+164
+]
+],
+"111": [
+"clip",
+[
+"1944-12-20_Allies_Fight_Fierce_Nazi_Counter-Blow.mp4",
+180
+]
+],
+"112": [
+"commons",
+"pow_camp__8"
+],
+"113": [
+"commons",
+"pow_camp__10"
+],
+"114": [
+"commons",
+"pow_camp__9"
+],
+"115": [
+"commons",
+"pow_camp__11"
+],
+"116": [
+"commons",
+"pow_camp__0"
+],
+"117": [
+"commons",
+"pow_camp__7"
+],
+"118": [
+"commons",
+"ruins_1945__0"
+],
+"119": [
+"commons",
+"truemmerfrauen__0"
+],
+"120": [
+"commons",
+"truemmerfrauen__5"
+],
+"121": [
+"commons",
+"truemmerfrauen__10"
+],
+"122": [
+"commons",
+"truemmerfrauen__3"
+],
+"123": [
+"commons",
+"truemmerfrauen__8"
+],
+"124": [
+"commons",
+"truemmerfrauen__1"
+],
+"125": [
+"commons",
+"ruins_1945__2"
+],
+"126": [
+"commons",
+"wolfskinder__0"
+],
+"127": [
+"commons",
+"wolfskinder__7"
+],
+"128": [
+"commons",
+"wolfskinder__6"
+],
+"129": [
+"commons",
+"wolfskinder__3"
+],
+"130": [
+"commons",
+"wolfskinder__5"
+],
+"131": [
+"graf",
+null
+],
+"132": [
+"commons",
+"wolfskinder__8"
+],
+"133": [
+"commons",
+"wolfskinder__9"
+],
+"134": [
+"commons",
+"wolfskinder__2"
+],
+"135": [
+"commons",
+"werwolf__1"
+],
+"136": [
+"commons",
+"aachen__0"
+],
+"137": [
+"commons",
+"aachen__7"
+],
+"138": [
+"commons",
+"aachen__11"
+],
+"139": [
+"commons",
+"aachen__1"
+],
+"140": [
+"commons",
+"aachen__9"
+],
+"141": [
+"commons",
+"aachen__4"
+],
+"142": [
+"commons",
+"aachen__2"
+],
+"143": [
+"commons",
+"aachen__5"
+],
+"144": [
+"commons",
+"aachen__8"
+],
+"145": [
+"commons",
+"gardelegen__9"
+],
+"146": [
+"commons",
+"gardelegen__3"
+],
+"147": [
+"commons",
+"gardelegen__4"
+],
+"148": [
+"commons",
+"gardelegen__14"
+],
+"149": [
+"commons",
+"gardelegen__13"
+],
+"150": [
+"commons",
+"gardelegen__2"
+],
+"151": [
+"commons",
+"gardelegen__1"
+],
+"152": [
+"commons",
+"gardelegen__12"
+],
+"153": [
+"commons",
+"gardelegen__15"
+],
+"154": [
+"commons",
+"ruins_1945__3"
+],
+"155": [
+"commons",
+"ruins_1945__4"
+],
+"156": [
+"commons",
+"axmann__11"
+],
+"157": [
+"commons",
+"axmann__13"
+],
+"158": [
+"commons",
+"axmann__5"
+],
+"159": [
+"commons",
+"axmann__8"
+],
+"160": [
+"commons",
+"nkvd_camps__16"
+],
+"161": [
+"commons",
+"nkvd_camps__15"
+],
+"162": [
+"commons",
+"nkvd_camps__18"
+],
+"163": [
+"commons",
+"nkvd_camps__7"
+],
+"164": [
+"commons",
+"nkvd_camps__6"
+],
+"165": [
+"commons",
+"nkvd_camps__8"
+],
+"166": [
+"commons",
+"nkvd_camps__4"
+],
+"167": [
+"commons",
+"nkvd_camps__0"
+],
+"168": [
+"commons",
+"nkvd_camps__9"
+],
+"169": [
+"commons",
+"nkvd_camps__10"
+],
+"170": [
+"commons",
+"nkvd_camps__11"
+],
+"171": [
+"commons",
+"nkvd_camps__17"
+],
+"172": [
+"commons",
+"nkvd_camps__1"
+],
+"173": [
+"commons",
+"nkvd_camps__2"
+],
+"174": [
+"commons",
+"nkvd_camps__3"
+],
+"175": [
+"commons",
+"nuremberg__13"
+],
+"176": [
+"clip",
+[
+"1945-11-29_Nuremberg_War_Crimes_Trials_Open.mp4",
+40
+]
+],
+"177": [
+"clip",
+[
+"1946-10-08_21_Nazi_Chiefs_Guilty.mp4",
+68
+]
+],
+"178": [
+"commons",
+"nuremberg__1"
+],
+"179": [
+"commons",
+"nuremberg__2"
+],
+"180": [
+"commons",
+"nuremberg__8"
+],
+"181": [
+"commons",
+"nuremberg__7"
+],
+"182": [
+"commons",
+"nuremberg__11"
+],
+"183": [
+"commons",
+"nuremberg__12"
+],
+"184": [
+"commons",
+"nuremberg__3"
+],
+"185": [
+"clip",
+[
+"1946-10-08_21_Nazi_Chiefs_Guilty.mp4",
+164
+]
+],
+"186": [
+"commons",
+"spandau__0"
+],
+"187": [
+"commons",
+"spandau__1"
+],
+"188": [
+"commons",
+"spandau__2"
+],
+"189": [
+"commons",
+"spandau__4"
+],
+"190": [
+"commons",
+"ferdinand__0"
+],
+"191": [
+"commons",
+"ferdinand__2"
+],
+"192": [
+"commons",
+"ferdinand__5"
+],
+"193": [
+"commons",
+"ferdinand__7"
+],
+"194": [
+"commons",
+"schirach__4"
+],
+"195": [
+"commons",
+"schirach__5"
+],
+"196": [
+"commons",
+"schirach__6"
+],
+"197": [
+"commons",
+"axmann__7"
+],
+"198": [
+"commons",
+"axmann__14"
+],
+"199": [
+"commons",
+"axmann__10"
+],
+"200": [
+"commons",
+"axmann__1"
+],
+"201": [
+"commons",
+"hj_general__17"
+],
+"202": [
+"commons",
+"hj_general__33"
+],
+"203": [
+"clip",
+[
+"1945-06-14_Allies_Sign_Control_Law_For_Germany.mp4",
+15
+]
+],
+"204": [
+"clip",
+[
+"1945-06-14_Allies_Sign_Control_Law_For_Germany.mp4",
+30
+]
+],
+"205": [
+"commons",
+"nuremberg__9"
+],
+"206": [
+"clip",
+[
+"111-OF-8.mp4",
+462
+]
+],
+"207": [
+"clip",
+[
+"111-OF-8.mp4",
+470.5
+]
+],
+"208": [
+"clip",
+[
+"1946-09-10_Byrnes_Sets_US_Policy_for_Germany.mp4",
+20
+]
+],
+"209": [
+"clip",
+[
+"1946-09-10_Byrnes_Sets_US_Policy_for_Germany.mp4",
+65
+]
+],
+"210": [
+"commons",
+"school_1945__4"
+],
+"211": [
+"commons",
+"school_1945__11"
+],
+"212": [
+"commons",
+"school_1945__12"
+],
+"213": [
+"commons",
+"school_1945__7"
+],
+"214": [
+"commons",
+"school_1945__8"
+],
+"215": [
+"commons",
+"school_1945__0"
+],
+"216": [
+"commons",
+"school_1945__2"
+],
+"217": [
+"commons",
+"school_1945__3"
+],
+"218": [
+"commons",
+"school_1945__1"
+],
+"219": [
+"commons",
+"schulspeisung__4"
+],
+"220": [
+"commons",
+"schulspeisung__6"
+],
+"221": [
+"commons",
+"schulspeisung__2"
+],
+"222": [
+"commons",
+"schulspeisung__5"
+],
+"223": [
+"commons",
+"schulspeisung__7"
+],
+"224": [
+"commons",
+"schulspeisung__8"
+],
+"225": [
+"commons",
+"schulspeisung__20"
+],
+"226": [
+"commons",
+"gya__14"
+],
+"227": [
+"commons",
+"fdj__13"
+],
+"228": [
+"commons",
+"fdj__14"
+],
+"229": [
+"commons",
+"fdj__15"
+],
+"230": [
+"commons",
+"fdj__0"
+],
+"231": [
+"commons",
+"fdj__1"
+],
+"232": [
+"commons",
+"fdj__12"
+],
+"233": [
+"commons",
+"fdj__10"
+],
+"234": [
+"commons",
+"fdj__9"
+],
+"235": [
+"commons",
+"fdj__5"
+],
+"236": [
+"commons",
+"fdj__3"
+],
+"237": [
+"commons",
+"fdj__6"
+],
+"238": [
+"commons",
+"school_1945__9"
+],
+"239": [
+"clip",
+[
+"111-OF-8.mp4",
+666
+]
+],
+"240": [
+"commons",
+"skeptical__1"
+],
+"241": [
+"commons",
+"skeptical__7"
+],
+"242": [
+"commons",
+"skeptical__3"
+],
+"243": [
+"commons",
+"skeptical__4"
+],
+"244": [
+"commons",
+"skeptical__10"
+],
+"245": [
+"commons",
+"skeptical__11"
+],
+"246": [
+"commons",
+"skeptical__12"
+],
+"247": [
+"commons",
+"skeptical__13"
+],
+"248": [
+"commons",
+"skeptical__14"
+],
+"249": [
+"commons",
+"skeptical__15"
+],
+"250": [
+"commons",
+"skeptical__16"
+],
+"251": [
+"commons",
+"skeptical__8"
+],
+"252": [
+"commons",
+"bdm__1"
+],
+"253": [
+"commons",
+"bdm__3"
+],
+"254": [
+"commons",
+"bdm__10"
+],
+"255": [
+"commons",
+"bdm__5"
+],
+"256": [
+"commons",
+"bdm__14"
+],
+"257": [
+"commons",
+"bdm__7"
+],
+"258": [
+"commons",
+"bdm__13"
+],
+"259": [
+"commons",
+"bdm__12"
+],
+"260": [
+"commons",
+"bdm__4"
+],
+"261": [
+"commons",
+"recap__0"
+],
+"262": [
+"commons",
+"hj_general__31"
+],
+"263": [
+"commons",
+"hj_general__39"
+],
+"264": [
+"commons",
+"nuremberg__10"
+],
+"265": [
+"commons",
+"spandau__5"
+],
+"266": [
+"ia",
+null
+],
+"267": [
+"commons",
+"witnesses__3"
+],
+"268": [
+"commons",
+"witnesses__6"
+],
+"269": [
+"commons",
+"witnesses__13"
+],
+"270": [
+"commons",
+"witnesses__2"
+],
+"271": [
+"ia",
+null
+],
+"272": [
+"commons",
+"west_1960__6"
+],
+"273": [
+"commons",
+"bonn_1950s__0"
+],
+"274": [
+"commons",
+"bonn_1950s__2"
+],
+"275": [
+"commons",
+"ratzinger__0"
+],
+"276": [
+"commons",
+"ratzinger__1"
+],
+"277": [
+"commons",
+"flakhelfer__1"
+],
+"278": [
+"commons",
+"ruins_1945__1"
+],
+"279": [
+"commons",
+"ratzinger__2"
+],
+"280": [
+"commons",
+"ratzinger__3"
+],
+"281": [
+"commons",
+"ratzinger__4"
+],
+"282": [
+"commons",
+"ratzinger__5"
+],
+"283": [
+"commons",
+"ratzinger__6"
+],
+"284": [
+"commons",
+"ratzinger__7"
+],
+"285": [
+"commons",
+"kohl__24"
+],
+"286": [
+"commons",
+"hj_camps__7"
+],
+"287": [
+"commons",
+"hj_camps__8"
+],
+"288": [
+"commons",
+"flakhelfer__5"
+],
+"289": [
+"commons",
+"kohl__22"
+],
+"290": [
+"commons",
+"kohl__0"
+],
+"291": [
+"commons",
+"kohl__15"
+],
+"292": [
+"commons",
+"kohl__17"
+],
+"293": [
+"commons",
+"kohl__1"
+],
+"294": [
+"commons",
+"kohl__25"
+],
+"295": [
+"commons",
+"writers__0"
+],
+"296": [
+"commons",
+"writers__25"
+],
+"297": [
+"commons",
+"writers__16"
+],
+"298": [
+"commons",
+"writers__23"
+],
+"299": [
+"commons",
+"writers__19"
+],
+"300": [
+"commons",
+"writers__22"
+],
+"301": [
+"commons",
+"writers__24"
+],
+"302": [
+"commons",
+"writers__3"
+],
+"303": [
+"commons",
+"writers__4"
+],
+"304": [
+"commons",
+"writers__21"
+],
+"305": [
+"commons",
+"writers__27"
+],
+"306": [
+"commons",
+"edelweiss__2"
+],
+"307": [
+"commons",
+"edelweiss__7"
+],
+"308": [
+"commons",
+"edelweiss__20"
+],
+"309": [
+"commons",
+"edelweiss__8"
+],
+"310": [
+"commons",
+"edelweiss__14"
+],
+"311": [
+"commons",
+"students_1968__7"
+],
+"312": [
+"commons",
+"students_1968__13"
+],
+"313": [
+"commons",
+"students_1968__6"
+],
+"314": [
+"commons",
+"students_1968__14"
+],
+"315": [
+"clip",
+[
+"111-OF-8.mp4",
+648
+]
+],
+"316": [
+"clip",
+[
+"111-OF-8.mp4",
+672
+]
+],
+"317": [
+"commons",
+"witnesses__9"
+],
+"318": [
+"commons",
+"witnesses__5"
+],
+"319": [
+"commons",
+"skeptical__9"
+],
+"320": [
+"commons",
+"school_1945__5"
+],
+"321": [
+"commons",
+"hj_camps__11"
+],
+"322": [
+"commons",
+"ruins_1945__5"
+],
+"323": [
+"commons",
+"hj_general__36"
+],
+"324": [
+"commons",
+"hj_general__37"
+],
+"325": [
+"commons",
+"hj_general__40"
+],
+"326": [
+"commons",
+"reichskanzlei__1"
+],
+"327": [
+"commons",
+"flakhelfer__8"
+],
+"328": [
+"commons",
+"silesia_1945__3"
+],
+"329": [
+"commons",
+"west_1960__4"
+],
+"330": [
+"commons",
+"west_1960__0"
+],
+"331": [
+"commons",
+"reichskanzlei__2"
+],
+"332": [
+"ia",
+null
+],
+"333": [
+"ia",
+null
+],
+"334": [
+"graf",
+null
+],
+"335": [
+"graf",
+null
+],
+"336": [
+"commons",
+"recap__1"
+],
+"337": [
+"commons",
+"recap__10"
+],
+"338": [
+"commons",
+"recap__8"
+],
+"339": [
+"commons",
+"recap__9"
+],
+"340": [
+"commons",
+"hj_general__34"
+],
+"341": [
+"commons",
+"hj_general__38"
+],
+"342": [
+"commons",
+"hj_camps__9"
+],
+"343": [
+"commons",
+"hj_camps__14"
+],
+"344": [
+"commons",
+"hj_camps__12"
+],
+"345": [
+"commons",
+"hj_camps__15"
+],
+"346": [
+"commons",
+"bdm__6"
+],
+"347": [
+"commons",
+"bdm__8"
+],
+"348": [
+"graf",
+null
+],
+"349": [
+"graf",
+null
+],
+"350": [
+"graf",
+null
+],
+"351": [
+"graf",
+null
+],
+"352": [
+"graf",
+null
+]
+}

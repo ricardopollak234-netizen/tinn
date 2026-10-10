@@ -1,0 +1,14 @@
+IMÁGENES GENERADAS CON IA — 4 escenas sin material libre (todas distintas)
+Se generaron con SD-Turbo. Si querés mejorarlas con G-Labs, usá el mismo prompt y guardá la imagen como medios/NNN.png.
+
+266 | 25:26.7 | 3.5 s | Años después emigró a Norteamérica y se hizo periodista.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, young man with a suitcase standing on the deck of an ocean liner leaving a European harbor, emigrants, 1950s
+
+271 | 25:50.2 | 7.2 s | En 1985, Heck publicó sus memorias con un título que no dejaba lugar a dudas, Un niño de Hitler.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, a hardcover memoir book lying on a wooden desk next to old snapshots of boys in uniform and a typewriter
+
+332 | 31:21.4 | 6.1 s | en el salón de su casa colgaba todavía la fotografía de aquel día de marzo de 1945.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, an old framed black and white photograph hanging on the wall of a modest living room, armchair, lamp, quiet atmosphere
+
+333 | 31:27.5 | 4.2 s | Un niño de doce años frente a un dictador que le tocaba la mejilla.
+      PROMPT: 1940s black and white archival documentary photograph, film grain, realistic, an elderly man with gray hair seen from behind, looking at an old framed photograph on the wall, dim light
