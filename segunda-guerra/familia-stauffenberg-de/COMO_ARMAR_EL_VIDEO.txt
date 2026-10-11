@@ -1,0 +1,40 @@
+CÓMO ARMAR EL VIDEO EN ALEMÁN — "Was Geschah Mit Der Familie Von Claus Von Stauffenberg?"
+=========================================================================================
+
+Es el mismo video de familia-stauffenberg/ con la narración en alemán. No hacen falta los
+medios originales: cada escena se toma del video final en español y se ajusta a la duración
+de su frase en alemán. Los 24 gráficos, mapas y tarjetas con texto se rehicieron en alemán.
+
+ARCHIVOS
+- escenas_de.csv ....... las 369 escenas: texto en español y su traducción (de acá sale todo)
+- guion.txt ............ guion completo en alemán (5.026 palabras, mismos párrafos que el español)
+- narracion\teil_01.txt … teil_07.txt  el guion dividido en 7 partes de menos de 5.000 caracteres
+- graficos\ ............ los 24 gráficos con texto en alemán (escenas 013, 023, 024, 128, 131, 137,
+                         149, 169, 172, 189, 207, 235, 264, 274, 278, 282, 283, 284, 311, 364, 366-369)
+- youtube.txt .......... título, descripción, etiquetas y miniatura en alemán
+- creditos_descripcion.txt / creditos_completos.txt  créditos en alemán
+- capitulos.csv ........ nombres de los capítulos (los minutos salen al armar el video)
+
+PASO 1 — LA VOZ (en Voizum)
+Generar cada parte con una voz ALEMANA, copiando el texto de narracion\teil_01.txt … teil_07.txt
+tal cual (sin cambiar ni agregar nada), y guardar cada audio con el mismo nombre:
+    narracion\teil_01.mp3, narracion\teil_02.mp3, … narracion\teil_07.mp3
+(También sirve un solo narracion\narracion_completa.mp3 con todo, pero por partes la
+sincronización sale más precisa.) Subir los mp3 al repositorio o pasármelos y lo armo yo.
+
+PASO 2 — ARMAR EL VIDEO (desde la carpeta segunda-guerra)
+    python3 herramientas/armar_video_aleman.py familia-stauffenberg familia-stauffenberg-de
+- Necesita familia-stauffenberg\video_final.mp4 (está en Git LFS: git lfs pull).
+- Primero escribe tiempos_escenas.csv: dónde empieza cada escena en la voz alemana (busca las
+  pausas de la narración). Si alguna imagen quedara corrida, se puede corregir el inicio a mano
+  en ese archivo y volver a correr el comando: lo respeta. Para recalcularlo, borrarlo.
+- Después arma video_final.mp4 (1920x1080, unos 20 minutos en 4 núcleos) y capitulos.txt.
+- Para revisar rápido: agregar --borrador (960x540) o --hasta 030 (solo las primeras escenas).
+- La música es la misma del video en español; cada tema entra en la misma escena que allá.
+
+SI SE CAMBIA LA TRADUCCIÓN
+Corregir la columna texto_de de escenas_de.csv y correr
+    python3 herramientas/guion_aleman.py familia-stauffenberg familia-stauffenberg-de
+para regenerar guion.txt y las partes (y volver a grabar las partes que cambiaron).
+Los gráficos se regeneran con herramientas/graficos_stauffenberg_de.py (necesita los mapas de
+Natural Earth; la escena 207 se sacó del video en español con el título reemplazado).

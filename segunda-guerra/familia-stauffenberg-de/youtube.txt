@@ -1,0 +1,60 @@
+PAQUETE PARA YOUTUBE EN ALEMÁN — Familia Stauffenberg
+(no es texto narrable; los títulos siguen el formato del canal: mayúscula en cada palabra)
+
+--------------------------------------------------------------------------------
+TÍTULO
+--------------------------------------------------------------------------------
+Was Geschah Mit Der Familie Von Claus Von Stauffenberg Nach Dem Zweiten Weltkrieg?
+
+Alternativas:
+- Himmler Schwor, Die Familie Stauffenberg Auszulöschen. Das Ist Passiert
+- Die Kinder Des Mannes, Der Hitler Töten Wollte: Was Aus Ihnen Wurde
+
+--------------------------------------------------------------------------------
+MINIATURA (idea)
+--------------------------------------------------------------------------------
+La misma imagen que la versión en español (Stauffenberg con el parche en el ojo y cuatro
+niños de espaldas frente a una casa de madera en el bosque). Texto grande: "SIE HIESSEN MEISTER".
+Texto pequeño: "Hitler wollte ihren Namen auslöschen".
+
+--------------------------------------------------------------------------------
+DESCRIPCIÓN
+--------------------------------------------------------------------------------
+Was Geschah Mit Der Familie Von Claus Von Stauffenberg Nach Dem Zweiten Weltkrieg?
+
+Am 20. Juli 1944 stellte Oberst Claus von Stauffenberg eine Bombe unter Hitlers Kartentisch. Der Diktator überlebte, und Stauffenberg wurde noch in derselben Nacht in Berlin erschossen. Doch die Strafe endete nicht mit ihm: Heinrich Himmler kündigte an, die Familie Stauffenberg werde „ausgelöscht bis ins letzte Glied“.
+
+Dieses Video erzählt, was aus seiner Frau Nina und seinen fünf Kindern wurde: eine Familie, die nicht für die Verbrechen eines Vaters bestraft wurde, sondern für den Versuch, sie zu verhindern.
+
+In diesem Video:
+- Wer Claus und Nina vor dem Attentat waren – und die Widersprüche Stauffenbergs.
+- Die Nacht des 20. Juli und der Befehl, ihm nicht einmal ein Grab zu lassen.
+- Die Sippenhaft: als das Regime beschloss, dass Schuld mit dem Blut vererbt wird.
+- Nina, schwanger und isoliert in Ravensbrück, und das Mädchen, das als Gefangene unter falschem Namen geboren wurde.
+- Die „Kinder Meister“: das Kinderheim in Bad Sachsa und der Plan, ihre Identität auszulöschen.
+- Der Geiselkonvoi der SS über die Alpen und der Tod von Melitta.
+- Warum viele Deutsche sie nach dem Krieg noch „die Kinder des Verräters“ nannten.
+- Was aus jedem der fünf Kinder wurde.
+
+Fünf Kinder. Eine Witwe. Ein Name, den das Dritte Reich auslöschen wollte.
+
+Wenn dich solche wahren Geschichten aus dem Zweiten Weltkrieg interessieren, gib dem Video ein Like und abonniere den Kanal.
+
+#Stauffenberg #OperationWalküre #ZweiterWeltkrieg #Geschichte #20Juli1944 #Widerstand #Dokumentation #Sippenhaft
+
+(Después pegar los créditos de creditos_descripcion.txt)
+
+--------------------------------------------------------------------------------
+ETIQUETAS
+--------------------------------------------------------------------------------
+Claus von Stauffenberg, Familie Stauffenberg, Nina von Stauffenberg, Stauffenberg Kinder,
+Operation Walküre, Attentat auf Hitler, 20. Juli 1944, Sippenhaft, Bad Sachsa, Borntal,
+Berthold von Stauffenberg, Konstanze von Schulthess, Melitta von Stauffenberg, Franz Ludwig
+von Stauffenberg, deutscher Widerstand, Himmler, Drittes Reich, Zweiter Weltkrieg,
+Geschichte Dokumentation, was geschah mit der Familie Stauffenberg
+
+--------------------------------------------------------------------------------
+CAPÍTULOS
+--------------------------------------------------------------------------------
+Los minutos dependen de la voz en alemán: armar_video_aleman.py los escribe en capitulos.txt
+(pegarlos en la descripción). Los nombres de los capítulos están en capitulos.csv.
