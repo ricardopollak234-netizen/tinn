@@ -1,0 +1,2126 @@
+[
+{
+"n": 1,
+"p": 0,
+"t": "Un bosque cerca de Duisburgo, 26 de julio de 1955.",
+"w": 10
+},
+{
+"n": 2,
+"p": 0,
+"t": "Un pequeño grupo de hombres camina entre los árboles buscando un lugar que nadie ha vuelto a ver en diez años.",
+"w": 21
+},
+{
+"n": 3,
+"p": 0,
+"t": "Uno de ellos fue oficial de estado mayor durante la guerra. Sabe exactamente dónde cavar.",
+"w": 15
+},
+{
+"n": 4,
+"p": 1,
+"t": "A su lado hay un joven de veintiocho años que mira la tierra en silencio.",
+"w": 15
+},
+{
+"n": 5,
+"p": 1,
+"t": "Se llama Hansgeorg Model. Debajo de esa tierra está su padre.",
+"w": 11
+},
+{
+"n": 6,
+"p": 2,
+"t": "Walter Model fue uno de los mariscales de campo favoritos de Hitler.",
+"w": 12
+},
+{
+"n": 7,
+"p": 2,
+"t": "En abril de 1945, rodeado en la cuenca del Ruhr, con su ejército deshecho, se negó a rendirse.",
+"w": 18
+},
+{
+"n": 8,
+"p": 2,
+"t": "Se adentró en este bosque y se pegó un tiro. Sus hombres lo enterraron allí mismo, sin nombre, sin cruz.",
+"w": 20
+},
+{
+"n": 9,
+"p": 3,
+"t": "Ese día de 1955, los restos del mariscal fueron desenterrados y trasladados a un cementerio militar.",
+"w": 16
+},
+{
+"n": 10,
+"p": 3,
+"t": "El de Vossenack, en el bosque de Hürtgen,",
+"w": 8
+},
+{
+"n": 11,
+"p": 3,
+"t": "donde descansan miles de soldados alemanes caídos en una de las batallas más sangrientas del final de la guerra.",
+"w": 19
+},
+{
+"n": 12,
+"p": 3,
+"t": "Y pocos meses después, en mayo de 1956, el hijo hizo algo que habría parecido imposible diez años antes.",
+"w": 19
+},
+{
+"n": 13,
+"p": 3,
+"t": "Se puso un uniforme alemán. Pero no era el uniforme de su padre.",
+"w": 13
+},
+{
+"n": 14,
+"p": 3,
+"t": "Era el de un ejército nuevo, que acababa de nacer y que juraba lealtad a una democracia.",
+"w": 17
+},
+{
+"n": 15,
+"p": 4,
+"t": "Hansgeorg Model no fue el único.",
+"w": 6
+},
+{
+"n": 16,
+"p": 4,
+"t": "Uno a uno, los hijos de los generales de Hitler fueron entrando en la Bundeswehr, el nuevo ejército de Alemania Occidental.",
+"w": 21
+},
+{
+"n": 17,
+"p": 4,
+"t": "Algunos tenían padres condenados a muerte. Otros, padres ahorcados en público. Otros, padres que habían intentado matar a Hitler.",
+"w": 19
+},
+{
+"n": 18,
+"p": 4,
+"t": "Y varios de ellos llegaron a general, igual que sus padres.",
+"w": 11
+},
+{
+"n": 19,
+"p": 5,
+"t": "Hoy vas a conocer sus historias.",
+"w": 6
+},
+{
+"n": 20,
+"p": 5,
+"t": "Cómo un país que había jurado no volver a tener ejército terminó armándose otra vez en apenas diez años.",
+"w": 19
+},
+{
+"n": 21,
+"p": 5,
+"t": "Quiénes eligieron a los nuevos oficiales y qué les preguntaron. Qué hicieron los hijos con el apellido que cargaban.",
+"w": 19
+},
+{
+"n": 22,
+"p": 5,
+"t": "Y por qué algunos, en lugar de seguir a sus padres, prefirieron no ponerse nunca un uniforme.",
+"w": 17
+},
+{
+"n": 23,
+"p": 6,
+"t": "Si te interesan las historias que quedaron a la sombra de la guerra, suscríbete ahora y activa la campana. Empezamos.",
+"w": 20
+},
+{
+"n": 24,
+"p": 7,
+"t": "Para entender esta historia, primero hay que volver a mayo de 1945.",
+"w": 12
+},
+{
+"n": 25,
+"p": 7,
+"t": "Alemania acababa de perder la guerra más destructiva de su historia, y los vencedores tenían una idea muy clara.",
+"w": 19
+},
+{
+"n": 26,
+"p": 7,
+"t": "Ese país no volvería a tener soldados.",
+"w": 7
+},
+{
+"n": 27,
+"p": 8,
+"t": "En agosto de 1945, en Potsdam, los aliados acordaron el desarme total de Alemania.",
+"w": 14
+},
+{
+"n": 28,
+"p": 8,
+"t": "Lo que buscaban era arrancar de raíz el nazismo y el militarismo.",
+"w": 12
+},
+{
+"n": 29,
+"p": 8,
+"t": "Al año siguiente, el Consejo de Control aliado prohibió la instrucción militar, prohibió las construcciones militares y, en agosto de 1946, disolvió oficialmente la Wehrmacht.",
+"w": 25
+},
+{
+"n": 30,
+"p": 8,
+"t": "Hasta las pensiones de los antiguos militares quedaron suprimidas.",
+"w": 9
+},
+{
+"n": 31,
+"p": 9,
+"t": "Los generales que habían conquistado media Europa estaban presos, muertos o escondidos. Algunos esperaban juicio en Núremberg.",
+"w": 17
+},
+{
+"n": 32,
+"p": 9,
+"t": "Otros estaban en campos de prisioneros soviéticos, de donde muchos no volverían en diez años.",
+"w": 15
+},
+{
+"n": 33,
+"p": 10,
+"t": "Y sus hijos estaban repartidos por todo ese desastre. Muchos habían peleado en la guerra siendo adolescentes.",
+"w": 17
+},
+{
+"n": 34,
+"p": 10,
+"t": "Algunos estaban en cautiverio en Rusia, en Yugoslavia o en campos aliados.",
+"w": 12
+},
+{
+"n": 35,
+"p": 10,
+"t": "Otros habían pasado meses detenidos solo por llevar el apellido de un conspirador contra Hitler.",
+"w": 15
+},
+{
+"n": 36,
+"p": 10,
+"t": "Y casi todos compartían una certeza. Su mundo se había terminado. Ser soldado alemán ya no era una carrera. Era una sospecha.",
+"w": 22
+},
+{
+"n": 37,
+"p": 11,
+"t": "Durante los primeros años de posguerra, muchos alemanes estaban de acuerdo con esa idea. Una consigna se repetía en las calles.",
+"w": 21
+},
+{
+"n": 38,
+"p": 11,
+"t": "Sin mí. Muchos jóvenes juraban que nunca más volverían a empuñar un arma.",
+"w": 13
+},
+{
+"n": 39,
+"p": 12,
+"t": "Pero la historia tenía otros planes.",
+"w": 6
+},
+{
+"n": 40,
+"p": 13,
+"t": "El 25 de junio de 1950, el ejército de Corea del Norte cruzó la frontera y atacó Corea del Sur.",
+"w": 20
+},
+{
+"n": 41,
+"p": 13,
+"t": "A miles de kilómetros, en Washington y en Bonn, mucha gente miró el mapa de Europa y vio lo mismo.",
+"w": 20
+},
+{
+"n": 42,
+"p": 13,
+"t": "Un país dividido, con un ejército comunista enorme al otro lado de la línea, y sin nadie que lo defendiera.",
+"w": 20
+},
+{
+"n": 43,
+"p": 14,
+"t": "El canciller Konrad Adenauer actuó rápido.",
+"w": 6
+},
+{
+"n": 44,
+"p": 14,
+"t": "En octubre de 1950, quince antiguos oficiales de la Wehrmacht se reunieron en secreto en un lugar inesperado,",
+"w": 18
+},
+{
+"n": 45,
+"p": 14,
+"t": "la abadía de Himmerod, un monasterio perdido en las colinas de la región de Eifel.",
+"w": 15
+},
+{
+"n": 46,
+"p": 14,
+"t": "Durante cuatro días, entre monjes y misas, planearon un nuevo ejército alemán.",
+"w": 12
+},
+{
+"n": 47,
+"p": 15,
+"t": "Entre esos quince hombres estaban Hans Speidel, que había sido jefe de estado mayor de Rommel, y Adolf Heusinger,",
+"w": 19
+},
+{
+"n": 48,
+"p": 15,
+"t": "que había dirigido las operaciones del ejército de tierra y estaba junto a Hitler cuando estalló la bomba del 20 de julio de 1944.",
+"w": 24
+},
+{
+"n": 49,
+"p": 15,
+"t": "También estaba Fridolin von Senger und Etterlin, el general que había defendido Montecassino. Su hijo aparecerá más adelante en esta historia.",
+"w": 21
+},
+{
+"n": 50,
+"p": 16,
+"t": "Y escribieron un documento con condiciones muy claras.",
+"w": 8
+},
+{
+"n": 51,
+"p": 16,
+"t": "Pedían que se dejara de difamar a la Wehrmacht e incluso a las Waffen-SS.",
+"w": 14
+},
+{
+"n": 52,
+"p": 16,
+"t": "Pedían la liberación de los alemanes condenados por crímenes de guerra si habían actuado cumpliendo órdenes.",
+"w": 16
+},
+{
+"n": 53,
+"p": 16,
+"t": "Y pedían algo más simbólico, pero igual de importante. Una declaración pública que devolviera el honor al soldado alemán.",
+"w": 19
+},
+{
+"n": 54,
+"p": 17,
+"t": "Esa declaración llegó pronto, y desde el lugar más inesperado.",
+"w": 10
+},
+{
+"n": 55,
+"p": 17,
+"t": "En enero de 1951, el general Dwight Eisenhower, el hombre que había derrotado a Alemania,",
+"w": 15
+},
+{
+"n": 56,
+"p": 17,
+"t": "se reunió con Speidel y Heusinger cerca de Fráncfort. Les dijo en privado que les debía una disculpa.",
+"w": 18
+},
+{
+"n": 57,
+"p": 17,
+"t": "Y al día siguiente lo dijo en público.",
+"w": 8
+},
+{
+"n": 58,
+"p": 17,
+"t": "Que había llegado a comprender que existía una diferencia real entre el soldado alemán y Hitler con su grupo criminal.",
+"w": 20
+},
+{
+"n": 59,
+"p": 17,
+"t": "Y que, por su parte, no creía que el soldado alemán como tal hubiera perdido su honor.",
+"w": 17
+},
+{
+"n": 60,
+"p": 18,
+"t": "Al año siguiente, en diciembre de 1952, Adenauer fue todavía más lejos ante el parlamento alemán.",
+"w": 16
+},
+{
+"n": 61,
+"p": 18,
+"t": "Declaró que reconocía a todos los soldados de su pueblo que habían luchado con honor en tierra,",
+"w": 17
+},
+{
+"n": 62,
+"p": 18,
+"t": "en el mar y en el aire.",
+"w": 7
+},
+{
+"n": 63,
+"p": 18,
+"t": "Desde la oposición, alguien le gritó que eso ya lo habían oído entre 1933 y 1945.",
+"w": 16
+},
+{
+"n": 64,
+"p": 19,
+"t": "El camino seguía abierto. Pero era lento. Francia, que había sido invadida tres veces por Alemania en setenta años, se resistía.",
+"w": 21
+},
+{
+"n": 65,
+"p": 19,
+"t": "Finalmente, en mayo de 1955, Alemania Occidental entró en la OTAN. Y el nuevo ejército pudo nacer.",
+"w": 17
+},
+{
+"n": 66,
+"p": 20,
+"t": "La fecha que eligieron no fue casual.",
+"w": 7
+},
+{
+"n": 67,
+"p": 20,
+"t": "El 12 de noviembre de 1955 se cumplían doscientos años del nacimiento de Gerhard von Scharnhorst,",
+"w": 16
+},
+{
+"n": 68,
+"p": 20,
+"t": "el general prusiano que había reformado el ejército contra Napoleón. Era un modelo que nadie podía asociar con Hitler.",
+"w": 19
+},
+{
+"n": 69,
+"p": 21,
+"t": "Ese día, en un garaje de vehículos de un cuartel de Bonn,",
+"w": 12
+},
+{
+"n": 70,
+"p": 21,
+"t": "el ministro de Defensa Theodor Blank entregó sus nombramientos a ciento un voluntarios.",
+"w": 13
+},
+{
+"n": 71,
+"p": 21,
+"t": "Dos tenientes generales, Heusinger y Speidel, y otros noventa y nueve oficiales y suboficiales.",
+"w": 14
+},
+{
+"n": 72,
+"p": 21,
+"t": "Muchos llevaban traje de civil, porque todavía no había uniformes suficientes. Y todos, sin excepción, habían sido soldados de la Wehrmacht.",
+"w": 21
+},
+{
+"n": 73,
+"p": 21,
+"t": "Los dos generales harían después carreras enormes.",
+"w": 7
+},
+{
+"n": 74,
+"p": 21,
+"t": "Heusinger fue el primer inspector general de la Bundeswehr y luego presidió el comité militar de la OTAN en Washington.",
+"w": 20
+},
+{
+"n": 75,
+"p": 21,
+"t": "Speidel mandó las fuerzas terrestres de la OTAN en Europa Central.",
+"w": 11
+},
+{
+"n": 76,
+"p": 21,
+"t": "Los antiguos generales de Hitler estaban ahora al frente de la alianza occidental.",
+"w": 13
+},
+{
+"n": 77,
+"p": 22,
+"t": "Ese era el gran dilema. Un ejército no se improvisa.",
+"w": 10
+},
+{
+"n": 78,
+"p": 22,
+"t": "Hacían falta oficiales con experiencia, y la única experiencia que existía en Alemania era la de la guerra de Hitler.",
+"w": 20
+},
+{
+"n": 79,
+"p": 22,
+"t": "Así que el gobierno inventó un filtro.",
+"w": 7
+},
+{
+"n": 80,
+"p": 23,
+"t": "Se llamó Comité de Evaluación de Personal. Lo formaban treinta y ocho personas, la mayoría civiles.",
+"w": 16
+},
+{
+"n": 81,
+"p": 23,
+"t": "Entre ellos había nombres muy significativos. Annedore Leber, viuda de un socialdemócrata ejecutado por los nazis.",
+"w": 16
+},
+{
+"n": 82,
+"p": 23,
+"t": "Fabian von Schlabrendorff, uno de los conspiradores que había intentado matar a Hitler.",
+"w": 13
+},
+{
+"n": 83,
+"p": 23,
+"t": "Y también el general Fridolin von Senger und Etterlin.",
+"w": 9
+},
+{
+"n": 84,
+"p": 24,
+"t": "Ese comité tenía que examinar a todos los aspirantes a coronel o a general.",
+"w": 14
+},
+{
+"n": 85,
+"p": 24,
+"t": "Y una de las preguntas clave era qué pensaban del 20 de julio, del atentado contra Hitler.",
+"w": 17
+},
+{
+"n": 86,
+"p": 24,
+"t": "Quien considerara traidores a los conspiradores tenía muy difícil la entrada.",
+"w": 11
+},
+{
+"n": 87,
+"p": 24,
+"t": "Hasta finales de 1957, el comité revisó quinientas cincuenta y tres solicitudes. Rechazó cincuenta y una. Aceptó cuatrocientas setenta.",
+"w": 19
+},
+{
+"n": 88,
+"p": 25,
+"t": "Para los antiguos miembros de las Waffen-SS se fijó un límite.",
+"w": 11
+},
+{
+"n": 89,
+"p": 25,
+"t": "En agosto de 1956 se decidió que solo podrían entrar conservando, como máximo, el grado de teniente coronel.",
+"w": 18
+},
+{
+"n": 90,
+"p": 25,
+"t": "Los generales y coroneles de las SS quedaban fuera.",
+"w": 9
+},
+{
+"n": 91,
+"p": 26,
+"t": "El 2 de enero de 1956 llegaron los primeros voluntarios a los cuarteles.",
+"w": 13
+},
+{
+"n": 92,
+"p": 26,
+"t": "El más famoso de esos lugares fue Andernach, una pequeña ciudad a orillas del Rin.",
+"w": 15
+},
+{
+"n": 93,
+"p": 26,
+"t": "Pocos días después, el 20 de enero, Adenauer en persona viajó hasta allí para pasar revista a unos mil quinientos soldados.",
+"w": 21
+},
+{
+"n": 94,
+"p": 26,
+"t": "Las cámaras del ejército estadounidense filmaron la escena.",
+"w": 8
+},
+{
+"n": 95,
+"p": 26,
+"t": "Los nuevos soldados alemanes formados bajo una llovizna gris, con tanques americanos detrás, y niños subidos a las vallas para mirar.",
+"w": 21
+},
+{
+"n": 96,
+"p": 27,
+"t": "En julio de 1956 se aprobó el servicio militar obligatorio, y el 1 de abril de 1957 llegaron los primeros reclutas.",
+"w": 21
+},
+{
+"n": 97,
+"p": 27,
+"t": "Muchos de ellos habían nacido en 1937. Eran niños cuando terminó la guerra. Sus oficiales, en cambio, la habían hecho entera.",
+"w": 21
+},
+{
+"n": 98,
+"p": 28,
+"t": "Entre esos primeros voluntarios de Andernach había un muchacho de veintidós años llamado Ehrenfried Boege.",
+"w": 15
+},
+{
+"n": 99,
+"p": 28,
+"t": "Su padre, el general Ehrenfried Oskar Boege, había comandado el 18.º Ejército en Curlandia, en la costa del Báltico.",
+"w": 19
+},
+{
+"n": 100,
+"p": 28,
+"t": "Los soviéticos lo habían condenado a veinticinco años de prisión.",
+"w": 10
+},
+{
+"n": 101,
+"p": 28,
+"t": "Pasó una década en los campos de trabajo, incluido el de Vorkutá, más allá del círculo polar ártico.",
+"w": 18
+},
+{
+"n": 102,
+"p": 29,
+"t": "El padre volvió a casa el 6 de octubre de 1955,",
+"w": 11
+},
+{
+"n": 103,
+"p": 29,
+"t": "después de que Adenauer negociara en Moscú la liberación de los últimos prisioneros.",
+"w": 13
+},
+{
+"n": 104,
+"p": 29,
+"t": "Tres meses más tarde, el hijo se presentaba en Andernach. Llegaría a general de brigada.",
+"w": 15
+},
+{
+"n": 105,
+"p": 30,
+"t": "Y no era el único caso. Ahora sí, vamos a conocer a los hijos.",
+"w": 14
+},
+{
+"n": 106,
+"p": 31,
+"t": "Volvamos al bosque del principio. Hansgeorg Model había nacido en 1927.",
+"w": 11
+},
+{
+"n": 107,
+"p": 31,
+"t": "Tenía diecisiete años cuando, en diciembre de 1944, entró como aspirante a oficial en una unidad de cañones de asalto.",
+"w": 20
+},
+{
+"n": 108,
+"p": 31,
+"t": "Terminó la guerra en el estado mayor de una división de granaderos.",
+"w": 12
+},
+{
+"n": 109,
+"p": 31,
+"t": "Su padre, el mariscal Walter Model, era conocido como el bombero de Hitler.",
+"w": 13
+},
+{
+"n": 110,
+"p": 31,
+"t": "Lo enviaban a cada frente que se desmoronaba para tapar los agujeros.",
+"w": 12
+},
+{
+"n": 111,
+"p": 32,
+"t": "En abril de 1945, el mariscal quedó encerrado en la cuenca del Ruhr con más de trescientos mil hombres.",
+"w": 19
+},
+{
+"n": 112,
+"p": 32,
+"t": "Disolvió su grupo de ejércitos para no tener que firmar una rendición. Y el 21 de abril se suicidó.",
+"w": 19
+},
+{
+"n": 113,
+"p": 33,
+"t": "El hijo pasó la posguerra trabajando como periodista y estudiando derecho.",
+"w": 11
+},
+{
+"n": 114,
+"p": 33,
+"t": "En julio de 1955 asistió a la exhumación de su padre.",
+"w": 11
+},
+{
+"n": 115,
+"p": 33,
+"t": "Y en mayo de 1956 entró en la Bundeswehr como aspirante a oficial, igual que once años antes.",
+"w": 18
+},
+{
+"n": 116,
+"p": 34,
+"t": "Hizo carrera en la artillería.",
+"w": 5
+},
+{
+"n": 117,
+"p": 34,
+"t": "Mandó una brigada de granaderos y, entre 1982 y 1987, dirigió el servicio de inteligencia militar de la Bundeswehr.",
+"w": 19
+},
+{
+"n": 118,
+"p": 34,
+"t": "Llegó a general de brigada.",
+"w": 5
+},
+{
+"n": 119,
+"p": 35,
+"t": "Pero lo más interesante de Hansgeorg Model no fue su carrera. Fue lo que hizo con la memoria de su padre.",
+"w": 21
+},
+{
+"n": 120,
+"p": 35,
+"t": "Publicó un libro de documentos sobre el mariscal.",
+"w": 8
+},
+{
+"n": 121,
+"p": 35,
+"t": "Y en ese libro no lo presentó como un militar apolítico que solo cumplía órdenes,",
+"w": 15
+},
+{
+"n": 122,
+"p": 35,
+"t": "la excusa que tantos usaron después de la guerra. Reconoció que su padre había sido un seguidor leal de Hitler.",
+"w": 20
+},
+{
+"n": 123,
+"p": 36,
+"t": "Hay otro detalle casi irónico.",
+"w": 5
+},
+{
+"n": 124,
+"p": 36,
+"t": "Model hijo fue uno de los editores de la gran obra de referencia sobre todos los generales y almirantes de la Bundeswehr.",
+"w": 22
+},
+{
+"n": 125,
+"p": 36,
+"t": "Es decir, el hijo de un mariscal de Hitler ayudó a escribir la historia de los generales del nuevo ejército,",
+"w": 20
+},
+{
+"n": 126,
+"p": 36,
+"t": "muchos de los cuales eran, como él, hijos de generales de la Wehrmacht.",
+"w": 13
+},
+{
+"n": 127,
+"p": 37,
+"t": "La historia del siguiente hijo es mucho más oscura.",
+"w": 9
+},
+{
+"n": 128,
+"p": 38,
+"t": "Gottfried von Erdmannsdorff era general de división.",
+"w": 7
+},
+{
+"n": 129,
+"p": 38,
+"t": "En 1944, Hitler declaró fortaleza la ciudad soviética de Moguilov, en la actual Bielorrusia, y lo nombró comandante.",
+"w": 18
+},
+{
+"n": 130,
+"p": 38,
+"t": "Una fortaleza, para Hitler, era un lugar que no podía rendirse nunca.",
+"w": 12
+},
+{
+"n": 131,
+"p": 38,
+"t": "En junio de 1944, durante la gran ofensiva soviética, la ciudad cayó y el general fue capturado.",
+"w": 17
+},
+{
+"n": 132,
+"p": 39,
+"t": "En cautiverio, Erdmannsdorff firmó un llamamiento de generales alemanes contra Hitler. No le sirvió de nada.",
+"w": 16
+},
+{
+"n": 133,
+"p": 39,
+"t": "Los soviéticos lo juzgaron en Minsk, entre otras acusaciones,",
+"w": 9
+},
+{
+"n": 134,
+"p": 39,
+"t": "por la deportación de miles de civiles y por operaciones de castigo contra la población. Fue condenado a muerte.",
+"w": 19
+},
+{
+"n": 135,
+"p": 40,
+"t": "El 30 de enero de 1946 lo ahorcaron en público, en el hipódromo de Minsk, ante una multitud.",
+"w": 18
+},
+{
+"n": 136,
+"p": 41,
+"t": "Su hijo Carlheinrich tenía entonces veintidós años. No pudo despedirse de él. Estaba, él también, en un campo de prisioneros soviético.",
+"w": 21
+},
+{
+"n": 137,
+"p": 41,
+"t": "Había sido herido dos veces durante la guerra y había peleado hasta el último día en Curlandia.",
+"w": 17
+},
+{
+"n": 138,
+"p": 41,
+"t": "Lo capturaron el 8 de mayo de 1945 y no lo liberaron hasta septiembre de 1949.",
+"w": 16
+},
+{
+"n": 139,
+"p": 42,
+"t": "Es difícil imaginar lo que significa volver a casa sabiendo que tu padre fue ahorcado delante de una multitud.",
+"w": 19
+},
+{
+"n": 140,
+"p": 42,
+"t": "Y sin embargo, siete años después de salir del cautiverio, en julio de 1956, Carlheinrich von Erdmannsdorff entró en la Bundeswehr.",
+"w": 21
+},
+{
+"n": 141,
+"p": 43,
+"t": "Fue ayudante del jefe del ejército de tierra, mandó una brigada de tanques y en 1977 ascendió a general de brigada.",
+"w": 21
+},
+{
+"n": 142,
+"p": 43,
+"t": "Murió en 2002 en Oldenburgo.",
+"w": 5
+},
+{
+"n": 143,
+"p": 43,
+"t": "Una vida entera al servicio de un ejército democrático, con una sombra que nunca dejó de seguirlo.",
+"w": 17
+},
+{
+"n": 144,
+"p": 44,
+"t": "Y Moguilov, esa misma ciudad, marcó a otra familia.",
+"w": 9
+},
+{
+"n": 145,
+"p": 44,
+"t": "El 29 de junio de 1944, un día después de la captura de Erdmannsdorff,",
+"w": 14
+},
+{
+"n": 146,
+"p": 44,
+"t": "murió en combate cerca de allí el teniente general Otto Schünemann. Llevaba solo dos días al frente de un cuerpo blindado.",
+"w": 21
+},
+{
+"n": 147,
+"p": 44,
+"t": "Su hijo Christian había servido en el estado mayor de ese mismo cuerpo el año anterior.",
+"w": 16
+},
+{
+"n": 148,
+"p": 45,
+"t": "Christian Schünemann entró en la Bundeswehr en 1956.",
+"w": 8
+},
+{
+"n": 149,
+"p": 45,
+"t": "Fue ayudante de Hans Speidel en el mando de la OTAN y trabajó junto a Heusinger en Washington.",
+"w": 18
+},
+{
+"n": 150,
+"p": 45,
+"t": "Llegó a general de división y a jefe de estado mayor de uno de los grandes grupos de ejércitos de la OTAN en Alemania.",
+"w": 24
+},
+{
+"n": 151,
+"p": 46,
+"t": "Otros hijos habían pagado la derrota en carne propia.",
+"w": 9
+},
+{
+"n": 152,
+"p": 46,
+"t": "Klaus Schubert, hijo del general Albrecht Schubert, fue prisionero en Yugoslavia hasta noviembre de 1952,",
+"w": 15
+},
+{
+"n": 153,
+"p": 46,
+"t": "y allí llegó a ser condenado a muerte. Volvió con vida.",
+"w": 11
+},
+{
+"n": 154,
+"p": 46,
+"t": "Al año siguiente ya trabajaba en el organismo que preparaba el nuevo ejército, y terminó su carrera como general de división.",
+"w": 21
+},
+{
+"n": 155,
+"p": 46,
+"t": "Hartmut Dybilasz era hijo de un general que murió en cautiverio soviético en 1950.",
+"w": 14
+},
+{
+"n": 156,
+"p": 46,
+"t": "Él también llegó a general de brigada en la Bundeswehr.",
+"w": 10
+},
+{
+"n": 157,
+"p": 47,
+"t": "Si la historia de Erdmannsdorff es la más trágica, la de la familia Foertsch es probablemente la más sorprendente.",
+"w": 19
+},
+{
+"n": 158,
+"p": 48,
+"t": "Friedrich Foertsch fue teniente general de la Wehrmacht y jefe de estado mayor del grupo de ejércitos de Curlandia.",
+"w": 19
+},
+{
+"n": 159,
+"p": 48,
+"t": "Al final de la guerra cayó en manos soviéticas.",
+"w": 9
+},
+{
+"n": 160,
+"p": 48,
+"t": "El 29 de junio de 1950, un tribunal soviético lo condenó a muerte.",
+"w": 13
+},
+{
+"n": 161,
+"p": 48,
+"t": "La pena fue conmutada por veinticinco años de trabajos forzados.",
+"w": 10
+},
+{
+"n": 162,
+"p": 49,
+"t": "Cuando por fin lo liberaron, en el otoño de 1955,",
+"w": 10
+},
+{
+"n": 163,
+"p": 49,
+"t": "pesaba cuarenta y seis kilos y había perdido la vista de un ojo.",
+"w": 13
+},
+{
+"n": 164,
+"p": 50,
+"t": "Lo que pasó después parece imposible. Aquel prisionero esquelético entró en la Bundeswehr y en 1961 fue nombrado inspector general,",
+"w": 20
+},
+{
+"n": 165,
+"p": 50,
+"t": "el puesto militar más alto del nuevo ejército. La Unión Soviética protestó. Bonn no cedió.",
+"w": 15
+},
+{
+"n": 166,
+"p": 50,
+"t": "El hombre que Moscú había condenado a muerte mandaba ahora las fuerzas armadas de Alemania Occidental.",
+"w": 16
+},
+{
+"n": 167,
+"p": 51,
+"t": "Su hijo Hartmut había nacido en 1936 en Königsberg. Era demasiado joven para la guerra.",
+"w": 15
+},
+{
+"n": 168,
+"p": 51,
+"t": "Entró en la Bundeswehr en 1957 y fue subiendo durante toda la Guerra Fría hasta mandar una división de tanques.",
+"w": 20
+},
+{
+"n": 169,
+"p": 52,
+"t": "Y entonces llegó 1990. El 3 de octubre, el día de la reunificación alemana, Hartmut Foertsch recibió una misión histórica.",
+"w": 20
+},
+{
+"n": 170,
+"p": 52,
+"t": "Ponerse al frente del mando de enlace alemán con las tropas soviéticas que todavía estaban en el territorio de la antigua Alemania del Este.",
+"w": 24
+},
+{
+"n": 171,
+"p": 52,
+"t": "Eran cientos de miles de soldados. Y había que organizar su retirada.",
+"w": 12
+},
+{
+"n": 172,
+"p": 53,
+"t": "Durante cuatro años, el hijo del general que los soviéticos habían condenado a muerte negoció, día a día,",
+"w": 18
+},
+{
+"n": 173,
+"p": 53,
+"t": "con los generales soviéticos la salida de su ejército de Alemania.",
+"w": 11
+},
+{
+"n": 174,
+"p": 53,
+"t": "Terminó su misión en diciembre de 1994, cuando los últimos soldados rusos ya se habían ido.",
+"w": 16
+},
+{
+"n": 175,
+"p": 54,
+"t": "Pocas historias resumen mejor el siglo veinte alemán que la de esa familia.",
+"w": 13
+},
+{
+"n": 176,
+"p": 55,
+"t": "Y hubo otra historia de regreso al Este.",
+"w": 8
+},
+{
+"n": 177,
+"p": 55,
+"t": "El almirante Otto Ciliax había dirigido en febrero de 1942 una de las operaciones navales más audaces de la guerra,",
+"w": 20
+},
+{
+"n": 178,
+"p": 55,
+"t": "la huida de los grandes buques de guerra alemanes por el Canal de la Mancha,",
+"w": 15
+},
+{
+"n": 179,
+"p": 55,
+"t": "delante de las narices de la marina británica.",
+"w": 8
+},
+{
+"n": 180,
+"p": 55,
+"t": "Su hijo, también llamado Otto Ciliax, llegó a almirante de flotilla en la marina de la Bundeswehr.",
+"w": 17
+},
+{
+"n": 181,
+"p": 55,
+"t": "Y después de la reunificación, entre 1991 y 1994, mandó la base naval de Rostock,",
+"w": 15
+},
+{
+"n": 182,
+"p": 55,
+"t": "en la costa de la antigua Alemania comunista.",
+"w": 8
+},
+{
+"n": 183,
+"p": 55,
+"t": "Allí, donde unos meses antes estaba la marina del Este, ahora mandaba el hijo de un almirante de Hitler.",
+"w": 19
+},
+{
+"n": 184,
+"p": 56,
+"t": "El siguiente hijo pagó la guerra con su propio cuerpo.",
+"w": 10
+},
+{
+"n": 185,
+"p": 57,
+"t": "Ferdinand von Senger und Etterlin era hijo del general Fridolin von Senger und Etterlin,",
+"w": 14
+},
+{
+"n": 186,
+"p": 57,
+"t": "el hombre que defendió Montecassino frente a los aliados en 1944 y que, en mayo de 1945,",
+"w": 17
+},
+{
+"n": 187,
+"p": 57,
+"t": "encabezó la delegación alemana que rindió las tropas en Italia.",
+"w": 10
+},
+{
+"n": 188,
+"p": 57,
+"t": "Un general culto, católico, que había estudiado en Oxford antes de la Primera Guerra Mundial.",
+"w": 15
+},
+{
+"n": 189,
+"p": 58,
+"t": "El hijo entró en la caballería en 1941.",
+"w": 8
+},
+{
+"n": 190,
+"p": 58,
+"t": "Combatió en Stalingrado al frente de un escuadrón, fue herido de gravedad y lo sacaron en avión poco antes del final,",
+"w": 21
+},
+{
+"n": 191,
+"p": 58,
+"t": "cuando casi nadie salía de allí con vida.",
+"w": 8
+},
+{
+"n": 192,
+"p": 58,
+"t": "En agosto de 1944, cerca de la ciudad rumana de Iasi, perdió el brazo derecho. Tenía veintiún años.",
+"w": 18
+},
+{
+"n": 193,
+"p": 59,
+"t": "Con un solo brazo, cualquiera habría pensado que su carrera militar había terminado.",
+"w": 13
+},
+{
+"n": 194,
+"p": 59,
+"t": "Estudió derecho, se doctoró en 1951 y trabajó en la oficina de protección de la Constitución.",
+"w": 16
+},
+{
+"n": 195,
+"p": 59,
+"t": "Pero en 1956 volvió a vestir uniforme.",
+"w": 7
+},
+{
+"n": 196,
+"p": 60,
+"t": "Lo que vino después fue una de las carreras más brillantes de la Bundeswehr. Participó en las pruebas del tanque Leopard.",
+"w": 21
+},
+{
+"n": 197,
+"p": 60,
+"t": "Escribió libros de referencia sobre carros de combate y cientos de artículos. Mandó una división, después un cuerpo de ejército.",
+"w": 20
+},
+{
+"n": 198,
+"p": 60,
+"t": "Y en 1979 llegó a la cima.",
+"w": 7
+},
+{
+"n": 199,
+"p": 60,
+"t": "Fue nombrado comandante en jefe de las fuerzas de la OTAN en Europa Central, con cuatro estrellas.",
+"w": 17
+},
+{
+"n": 200,
+"p": 60,
+"t": "Bajo sus órdenes había soldados alemanes, estadounidenses, británicos, belgas, holandeses y canadienses.",
+"w": 12
+},
+{
+"n": 201,
+"p": 60,
+"t": "Entre ellos, los mismos estadounidenses y británicos contra los que su padre había combatido en Montecassino.",
+"w": 16
+},
+{
+"n": 202,
+"p": 61,
+"t": "Y había un apellido todavía más pesado.",
+"w": 7
+},
+{
+"n": 203,
+"p": 61,
+"t": "El de Heinz Guderian, el creador de las divisiones blindadas alemanas, el padre de la guerra relámpago.",
+"w": 17
+},
+{
+"n": 204,
+"p": 61,
+"t": "En los últimos meses de la guerra fue jefe del estado mayor del ejército de tierra,",
+"w": 16
+},
+{
+"n": 205,
+"p": 61,
+"t": "hasta que Hitler lo destituyó en marzo de 1945.",
+"w": 9
+},
+{
+"n": 206,
+"p": 62,
+"t": "Su hijo, Heinz Günther Guderian, nació en 1914 y fue soldado de carrera desde muy joven.",
+"w": 16
+},
+{
+"n": 207,
+"p": 62,
+"t": "Peleó en Polonia, fue herido dos veces en Francia y, en 1944, como oficial de operaciones de una división de tanques,",
+"w": 21
+},
+{
+"n": 208,
+"p": 62,
+"t": "consiguió sacar a los restos de su unidad de la bolsa de Falaise, en Normandía.",
+"w": 15
+},
+{
+"n": 209,
+"p": 62,
+"t": "Por eso recibió la Cruz de Caballero.",
+"w": 7
+},
+{
+"n": 210,
+"p": 63,
+"t": "Después de la guerra trabajó para la organización de espionaje del general Gehlen,",
+"w": 13
+},
+{
+"n": 211,
+"p": 63,
+"t": "la que luego se convertiría en el servicio de inteligencia alemán. En 1956 entró en la Bundeswehr.",
+"w": 17
+},
+{
+"n": 212,
+"p": 63,
+"t": "Y en 1967 ocupó un cargo con un nombre casi idéntico al de su padre: inspector de las tropas blindadas.",
+"w": 20
+},
+{
+"n": 213,
+"p": 63,
+"t": "El hijo del creador de los tanques de Hitler era ahora el responsable de los tanques de la democracia alemana.",
+"w": 20
+},
+{
+"n": 214,
+"p": 64,
+"t": "Alemania del Este no dejó pasar la ocasión. En sus publicaciones de propaganda contra el gobierno de Bonn,",
+"w": 18
+},
+{
+"n": 215,
+"p": 64,
+"t": "el nombre de Guderian hijo aparecía en las listas de antiguos militares nazis que seguían en puestos de poder.",
+"w": 19
+},
+{
+"n": 216,
+"p": 65,
+"t": "Llama la atención un detalle que se repite en varias de estas biografías. Model, Guderian, Senger.",
+"w": 16
+},
+{
+"n": 217,
+"p": 65,
+"t": "Muchos de estos hijos pasaron por el mundo de la inteligencia y el espionaje.",
+"w": 14
+},
+{
+"n": 218,
+"p": 65,
+"t": "Quizás porque conocían mejor que nadie al enemigo del Este, contra el que habían combatido.",
+"w": 15
+},
+{
+"n": 219,
+"p": 66,
+"t": "Pero no todos los padres habían sido leales a Hitler.",
+"w": 10
+},
+{
+"n": 220,
+"p": 67,
+"t": "Hans Oster era general de división y número dos del servicio de inteligencia militar. Desde 1938 conspiró contra Hitler.",
+"w": 19
+},
+{
+"n": 221,
+"p": 67,
+"t": "En 1940 llegó a avisar a los holandeses de la fecha de la invasión alemana.",
+"w": 15
+},
+{
+"n": 222,
+"p": 67,
+"t": "Fue descubierto, arrestado y, el 9 de abril de 1945, apenas tres semanas antes del suicidio de Hitler,",
+"w": 18
+},
+{
+"n": 223,
+"p": 67,
+"t": "lo ahorcaron en el campo de concentración de Flossenbürg junto al almirante Canaris y al pastor Dietrich Bonhoeffer.",
+"w": 18
+},
+{
+"n": 224,
+"p": 68,
+"t": "Su hijo Achim había sido oficial de estado mayor y terminó la guerra como mayor.",
+"w": 15
+},
+{
+"n": 225,
+"p": 68,
+"t": "Uno de sus hermanos se quitó la vida después de Stalingrado.",
+"w": 11
+},
+{
+"n": 226,
+"p": 68,
+"t": "Tras la guerra, Achim se convirtió en una figura clave en la sombra.",
+"w": 13
+},
+{
+"n": 227,
+"p": 68,
+"t": "Dirigió la seguridad del organismo que preparaba en secreto el nuevo ejército, el germen del futuro servicio de contraespionaje militar.",
+"w": 20
+},
+{
+"n": 228,
+"p": 69,
+"t": "Y su nombre quedó unido para siempre a uno de los mayores escándalos de la Alemania de posguerra.",
+"w": 18
+},
+{
+"n": 229,
+"p": 69,
+"t": "En octubre de 1962, la revista Der Spiegel publicó un artículo crítico sobre la defensa alemana.",
+"w": 16
+},
+{
+"n": 230,
+"p": 69,
+"t": "El gobierno acusó a la revista de traición. Uno de sus periodistas, Conrad Ahlers, estaba de vacaciones en España.",
+"w": 19
+},
+{
+"n": 231,
+"p": 69,
+"t": "Achim Oster era entonces agregado militar en Madrid.",
+"w": 8
+},
+{
+"n": 232,
+"p": 69,
+"t": "Tras una llamada nocturna del ministro de Defensa, Franz Josef Strauss, la policía de Franco detuvo al periodista.",
+"w": 18
+},
+{
+"n": 233,
+"p": 70,
+"t": "El escándalo sacudió al país. Muchos alemanes vieron en aquel episodio un aire peligroso a los viejos tiempos.",
+"w": 18
+},
+{
+"n": 234,
+"p": 70,
+"t": "Strauss tuvo que dejar el ministerio.",
+"w": 6
+},
+{
+"n": 235,
+"p": 70,
+"t": "El hijo de un mártir de la resistencia había quedado atrapado en una de las grandes crisis de la democracia alemana.",
+"w": 21
+},
+{
+"n": 236,
+"p": 71,
+"t": "Más tarde, Oster llegó a general de división.",
+"w": 8
+},
+{
+"n": 237,
+"p": 71,
+"t": "Y en varias ocasiones fue el orador principal en los actos de homenaje a los conspiradores del 20 de julio.",
+"w": 20
+},
+{
+"n": 238,
+"p": 72,
+"t": "Hay un caso que ya contamos en este canal y que no podía faltar aquí.",
+"w": 15
+},
+{
+"n": 239,
+"p": 72,
+"t": "Claus von Stauffenberg no era general, era coronel. Pero fue el hombre que puso la bomba bajo la mesa de Hitler.",
+"w": 21
+},
+{
+"n": 240,
+"p": 72,
+"t": "Fusilado esa misma noche, dejó cuatro hijos y a su mujer embarazada del quinto.",
+"w": 14
+},
+{
+"n": 241,
+"p": 73,
+"t": "El mayor, Berthold, tenía diez años. Después del atentado,",
+"w": 9
+},
+{
+"n": 242,
+"p": 73,
+"t": "los nazis separaron a los niños de su madre y los encerraron con nombres falsos en un hogar infantil.",
+"w": 19
+},
+{
+"n": 243,
+"p": 73,
+"t": "En abril de 1945 estuvieron a punto de ser enviados a Buchenwald.",
+"w": 12
+},
+{
+"n": 244,
+"p": 74,
+"t": "Berthold von Stauffenberg entró en la Bundeswehr en 1956 y llegó a general de división.",
+"w": 15
+},
+{
+"n": 245,
+"p": 74,
+"t": "Muchos años después explicó por qué. No se hizo soldado por su padre, dijo, sino a pesar de él.",
+"w": 19
+},
+{
+"n": 246,
+"p": 74,
+"t": "Muchos de los oficiales mayores habían conocido personalmente a su padre, y él se sentía siempre comparado.",
+"w": 17
+},
+{
+"n": 247,
+"p": 75,
+"t": "Cuando le preguntaron si su padre era un héroe, respondió que sí. Y añadió algo que dice mucho de él.",
+"w": 20
+},
+{
+"n": 248,
+"p": 75,
+"t": "Que no sabía si él mismo habría tenido el valor y la decisión de hacer lo mismo.",
+"w": 17
+},
+{
+"n": 249,
+"p": 76,
+"t": "Y luego están los que nunca quisieron ese uniforme.",
+"w": 9
+},
+{
+"n": 250,
+"p": 77,
+"t": "El caso más famoso es el de Manfred Rommel, el hijo del Zorro del Desierto.",
+"w": 15
+},
+{
+"n": 251,
+"p": 77,
+"t": "Con catorce años ya servía como ayudante en una batería antiaérea.",
+"w": 11
+},
+{
+"n": 252,
+"p": 77,
+"t": "Quería entrar en las Waffen-SS, y fue su propio padre quien se lo prohibió.",
+"w": 14
+},
+{
+"n": 253,
+"p": 78,
+"t": "El 14 de octubre de 1944, dos generales enviados por Hitler llegaron a la casa familiar.",
+"w": 16
+},
+{
+"n": 254,
+"p": 78,
+"t": "Le dieron al mariscal a elegir entre un juicio por traición o el veneno.",
+"w": 14
+},
+{
+"n": 255,
+"p": 78,
+"t": "Antes de salir, Rommel habló con su hijo.",
+"w": 8
+},
+{
+"n": 256,
+"p": 78,
+"t": "Según contó Manfred toda su vida, le dijo que en un cuarto de hora estaría muerto.",
+"w": 16
+},
+{
+"n": 257,
+"p": 79,
+"t": "Manfred Rommel nunca entró en la Bundeswehr.",
+"w": 7
+},
+{
+"n": 258,
+"p": 79,
+"t": "Se dedicó a la política y fue alcalde de Stuttgart durante más de veinte años.",
+"w": 15
+},
+{
+"n": 259,
+"p": 79,
+"t": "Pero el ejército sí se acordó de su padre.",
+"w": 9
+},
+{
+"n": 260,
+"p": 79,
+"t": "La Bundeswehr bautizó con el nombre de Rommel dos cuarteles, en los años sesenta, y hasta un destructor,",
+"w": 18
+},
+{
+"n": 261,
+"p": 79,
+"t": "que su viuda bautizó en 1969.",
+"w": 6
+},
+{
+"n": 262,
+"p": 80,
+"t": "Hubo hijos que tomaron un camino todavía más lejano.",
+"w": 9
+},
+{
+"n": 263,
+"p": 80,
+"t": "Ludwig von Friedeburg era hijo del almirante Hans-Georg von Friedeburg, uno de los firmantes de la rendición alemana.",
+"w": 18
+},
+{
+"n": 264,
+"p": 80,
+"t": "Dos semanas después de firmarla, el almirante se suicidó.",
+"w": 9
+},
+{
+"n": 265,
+"p": 80,
+"t": "El hijo había sido el comandante de submarino más joven de la guerra, con apenas veinte años.",
+"w": 17
+},
+{
+"n": 266,
+"p": 80,
+"t": "Después de 1945 se hizo sociólogo, militó en el partido socialdemócrata y llegó a ministro de Educación del estado de Hesse.",
+"w": 21
+},
+{
+"n": 267,
+"p": 80,
+"t": "En 1999, inauguró en Kiel la exposición que mostraba los crímenes de la Wehrmacht.",
+"w": 14
+},
+{
+"n": 268,
+"p": 81,
+"t": "Y otros no tuvieron opción.",
+"w": 5
+},
+{
+"n": 269,
+"p": 81,
+"t": "El mariscal Wilhelm Keitel, el jefe del mando supremo de Hitler, fue ahorcado en Núremberg en octubre de 1946.",
+"w": 19
+},
+{
+"n": 270,
+"p": 81,
+"t": "Uno de sus hijos había muerto en el frente en 1941.",
+"w": 11
+},
+{
+"n": 271,
+"p": 81,
+"t": "Sus últimas palabras en el patíbulo fueron que seguía a sus hijos. Todo por Alemania.",
+"w": 15
+},
+{
+"n": 272,
+"p": 82,
+"t": "También hubo hijos de la resistencia que eligieron la vida civil.",
+"w": 11
+},
+{
+"n": 273,
+"p": 82,
+"t": "El general Erich Fellgiebel, jefe de comunicaciones del ejército, fue uno de los conspiradores del 20 de julio.",
+"w": 18
+},
+{
+"n": 274,
+"p": 82,
+"t": "Su misión era cortar las comunicaciones del cuartel general de Hitler después de la explosión.",
+"w": 15
+},
+{
+"n": 275,
+"p": 82,
+"t": "Fue ahorcado en septiembre de 1944.",
+"w": 6
+},
+{
+"n": 276,
+"p": 82,
+"t": "Su hijo Walther-Peer, condecorado con la Cruz de Caballero, pasó un tiempo detenido por llevar ese apellido.",
+"w": 17
+},
+{
+"n": 277,
+"p": 82,
+"t": "Después de la guerra se dedicó a los negocios y a la historia militar. Nunca volvió al ejército.",
+"w": 18
+},
+{
+"n": 278,
+"p": 83,
+"t": "El ejército nuevo tenía hijos de héroes, hijos de condenados y hijos de conspiradores. Pero todos convivían con la misma pregunta.",
+"w": 21
+},
+{
+"n": 279,
+"p": 83,
+"t": "Qué hacer con el pasado.",
+"w": 5
+},
+{
+"n": 280,
+"p": 84,
+"t": "Hacia el final de los años cincuenta,",
+"w": 7
+},
+{
+"n": 281,
+"p": 84,
+"t": "más de doce mil oficiales de carrera de la Bundeswehr habían sido oficiales de la Wehrmacht o del ejército anterior.",
+"w": 20
+},
+{
+"n": 282,
+"p": 84,
+"t": "Trescientos venían de las Waffen-SS. Era inevitable. Pero significaba que en los cuarteles convivían dos ideas opuestas.",
+"w": 17
+},
+{
+"n": 283,
+"p": 85,
+"t": "Por un lado estaba la de un grupo de reformistas encabezados por el conde Wolf von Baudissin,",
+"w": 17
+},
+{
+"n": 284,
+"p": 85,
+"t": "un antiguo capitán del Afrika Korps que había pasado la guerra prisionero en Australia.",
+"w": 14
+},
+{
+"n": 285,
+"p": 85,
+"t": "Su idea se llamó conducción interior, y su fórmula era el ciudadano de uniforme.",
+"w": 14
+},
+{
+"n": 286,
+"p": 85,
+"t": "El soldado ya no juraba obediencia ciega a un hombre, como los soldados de Hitler.",
+"w": 15
+},
+{
+"n": 287,
+"p": 85,
+"t": "Si una orden violaba la dignidad humana, no tenía que cumplirla.",
+"w": 11
+},
+{
+"n": 288,
+"p": 86,
+"t": "La diferencia estaba en las palabras.",
+"w": 6
+},
+{
+"n": 289,
+"p": 86,
+"t": "En 1934, los soldados alemanes habían jurado por Dios obediencia incondicional al Führer del Reich y del pueblo alemán, Adolf Hitler.",
+"w": 21
+},
+{
+"n": 290,
+"p": 86,
+"t": "Los soldados de la Bundeswehr prometían servir lealmente a la República Federal de Alemania y defender con valentía el derecho",
+"w": 20
+},
+{
+"n": 291,
+"p": 86,
+"t": "y la libertad del pueblo alemán. No había ningún nombre propio en ese juramento.",
+"w": 14
+},
+{
+"n": 292,
+"p": 87,
+"t": "Por otro lado estaban los tradicionalistas, que veían en todo eso una debilidad,",
+"w": 13
+},
+{
+"n": 293,
+"p": 87,
+"t": "y que seguían considerando a la Wehrmacht como un ejemplo profesional.",
+"w": 11
+},
+{
+"n": 294,
+"p": 88,
+"t": "Esa tensión explotó varias veces.",
+"w": 5
+},
+{
+"n": 295,
+"p": 88,
+"t": "En octubre de 1976, un piloto de la Luftwaffe de Hitler, Hans-Ulrich Rudel, que nunca había renegado del nazismo,",
+"w": 19
+},
+{
+"n": 296,
+"p": 88,
+"t": "fue invitado a un encuentro de veteranos en una base de la fuerza aérea alemana.",
+"w": 15
+},
+{
+"n": 297,
+"p": 88,
+"t": "Cuando la prensa protestó, dos generales de la Bundeswehr lo defendieron. Los dos fueron enviados a retiro forzoso en pocos días.",
+"w": 21
+},
+{
+"n": 298,
+"p": 89,
+"t": "En 1982, el gobierno escribió por fin una frase que parecía obvia, pero que había tardado casi treinta años en llegar.",
+"w": 21
+},
+{
+"n": 299,
+"p": 89,
+"t": "Un régimen injusto como el Tercer Reich no puede fundar una tradición.",
+"w": 12
+},
+{
+"n": 300,
+"p": 90,
+"t": "En 1995, dos cuarteles de Baviera perdieron los nombres de los generales de Hitler que llevaban desde hacía décadas.",
+"w": 19
+},
+{
+"n": 301,
+"p": 90,
+"t": "Otros siguieron después. Y en 2018, el ministerio de Defensa fue más allá.",
+"w": 13
+},
+{
+"n": 302,
+"p": 90,
+"t": "Declaró que la Wehrmacht, como institución, no era digna de tradición para el ejército de una democracia.",
+"w": 17
+},
+{
+"n": 303,
+"p": 91,
+"t": "Pero el nombre de Rommel sigue en los cuarteles. Para el ministerio, su caso cumple las condiciones.",
+"w": 17
+},
+{
+"n": 304,
+"p": 91,
+"t": "El debate sigue abierto hasta hoy.",
+"w": 6
+},
+{
+"n": 305,
+"p": 92,
+"t": "Los funerales de los viejos mariscales también se convirtieron en campo de batalla.",
+"w": 13
+},
+{
+"n": 306,
+"p": 92,
+"t": "Cuando murió Erich von Manstein, en 1973, el inspector general de la Bundeswehr habló en su entierro.",
+"w": 17
+},
+{
+"n": 307,
+"p": 92,
+"t": "Ese mismo año murió el mariscal Ferdinand Schörner,",
+"w": 8
+},
+{
+"n": 308,
+"p": 92,
+"t": "famoso por fusilar a sus propios soldados en los últimos meses de la guerra.",
+"w": 14
+},
+{
+"n": 309,
+"p": 92,
+"t": "Esta vez, a los militares de la Bundeswehr se les prohibió asistir de uniforme.",
+"w": 14
+},
+{
+"n": 310,
+"p": 93,
+"t": "En 1995 llegó otro golpe.",
+"w": 5
+},
+{
+"n": 311,
+"p": 93,
+"t": "Una exposición itinerante mostró con fotografías y documentos los crímenes cometidos por la Wehrmacht en el Este.",
+"w": 17
+},
+{
+"n": 312,
+"p": 93,
+"t": "Recorrió decenas de ciudades y la vieron cerca de novecientas mil personas.",
+"w": 12
+},
+{
+"n": 313,
+"p": 93,
+"t": "Al principio, los soldados de la Bundeswehr solo podían visitarla como civiles. Años después, ya se les permitió ir de uniforme.",
+"w": 21
+},
+{
+"n": 314,
+"p": 93,
+"t": "Y en 2017, tras detenerse a un oficial con ideas de extrema derecha,",
+"w": 13
+},
+{
+"n": 315,
+"p": 93,
+"t": "se descubrió en su cuartel una sala decorada con recuerdos de la Wehrmacht. Se ordenó registrar todos los cuarteles del país.",
+"w": 21
+},
+{
+"n": 316,
+"p": 94,
+"t": "Al otro lado del muro, Alemania del Este hizo algo parecido, aunque lo contó de otra manera.",
+"w": 17
+},
+{
+"n": 317,
+"p": 94,
+"t": "Su Ejército Popular Nacional nació en marzo de 1956 y también recurrió a antiguos generales de la Wehrmacht, como Vincenz Müller,",
+"w": 21
+},
+{
+"n": 318,
+"p": 94,
+"t": "que se había pasado al bando soviético en la guerra. Pero los fue retirando antes de que terminara la década.",
+"w": 20
+},
+{
+"n": 319,
+"p": 94,
+"t": "Oficialmente, el ejército comunista no tenía nada que ver con el pasado.",
+"w": 12
+},
+{
+"n": 320,
+"p": 95,
+"t": "Mientras tanto, en el Oeste, el tiempo hacía su trabajo.",
+"w": 10
+},
+{
+"n": 321,
+"p": 95,
+"t": "En 1983, Wolfgang Altenburg se convirtió en el primer inspector general de la Bundeswehr que no había combatido en la Wehrmacht.",
+"w": 21
+},
+{
+"n": 322,
+"p": 95,
+"t": "Habían pasado casi cuarenta años desde el final de la guerra.",
+"w": 11
+},
+{
+"n": 323,
+"p": 95,
+"t": "Y hacia finales de los años ochenta se retiraron los últimos generales que, siendo apenas adolescentes,",
+"w": 16
+},
+{
+"n": 324,
+"p": 95,
+"t": "habían vestido el uniforme de la Wehrmacht. Desde entonces, ningún general alemán en activo ha combatido en la guerra de Hitler.",
+"w": 21
+},
+{
+"n": 325,
+"p": 96,
+"t": "Y la historia de las familias siguió escribiéndose.",
+"w": 8
+},
+{
+"n": 326,
+"p": 97,
+"t": "El hijo de Hans Speidel, Hans Helmut, también se hizo soldado.",
+"w": 11
+},
+{
+"n": 327,
+"p": 97,
+"t": "Su padre había sido jefe de estado mayor de Rommel y había sido arrestado por la Gestapo después del atentado contra Hitler.",
+"w": 22
+},
+{
+"n": 328,
+"p": 97,
+"t": "Sobrevivió de milagro. Más de cincuenta años después, entre 1995 y 1998, el hijo fue comandante de la guarnición de Berlín,",
+"w": 21
+},
+{
+"n": 329,
+"p": 97,
+"t": "la capital de una Alemania ya reunificada.",
+"w": 7
+},
+{
+"n": 330,
+"p": 98,
+"t": "Y hay un caso que muestra cómo el pasado llegó hasta el siglo veintiuno. En la primavera de 1945,",
+"w": 19
+},
+{
+"n": 331,
+"p": 98,
+"t": "uno de los oficiales que informaban a Hitler en su búnker de Berlín era un joven teniente coronel de estado mayor llamado Ulrich de Maizière.",
+"w": 25
+},
+{
+"n": 332,
+"p": 98,
+"t": "Después de la guerra fue uno de los padres de la conducción interior y llegó a ser el jefe militar de la Bundeswehr.",
+"w": 23
+},
+{
+"n": 333,
+"p": 98,
+"t": "Su hijo Thomas no siguió la carrera militar, pero en 2011 se convirtió en ministro de Defensa de Alemania.",
+"w": 19
+},
+{
+"n": 334,
+"p": 98,
+"t": "El hombre que había estado en el búnker de Hitler tuvo un hijo al frente del ejército de la democracia.",
+"w": 20
+},
+{
+"n": 335,
+"p": 99,
+"t": "Entonces, ¿qué fue de los hijos de los generales de Hitler?",
+"w": 11
+},
+{
+"n": 336,
+"p": 100,
+"t": "Muchos se pusieron otra vez el uniforme.",
+"w": 7
+},
+{
+"n": 337,
+"p": 100,
+"t": "No el de sus padres, sino el de un ejército que juraba lealtad a una constitución y no a un hombre.",
+"w": 21
+},
+{
+"n": 338,
+"p": 100,
+"t": "Algunos llegaron a mandar fuerzas de la OTAN. Otro organizó la salida del Ejército Rojo de Alemania.",
+"w": 17
+},
+{
+"n": 339,
+"p": 100,
+"t": "Otro reconoció en un libro que su padre había sido leal a Hitler hasta el final.",
+"w": 16
+},
+{
+"n": 340,
+"p": 101,
+"t": "Pocos eligieron ese camino por casualidad. Habían crecido en casas donde el ejército era la vida entera.",
+"w": 17
+},
+{
+"n": 341,
+"p": 101,
+"t": "Y cuando volvieron a tener la oportunidad, quizás muchos la vieron como una forma de demostrar algo.",
+"w": 17
+},
+{
+"n": 342,
+"p": 101,
+"t": "Que un soldado alemán también podía servir a la libertad.",
+"w": 10
+},
+{
+"n": 343,
+"p": 102,
+"t": "Pero ninguno pudo escapar del todo de su apellido.",
+"w": 9
+},
+{
+"n": 344,
+"p": 102,
+"t": "Cada uno de ellos llevó, en el pecho, el uniforme de una democracia.",
+"w": 13
+},
+{
+"n": 345,
+"p": 102,
+"t": "Y en la memoria, el de un padre que había servido a una dictadura.",
+"w": 14
+},
+{
+"n": 346,
+"p": 102,
+"t": "O, en algunos casos, el de un padre que había muerto por enfrentarse a ella.",
+"w": 15
+},
+{
+"n": 347,
+"p": 103,
+"t": "Algunos lo enfrentaron con honestidad. Otros lo callaron. Y unos pocos, como Manfred Rommel o Ludwig von Friedeburg,",
+"w": 18
+},
+{
+"n": 348,
+"p": 103,
+"t": "decidieron que la mejor manera de cerrar esa historia era no volver a vestir nunca un uniforme.",
+"w": 17
+},
+{
+"n": 349,
+"p": 104,
+"t": "Ahora te pregunto a ti.",
+"w": 5
+},
+{
+"n": 350,
+"p": 104,
+"t": "¿Tú habrías seguido el camino de tu padre, o habrías hecho todo lo posible por alejarte de él?",
+"w": 18
+},
+{
+"n": 351,
+"p": 104,
+"t": "Te leo en los comentarios.",
+"w": 5
+},
+{
+"n": 352,
+"p": 105,
+"t": "Si esta historia te pareció interesante, suscríbete y activa la campana,",
+"w": 11
+},
+{
+"n": 353,
+"p": 105,
+"t": "porque en este canal seguimos contando las historias que quedaron perdidas después de la guerra.",
+"w": 15
+},
+{
+"n": 354,
+"p": 105,
+"t": "Nos vemos en el próximo video.",
+"w": 6
+}
+]
